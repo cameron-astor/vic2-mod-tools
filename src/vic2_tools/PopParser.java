@@ -7,6 +7,7 @@ import java.io.*;
 //Introduce basic functionality for WHOLE FILE. 
 //Then try to narrow to PROVINCE --> Check for white space in front of }!!! 
 //Then finally to POP GROUP
+//Must be able to have functionality for TYPE, RELIGION, CULTURE, SIZE
 
 //A class for reading and extracting information from a Victoria 2 pop file.
 public class PopParser {
@@ -31,7 +32,7 @@ public class PopParser {
 	}
 	
 	//Returns an integer total of all pops of this type in the file.
-	public int addAll(String popType) throws FileNotFoundException {
+	public int sumAll(String popType) throws FileNotFoundException {
 		Scanner parser = new Scanner(file);
 		int total = 0;
 		while(parser.hasNextLine()) { //Iterate to the end of the file
@@ -48,27 +49,17 @@ public class PopParser {
 		return total;
 	}
 	
-	/*
-	private int evaluatePopGroup(Scanner input, PrintStream output) {
-		String popHeading = input.nextLine(); //"aristocrats", "bureaucrats", etc.
-		output.println(popHeading);                  
-		output.println(input.nextLine());        
-		output.println(input.nextLine());
-		output.print("        " + input.next()); //note: these values are indented 8 spaces. 
-		output.print(" " + input.next() + " ");
-		double popNum = input.nextInt();
-		double newPopNum = 0.0;
-		//If this pop block is of the desired pop type
-		if(popHeading.contains(POP_TYPE)) {
-			newPopNum = popNum * (1.0 - PERCENTAGE);
-			output.print((int)newPopNum);
-		} else {
-			output.print((int)popNum);
+	//EXPERIMENTAL make sumAll() more flexible using a HashMap
+	//Adds the sum of every pop type in a pop file to a map as a value, with their respective types as the keys.
+	private Map<String, Integer> popTypeTotals() throws FileNotFoundException {
+		Map<String, Integer> popMap = new HashMap<String, Integer>();
+		Scanner parser = new Scanner(file);
+		while(parser.hasNextLine()) {
+			String currentLine = parser.nextLine();
+
 		}
-		for(int i = 0; i < 3; i++) {
-			output.println(input.nextLine());
-		}
-		return (int)(popNum - newPopNum); //Return the net number of peasants to be created from this pop group.
+		return popMap;
 	}
-	*/
+	
+	
 }
