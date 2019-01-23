@@ -7,19 +7,26 @@ import java.io.*;
 public class PopParserTests {
 
 	public static void main(String[] args) throws FileNotFoundException {
-	    String[] pop_types = {"aristocrats", "bureaucrats", "farmers", "clergymen", "laborers", "slaves", "soldiers", "peasants", "clerks",
+	    String[] pop_types = {"farmers", "aristocrats", "bureaucrats", "clergymen", "laborers", "slaves", "soldiers", "peasants", "clerks",
 				              "craftsmen", "officers", "serfs", "artisans"};
-		PopParser parser = new PopParser();
-		/*
+		PopParser parser = new PopParser("China.txt");
+		
+		//For all_pops.txt testing note: first break between countries is at line 813. 
+		
 		int total = 0;                                 //sumAll currently broken for large files
 		for(int i = 0; i < pop_types.length; i++) {
 			total = parser.sumAll(pop_types[i]);
 			System.out.println("Total " + pop_types[i] + ": " + total);
 		}
+	/*
+		PopParser test = new PopParser(parser.extractProvince(567));
+		int total = 0;                                 
+		for(int i = 0; i < pop_types.length; i++) {
+			total = test.sumAll(pop_types[i]);
+			System.out.println("Total " + pop_types[i] + ": " + total);
+		}		
+		//extractEveryProvince();
 		*/
-		parser.extractProvince(1);
-		extractEveryProvince();
-		
 	}
 	
 	//Uses the PopParser to create individual text files for every province. 

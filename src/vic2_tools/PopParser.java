@@ -18,14 +18,19 @@ import java.io.*;
 public class PopParser {
 
 	private ArrayList<String> pop_types; //"aristocrats", "bureaucrats", etc.
-	private String file_name; //The name of the file to be parsed
+	private String fileName; //The name of the file to be parsed
 	private File file; //The file object to be parsed
 	
-	//Constructs a new PopParser object. Takes ________ as parameters
-	public PopParser() throws FileNotFoundException{		
-		file_name = "all_pops.txt"; 
-		file = new File(file_name); //The file to be parsed
+	//Constructs a new PopParser object. Takes file name and an array list of pop types as parameters.
+	public PopParser(String newFileName, ArrayList<String> pops) throws FileNotFoundException{
+		fileName = newFileName; 
+		file = new File(fileName); //The file to be parsed
 		pop_types = new ArrayList<String>();
+	}
+		
+	//Constructs a new PopParser object. Takes file name as a parameter.
+	public PopParser(String newFileName) throws FileNotFoundException{		
+		this(newFileName, null);
 	}
 	
 	//TODO
@@ -36,14 +41,14 @@ public class PopParser {
 	public int sumAll(String popType) throws FileNotFoundException {
 		Scanner parser = new Scanner(file);
 		int total = 0;
+		String currentLine;
 		while(parser.hasNextLine()) { //Iterate to the end of the file
-			String currentLine = parser.nextLine();
-			if(currentLine.contains(popType)) {
-				parser.nextLine(); //Skip culture line
-				parser.nextLine(); //Skip religion line
-				parser.next(); //size
-				parser.next(); // =
-				total += parser.nextInt(); //The number we wanted
+			currentLine = parser.nextLine();
+			if(currentLine.contains(popType)) { //Reached appropriate pop group
+				while(!currentLine.contains("size =")) {
+					currentLine = parser.nextLine();
+				}
+				total += Integer.parseInt(currentLine.substring(9)); //Grab the size integer out of the size = xxxx string
 			}
 		}
 		parser.close();
@@ -52,11 +57,12 @@ public class PopParser {
 	
 	//Takes in a province ID number (an integer ranging from 1 to 4 digits), and 
 	//outputs only this province's pop data to a new file formatted as XXXX_pops.txt.
+	//Returns the name of the file as a string
 	//Throws FileNotFoundException.
-	public void extractProvince(int provinceID) throws FileNotFoundException {
+	public String extractProvince(int provinceID) throws FileNotFoundException {
 		Scanner parser =  new Scanner(file);
-		PrintStream output = new PrintStream(new File(provinceID + "_pops.txt"));
-		boolean endOfProvince = false;
+		PrintStream output = new PrintStream(new File(provinceID + "_pops.txt")); //Creating the output file.
+		boolean endOfProvince = false;//End of province flag
 		String currentLine;
 		while(!endOfProvince) { //Iterate until the end of the desired province
 			currentLine = parser.nextLine(); //Keep scanning until the desired province number is found.
@@ -73,6 +79,9 @@ public class PopParser {
 				endOfProvince = true; 
 			}
 		}
+		parser.close();
+		output.close();
+		return provinceID + "_pops.txt";
 	}
 	
 }
