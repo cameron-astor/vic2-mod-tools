@@ -4,15 +4,11 @@ import java.util.*;
 import java.io.*;
 
 //TODO
-//Allow users to select what file they're working with.
-
+//Allow users to select what file they're working with via console.
 //Introduce basic functionality for WHOLE FILE. 
 //Then try to narrow to PROVINCE --> Check for white space in front of }!!! 
 //Then finally to POP GROUP
 //Must be able to have functionality for TYPE, RELIGION, CULTURE, SIZE
-
-//n.b. use Scanner delimiters!
-
 
 //A class for reading and extracting information from a Victoria 2 pop file.
 public class PopParser {
@@ -33,16 +29,10 @@ public class PopParser {
 		this(newFileName, null);
 	}
 	
-	//TODO
-	//SUM IS CURRENTLY BROKEN FOR USE WITH THE ALL_POPS FILE
 	
 	//Returns an integer total of all pops of this type in the file.
 	//Throws FileNotFoundException.
 	//sumAll(popType, religion, culture, etc...) <- goal?
-	
-	//Currently doesn't work with: all_pops, Hungary
-	//Currently works with: Albania, Algeria, Angola, Argentina, Armenia, China, France
-	//WEIRD CASE: RUSSIA (CRASHES AT SERFS)
 	public int sumAll(String popType) throws FileNotFoundException {
 		Scanner parser = new Scanner(file);
 		int total = 0;

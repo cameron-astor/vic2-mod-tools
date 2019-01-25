@@ -19,6 +19,38 @@ public class PopGroup {
 	public PopGroup(String inputPopType, String inputReligion, String inputCulture, 
 					String inputFileName) {
 		
+		this.popType = inputPopType;
+		this.religion = inputReligion;
+		this.culture = inputCulture;
+		this.fileName = inputFileName;
+		this.file = new File("fileName");
+		this.size = resolveSize();
+		
+	}
+	
+	//Returns the number of pops in this pop group
+	public int getSize() {
+		return size;
+	}
+	
+	//Returns the religion of the pops in this pop group
+	public String getReligion() {
+		return religion;
+	}
+	
+	//Returns the culture of the pops in this pop group
+	public String getCulture() {
+		return culture;
+	}
+	
+	//Returns the name of the file this pop group was extracted from
+	public String getFileName() {
+		return fileName;
+	}
+	
+	private int resolveSize() {
+		
+		return 0;
 	}
 	
 }

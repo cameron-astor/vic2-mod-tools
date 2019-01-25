@@ -1,0 +1,57 @@
+
+2 = {
+	
+	clergymen = {
+		culture = alaskan
+		religion = orthodox
+		size = 5
+	}
+
+	artisans = {
+		culture = alaskan
+		religion = orthodox
+		size = 5
+	}
+
+	soldiers = {
+		culture = alaskan
+		religion = orthodox
+		size = 5
+	}
+	
+	farmers = {
+		culture = alaskan
+		religion = orthodox
+		size = 15
+	}
+	
+	clergymen = {
+		culture = alaskan
+		religion = protestant
+		size = 5
+	}
+
+	artisans = {
+		culture = alaskan
+		religion = protestant
+		size = 5
+	}
+
+	soldiers = {
+		culture = alaskan
+		religion = protestant
+		size = 5
+	}
+	
+	farmers = {
+		culture = alaskan
+		religion = protestant
+		size = 15
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 1010
+	}
+}

@@ -13,21 +13,24 @@ public class PopParserTests {
 		
 		//For all_pops.txt testing note: first break between countries is at line 813. 
 		//NOTE: ADD SERFS BACK INTO ARRAY
-		
-		int total = 0;                                 //sumAll currently broken for large files
+	
+	/*	       //THIS WORKS NOW YAY!
+		int total = 0;                                 
 		for(int i = 0; i < pop_types.length; i++) {
 			total = parser.sumAll(pop_types[i]);
 			System.out.println("Total " + pop_types[i] + ": " + total);
-		}
-	/*
-		PopParser test = new PopParser(parser.extractProvince(567));
-		int total = 0;                                 
+		} */
+	
+		
+		PopParser test = new PopParser(parser.extractProvince(2));
+		int total2 = 0;                                 
 		for(int i = 0; i < pop_types.length; i++) {
-			total = test.sumAll(pop_types[i]);
-			System.out.println("Total " + pop_types[i] + ": " + total);
+			total2 = test.sumAll(pop_types[i]);
+			System.out.println("Total " + pop_types[i] + ": " + total2);
 		}		
+		
 		//extractEveryProvince();
-		*/
+		
 	}
 	
 	//Uses the PopParser to create individual text files for every province. 
