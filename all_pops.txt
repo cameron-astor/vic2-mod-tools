@@ -45625,7 +45625,7 @@
 	serfs = {
 		culture = south_german
 		religion = catholic
-		size =  26850
+		size = 26850
 	}
 	
 	farmers = {
@@ -59884,7 +59884,7 @@
 	officers = {
 		culture = north_german
 		religion = protestant
-		size =  50
+		size = 50
 	}
 
 	clergymen = {
@@ -68245,13 +68245,13 @@
 	serfs = {
 		culture = hungarian
 		religion = protestant
-		size =  35050    
+		size = 35050    
 	}
 
 	serfs = {
 		culture = gypsy
 		religion = protestant
-		size =  3000    
+		size = 3000    
 	}
 	
 	clergymen = {
@@ -68483,7 +68483,7 @@
 	farmers = {
 		culture = hungarian
 		religion = catholic
-		size =  41000
+		size = 41000
 	}
 
 	aristocrats = {
@@ -88157,7 +88157,7 @@
 	clergymen = {
 		culture = south_german
 		religion = catholic
-		size =  150
+		size = 150
 	}
 
 	artisans = {
@@ -88181,7 +88181,7 @@
 	clergymen = {
 		culture = north_italian
 		religion = catholic
-		size =  50
+		size = 50
 	}
 
 	artisans = {
@@ -161079,7 +161079,7 @@
 	farmers = {
 		culture = hungarian
 		religion = protestant
-		size =  38950   
+		size = 38950   
 	}
 
 	clergymen = {

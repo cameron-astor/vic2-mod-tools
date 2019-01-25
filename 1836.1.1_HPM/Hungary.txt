@@ -525,13 +525,13 @@
 	serfs = {
 		culture = hungarian
 		religion = protestant
-		size =  35050    
+		size = 35050    
 	}
 
 	serfs = {
 		culture = gypsy
 		religion = protestant
-		size =  3000    
+		size = 3000    
 	}
 	
 	clergymen = {
@@ -763,7 +763,7 @@
 	farmers = {
 		culture = hungarian
 		religion = catholic
-		size =  41000
+		size = 41000
 	}
 
 	aristocrats = {

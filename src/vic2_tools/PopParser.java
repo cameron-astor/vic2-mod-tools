@@ -39,6 +39,10 @@ public class PopParser {
 	//Returns an integer total of all pops of this type in the file.
 	//Throws FileNotFoundException.
 	//sumAll(popType, religion, culture, etc...) <- goal?
+	
+	//Currently doesn't work with: all_pops, Hungary
+	//Currently works with: Albania, Algeria, Angola, Argentina, Armenia, China, France
+	//WEIRD CASE: RUSSIA (CRASHES AT SERFS)
 	public int sumAll(String popType) throws FileNotFoundException {
 		Scanner parser = new Scanner(file);
 		int total = 0;
@@ -49,7 +53,7 @@ public class PopParser {
 				while(!currentLine.contains("size =")) {
 					currentLine = parser.nextLine();
 				}
-				total += Integer.parseInt(currentLine.substring(9)); //Grab the size integer out of the size = xxxx string
+				total += Integer.parseInt(currentLine.replaceAll("[\\D]", "")); //Replace all non digits with blanks, then interpret as int.
 			}
 		}
 		parser.close();

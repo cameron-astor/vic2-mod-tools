@@ -7,11 +7,12 @@ import java.io.*;
 public class PopParserTests {
 
 	public static void main(String[] args) throws FileNotFoundException {
-	    String[] pop_types = {"farmers", "aristocrats", "bureaucrats", "clergymen", "laborers", "slaves", "soldiers", "peasants", "clerks",
-				              "craftsmen", "officers", "serfs", "artisans"};
-		PopParser parser = new PopParser("C://Users/camer/Documents/Paradox Interactive/vic2-mod-tools/all_pops.txt");
+	    String[] pop_types = {"aristocrats", "farmers", "bureaucrats", "clergymen", "laborers", "slaves", "soldiers", "peasants", "clerks",
+				              "craftsmen", "officers", "artisans", "serfs"};
+		PopParser parser = new PopParser("C://Users/camer/Documents/Paradox Interactive/vic2_projects/vic2-mod-tools/all_pops.txt");
 		
 		//For all_pops.txt testing note: first break between countries is at line 813. 
+		//NOTE: ADD SERFS BACK INTO ARRAY
 		
 		int total = 0;                                 //sumAll currently broken for large files
 		for(int i = 0; i < pop_types.length; i++) {
