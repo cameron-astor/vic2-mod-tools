@@ -12,18 +12,20 @@ public class PopGroup {
 	private String religion;
 	private String culture;
 	private File file;
-	private String fileName;
+	private String fileName; 
+	private PopParser parser; //For helping to resolve size
 	
 	//Constructs a new PopGroup in them most specific case, with an explicitly stated pop type, 
 	//religion, and culture. If one or more is to be omitted, input null. 
 	public PopGroup(String inputPopType, String inputReligion, String inputCulture, 
-					String inputFileName) {
+					String inputFileName) throws FileNotFoundException{
 		
 		this.popType = inputPopType;
 		this.religion = inputReligion;
 		this.culture = inputCulture;
 		this.fileName = inputFileName;
 		this.file = new File("fileName");
+		this.parser = new PopParser(fileName);
 		this.size = resolveSize();
 		
 	}
@@ -48,9 +50,16 @@ public class PopGroup {
 		return fileName;
 	}
 	
-	private int resolveSize() {
+	private int resolveSize() throws FileNotFoundException{
+		Scanner input = new Scanner(fileName);
+		int total = 0;
 		
-		return 0;
+		return total;
+	}
+	
+	//Prints a PopGroup to a text file
+	public void printPopGroup(File file, PrintStream output) {
+		
 	}
 	
 }
