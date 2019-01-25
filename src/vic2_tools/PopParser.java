@@ -38,6 +38,7 @@ public class PopParser {
 	
 	//Returns an integer total of all pops of this type in the file.
 	//Throws FileNotFoundException.
+	//sumAll(popType, religion, culture, etc...) <- goal?
 	public int sumAll(String popType) throws FileNotFoundException {
 		Scanner parser = new Scanner(file);
 		int total = 0;

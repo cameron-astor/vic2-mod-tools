@@ -9,7 +9,7 @@ public class PopParserTests {
 	public static void main(String[] args) throws FileNotFoundException {
 	    String[] pop_types = {"farmers", "aristocrats", "bureaucrats", "clergymen", "laborers", "slaves", "soldiers", "peasants", "clerks",
 				              "craftsmen", "officers", "serfs", "artisans"};
-		PopParser parser = new PopParser("China.txt");
+		PopParser parser = new PopParser("C://Users/camer/Documents/Paradox Interactive/vic2-mod-tools/all_pops.txt");
 		
 		//For all_pops.txt testing note: first break between countries is at line 813. 
 		
@@ -30,6 +30,7 @@ public class PopParserTests {
 	}
 	
 	//Uses the PopParser to create individual text files for every province. 
+	//MUST FIGURE OUT HOW TO SET FILE PATHS AND CREATE DIRECTORIES FOR THIS METHOD
 	public static void extractEveryProvince() {
 		
 	}
