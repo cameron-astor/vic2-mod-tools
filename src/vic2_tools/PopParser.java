@@ -13,7 +13,7 @@ import java.io.*;
 //A class for reading and extracting information from a Victoria 2 pop file.
 public class PopParser {
 
-	private ArrayList<String> pop_types; //"aristocrats", "bureaucrats", etc.
+	private ArrayList<String> popTypes; //"aristocrats", "bureaucrats", etc.
 	private String fileName; //The name of the file to be parsed
 	private File file; //The file object to be parsed
 	
@@ -21,7 +21,7 @@ public class PopParser {
 	public PopParser(String newFileName, ArrayList<String> pops) throws FileNotFoundException{
 		fileName = newFileName; 
 		file = new File(fileName); //The file to be parsed
-		pop_types = new ArrayList<String>();
+		popTypes = pops;
 	}
 		
 	//Constructs a new PopParser object. Takes file name as a parameter.
@@ -34,20 +34,39 @@ public class PopParser {
 	//Throws FileNotFoundException.
 	//sumAll(popType, religion, culture, etc...) 
 	public int sumAll(String popType) throws FileNotFoundException {
-		Scanner parser = new Scanner(file);
+		Scanner input = new Scanner(file);
 		int total = 0;
 		String currentLine;
-		while(parser.hasNextLine()) { //Iterate to the end of the file
-			currentLine = parser.nextLine();
+		while(input.hasNextLine()) { //Iterate to the end of the file
+			currentLine = input.nextLine();
 			if(currentLine.contains(popType)) { //Reached appropriate pop group
 				while(!currentLine.contains("size =")) {
-					currentLine = parser.nextLine();
+					currentLine = input.nextLine();
 				}
 				total += Integer.parseInt(currentLine.replaceAll("[\\D]", "")); //Replace all non digits with blanks, then interpret as int.
 			}
 		}
-		parser.close();
+		input.close();
 		return total;
+	}
+	
+	//Returns an ArrayList of PopGroup objects comprised of all pop groups in the file.
+	public ArrayList<PopGroup> groupPops() throws FileNotFoundException {
+		ArrayList<PopGroup> list = new ArrayList<PopGroup>();
+		Scanner input = new Scanner(file);
+		String currentLine;
+		while(input.hasNextLine()) {
+			currentLine = input.nextLine();
+			if(popTypes.contains(currentLine.replaceAll("[^a-z]", ""))) {
+				String popType = currentLine.replaceAll("[^a-z]", "");
+				String culture = input.nextLine().replace("\t\tculture = ", "");
+				String religion = input.nextLine().replace("\t\treligion = ", "");
+				int size = Integer.parseInt(input.nextLine().replaceAll("[\\D]", ""));
+				list.add(new PopGroup(popType, culture, religion, size));
+			}
+		}
+		input.close();
+		return list;
 	}
 	
 	//Takes in a province ID number (an integer ranging from 1 to 4 digits), and 
@@ -55,17 +74,17 @@ public class PopParser {
 	//Returns the name of the file as a string
 	//Throws FileNotFoundException.
 	public String extractProvince(int provinceID) throws FileNotFoundException {
-		Scanner parser =  new Scanner(file);
+		Scanner input =  new Scanner(file);
 		PrintStream output = new PrintStream(new File(provinceID + "_pops.txt")); //Creating the output file.
 		boolean endOfProvince = false;//End of province flag
 		String currentLine;
 		while(!endOfProvince) { //Iterate until the end of the desired province
-			currentLine = parser.nextLine(); //Keep scanning until the desired province number is found.
+			currentLine = input.nextLine(); //Keep scanning until the desired province number is found.
 			if(currentLine.equals(provinceID + " = {")) { //Found correct province				
 				output.println(); //Formatting
 				output.println(currentLine);
-				while(parser.hasNext()) { //Until the end of the province
-					currentLine = parser.nextLine();
+				while(input.hasNext()) { //Until the end of the province
+					currentLine = input.nextLine();
 					if(currentLine.contains("#")) {
 						break; //Bad style but hey, it works ¯\_(ツ)_/¯
 					}
@@ -74,7 +93,7 @@ public class PopParser {
 				endOfProvince = true; 
 			}
 		}
-		parser.close();
+		input.close();
 		output.close();
 		return provinceID + "_pops.txt";
 	}

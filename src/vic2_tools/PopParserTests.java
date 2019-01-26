@@ -9,16 +9,31 @@ public class PopParserTests {
 	public static void main(String[] args) throws FileNotFoundException {
 	    String[] popTypes = {"aristocrats", "farmers", "bureaucrats", "clergymen", "laborers", "slaves", "soldiers", "peasants", "clerks",
 				              "craftsmen", "officers", "artisans", "serfs"};
-		PopParser parser = new PopParser("C://Users/camer/Documents/Paradox Interactive/vic2_projects/vic2-mod-tools/1836.1.1_HPM/Albania.txt");
+	    
+	    ArrayList<String> pops = new ArrayList<String> ();
+	    for(String s : popTypes) {
+	    	pops.add(s);
+	    }
+	    
+		PopParser parser = new PopParser("C://Users/camer/Documents/Paradox Interactive/vic2_projects/vic2-mod-tools/1836.1.1_HPM/Hungary.txt", pops);
 		
-		/*
-		int total = 0;                                 
+	/*	
+		int total = 0;  
+		int grandTotal = 0;
 		for(int i = 0; i < popTypes.length; i++) {
 			total = parser.sumAll(popTypes[i]);
+			grandTotal += total;
 			System.out.println("Total " + popTypes[i] + ": " + total);
-		} */
+		} 
+		System.out.println("Grand total: " + grandTotal); */
 		
-		System.out.println(parser.sumAll("albanian"));
+		ArrayList<PopGroup> group = parser.groupPops();
+		System.out.println(group.get(0).getType());
+		System.out.println(group.get(0).getCulture());
+		System.out.println(group.get(0).getReligion());
+		System.out.println(group.get(0).getSize());
+		
+		//System.out.println(parser.sumAll("theravada"));
 	
 		/*
 		PopParser test = new PopParser(parser.extractProvince(2));
