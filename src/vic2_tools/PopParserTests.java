@@ -15,7 +15,7 @@ public class PopParserTests {
 	    	pops.add(s);
 	    }
 	    
-		PopParser parser = new PopParser("C://Users/camer/Documents/Paradox Interactive/vic2-mod-tools/1836.1.1_HPM/China.txt", pops);
+		PopParser parser = new PopParser("C://Users/camer/Documents/Paradox Interactive/vic2-mod-tools/all_pops.txt", pops);
 		
 	/*	
 		int total = 0;  

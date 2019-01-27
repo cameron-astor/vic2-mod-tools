@@ -51,6 +51,7 @@ public class PopParser {
 	}
 	
 	//Returns an ArrayList of PopGroup objects comprised of all pop groups in the file.
+	//CURRENTLY DOES NOT WORK WITH ALL POPS FILE
 	public ArrayList<PopGroup> groupPops() throws FileNotFoundException {
 		ArrayList<PopGroup> list = new ArrayList<PopGroup>();
 		Scanner input = new Scanner(file);
@@ -59,9 +60,18 @@ public class PopParser {
 			currentLine = input.nextLine();
 			if(popTypes.contains(currentLine.replaceAll("[^a-z]", ""))) {
 				String popType = currentLine.replaceAll("[^a-z]", "");
-				String culture = input.nextLine().replace("\t\tculture = ", "");
-				String religion = input.nextLine().replace("\t\treligion = ", "");
-				int size = Integer.parseInt(input.nextLine().replaceAll("[\\D]", ""));
+				while(!currentLine.contains("culture =")) {
+					currentLine = input.nextLine();
+				}
+				String culture = currentLine.replace("\t\tculture = ", "");
+				while(!currentLine.contains("religion =")) {
+					currentLine = input.nextLine();
+				}				
+				String religion = currentLine.replace("\t\treligion = ", "");
+				while(!currentLine.contains("size =")) {
+					currentLine = input.nextLine();
+				}
+				int size = Integer.parseInt(currentLine.replaceAll("[\\D]", ""));
 				list.add(new PopGroup(popType, culture, religion, size));
 			}
 		}
