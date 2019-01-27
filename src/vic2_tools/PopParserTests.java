@@ -8,7 +8,7 @@ public class PopParserTests {
 
 	public static void main(String[] args) throws FileNotFoundException {
 	    String[] popTypes = {"aristocrats", "farmers", "bureaucrats", "clergymen", "laborers", "slaves", "soldiers", "peasants", "clerks",
-				              "craftsmen", "officers", "artisans", "serfs"};
+				              "craftsmen", "officers", "artisans", "serfs", "capitalists"};
 	    
 	    ArrayList<String> pops = new ArrayList<String> ();
 	    for(String s : popTypes) {
@@ -16,6 +16,11 @@ public class PopParserTests {
 	    }
 	    
 		PopParser parser = new PopParser("C://Users/camer/Documents/Paradox Interactive/vic2-mod-tools/all_pops.txt", pops);
+		
+		String type = null;
+		String culture = "dixie";
+		String religion = "protestant";
+		System.out.println(culture + " " + religion + " " + type + ": " + parser.search(type, culture, religion));
 		
 	/*	
 		int total = 0;  
@@ -26,13 +31,14 @@ public class PopParserTests {
 			System.out.println("Total " + popTypes[i] + ": " + total);
 		} 
 		System.out.println("Grand total: " + grandTotal); */
-	
+		
+	/*
 		ArrayList<PopGroup> group = parser.groupPops();
-		System.out.println(group.get(14).getType());
-		System.out.println(group.get(14).getCulture());
-		System.out.println(group.get(14).getReligion());
-		System.out.println(group.get(14).getSize());
-		System.out.println("Total popgroups: " + group.size());
+		System.out.println(group.get(0).getType());
+		System.out.println(group.get(0).getCulture());
+		System.out.println(group.get(0).getReligion());
+		System.out.println(group.get(0).getSize());
+		System.out.println("Total popgroups: " + group.size()); */
 		
 		
 		//System.out.println(parser.sumAll("theravada"));

@@ -50,8 +50,32 @@ public class PopParser {
 		return total;
 	}
 	
+	//Returns the number of pops with the passed attributes in the relevant file. 
+	//If one wishes not to specify an attribute, pass null.
+	public int search(String popType, String culture, String religion) throws FileNotFoundException {
+		int total = 0;
+		ArrayList<PopGroup> groups = this.groupPops();
+		for(PopGroup g : groups) {
+			if(g.getType().equals(popType) && g.getCulture().equals(culture) && g.getReligion().equals(religion)) {
+				total += g.getSize();
+			} else if(popType == null && g.getCulture().equals(culture) && g.getReligion().equals(religion)) {
+				total += g.getSize();
+			} else if(g.getType().equals(popType) && culture == null && g.getReligion().equals(religion)) {
+				total += g.getSize();
+			} else if(g.getType().equals(popType) && g.getCulture().equals(culture) && religion == null) {
+				total += g.getSize();
+			} else if(popType == null && culture == null && g.getReligion().equals(religion)) {
+				total += g.getSize();
+			} else if(g.getType().equals(popType) && culture == null && religion == null) {
+				total += g.getSize();
+			} else if(popType == null && g.getCulture().equals(culture) && religion == null) {
+				total += g.getSize();
+			}
+		}
+		return total;
+	}
+	
 	//Returns an ArrayList of PopGroup objects comprised of all pop groups in the file.
-	//CURRENTLY DOES NOT WORK WITH ALL POPS FILE
 	public ArrayList<PopGroup> groupPops() throws FileNotFoundException {
 		ArrayList<PopGroup> list = new ArrayList<PopGroup>();
 		Scanner input = new Scanner(file);
