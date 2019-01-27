@@ -15,7 +15,7 @@ public class PopParserTests {
 	    	pops.add(s);
 	    }
 	    
-		PopParser parser = new PopParser("C://Users/camer/Documents/Paradox Interactive/vic2_projects/vic2-mod-tools/1836.1.1_HPM/Hungary.txt", pops);
+		PopParser parser = new PopParser("C://Users/camer/Documents/Paradox Interactive/vic2-mod-tools/1836.1.1_HPM/China.txt", pops);
 		
 	/*	
 		int total = 0;  
@@ -26,12 +26,14 @@ public class PopParserTests {
 			System.out.println("Total " + popTypes[i] + ": " + total);
 		} 
 		System.out.println("Grand total: " + grandTotal); */
-		
+	
 		ArrayList<PopGroup> group = parser.groupPops();
-		System.out.println(group.get(0).getType());
-		System.out.println(group.get(0).getCulture());
-		System.out.println(group.get(0).getReligion());
-		System.out.println(group.get(0).getSize());
+		System.out.println(group.get(14).getType());
+		System.out.println(group.get(14).getCulture());
+		System.out.println(group.get(14).getReligion());
+		System.out.println(group.get(14).getSize());
+		System.out.println("Total popgroups: " + group.size());
+		
 		
 		//System.out.println(parser.sumAll("theravada"));
 	
