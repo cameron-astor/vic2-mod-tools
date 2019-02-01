@@ -25,10 +25,17 @@ public class PopParser {
 	}
 		
 	//Constructs a new PopParser object. Takes file name as a parameter.
+	//TODO
+	//Create a default ArrayList of pop types with the base HPM pop types so 
+	//this object doesn't end up trying to do things with an empty array list.
 	public PopParser(String newFileName) throws FileNotFoundException{		
 		this(newFileName, null);
 	}
 	
+	//Returns the file the parser is attached to.
+	public File getFile() throws FileNotFoundException {
+		return this.file;
+	}
 	
 	//Returns an integer total of all pops of this type in the file.
 	//Throws FileNotFoundException.
@@ -106,10 +113,11 @@ public class PopParser {
 	//Takes in a province ID number (an integer ranging from 1 to 4 digits), and 
 	//outputs only this province's pop data to a new file formatted as XXXX_pops.txt.
 	//Returns the name of the file as a string
+	//Also takes in a path to the desired output directory 
 	//Throws FileNotFoundException.
-	public String extractProvince(int provinceID) throws FileNotFoundException {
+	public String extractProvince(int provinceID, String outputDir) throws FileNotFoundException {
 		Scanner input =  new Scanner(file);
-		PrintStream output = new PrintStream(new File(provinceID + "_pops.txt")); //Creating the output file.
+		PrintStream output = new PrintStream(new File(outputDir + provinceID + "_pops.txt")); //Creating the output file.
 		boolean endOfProvince = false;//End of province flag
 		String currentLine;
 		while(!endOfProvince) { //Iterate until the end of the desired province

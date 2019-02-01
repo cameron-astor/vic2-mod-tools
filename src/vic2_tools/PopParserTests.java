@@ -15,9 +15,9 @@ public class PopParserTests {
 	    	pops.add(s);
 	    }
 	    
-		PopParser parser = new PopParser("C://Users/camer/Documents/Paradox Interactive/vic2-mod-tools/all_pops.txt", pops);
+		PopParser parser = new PopParser("./all_pops.txt", pops);
 		
-		String type = null;
+		String type = "capitalists";
 		String culture = "dixie";
 		String religion = "protestant";
 		System.out.println(culture + " " + religion + " " + type + ": " + parser.search(type, culture, religion));
@@ -51,13 +51,6 @@ public class PopParserTests {
 			System.out.println("Total " + pop_types[i] + ": " + total2);
 		}	*/	
 		
-		//extractEveryProvince();
-		
 	}
 	
-	//Uses the PopParser to create individual text files for every province. 
-	//MUST FIGURE OUT HOW TO SET FILE PATHS AND CREATE DIRECTORIES FOR THIS METHOD
-	public static void extractEveryProvince() {
-		
-	}
 }
