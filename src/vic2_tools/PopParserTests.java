@@ -7,15 +7,8 @@ import java.io.*;
 public class PopParserTests {
 
 	public static void main(String[] args) throws FileNotFoundException {
-	    String[] popTypes = {"aristocrats", "farmers", "bureaucrats", "clergymen", "laborers", "slaves", "soldiers", "peasants", "clerks",
-				              "craftsmen", "officers", "artisans", "serfs", "capitalists"};
-	    
-	    ArrayList<String> pops = new ArrayList<String> ();
-	    for(String s : popTypes) {
-	    	pops.add(s);
-	    }
-	    
-		PopParser parser = new PopParser("./all_pops.txt", pops);
+	    	    
+		PopParser parser = new PopParser("./all_pops.txt");
 		
 		String type = "capitalists";
 		String culture = "dixie";

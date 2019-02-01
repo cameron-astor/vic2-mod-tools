@@ -5,10 +5,9 @@ import java.io.*;
 
 //TODO
 //Allow users to select what file they're working with via console.
-//Introduce basic functionality for WHOLE FILE. 
-//Then try to narrow to PROVINCE --> Check for white space in front of }!!! 
-//Then finally to POP GROUP
-//Must be able to have functionality for TYPE, RELIGION, CULTURE, SIZE
+//
+//Create a logical and clean system of interaction with the file system.
+//Must be: relative path based, easily handled by other classes which use PopParser objects
 
 //A class for reading and extracting information from a Victoria 2 pop file.
 public class PopParser {
@@ -19,18 +18,23 @@ public class PopParser {
 	
 	//Constructs a new PopParser object. Takes file name and an array list of pop types as parameters.
 	public PopParser(String newFileName, ArrayList<String> pops) throws FileNotFoundException{
-		fileName = newFileName; 
-		file = new File(fileName); //The file to be parsed
-		popTypes = pops;
+		this.fileName = newFileName; 
+		this.file = new File(fileName); //The file to be parsed
+		this.popTypes = pops;
 	}
 		
 	//Constructs a new PopParser object. Takes file name as a parameter.
-	//TODO
-	//Create a default ArrayList of pop types with the base HPM pop types so 
-	//this object doesn't end up trying to do things with an empty array list.
+	//Without specifying an array of pop types, the default HPM types are used. 
 	public PopParser(String newFileName) throws FileNotFoundException{		
 		this(newFileName, null);
-	}
+	    String[] defaultTypes = {"aristocrats", "farmers", "bureaucrats", "clergymen", "laborers", "slaves", "soldiers", "clerks",
+	              "craftsmen", "officers", "artisans", "serfs", "capitalists"};
+		ArrayList<String> defaultTypesList = new ArrayList<String>();
+		for(int i = 0; i < defaultTypes.length; i++) {
+			defaultTypesList.add(defaultTypes[i]);
+		}	
+		this.popTypes = defaultTypesList;
+		}
 	
 	//Returns the file the parser is attached to.
 	public File getFile() throws FileNotFoundException {
