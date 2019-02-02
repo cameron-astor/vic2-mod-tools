@@ -1,0 +1,75 @@
+
+1709 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 25
+	}
+
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 50
+	}
+
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 625
+	}
+
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 200
+	}
+
+	clergymen = {
+		culture = maghrebi
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = maghrebi
+		religion = sunni
+		size = 600
+	}
+
+	soldiers = {
+		culture = maghrebi
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = maghrebi
+		religion = sunni
+		size = 11200
+	}
+
+	clergymen = {
+		culture = berber
+		religion = sunni
+		size = 10
+	}
+
+
+	soldiers = {
+		culture = berber
+		religion = sunni
+		size = 65
+	}
+
+	farmers = {
+		culture = berber
+		religion = sunni
+		size = 925
+	}
+}

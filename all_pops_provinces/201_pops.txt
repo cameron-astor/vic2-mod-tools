@@ -1,0 +1,104 @@
+
+201 = {
+	aristocrats = {
+		culture = dixie
+		religion = protestant
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = dixie
+		religion = protestant
+		size = 225
+	}
+
+	officers = {
+		culture = dixie
+		religion = protestant
+		size = 150
+	}
+
+	clergymen = {
+		culture = dixie
+		religion = protestant
+		size = 225
+	}
+
+	artisans = {
+		culture = dixie
+		religion = protestant
+		size = 1325
+	}
+
+	soldiers = {
+		culture = dixie
+		religion = protestant
+		size = 2550
+	}
+	
+	craftsmen = {
+		culture = dixie
+		religion = protestant
+		size = 3000
+	}
+
+	farmers = {
+		culture = dixie
+		religion = protestant
+		size = 24775
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 25
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 550
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 25
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 22400
+	}
+
+	aristocrats = {
+		culture = cherokee
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = cherokee
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = cherokee
+		religion = animist
+		size = 150
+	}
+
+	soldiers = {
+		culture = cherokee
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = cherokee
+		religion = animist
+		size = 2775
+	}
+}

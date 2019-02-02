@@ -1,0 +1,69 @@
+
+677 = {
+	farmers = {
+		culture = gypsy
+		religion = orthodox
+		size = 400
+	}
+	
+	aristocrats = {
+		culture = romanian
+		religion = orthodox
+		size = 1300 
+	}
+
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 700  
+	}
+
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 3600 
+	}
+
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 725
+	}
+
+	farmers = {
+		culture = romanian
+		religion = orthodox
+		size = 45675
+	}
+	
+	serfs = {
+		culture = romanian
+		religion = orthodox
+		size = 20000
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 75     
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1800   
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 75
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 7050   
+	}
+}
+

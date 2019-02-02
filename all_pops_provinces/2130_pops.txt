@@ -1,0 +1,14 @@
+
+2130 = {
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 10
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 60
+	}
+}

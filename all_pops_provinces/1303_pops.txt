@@ -1,0 +1,99 @@
+
+1303 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 150
+	}
+
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 25
+	}
+
+	aristocrats = {
+		culture = marathi
+		religion = catholic
+		size = 450
+	}
+
+	bureaucrats = {
+		culture = marathi
+		religion = catholic
+		size = 75
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = catholic
+		size = 450
+	}
+
+	artisans = {
+		culture = marathi
+		religion = catholic
+		size = 2300
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = marathi
+		religion = catholic
+		size = 46725
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = hindu
+		size = 100
+	}
+
+	artisans = {
+		culture = marathi
+		religion = hindu
+		size = 500
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = hindu
+		size = 100
+	}
+
+	farmers = {
+		culture = marathi
+		religion = hindu
+		size = 9300
+	}
+
+	slaves = {
+		culture = marathi
+		religion = hindu
+		size = 5000
+	}
+
+}

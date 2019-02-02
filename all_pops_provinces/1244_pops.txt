@@ -1,0 +1,87 @@
+
+1244 = {
+	aristocrats = {
+		culture = avadhi
+		religion = hindu
+		size = 4000
+	}
+
+	clergymen = {
+		culture = avadhi
+		religion = hindu
+		size = 5000
+	}
+
+	artisans = {
+		culture = avadhi
+		religion = hindu
+		size = 10000
+	}
+	
+	artisans = {
+		culture = avadhi
+		religion = hindu
+		size = 5000
+	}
+
+	soldiers = {
+		culture = avadhi
+		religion = hindu
+		size = 3000
+	}
+
+	soldiers = {
+		culture = avadhi
+		religion = hindu
+		size = 1500
+	}
+
+	farmers = {
+		culture = avadhi
+		religion = hindu
+		size = 304500
+	}
+
+	aristocrats = {
+		culture = avadhi
+		religion = sunni
+		size = 700
+	}
+
+	clergymen = {
+		culture = avadhi
+		religion = sunni
+		size = 400
+	}
+
+	artisans = {
+		culture = avadhi
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = avadhi
+		religion = sunni
+		size = 1100
+	}
+	
+	soldiers = {
+		culture = avadhi
+		religion = sunni
+		size = 500
+	}
+
+	farmers = {
+		culture = avadhi
+		religion = sunni
+		size = 71400
+	}
+
+	serfs = {
+		culture = avadhi
+		religion = hindu
+		size = 100000
+	}
+
+}

@@ -1,0 +1,86 @@
+
+1532 = {
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 2000
+	}
+
+	bureaucrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 225
+	}
+
+	officers = {
+		culture = mongol
+		religion = gelugpa
+		size = 225
+	}
+
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 1050
+	}
+
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 4200
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 1050
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 85250
+	}	
+
+	serfs = {
+		culture = mongol
+		religion = gelugpa
+		size = 10000
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 75
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 200
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = gelugpa
+		size = 3625
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 25
+	}
+
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 75
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 1100
+	}
+}

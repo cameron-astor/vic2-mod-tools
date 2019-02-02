@@ -1,0 +1,158 @@
+
+1613 = {
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 21750
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 13000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 9550
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1400800
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 250
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 700
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 12750
+	}
+	
+	aristocrats = {
+		culture = manchu
+		religion = mahayana
+		size = 11000
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 550
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = mahayana
+		size = 3000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = manchu
+		religion = mahayana
+		size = 11000
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 3000
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 3000
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 3000
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 3000
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 3000
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 900
+	}
+
+	farmers = {
+		culture = manchu
+		religion = mahayana
+		size = 47000
+	}
+}

@@ -1,0 +1,53 @@
+
+1718 = {
+	
+	aristocrats = {
+		culture = berber
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = berber
+		religion = sunni
+		size = 20
+	}
+
+
+	soldiers = {
+		culture = berber
+		religion = sunni
+		size = 1100
+	}
+
+	farmers = {
+		culture = berber
+		religion = sunni
+		size = 850
+	}
+	
+	aristocrats = {
+		culture = tuareg
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = tuareg
+		religion = sunni
+		size = 30
+	}
+
+
+	soldiers = {
+		culture = tuareg
+		religion = sunni
+		size = 85
+	}
+
+	farmers = {
+		culture = tuareg
+		religion = sunni
+		size = 3800
+	}
+}

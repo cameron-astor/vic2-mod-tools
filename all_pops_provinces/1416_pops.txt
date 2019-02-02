@@ -1,0 +1,62 @@
+
+1416 = {
+	aristocrats = {
+		culture = javan
+		religion = sunni
+		size = 1500
+	}
+
+	clergymen = {
+		culture = javan
+		religion = sunni
+		size = 1250
+	}
+
+	artisans = {
+		culture = javan
+		religion = sunni
+		size = 6000
+	}
+
+	soldiers = {
+		culture = javan
+		religion = sunni
+		size = 1250
+	}
+
+	farmers = {
+		culture = javan
+		religion = sunni
+		size = 124250
+	}
+
+	aristocrats = {
+		culture = javan
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = javan
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = javan
+		religion = animist
+		size = 750
+	}
+
+	soldiers = {
+		culture = javan
+		religion = animist
+		size = 125
+	}
+
+	farmers = {
+		culture = javan
+		religion = animist
+		size = 9975
+	}
+}

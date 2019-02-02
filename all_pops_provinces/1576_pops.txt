@@ -1,0 +1,62 @@
+
+1576 = {
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 1100
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 550
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 2800
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 575
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 50975
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 1800
+	}
+}

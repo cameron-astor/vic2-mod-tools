@@ -1,0 +1,38 @@
+
+2116 = {
+	aristocrats = {
+		culture = malagasy
+		religion = animist
+		size = 1350
+	}
+
+	clergymen = {
+		culture = malagasy
+		religion = animist
+		size = 725
+	}
+
+	artisans = {
+		culture = malagasy
+		religion = animist
+		size = 3500
+	}
+
+	soldiers = {
+		culture = malagasy
+		religion = animist
+		size = 3000
+	}
+
+	soldiers = {
+		culture = malagasy
+		religion = animist
+		size = 1000
+	}
+
+	farmers = {
+		culture = malagasy
+		religion = animist
+		size = 60425
+	}
+}

@@ -1,0 +1,45 @@
+
+1428 = {
+	aristocrats = {
+		culture = malay
+		religion = animist
+		size = 250
+	}
+
+	clergymen = {
+		culture = malay
+		religion = animist
+		size = 175
+	}
+
+	artisans = {
+		culture = malay
+		religion = animist
+		size = 750
+	}
+
+	soldiers = {
+		culture = malay
+		religion = animist
+		size = 250
+	}
+
+	farmers = {
+		culture = malay
+		religion = animist
+		size = 8575
+	}
+
+	slaves = {
+		culture = malay
+		religion = animist
+		size = 2000
+	}
+	
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 5000
+	}
+
+}

@@ -1,0 +1,49 @@
+
+43 = {
+
+	clergymen = {
+		culture = texan
+		religion = protestant
+		size = 10
+	}
+
+	artisans = {
+		culture = texan
+		religion = protestant
+		size = 10
+	}
+
+	soldiers = {
+		culture = texan
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = texan
+		religion = protestant
+		size = 450
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 100
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 200
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 1000
+	}
+}
+
+
+
+133 = {

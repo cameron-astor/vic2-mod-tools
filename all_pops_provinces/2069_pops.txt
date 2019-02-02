@@ -1,0 +1,32 @@
+
+2069 = {
+	aristocrats = {
+		culture = shona
+		religion = animist
+		size = 450
+	}
+
+	clergymen = {
+		culture = shona
+		religion = animist
+		size = 250
+	}
+
+	artisans = {
+		culture = shona
+		religion = animist
+		size = 1200
+	}
+
+	soldiers = {
+		culture = shona
+		religion = animist
+		size = 250
+	}
+
+	farmers = {
+		culture = shona
+		religion = animist
+		size = 21850
+	}
+}

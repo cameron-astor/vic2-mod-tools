@@ -1,0 +1,62 @@
+
+2366 = {
+	aristocrats = {
+		culture = guarani
+		religion = catholic
+		size = 75
+	}
+
+	clergymen = {
+		culture = guarani
+		religion = catholic
+		size = 75
+	}
+
+	soldiers = {
+		culture = guarani
+		religion = catholic
+		size = 500
+	}
+
+	labourers = {
+		culture = guarani
+		religion = animist
+		size = 2300
+	}
+
+	labourers = {
+		culture = guarani
+		religion = catholic
+		size = 1075
+	}
+
+	bureaucrats = {
+		culture = platinean
+		religion = catholic
+		size = 2
+	}
+
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 23
+	}
+
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 25
+	}
+
+	labourers = {
+		culture = platinean
+		religion = catholic
+		size = 500
+	}
+
+	slaves = {
+		culture = guarani
+		religion = animist
+		size = 800
+	}
+}

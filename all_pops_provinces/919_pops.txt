@@ -1,0 +1,68 @@
+
+919 = {
+	aristocrats = {
+		culture = mashriqi
+		religion = sunni
+		size = 125
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 1100
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = sunni
+		size = 125
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 7550
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = orthodox
+		size = 25
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = orthodox
+		size = 100
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = orthodox
+		size = 875
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 25
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 300
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 1675
+	}
+}

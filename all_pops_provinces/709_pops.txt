@@ -1,0 +1,62 @@
+
+709 = {
+	aristocrats = {
+		culture = polish
+		religion = catholic
+		size = 1150
+	}
+	
+	soldiers = {
+		culture = polish
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = polish
+		religion = catholic
+		size = 425
+	}
+
+	artisans = {
+		culture = polish
+		religion = catholic
+		size = 2150
+	}
+
+	farmers = {
+		culture = polish
+		religion = catholic
+		size = 50275
+	}
+	
+	serfs = {
+		culture = polish
+		religion = catholic
+		size = 5000
+	}
+	
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 2250
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 5700
+	}
+}

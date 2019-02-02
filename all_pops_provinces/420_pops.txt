@@ -1,0 +1,80 @@
+
+420 = {
+	aristocrats = {
+		culture = breton
+		religion = catholic
+		size = 1350
+	}
+	
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 3000
+	}
+
+	officers = {
+		culture = french
+		religion = catholic
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 1550
+	}
+	
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 500
+	}
+	
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 400
+	}
+	
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 5000
+	}
+
+	clergymen = {
+		culture = breton
+		religion = catholic
+		size = 1050
+	}
+
+	artisans = {
+		culture = breton
+		religion = catholic
+		size = 9500
+	}
+
+	artisans = {
+		culture = breton
+		religion = catholic
+		size = 6000
+	}
+
+	soldiers = {
+		culture = breton
+		religion = catholic
+		size = 1000
+	}
+
+	farmers = {
+		culture = breton
+		religion = catholic
+		size = 110800
+	}
+}

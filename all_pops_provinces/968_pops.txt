@@ -1,0 +1,218 @@
+
+968 = {
+	aristocrats = {
+		culture = ukrainian
+		religion = orthodox
+		size = 1550
+	}
+
+	bureaucrats = {
+		culture = ukrainian
+		religion = orthodox
+		size = 75
+	}
+
+	officers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 200
+	}
+
+	clergymen = {
+		culture = ukrainian
+		religion = orthodox
+		size = 425
+	}
+
+	artisans = {
+		culture = ukrainian
+		religion = orthodox
+		size = 2500
+	}
+
+	soldiers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 1000
+	}
+
+	farmers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 54950
+	}
+	
+	serfs = {
+		culture = ukrainian
+		religion = orthodox
+		size = 5000
+	}
+
+	aristocrats = {
+		culture = polish
+		religion = catholic
+		size = 150
+	}
+
+	officers = {
+		culture = polish
+		religion = catholic
+		size = 50
+	}
+
+	clergymen = {
+		culture = polish
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = polish
+		religion = catholic
+		size = 400
+	}
+
+	soldiers = {
+		culture = polish
+		religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 75
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1500
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 75
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 5850
+	}
+
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 150
+	}
+
+	officers = {
+		culture = russian
+		religion = orthodox
+		size = 150
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 25
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 200
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 25
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 350
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 25
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 750
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 25
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 200
+	}
+
+	clergymen = {
+		culture = south_italian
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 4000
+	}
+
+	soldiers = {
+		culture = south_italian
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = south_italian
+		religion = catholic
+		size = 900
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 750
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 1175
+	}
+}

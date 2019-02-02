@@ -1,0 +1,164 @@
+
+1852 = {
+	aristocrats = {
+		culture = amhara
+		religion = coptic
+		size = 2100
+	}
+
+	bureaucrats = {
+		culture = amhara
+		religion = coptic
+		size = 455
+	}
+
+	officers = {
+		culture = amhara
+		religion = coptic
+		size = 420
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = coptic
+		size = 1155
+	}
+
+	artisans = {
+		culture = amhara
+		religion = coptic
+		size = 5650
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = coptic
+		size = 5020
+	}
+
+	farmers = {
+		culture = amhara
+		religion = coptic
+		size = 90000
+	}
+
+	slaves = {
+		culture = amhara
+		religion = coptic
+		size = 11200
+	}
+
+	aristocrats = {
+		culture = amhara
+		religion = jewish
+		size = 100
+	}
+	
+	officers = {
+		culture = amhara
+		religion = jewish
+		size = 105
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = jewish
+		size = 105
+	}
+
+	artisans = {
+		culture = amhara
+		religion = jewish
+		size = 350
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = jewish
+		size = 1100
+	}
+
+	farmers = {
+		culture = amhara
+		religion = jewish
+		size = 7630
+	}
+	
+	aristocrats = {
+		culture = tigray
+		religion = coptic
+		size = 775
+	}
+
+	officers = {
+		culture = tigray
+		religion = coptic
+		size = 100
+	}
+
+	clergymen = {
+		culture = tigray
+		religion = coptic
+		size = 100
+	}
+
+	artisans = {
+		culture = tigray
+		religion = coptic
+		size = 650
+	}
+
+	soldiers = {
+		culture = tigray
+		religion = coptic
+		size = 1100
+	}
+	
+	farmers = {
+		culture = tigray
+		religion = coptic
+		size = 32300
+	}
+
+	aristocrats = {
+		culture = oromo
+		religion = coptic
+		size = 775
+	}
+
+	officers = {
+		culture = oromo
+		religion = coptic
+		size = 100
+	}
+
+	clergymen = {
+		culture = oromo
+		religion = coptic
+		size = 100
+	}
+
+	artisans = {
+		culture = oromo
+		religion = coptic
+		size = 650
+	}
+
+	soldiers = {
+		culture = oromo
+		religion = coptic
+		size = 1100
+	}
+	
+	farmers = {
+		culture = oromo
+		religion = coptic
+		size = 2300
+	}
+	
+	slaves = {
+		culture = oromo
+		religion = sunni
+		size = 3800
+	}
+}

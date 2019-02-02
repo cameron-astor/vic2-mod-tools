@@ -1,0 +1,87 @@
+
+1302 = {
+	aristocrats = {
+		culture = kannada
+		religion = hindu
+		size = 3000
+	}
+
+	clergymen = {
+		culture = kannada
+		religion = hindu
+		size = 3000
+	}
+
+	artisans = {
+		culture = kannada
+		religion = hindu
+		size = 10000
+	}
+	
+	artisans = {
+		culture = kannada
+		religion = hindu
+		size = 1100
+	}
+
+	soldiers = {
+		culture = kannada
+		religion = hindu
+		size = 2750
+	}
+
+	farmers = {
+		culture = kannada
+		religion = hindu
+		size = 249250
+	}
+
+	clergymen = {
+		culture = gujarati
+		religion = animist
+		size = 350
+	}
+
+	artisans = {
+		culture = gujarati
+		religion = animist
+		size = 5000
+	}
+
+	farmers = {
+		culture = gujarati
+		religion = animist
+		size = 14350
+	}
+
+	aristocrats = {
+		culture = kannada
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = kannada
+		religion = sunni
+		size = 250
+	}
+
+	artisans = {
+		culture = kannada
+		religion = sunni
+		size = 4000
+	}
+
+	soldiers = {
+		culture = kannada
+		religion = sunni
+		size = 250
+	}
+
+	farmers = {
+		culture = kannada
+		religion = sunni
+		size = 19450
+	}
+
+}

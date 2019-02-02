@@ -1,0 +1,50 @@
+
+1868 = {
+	aristocrats = {
+		culture = somali
+		religion = sunni
+		size = 1050
+	}
+
+	bureaucrats = {
+		culture = somali
+		religion = sunni
+		size = 100
+	}
+
+	officers = {
+		culture = somali
+		religion = sunni
+		size = 75
+	}
+
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 550
+	}
+
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 2175
+	}
+
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 1125
+	}
+
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 58000
+	}
+
+	slaves = {
+		culture = cushitic
+		religion = animist
+		size = 6000
+	}
+}

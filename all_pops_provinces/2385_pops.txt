@@ -1,0 +1,44 @@
+
+2385 = {
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 75
+	}
+
+	bureaucrats = {
+		culture = platinean
+		religion = catholic
+		size = 15
+	}
+
+	officers = {
+		culture = platinean
+		religion = catholic
+		size = 10
+	}
+
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 250
+	}
+
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 3000
+	}
+
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 700
+	}
+}

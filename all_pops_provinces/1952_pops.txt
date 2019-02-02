@@ -1,0 +1,68 @@
+
+1952 = {
+	aristocrats = {
+		culture = kanuri
+		religion = sunni
+		size = 2200
+	}
+
+	clergymen = {
+		culture = kanuri
+		religion = sunni
+		size = 1300
+	}
+
+	artisans = {
+		culture = kanuri
+		religion = sunni
+		size = 4800
+	}
+
+	soldiers = {
+		culture = kanuri
+		religion = sunni
+		size = 1200
+	}
+
+	farmers = {
+		culture = kanuri
+		religion = sunni
+		size = 74500
+	}
+
+	slaves = {
+		culture = hausa
+		religion = sunni
+		size = 36000
+	}
+
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 1300
+	}
+
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 700
+	}
+
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 3600
+	}
+
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 800
+	}
+
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 65600
+	}
+}

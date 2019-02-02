@@ -1,0 +1,63 @@
+
+1862 = {
+	aristocrats = {
+		culture = kefficho
+		religion = animist
+		size = 1000
+	}
+	
+	officers = {
+		culture = kefficho
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = kefficho
+		religion = animist
+		size = 100
+	}
+	
+	soldiers = {
+		culture = kefficho
+		religion = animist
+		size = 2000
+	}
+	
+	farmers = {
+		culture = kefficho
+		religion = animist
+		size = 10100
+	}
+	
+	aristocrats = {
+		culture = kefficho
+		religion = coptic
+		size = 840
+	}
+	
+	officers = {
+		culture = kefficho
+		religion = coptic
+		size = 100
+	}
+	
+	clergymen = {
+		culture = kefficho
+		religion = coptic
+		size = 100
+	}
+	
+	soldiers = {
+		culture = kefficho
+		religion = coptic
+		size = 2000
+	}
+	
+	farmers = {
+		culture = kefficho
+		religion = coptic
+		size = 7000
+	}
+	
+	aristocrats = {

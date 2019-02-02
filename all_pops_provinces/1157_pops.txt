@@ -1,0 +1,56 @@
+
+1157 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 2450
+	}
+
+	bureaucrats = {
+		culture = bedouin
+		religion = sunni
+		size = 325
+	}
+
+	officers = {
+		culture = bedouin
+		religion = sunni
+		size = 75
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 425
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 6850
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 3000
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 45675
+	}
+	
+	slaves = {
+		culture = kefficho
+		religion = animist
+		size = 5000
+	}
+}

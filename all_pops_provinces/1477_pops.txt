@@ -1,0 +1,50 @@
+
+1477 = {
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 20900
+	}
+
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 7000
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 10500
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 35250
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 10450
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 500900
+	}
+	
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 400000
+	}
+
+	serfs = {
+		culture = beifaren
+		religion = mahayana
+		size = 50000
+	}
+}

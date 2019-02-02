@@ -1,0 +1,50 @@
+
+1872 = {
+	aristocrats = {
+		culture = somali
+		religion = sunni
+		size = 540
+	}
+
+	bureaucrats = {
+		culture = somali
+		religion = sunni
+		size = 50
+	}
+
+	officers = {
+		culture = somali
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 275
+	}
+
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 1175
+	}
+
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 20950
+	}
+
+	slaves = {
+		culture = cushitic
+		religion = animist
+		size = 5000
+	}
+}

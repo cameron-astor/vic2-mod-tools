@@ -1,0 +1,110 @@
+
+381 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 300
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 400
+	}
+
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 4100
+	}
+	
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size = 1100
+	}
+	
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 17850
+	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 1200
+	}
+	
+	aristocrats = {
+		culture = dutch
+		religion = catholic
+		size = 300
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 200
+	}
+
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = dutch
+		religion = catholic
+		size = 1100
+	}
+	
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 900
+	}
+
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 29350
+	}
+	
+	aristocrats = {
+		culture = flemish
+		religion = catholic
+		size = 300
+	}
+
+	clergymen = {
+		culture = flemish
+		religion = catholic
+		size = 200
+	}
+
+	artisans = {
+		culture = flemish
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = flemish
+		religion = catholic
+		size = 1100
+	}
+	
+	artisans = {
+		culture = flemish
+		religion = catholic
+		size = 900
+	}
+
+	farmers = {
+		culture = flemish
+		religion = catholic
+		size = 18100
+	}
+}

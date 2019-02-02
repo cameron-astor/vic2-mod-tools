@@ -1,0 +1,80 @@
+
+1335 = {
+	aristocrats = {
+		culture = burmese
+		religion = theravada
+		size = 1150
+	}
+
+	bureaucrats = {
+		culture = burmese
+		religion = theravada
+		size = 425
+	}
+
+	officers = {
+		culture = burmese
+		religion = theravada
+		size = 300
+	}
+
+	clergymen = {
+		culture = burmese
+		religion = theravada
+		size = 1125
+	}
+
+	artisans = {
+		culture = burmese
+		religion = theravada
+		size = 5500
+	}
+
+	soldiers = {
+		culture = burmese
+		religion = theravada
+		size = 3000
+	}
+
+	soldiers = {
+		culture = burmese
+		religion = theravada
+		size = 1000
+	}
+
+	farmers = {
+		culture = burmese
+		religion = theravada
+		size = 100500
+	}
+
+	aristocrats = {
+		culture = shan
+		religion = theravada
+		size = 50
+	}
+
+	clergymen = {
+		culture = shan
+		religion = theravada
+		size = 50
+	}
+
+	artisans = {
+		culture = shan
+		religion = theravada
+		size = 250
+	}
+
+	soldiers = {
+		culture = shan
+		religion = theravada
+		size = 50
+	}
+
+	slaves = {
+		culture = shan
+		religion = theravada
+		size = 4600
+	}
+}

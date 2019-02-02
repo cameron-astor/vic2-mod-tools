@@ -1,0 +1,27 @@
+
+2632 = {
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 125
+	}
+
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 2500
+	}
+	
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 1000
+	}
+
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 20000
+	}
+}
+

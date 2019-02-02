@@ -1,0 +1,38 @@
+
+1439 = {
+	aristocrats = {
+		culture = moluccan
+		religion = sunni
+		size = 500
+	}
+
+	clergymen = {
+		culture = moluccan
+		religion = sunni
+		size = 425
+	}
+
+	artisans = {
+		culture = moluccan
+		religion = sunni
+		size = 2200
+	}
+
+	soldiers = {
+		culture = moluccan
+		religion = sunni
+		size = 450
+	}
+
+	farmers = {
+		culture = moluccan
+		religion = sunni
+		size = 48425
+	}
+
+	slaves = {
+		culture = moluccan
+		religion = sunni
+		size = 2000
+	}
+}

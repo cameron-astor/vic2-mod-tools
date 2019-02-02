@@ -1,0 +1,104 @@
+
+1602 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 125
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 350
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 575
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 26375
+	}
+
+	aristocrats = {
+		culture = asian_minor
+		religion = animist
+		size = 5400
+	}
+
+	clergymen = {
+		culture = asian_minor
+		religion = animist
+		size = 2750
+	}
+
+	artisans = {
+		culture = asian_minor
+		religion = animist
+		size = 11000
+	}
+	
+	artisans = {
+		culture = asian_minor
+		religion = animist
+		size = 3500
+	}
+
+	soldiers = {
+		culture = asian_minor
+		religion = animist
+		size = 2700
+	}
+
+	farmers = {
+		culture = asian_minor
+		religion = animist
+		size = 220650
+	}
+
+	aristocrats = {
+		culture = yi
+		religion = animist
+		size = 525
+	}
+
+	clergymen = {
+		culture = yi
+		religion = animist
+		size = 275
+	}
+
+	artisans = {
+		culture = yi
+		religion = animist
+		size = 1350
+	}
+
+	soldiers = {
+		culture = yi
+		religion = animist
+		size = 275
+	}
+	
+	farmers = {
+		culture = yi
+		religion = animist
+		size = 24575
+	}
+
+	serfs = {
+		culture = yi
+		religion = animist
+		size = 24575
+	}
+}

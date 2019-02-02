@@ -1,0 +1,62 @@
+
+246 = {
+	bureaucrats = {
+		culture = yankee
+		religion = protestant
+		size = 125
+	}
+
+	officers = {
+		culture = yankee
+		religion = protestant
+		size = 75
+	}
+
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 500
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 3150
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 650
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 58200
+	}
+
+	clergymen = {
+		culture = yankee
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = yankee
+		religion = catholic
+		size = 400
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = catholic
+		size = 75
+	}
+
+	farmers = {
+		culture = yankee
+		religion = catholic
+		size = 7475
+	}
+}

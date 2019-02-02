@@ -1,0 +1,34 @@
+
+2335 = {
+	aristocrats = {
+		culture = patagonian
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = patagonian
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = patagonian
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = patagonian
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = patagonian
+		religion = animist
+		size = 900
+	}
+
+}
+

@@ -1,0 +1,62 @@
+
+2426 = {
+	aristocrats = {
+		culture = brazilian
+		religion = catholic
+		size = 825
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = catholic
+		size = 300
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = catholic
+		size = 875
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 19000
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = catholic
+		size = 75
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = catholic
+		size = 900
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = catholic
+		size = 175
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = catholic
+		size = 5850
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = catholic
+		size = 10000
+	}
+}

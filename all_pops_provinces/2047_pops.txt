@@ -1,0 +1,98 @@
+
+2047 = {
+	aristocrats = {
+		culture = sukuma
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = sukuma
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = sukuma
+		religion = animist
+		size = 300
+	}
+
+	soldiers = {
+		culture = sukuma
+		religion = animist
+		size = 75
+	}
+
+	farmers = {
+		culture = sukuma
+		religion = animist
+		size = 5475
+	}
+
+	aristocrats = {
+		culture = maasai
+		religion = animist
+		size = 125
+	}
+
+	clergymen = {
+		culture = maasai
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = maasai
+		religion = animist
+		size = 400
+	}
+
+	soldiers = {
+		culture = maasai
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = maasai
+		religion = animist
+		size = 7275
+	}
+
+	aristocrats = {
+		culture = kilombero
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = kilombero
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = kilombero
+		religion = animist
+		size = 300
+	}
+
+	soldiers = {
+		culture = kilombero
+		religion = animist
+		size = 75
+	}
+
+	farmers = {
+		culture = kilombero
+		religion = animist
+		size = 5475
+	}
+	
+	slaves = {
+		culture = cushitic
+		religion = sunni
+		size = 2000
+	}
+}

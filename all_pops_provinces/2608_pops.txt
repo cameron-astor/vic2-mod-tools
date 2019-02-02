@@ -1,0 +1,32 @@
+
+2608 = {
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 750
+	}
+
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 375
+	}
+
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 1500
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 375
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 35000
+	}
+}

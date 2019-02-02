@@ -1,0 +1,49 @@
+
+1636 = {
+	aristocrats = {
+		culture = korean
+		religion = mahayana
+		size = 5550
+	}
+
+	clergymen = {
+		culture = korean
+		religion = mahayana
+		size = 2325
+	}
+
+	artisans = {
+		culture = korean
+		religion = mahayana
+		size = 8500
+	}
+	
+	artisans = {
+		culture = korean
+		religion = mahayana
+		size = 10000
+	}
+	artisans = {
+		culture = korean
+		religion = mahayana
+		size = 10000
+	}
+
+	soldiers = {
+		culture = korean
+		religion = mahayana
+		size = 9000
+	}
+
+	farmers = {
+		culture = korean
+		religion = mahayana
+		size = 177625
+	}
+
+	slaves = {
+		culture = korean
+		religion = mahayana
+		size = 17000
+	}
+}

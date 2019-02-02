@@ -1,0 +1,50 @@
+
+1061 = {
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 600
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 125
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 22175
+	}
+
+	clergymen = {
+		culture = tatar
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = tatar
+		religion = sunni
+		size = 75
+	}
+
+	soldiers = {
+		culture = tatar
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = tatar
+		religion = sunni
+		size = 1375
+	}
+}

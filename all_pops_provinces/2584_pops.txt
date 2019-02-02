@@ -1,0 +1,68 @@
+
+2584 = {
+	aristocrats = {
+		culture = polish
+		religion = catholic
+		size = 750  
+	}
+
+	officers = {
+		culture = polish
+		religion = catholic
+		size = 35 
+	}
+
+	clergymen = {
+		culture = polish
+		religion = catholic
+		size = 500 
+	}
+
+	artisans = {
+		culture = polish
+		religion = catholic
+		size = 2500
+	}
+
+	soldiers = {
+		culture = polish
+		religion = catholic
+		size = 500 
+	}
+
+	farmers = {
+		culture = polish
+		religion = catholic
+		size = 35715 
+	}
+	
+	serfs = {
+		culture = polish
+		religion = catholic
+		size = 10000 
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 50  
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 250
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 25  
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 1675   
+	}
+}

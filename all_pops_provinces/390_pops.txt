@@ -1,0 +1,68 @@
+
+390 = {
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1475
+	}
+
+	aristocrats = {
+		culture = flemish
+		religion = catholic
+		size = 825
+	}
+
+	clergymen = {
+		culture = flemish
+		religion = catholic
+		size = 575
+	}
+
+	artisans = {
+		culture = flemish
+		religion = catholic
+		size = 3600
+	}
+
+	artisans = {
+		culture = flemish
+		religion = catholic
+		size = 10000
+	}
+
+	soldiers = {
+		culture = flemish
+		religion = catholic
+		size = 1400
+	}
+
+	farmers = {
+		culture = flemish
+		religion = catholic
+		size = 67700
+	}
+
+	clergymen = {
+		culture = wallonian
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = wallonian
+		religion = catholic
+		size = 2925
+	}
+
+	soldiers = {
+		culture = wallonian
+		religion = catholic
+		size = 25
+	}
+}

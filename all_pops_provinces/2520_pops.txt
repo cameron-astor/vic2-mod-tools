@@ -1,0 +1,34 @@
+
+2520 = {
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 1800
+	}
+}
+
+

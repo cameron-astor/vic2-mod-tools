@@ -1,0 +1,68 @@
+
+1285 = {
+	aristocrats = {
+		culture = marathi
+		religion = hindu
+		size = 1500
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = hindu
+		size = 1750
+	}
+
+	artisans = {
+		culture = marathi
+		religion = hindu
+		size = 6500
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = hindu
+		size = 2000
+	}
+
+	farmers = {
+		culture = marathi
+		religion = hindu
+		size = 168350
+	}
+
+	aristocrats = {
+		culture = avadhi
+		religion = sunni
+		size = 1100
+	}
+
+	clergymen = {
+		culture = avadhi
+		religion = sunni
+		size = 500
+	}
+
+	artisans = {
+		culture = avadhi
+		religion = sunni
+		size = 7000
+	}
+
+	soldiers = {
+		culture = avadhi
+		religion = sunni
+		size = 800
+	}
+
+	farmers = {
+		culture = avadhi
+		religion = sunni
+		size = 23700
+	}
+
+	serfs = {
+		culture = marathi
+		religion = hindu
+		size = 50000
+	}
+}

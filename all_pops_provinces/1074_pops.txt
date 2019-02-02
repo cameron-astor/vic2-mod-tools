@@ -1,0 +1,56 @@
+
+1074 = {
+	clergymen = {
+		culture = siberian
+		religion = animist
+		size = 3
+	}
+
+	artisans = {
+		culture = siberian
+		religion = animist
+		size = 5
+	}
+
+	soldiers = {
+		culture = siberian
+		religion = animist
+		size = 2
+	}
+
+	farmers = {
+		culture = siberian
+		religion = animist
+		size = 140
+	}
+
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 3
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 4
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 40
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 3
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 800
+	}
+}

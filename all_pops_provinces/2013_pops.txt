@@ -1,0 +1,80 @@
+
+2013 = {
+	aristocrats = {
+		culture = lunda
+		religion = animist
+		size = 225
+	}
+
+	bureaucrats = {
+		culture = lunda
+		religion = animist
+		size = 10
+	}
+
+	officers = {
+		culture = lunda
+		religion = animist
+		size = 65
+	}
+
+	clergymen = {
+		culture = lunda
+		religion = animist
+		size = 125
+	}
+
+	artisans = {
+		culture = lunda
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = lunda
+		religion = animist
+		size = 125
+	}
+
+	farmers = {
+		culture = lunda
+		religion = animist
+		size = 8950
+	}
+
+	aristocrats = {
+		culture = kavango
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = kavango
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = kavango
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = kavango
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = kavango
+		religion = animist
+		size = 900
+	}
+
+	slaves = {
+		culture = kavango
+		religion = animist
+		size = 2000
+	}
+}

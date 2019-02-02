@@ -1,0 +1,68 @@
+
+2030 = {
+	aristocrats = {
+		culture = swahili
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = swahili
+		religion = sunni
+		size = 125
+	}
+
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = swahili
+		religion = sunni
+		size = 125
+	}
+
+	farmers = {
+		culture = swahili
+		religion = sunni
+		size = 10025
+	}
+
+	aristocrats = {
+		culture = cushitic
+		religion = animist
+		size = 225
+	}
+
+	clergymen = {
+		culture = cushitic
+		religion = animist
+		size = 125
+	}
+
+	artisans = {
+		culture = cushitic
+		religion = animist
+		size = 600
+	}
+
+	soldiers = {
+		culture = cushitic
+		religion = animist
+		size = 125
+	}
+
+	farmers = {
+		culture = cushitic
+		religion = animist
+		size = 10925
+	}
+
+	slaves = {
+		culture = cushitic
+		religion = animist
+		size = 2000
+	}
+}

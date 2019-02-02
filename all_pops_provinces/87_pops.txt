@@ -1,0 +1,68 @@
+
+87 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 12
+	}
+
+	bureaucrats = {
+		culture = mexican
+		religion = catholic
+		size = 3
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 15
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 10
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 525
+	}
+	
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 150
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 900
+	}
+}

@@ -1,0 +1,92 @@
+
+1252 = {
+	aristocrats = {
+		culture = bengali
+		religion = hindu
+		size = 6000
+	}
+
+	clergymen = {
+		culture = bengali
+		religion = hindu
+		size = 6250
+	}
+
+	artisans = {
+		culture = bengali
+		religion = hindu
+		size = 8000
+	}
+	
+	farmers = {
+		culture = nepali
+		religion = hindu
+		size = 10000
+	}
+	
+	artisans = {
+		culture = nepali
+		religion = hindu
+		size = 2500
+	}
+
+	soldiers = {
+		culture = nepali
+		religion = hindu
+		size = 3000
+	}
+
+	soldiers = {
+		culture = nepali
+		religion = hindu
+		size = 3000
+	}
+
+	soldiers = {
+		culture = nepali
+		religion = hindu
+		size = 3000
+	}
+
+	soldiers = {
+		culture = nepali
+		religion = hindu
+		size = 3000
+	}
+
+	farmers = {
+		culture = bengali
+		religion = hindu
+		size = 545250
+	}
+
+	aristocrats = {
+		culture = bengali
+		religion = sunni
+		size = 1100
+	}
+
+	clergymen = {
+		culture = bengali
+		religion = sunni
+		size = 2000
+	}
+
+	artisans = {
+		culture = bengali
+		religion = sunni
+		size = 9500
+	}
+
+	soldiers = {
+		culture = bengali
+		religion = sunni
+		size = 2000
+	}
+
+	farmers = {
+		culture = bengali
+		religion = sunni
+		size = 182500
+	}
+}

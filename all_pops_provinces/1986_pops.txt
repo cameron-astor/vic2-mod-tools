@@ -1,0 +1,68 @@
+
+1986 = {
+	aristocrats = {
+		culture = luba
+		religion = animist
+		size = 1100
+	}
+	
+	clergymen = {
+		culture = luba
+		religion = animist
+		size = 550
+	}
+
+	artisans = {
+		culture = luba
+		religion = animist
+		size = 2380
+	}
+
+	soldiers = {
+		culture = luba
+		religion = animist
+		size = 1925
+	}
+
+	farmers = {
+		culture = luba
+		religion = animist
+		size = 31990
+	}
+
+	aristocrats = {
+		culture = kuba
+		religion = animist
+		size = 2200
+	}
+
+	clergymen = {
+		culture = kuba
+		religion = animist
+		size = 1100
+	}
+
+	artisans = {
+		culture = kuba
+		religion = animist
+		size = 5680
+	}
+
+	soldiers = {
+		culture = kuba
+		religion = animist
+		size = 1575
+	}
+
+	farmers = {
+		culture = kuba
+		religion = animist
+		size = 103490
+	}
+
+	slaves = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 22000
+	}
+}

@@ -1,0 +1,74 @@
+
+2078 = {
+	aristocrats = {
+		culture = herero
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = herero
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = herero
+		religion = animist
+		size = 300
+	}
+
+	soldiers = {
+		culture = herero
+		religion = animist
+		size = 75
+	}
+
+	farmers = {
+		culture = herero
+		religion = animist
+		size = 5175
+	}
+	
+	farmers = {
+		culture = herero
+		religion = protestant
+		size = 300
+	}
+
+	aristocrats = {
+		culture = khoisan
+		religion = animist
+		size = 225
+	}
+
+	clergymen = {
+		culture = khoisan
+		religion = animist
+		size = 125
+	}
+
+	artisans = {
+		culture = khoisan
+		religion = animist
+		size = 600
+	}
+
+	soldiers = {
+		culture = khoisan
+		religion = animist
+		size = 125
+	}
+
+	farmers = {
+		culture = khoisan
+		religion = animist
+		size = 10725
+	}
+	
+	farmers = {
+		culture = khoisan
+		religion = protestant
+		size = 200
+	}
+}

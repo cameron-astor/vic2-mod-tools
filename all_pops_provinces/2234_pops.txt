@@ -1,0 +1,45 @@
+
+2234 = {
+
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 76
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 5
+	}
+
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size = 25
+	}
+
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 70
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 20
+	}
+
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 2080
+	}
+	
+	slaves = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 900
+	}
+}

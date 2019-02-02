@@ -1,0 +1,176 @@
+
+1503 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 5200
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2600
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 3050
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2625
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 237525
+	}
+
+	aristocrats = {
+		culture = zhuang
+		religion = animist
+		size = 10500
+	}
+
+	clergymen = {
+		culture = zhuang
+		religion = animist
+		size = 5300
+	}
+
+	artisans = {
+		culture = zhuang
+		religion = animist
+		size = 11000
+	}
+	
+	artisans = {
+		culture = zhuang
+		religion = animist
+		size = 11000
+	}
+	
+	artisans = {
+		culture = zhuang
+		religion = animist
+		size = 6550
+	}
+
+	soldiers = {
+		culture = zhuang
+		religion = animist
+		size = 3325
+	}
+
+	farmers = {
+		culture = zhuang
+		religion = animist
+		size = 373325
+	}
+	
+	farmers = {
+		culture = zhuang
+		religion = protestant
+		size = 10000
+	}
+	
+	serfs = {
+		culture = zhuang
+		religion = animist
+		size = 100000
+	}
+
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 6175
+	}
+
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 3125
+	}
+
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 5600
+	}
+
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 3000
+	}
+
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 125
+	}
+
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 282975
+	}
+	
+	farmers = {
+		culture = yue
+		religion = protestant
+		size = 1000
+	}
+
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 1175
+	}
+
+	clergymen = {
+		culture = miao
+		religion = animist
+		size = 625
+	}
+
+	artisans = {
+		culture = miao
+		religion = animist
+		size = 3150
+	}
+
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 625
+	}
+
+	farmers = {
+		culture = miao
+		religion = animist
+		size = 58225
+	}
+	
+	farmers = {
+		culture = miao
+		religion = protestant
+		size = 1000
+	}
+}

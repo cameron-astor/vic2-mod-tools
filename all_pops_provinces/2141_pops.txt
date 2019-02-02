@@ -1,0 +1,68 @@
+
+2141 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 250
+		militancy = 4
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 100
+		militancy = 5
+	}
+
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 500
+		militancy = 4
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 100
+
+		militancy = 7
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 9050
+		militancy = 5
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 150
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 2700
+	}
+}

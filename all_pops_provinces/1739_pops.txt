@@ -1,0 +1,46 @@
+
+1739 = {
+	aristocrats = {
+		culture = fur
+		religion = sunni
+		size = 25
+	}
+
+	officers = {
+		culture = fur
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = fur
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = fur
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = fur
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = fur
+		religion = sunni
+		size = 500
+	}
+
+	slaves = {
+		culture = fur
+		religion = animist
+		size = 200
+	}
+}
+
+

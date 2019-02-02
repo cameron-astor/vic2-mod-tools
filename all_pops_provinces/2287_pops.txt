@@ -1,0 +1,32 @@
+
+2287 = {
+	aristocrats = {
+		culture = quechua
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = quechua
+		religion = animist
+		size = 150
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = quechua
+		religion = animist
+		size = 2700
+	}
+}

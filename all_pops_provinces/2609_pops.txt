@@ -1,0 +1,64 @@
+
+2609 = {
+	aristocrats = {
+		culture = tuareg
+		religion = sunni
+		size = 75
+	}
+
+	clergymen = {
+		culture = tuareg
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = tuareg
+		religion = sunni
+		size = 250
+	}
+
+	soldiers = {
+		culture = tuareg
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = tuareg
+		religion = sunni
+		size = 3500
+	}
+
+	aristocrats = {
+		culture = maghrebi
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = maghrebi
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = maghrebi
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = maghrebi
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = maghrebi
+		religion = sunni
+		size = 600
+	}
+
+}
+

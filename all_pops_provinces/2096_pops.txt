@@ -1,0 +1,165 @@
+
+2096 = {
+
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 100
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 250
+	}
+	
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 100
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 1450
+	}
+
+	aristocrats = {
+		culture = boer
+		religion = protestant
+		size = 125
+	}
+
+	bureaucrats = {
+		culture = boer
+		religion = protestant
+		size = 50
+	}
+
+	clergymen = {
+		culture = boer
+		religion = protestant
+		size = 100
+	}
+
+	artisans = {
+		culture = boer
+		religion = protestant
+		size = 400
+	}
+
+	soldiers = {
+		culture = boer
+		religion = protestant
+		size = 400
+	}
+
+	farmers = {
+		culture = boer
+		religion = protestant
+		size = 3000
+	}
+
+	aristocrats = {
+		culture = xhosa
+		religion = animist
+		size = 140
+	}
+
+	clergymen = {
+		culture = xhosa
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = xhosa
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = xhosa
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = xhosa
+		religion = animist
+		size = 3900
+	}
+
+	aristocrats = {
+		culture = nguni
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = nguni
+		religion = animist
+		size = 100
+	}
+	
+	artisans = {
+		culture = nguni
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = nguni
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = nguni
+		religion = animist
+		size = 860
+	}
+	
+	aristocrats = {
+		culture = khoisan
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = khoisan
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = khoisan
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = khoisan
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = khoisan
+		religion = animist
+		size = 2800
+	}
+
+	soldiers = {
+		culture = nguni
+		religion = animist
+		size = 100
+	}
+}

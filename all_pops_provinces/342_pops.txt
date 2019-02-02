@@ -1,0 +1,50 @@
+
+342 = {
+	clergymen = {
+		culture = finnish
+		religion = protestant
+		size = 350
+	}
+
+	artisans = {
+		culture = finnish
+		religion = protestant
+		size = 1850
+	}
+
+	soldiers = {
+		culture = finnish
+		religion = protestant
+		size = 350
+	}
+
+	farmers = {
+		culture = finnish
+		religion = protestant
+		size = 34425
+	}
+
+	clergymen = {
+		culture = finnish
+		religion = orthodox
+		size = 15
+	}
+
+	artisans = {
+		culture = finnish
+		religion = orthodox
+		size = 50
+	}
+
+	soldiers = {
+		culture = finnish
+		religion = orthodox
+		size = 10
+	}
+
+	farmers = {
+		culture = finnish
+		religion = orthodox
+		size = 925
+	}
+}

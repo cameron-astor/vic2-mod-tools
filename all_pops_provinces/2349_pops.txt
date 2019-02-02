@@ -1,0 +1,32 @@
+
+2349 = {
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 275
+	}
+
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 175
+	}
+
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 5100
+	}
+
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 4000
+	}
+
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 25550
+	}
+}

@@ -1,0 +1,50 @@
+
+1219 = {
+	aristocrats = {
+		culture = pashtun
+		religion = sunni
+		size = 350
+	}
+
+	clergymen = {
+		culture = pashtun
+		religion = sunni
+		size = 325
+	}
+
+	artisans = {
+		culture = pashtun
+		religion = sunni
+		size = 3000
+	}
+
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 3000
+	}
+
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 3000
+	}
+
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 10325
+	}
+
+	serfs = {
+		culture = pashtun
+		religion = sunni
+		size = 10000
+	}
+}

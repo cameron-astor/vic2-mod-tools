@@ -1,0 +1,51 @@
+
+2200 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 10
+	}
+
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 15
+	}
+
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 15
+	}
+
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 10
+	}
+
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 120
+	}
+
+	soldiers = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 270
+	}
+	
+	farmers = {
+		culture = afro_caribbean
+		religion = animist
+		size = 190
+	}
+	
+	farmers = {

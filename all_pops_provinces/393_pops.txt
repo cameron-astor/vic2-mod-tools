@@ -1,0 +1,81 @@
+
+393 = {
+	clergymen = {
+		culture = flemish
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = flemish
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = flemish
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = flemish
+		religion = catholic
+		size = 8800
+	}
+
+	aristocrats = {
+		culture = wallonian
+		religion = catholic
+		size = 700
+	}
+
+	clergymen = {
+		culture = wallonian
+		religion = catholic
+		size = 300
+	}
+
+	clerks = {
+		culture = wallonian
+		religion = catholic
+		size = 100
+	}
+
+
+	artisans = {
+		culture = wallonian
+		religion = catholic
+		size = 2200
+	}
+
+	soldiers = {
+		culture = wallonian
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = wallonian
+		religion = catholic
+		size = 56075
+	}
+
+	clergymen = {
+		culture = wallonian
+		religion = catholic
+		size = 125
+	}
+
+	artisans = {
+		culture = picard
+		religion = catholic
+		size = 500
+	}
+
+	farmers = {
+		culture = picard
+		religion = catholic
+		size = 12000
+	}
+}

@@ -1,0 +1,80 @@
+
+2650 = {
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 25
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 50
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 25
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 900
+	}
+
+	aristocrats = {
+		culture = yakut
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = yakut
+		religion = animist
+		size = 30
+	}
+
+	artisans = {
+		culture = yakut
+		religion = animist
+		size = 75
+	}
+
+	soldiers = {
+		culture = yakut
+		religion = animist
+		size = 20
+	}
+
+	farmers = {
+		culture = yakut
+		religion = animist
+		size = 1350
+	}
+
+	clergymen = {
+		culture = yakut
+		religion = orthodox
+		size = 5
+	}
+
+	artisans = {
+		culture = yakut
+		religion = orthodox
+		size = 10
+	}
+
+	soldiers = {
+		culture = yakut
+		religion = orthodox
+		size = 10
+	}
+
+	farmers = {
+		culture = yakut
+		religion = orthodox
+		size = 475
+	}
+}

@@ -1,0 +1,134 @@
+
+967 = {
+	farmers = {
+		culture = armenian
+		religion = orthodox
+		size = 900
+	}
+	
+	aristocrats = {
+		culture = tatar
+		religion = sunni
+		size = 250
+	}
+
+	clergymen = {
+		culture = tatar
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = tatar
+		religion = sunni
+		size = 175
+	}
+
+	soldiers = {
+		culture = tatar
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = tatar
+		religion = sunni
+		size = 9375
+	}
+
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 50
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 50
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 25
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 1775
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 10
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 150
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 590
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 25
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 250
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 15
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 960
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 75
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 875
+	}
+}

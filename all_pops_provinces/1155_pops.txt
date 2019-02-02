@@ -1,0 +1,68 @@
+
+1155 = {
+	aristocrats = {
+		culture = mashriqi
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 300
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 4550
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 150
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 350
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 75
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 8300
+	}
+
+	slaves = {
+		culture = kefficho
+		religion = animist
+		size = 1500
+	}
+}

@@ -1,0 +1,38 @@
+
+266 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 200
+	}
+
+	officers = {
+		culture = british
+		religion = protestant
+		size = 500
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 1100
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 3400
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 40000
+	}
+	
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 2000
+	}
+}

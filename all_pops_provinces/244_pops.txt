@@ -1,0 +1,56 @@
+
+244 = {
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 225
+	}
+
+	clerks = {
+		culture = yankee
+		religion = protestant
+		size = 25
+	}
+
+	craftsmen = {
+		culture = yankee
+		religion = protestant
+		size = 300
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 1125
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 300
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 27025
+	}
+
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 3950
+	}
+}

@@ -1,0 +1,68 @@
+
+1857 = {
+	aristocrats = {
+		culture = amhara
+		religion = coptic
+		size = 700
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = coptic
+		size = 350
+	}
+
+	artisans = {
+		culture = amhara
+		religion = coptic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = coptic
+		size = 2400
+	}
+
+	farmers = {
+		culture = amhara
+		religion = coptic
+		size = 24550
+	}
+
+	slaves = {
+		culture = oromo
+		religion = sunni
+		size = 22000
+	}
+
+	aristocrats = {
+		culture = tigray
+		religion = coptic
+		size = 140
+	}
+
+	clergymen = {
+		culture = tigray
+		religion = coptic
+		size = 110
+	}
+
+	artisans = {
+		culture = tigray
+		religion = coptic
+		size = 425
+	}
+
+	soldiers = {
+		culture = tigray
+		religion = coptic
+		size = 100
+	}
+
+	farmers = {
+		culture = tigray
+		religion = coptic
+		size = 22750
+	}
+}

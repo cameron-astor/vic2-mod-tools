@@ -1,0 +1,92 @@
+
+1843 = {
+	aristocrats = {
+		culture = fur
+		religion = sunni
+		size = 125
+	}
+
+	clergymen = {
+		culture = fur
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = fur
+		religion = sunni
+		size = 350
+	}
+
+	soldiers = {
+		culture = fur
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = fur
+		religion = sunni
+		size = 6350
+	}
+
+	aristocrats = {
+		culture = ubangian
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = ubangian
+		religion = animist
+		size = 300
+	}
+
+	soldiers = {
+		culture = ubangian
+		religion = animist
+		size = 75
+	}
+
+	farmers = {
+		culture = ubangian
+		religion = animist
+		size = 5525
+	}
+
+	slaves = {
+		culture = ubangian
+		religion = animist
+		size = 4000
+	}
+
+	aristocrats = {
+		culture = nuba
+		religion = animist
+		size = 200
+	}
+
+	artisans = {
+		culture = nuba
+		religion = animist
+		size = 450
+	}
+
+	soldiers = {
+		culture = nuba
+		religion = animist
+		size = 200
+	}
+
+	farmers = {
+		culture = nuba
+		religion = animist
+		size = 10150
+	}
+
+	slaves = {
+		culture = nuba
+		religion = animist
+		size = 7000
+	}
+}

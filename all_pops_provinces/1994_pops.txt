@@ -1,0 +1,44 @@
+
+1994 = {
+	aristocrats = {
+		culture = kuba
+		religion = animist
+		size = 1100
+	}
+
+	clergymen = {
+		culture = kuba
+		religion = animist
+		size = 550
+	}
+
+	artisans = {
+		culture = kuba
+		religion = animist
+		size = 2200
+	}
+
+	soldiers = {
+		culture = kuba
+		religion = animist
+		size = 1650
+	}
+
+	farmers = {
+		culture = kuba
+		religion = animist
+		size = 169690
+	}
+	
+	farmers = {
+		culture = mongo
+		religion = animist
+		size = 60000
+	}
+
+	slaves = {
+		culture = forest_bantu
+		religion = animist
+		size = 10000
+	}
+}

@@ -1,0 +1,68 @@
+
+2402 = {
+	aristocrats = {
+		culture = brazilian
+		religion = catholic
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = brazilian
+		religion = catholic
+		size = 10
+	}
+
+	officers = {
+		culture = brazilian
+		religion = catholic
+		size = 10
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = catholic
+		size = 75
+	}
+
+	artisans = {
+		culture = amazonian
+		religion = catholic
+		size = 200
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 3455
+	}
+
+	clergymen = {
+		culture = amazonian
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = amazonian
+		religion = animist
+		size = 300
+	}
+
+	soldiers = {
+		culture = amazonian
+		religion = animist
+		size = 75
+	}
+
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 5525
+	}
+}

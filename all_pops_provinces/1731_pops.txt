@@ -1,0 +1,92 @@
+
+1731 = {
+	aristocrats = {
+		culture = maghrebi
+		religion = sunni
+		size = 550
+	}
+
+	bureaucrats = {
+		culture = maghrebi
+		religion = sunni
+		size = 50
+	}
+
+	officers = {
+		culture = maghrebi
+		religion = sunni
+		size = 75
+	}
+
+	clergymen = {
+		culture = maghrebi
+		religion = sunni
+		size = 275
+	}
+
+	artisans = {
+		culture = maghrebi
+		religion = sunni
+		size = 3150
+	}
+
+	soldiers = {
+		culture = maghrebi
+		religion = sunni
+		size = 1100
+	}
+
+	farmers = {
+		culture = maghrebi
+		religion = sunni
+		size = 22900
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 125
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 350
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 75
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 63075
+	}
+
+	slaves = {
+		culture = forest_bantu
+		religion = animist
+		size = 6500
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 25
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 1475
+	}
+}

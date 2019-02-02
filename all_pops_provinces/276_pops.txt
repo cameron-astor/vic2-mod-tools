@@ -1,0 +1,46 @@
+
+276 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 250
+	}
+
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 250
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 750
+	}
+
+	clerks = {
+		culture = british
+		religion = protestant
+		size = 150
+	}
+
+	craftsmen = {
+		culture = british
+		religion = protestant
+		size = 3000
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 3100
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 52500
+	}
+
+}
+

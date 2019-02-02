@@ -1,0 +1,32 @@
+
+1965 = {
+	aristocrats = {
+		culture = ubangian
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = ubangian
+		religion = animist
+		size = 250
+	}
+
+	artisans = {
+		culture = ubangian
+		religion = animist
+		size = 1300
+	}
+
+	soldiers = {
+		culture = ubangian
+		religion = animist
+		size = 275
+	}
+
+	farmers = {
+		culture = ubangian
+		religion = animist
+		size = 23675
+	}
+}

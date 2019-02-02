@@ -1,0 +1,60 @@
+
+2166 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 1550
+		militancy = 5
+	}
+
+	bureaucrats = {
+		culture = mexican
+		religion = catholic
+		size = 250
+		militancy = 5
+	}
+
+	officers = {
+		culture = mexican
+		religion = catholic
+		size = 75
+		militancy = 5
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 350
+		militancy = 5
+	}
+
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 10000
+		militancy = 5
+	}
+	
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 1950
+		militancy = 5
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 650
+
+		militancy = 5
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 48875
+		militancy = 5
+	}
+
+	clergymen = {

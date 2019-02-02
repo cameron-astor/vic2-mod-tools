@@ -1,0 +1,194 @@
+
+637 = {
+	bureaucrats = {
+		culture = slovak
+		religion = catholic
+		size = 75 
+	}
+
+	officers = {
+		culture = slovak
+		religion = catholic
+		size = 75 
+	}
+
+	clergymen = {
+		culture = slovak
+		religion = catholic
+		size = 975
+	}
+
+	artisans = {
+		culture = slovak
+		religion = catholic
+		size = 900
+	}
+
+	soldiers = {
+		culture = slovak
+		religion = catholic
+		size = 1100 
+	}
+	
+	serfs = {
+		culture = slovak
+		religion = catholic
+		size = 12000
+	}
+
+	farmers = {
+		culture = slovak
+		religion = catholic
+		size = 29875 
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 1875  
+	}
+
+	bureaucrats = {
+		culture = hungarian
+		religion = catholic
+		size = 400 
+	}
+
+	officers = {
+		culture = hungarian
+		religion = catholic
+		size = 375 
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 237  
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 1300
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 300  
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 19166  
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = protestant
+		size = 200 
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = protestant
+		size = 1300
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = protestant
+		size = 237  
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = protestant
+		size = 19762
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 50  
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1100
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25 
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 825    
+	}
+
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 200 
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 225
+	}
+
+	officers = {
+		culture = south_german
+		religion = catholic
+		size = 150 
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 1000
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 200  
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 18925  
+	}
+
+	clergymen = {
+		culture = ukrainian
+		religion = orthodox
+		size = 45  
+	}
+
+	artisans = {
+		culture = ukrainian
+		religion = orthodox
+		size = 200
+	}
+
+	soldiers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 45  
+	}
+
+	serfs = {
+		culture = ukrainian
+		religion = orthodox
+		size = 4450
+	}
+}

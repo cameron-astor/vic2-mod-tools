@@ -1,0 +1,86 @@
+
+1273 = {
+	aristocrats = {
+		culture = kanauji
+		religion = hindu
+		size = 1100
+	}
+
+	bureaucrats = {
+		culture = kanauji
+		religion = hindu
+		size = 150
+	}
+
+	clergymen = {
+		culture = kanauji
+		religion = hindu
+		size = 1100
+	}
+
+	artisans = {
+		culture = kanauji
+		religion = hindu
+		size = 4500
+	}
+
+	soldiers = {
+		culture = kanauji
+		religion = hindu
+		size = 1100
+	}
+
+	farmers = {
+		culture = kanauji
+		religion = hindu
+		size = 84350
+	}
+
+	aristocrats = {
+		culture = asian_minor
+		religion = animist
+		size = 700
+	}
+
+	clergymen = {
+		culture = asian_minor
+		religion = animist
+		size = 750
+	}
+
+	artisans = {
+		culture = asian_minor
+		religion = animist
+		size = 1500
+	}
+
+	soldiers = {
+		culture = asian_minor
+		religion = animist
+		size = 650
+	}
+
+	serfs = {
+		culture = asian_minor
+		religion = animist
+		size = 60000
+	}
+
+	clergymen = {
+		culture = avadhi
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = avadhi
+		religion = sunni
+		size = 2000
+	}
+
+	farmers = {
+		culture = avadhi
+		religion = sunni
+		size = 950
+	}
+}

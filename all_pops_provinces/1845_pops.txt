@@ -1,0 +1,68 @@
+
+1845 = {
+	aristocrats = {
+		culture = fur
+		religion = sunni
+		size = 75
+	}
+
+	clergymen = {
+		culture = fur
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = fur
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = fur
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = fur
+		religion = sunni
+		size = 3650
+	}
+
+	aristocrats = {
+		culture = azande
+		religion = animist
+		size = 450
+	}
+
+	artisans = {
+		culture = azande
+		religion = animist
+		size = 900
+	}
+
+	soldiers = {
+		culture = azande
+		religion = animist
+		size = 325
+	}
+
+	farmers = {
+		culture = azande
+		religion = animist
+		size = 21100
+	}
+
+	slaves = {
+		culture = azande
+		religion = animist
+		size = 8000
+	}
+	
+	slaves = {
+		culture = luo
+		religion = animist
+		size = 4000
+	}
+}

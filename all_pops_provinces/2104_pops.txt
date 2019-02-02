@@ -1,0 +1,51 @@
+
+2104 = {
+	aristocrats = {
+		culture = sotho
+		religion = animist
+		size = 1250
+	}
+
+	bureaucrats = {
+		culture = sotho
+		religion = animist
+		size = 250
+	}
+
+	officers = {
+		culture = sotho
+		religion = animist
+		size = 250
+	}
+
+	clergymen = {
+		culture = sotho
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = sotho
+		religion = animist
+		size = 3200
+	}
+
+	soldiers = {
+		culture = sotho
+		religion = animist
+		size = 1100
+	}
+
+	farmers = {
+		culture = sotho
+		religion = animist
+		size = 58000
+	}
+	
+	slaves = {
+		culture = zulu
+		religion = animist
+		size = 1420
+	}
+	
+}

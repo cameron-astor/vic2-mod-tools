@@ -1,0 +1,92 @@
+
+1079 = {
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 275
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 275
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 1500
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 300
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 21650
+	}
+
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 175
+	}
+
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 75
+	}
+
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 50
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 100
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 800
+	}
+
+	aristocrats = {
+		culture = siberian
+		religion = animist
+		size = 15
+	}
+
+	clergymen = {
+		culture = siberian
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = siberian
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = siberian
+		religion = animist
+		size = 10
+	}
+
+	farmers = {
+		culture = siberian
+		religion = animist
+		size = 900
+	}
+}

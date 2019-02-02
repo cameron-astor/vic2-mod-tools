@@ -1,0 +1,62 @@
+
+1229 = {
+	aristocrats = {
+		culture = panjabi
+		religion = sunni
+		size = 1300
+	}
+
+	clergymen = {
+		culture = panjabi
+		religion = sunni
+		size = 1300
+	}
+
+	artisans = {
+		culture = panjabi
+		religion = sunni
+		size = 6000
+	}
+
+	soldiers = {
+		culture = panjabi
+		religion = sunni
+		size = 3000
+	}
+
+	farmers = {
+		culture = panjabi
+		religion = sunni
+		size = 115400
+	}
+
+	aristocrats = {
+		culture = panjabi
+		religion = hindu
+		size = 100
+	}
+
+	clergymen = {
+		culture = panjabi
+		religion = hindu
+		size = 100
+	}
+
+	artisans = {
+		culture = panjabi
+		religion = hindu
+		size = 1100
+	}
+
+	soldiers = {
+		culture = panjabi
+		religion = hindu
+		size = 100
+	}
+
+	farmers = {
+		culture = panjabi
+		religion = hindu
+		size = 8700
+	}
+}

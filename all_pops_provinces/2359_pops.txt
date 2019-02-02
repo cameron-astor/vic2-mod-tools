@@ -1,0 +1,20 @@
+
+2359 = {
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 1900
+	}
+}

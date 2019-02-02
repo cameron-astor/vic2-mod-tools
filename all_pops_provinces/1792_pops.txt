@@ -1,0 +1,68 @@
+
+1792 = {
+	aristocrats = {
+		culture = western_nigritic
+		religion = sunni
+		size = 1150
+	}
+
+	clergymen = {
+		culture = western_nigritic
+		religion = sunni
+		size = 100
+	}
+	
+	artisans = {
+		culture = western_nigritic
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = western_nigritic
+		religion = sunni
+		size = 1100
+	}
+
+	farmers = {
+		culture = western_nigritic
+		religion = sunni
+		size = 31625
+	}
+	
+	aristocrats = {
+		culture = western_nigritic
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = western_nigritic
+		religion = animist
+		size = 100
+	}
+	
+	artisans = {
+		culture = western_nigritic
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = western_nigritic
+		religion = animist
+		size = 300
+	}
+
+	farmers = {
+		culture = western_nigritic
+		religion = animist
+		size = 30000
+	}
+
+	slaves = {
+		culture = western_nigritic
+		religion = animist
+		size = 3475
+	}
+}

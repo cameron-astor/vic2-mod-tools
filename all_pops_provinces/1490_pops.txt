@@ -1,0 +1,146 @@
+
+1490 = {
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 13500
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 7000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 4900
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 3000
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1000
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 635600
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 500
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 250
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 1350
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 275
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 24600
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 3650
+	}
+
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 3350
+	}
+
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 1700
+	}
+
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 8450
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 1700
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 153800
+	}
+}

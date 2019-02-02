@@ -1,0 +1,44 @@
+
+307 = {
+	aristocrats = {
+		culture = norwegian
+		religion = protestant
+		size = 100
+	}
+	
+	clergymen = {
+		culture = norwegian
+		religion = protestant
+		size = 50
+	}
+
+	artisans = {
+		culture = norwegian
+		religion = protestant
+		size = 500
+	}
+
+	soldiers = {
+		culture = norwegian
+		religion = protestant
+		size = 50
+	}
+
+	farmers = {
+		culture = norwegian
+		religion = protestant
+		size = 5000
+	}
+
+	farmers = {
+		culture = sami
+		religion = protestant
+		size = 2400
+	}
+
+	farmers = {
+		culture = finnish
+		religion = protestant
+		size = 2000
+	}
+}

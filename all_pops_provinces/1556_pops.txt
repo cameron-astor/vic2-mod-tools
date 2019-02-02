@@ -1,0 +1,166 @@
+
+1556 = {
+	aristocrats = {
+		culture = tibetan
+		religion = gelugpa
+		size = 1000
+	}
+
+	artisans = {
+		culture = tibetan
+		religion = gelugpa
+		size = 4550
+	}
+
+	soldiers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 925
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 27200
+	}
+	
+	slaves = {
+		culture = tibetan
+		religion = gelugpa
+		size = 40000
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 1800
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 400
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 300
+	}
+	
+	bureaucrats = {
+		culture = beifaren
+		religion = sunni
+		size = 400
+	}
+
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 600
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 1800
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 1000
+	}
+	
+	officers = {
+		culture = beifaren
+		religion = sunni
+		size = 500
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 900
+	}
+
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 175
+	}
+
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 900
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 175
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 16400
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 25
+	}
+
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 25
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 100
+	}
+	
+	serfs = {
+		culture = tibetan
+		religion = gelugpa
+		size = 10000
+	}
+	
+	serfs = {
+		culture = mongol
+		religion = gelugpa
+		size = 5000
+	}
+
+}

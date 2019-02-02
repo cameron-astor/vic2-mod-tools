@@ -1,0 +1,80 @@
+
+1848 = {
+	aristocrats = {
+		culture = tigray
+		religion = coptic
+		size = 225
+	}
+
+	bureaucrats = {
+		culture = tigray
+		religion = coptic
+		size = 15
+	}
+
+	officers = {
+		culture = tigray
+		religion = coptic
+		size = 25
+	}
+
+	clergymen = {
+		culture = tigray
+		religion = coptic
+		size = 125
+	}
+
+	artisans = {
+		culture = tigray
+		religion = coptic
+		size = 600
+	}
+
+	soldiers = {
+		culture = tigray
+		religion = coptic
+		size = 125
+	}
+
+	farmers = {
+		culture = tigray
+		religion = coptic
+		size = 9825
+	}
+
+	aristocrats = {
+		culture = tigray
+		religion = sunni
+		size = 150
+	}
+
+	clergymen = {
+		culture = tigray
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = tigray
+		religion = sunni
+		size = 400
+	}
+
+	soldiers = {
+		culture = tigray
+		religion = sunni
+		size = 75
+	}
+
+	farmers = {
+		culture = tigray
+		religion = sunni
+		size = 8800
+	}
+
+	slaves = {
+		culture = cushitic
+		religion = sunni
+		size = 500
+	}
+}

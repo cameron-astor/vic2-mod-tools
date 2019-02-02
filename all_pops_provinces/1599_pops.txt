@@ -1,0 +1,98 @@
+
+1599 = {
+	aristocrats = {
+		culture = uighur
+		religion = sunni
+		size = 850
+	}
+
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 50
+	}
+
+	clergymen = {
+		culture = uighur
+		religion = sunni
+		size = 425
+	}
+
+	artisans = {
+		culture = uighur
+		religion = sunni
+		size = 2150
+	}
+
+	soldiers = {
+		culture = uighur
+		religion = sunni
+		size = 425
+	}
+
+	farmers = {
+		culture = uighur
+		religion = sunni
+		size = 39200
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 25
+	}
+
+	slaves = {
+		culture = beifaren
+		religion = sunni
+		size = 2700
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 25
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 50
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 25
+	}
+
+	slaves = {
+		culture = beifaren
+		religion = mahayana
+		size = 900
+	}
+
+	slaves = {
+		culture = kirgiz
+		religion = mahayana
+		size = 900
+	}
+}

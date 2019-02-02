@@ -1,0 +1,68 @@
+
+1214 = {
+	aristocrats = {
+		culture = persian
+		religion = sunni
+		size = 550
+	}
+
+	clergymen = {
+		culture = persian
+		religion = sunni
+		size = 288
+	}
+
+	artisans = {
+		culture = persian
+		religion = sunni
+		size = 1400
+	}
+
+	soldiers = {
+		culture = persian
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = persian
+		religion = sunni
+		size = 20762
+	}
+
+	aristocrats = {
+		culture = pashtun
+		religion = sunni
+		size = 1725
+	}
+
+	clergymen = {
+		culture = pashtun
+		religion = sunni
+		size = 875
+	}
+
+	artisans = {
+		culture = pashtun
+		religion = sunni
+		size = 4400
+	}
+
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 70000
+	}
+
+	slaves = {
+		culture = persian
+		religion = sunni
+		size = 24000
+	}
+}

@@ -1,0 +1,188 @@
+
+1745 = {
+	aristocrats = {
+		culture = circassian
+		religion = sunni
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = circassian
+		religion = sunni
+		size = 1450
+	}
+
+	officers = {
+		culture = circassian
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = circassian
+		religion = sunni
+		size = 1250
+	}
+
+	artisans = {
+		culture = circassian
+		religion = sunni
+		size = 10000
+	}
+
+	soldiers = {
+		culture = circassian
+		religion = sunni
+		size = 1250
+	}
+
+	aristocrats = {
+		culture = misri
+		religion = sunni
+		size = 2600
+	}
+
+	bureaucrats = {
+		culture = misri
+		religion = sunni
+		size = 125
+	}
+
+	officers = {
+		culture = misri
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 325
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = misri
+		religion = sunni
+		size = 3000
+	}
+
+	soldiers = {
+		culture = misri
+		religion = sunni
+		size = 3000
+	}
+
+	soldiers = {
+		culture = misri
+		religion = sunni
+		size = 4000
+	}
+	
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 146000
+	}
+
+	bureaucrats = {
+		culture = misri
+		religion = coptic
+		size = 25
+	}
+
+	clergymen = {
+		culture = misri
+		religion = coptic
+		size = 175
+	}
+
+	artisans = {
+		culture = misri
+		religion = coptic
+		size = 10000
+	}
+
+	artisans = {
+		culture = misri
+		religion = coptic
+		size = 8000
+	}
+
+	farmers = {
+		culture = misri
+		religion = coptic
+		size = 26800
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 25
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2950
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 25
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 1225
+	}
+
+	slaves = {
+		culture = nilotic
+		religion = animist
+		size = 9000
+	}
+
+	slaves = {
+		culture = greek
+		religion = orthodox
+		size = 1025
+	}
+}

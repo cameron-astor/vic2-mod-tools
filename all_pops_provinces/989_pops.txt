@@ -1,0 +1,80 @@
+
+989 = {
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 2500
+	}
+
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 600
+	}
+
+	officers = {
+		culture = russian
+		religion = orthodox
+		size = 450
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 1850
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 9000
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 4150
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 1850
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 87650
+	}
+
+	serfs = {
+		culture = russian
+		religion = orthodox
+		size = 80000
+	}
+	
+	clergymen = {
+		culture = ugrian
+		religion = orthodox
+		size = 75
+	}
+
+	artisans = {
+		culture = ugrian
+		religion = orthodox
+		size = 500
+	}
+
+	soldiers = {
+		culture = ugrian
+		religion = orthodox
+		size = 100
+	}
+
+	farmers = {
+		culture = ugrian
+		religion = orthodox
+		size = 9325
+	}
+}

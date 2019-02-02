@@ -1,0 +1,62 @@
+
+1218 = {
+	bureaucrats = {
+		culture = panjabi
+		religion = sikh
+		size = 50
+	}
+
+	soldiers = {
+		culture = panjabi
+		religion = sikh
+		size = 300
+	}
+
+	aristocrats = {
+		culture = pashtun
+		religion = sunni
+		size = 1200
+	}
+
+	bureaucrats = {
+		culture = pashtun
+		religion = sunni
+		size = 150
+	}
+
+	clergymen = {
+		culture = pashtun
+		religion = sunni
+		size = 1200
+	}
+
+	artisans = {
+		culture = pashtun
+		religion = sunni
+		size = 10000
+	}
+	
+	artisans = {
+		culture = pashtun
+		religion = sunni
+		size = 4500
+	}
+
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 3000
+	}
+
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 108250
+	}
+}

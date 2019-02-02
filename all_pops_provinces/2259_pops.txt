@@ -1,0 +1,56 @@
+
+2259 = {
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 425
+	}
+
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 450
+	}
+
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 7925
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 550
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = catholic
+		size = 125
+	}
+
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 10275
+	}
+}

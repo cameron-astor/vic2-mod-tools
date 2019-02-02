@@ -1,0 +1,50 @@
+
+764 = {
+	aristocrats = {
+		culture = south_italian
+		religion = catholic
+		size = 5000
+	}
+
+	clergymen = {
+		culture = south_italian
+		religion = catholic
+		size = 700
+	}
+
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = south_italian
+		religion = catholic
+		size = 2000
+	}
+
+	farmers = {
+		culture = south_italian
+		religion = catholic
+		size = 141000
+	}
+	
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 1000
+	}
+}

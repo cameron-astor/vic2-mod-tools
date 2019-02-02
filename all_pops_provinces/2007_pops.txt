@@ -1,0 +1,74 @@
+
+2007 = {
+	aristocrats = {
+		culture = lunda
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = lunda
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = lunda
+		religion = animist
+		size = 75
+	}
+
+	soldiers = {
+		culture = lunda
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = lunda
+		religion = animist
+		size = 2400
+	}
+
+	slaves = {
+		culture = lunda
+		religion = animist
+		size = 1350
+	}
+
+	aristocrats = {
+		culture = kavango
+		religion = animist
+		size = 175
+	}
+
+	clergymen = {
+		culture = kavango
+		religion = animist
+		size = 175
+	}
+
+	artisans = {
+		culture = kavango
+		religion = animist
+		size = 800
+	}
+
+	soldiers = {
+		culture = kavango
+		religion = animist
+		size = 200
+	}
+
+	farmers = {
+		culture = kavango
+		religion = animist
+		size = 11450
+	}
+
+	slaves = {
+		culture = chokwe
+		religion = animist
+		size = 3200
+	}
+}

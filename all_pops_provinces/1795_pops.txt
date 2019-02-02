@@ -1,0 +1,68 @@
+
+1795 = {
+	aristocrats = {
+		culture = bambara
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = bambara
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = bambara
+		religion = animist
+		size = 250
+	}
+
+	soldiers = {
+		culture = bambara
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = bambara
+		religion = animist
+		size = 33450
+	}
+
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 800
+	}
+
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 250
+	}
+
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 1750
+	}
+
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 650
+	}
+
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 4550
+	}
+
+	slaves = {
+		culture = mande
+		religion = animist
+		size = 8000
+	}
+}

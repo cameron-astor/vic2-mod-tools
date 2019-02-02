@@ -1,0 +1,34 @@
+
+2033 = {
+	aristocrats = {
+		culture = kikuyu
+		religion = animist
+		size = 475
+	}
+
+	clergymen = {
+		culture = kikuyu
+		religion = animist
+		size = 250
+	}
+
+	artisans = {
+		culture = kikuyu
+		religion = animist
+		size = 1300
+	}
+
+	soldiers = {
+		culture = kikuyu
+		religion = animist
+		size = 250
+	}
+
+	farmers = {
+		culture = kikuyu
+		religion = animist
+		size = 23725
+	}
+
+}
+

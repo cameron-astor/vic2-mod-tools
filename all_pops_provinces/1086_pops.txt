@@ -1,0 +1,38 @@
+
+1086 = {
+	aristocrats = {
+		culture = siberian
+		religion = animist
+		size = 15
+	}
+
+	clergymen = {
+		culture = siberian
+		religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = siberian
+		religion = animist
+		size = 10
+	}
+
+	soldiers = {
+		culture = siberian
+		religion = animist
+		size = 10
+	}
+
+	farmers = {
+		culture = siberian
+		religion = animist
+		size = 440
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 20
+	}
+}

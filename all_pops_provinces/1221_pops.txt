@@ -1,0 +1,45 @@
+
+1221 = {
+	aristocrats = {
+		culture = baluchi
+		religion = sunni
+		size = 250
+	}
+
+	bureaucrats = {
+		culture = baluchi
+		religion = sunni
+		size = 250
+	}
+
+	officers = {
+		culture = baluchi
+		religion = sunni
+		size = 75
+	}
+
+	clergymen = {
+		culture = baluchi
+		religion = sunni
+		size = 250
+	}
+
+	artisans = {
+		culture = baluchi
+		religion = sunni
+		size = 1250
+	}
+
+	soldiers = {
+		culture = baluchi
+		religion = sunni
+		size = 5000
+	}
+
+	farmers = {
+		culture = baluchi
+		religion = sunni
+		size = 18925
+	}
+
+	slaves = {

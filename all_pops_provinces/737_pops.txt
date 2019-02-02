@@ -1,0 +1,63 @@
+
+737 = {
+	aristocrats = {
+		culture = north_italian
+		religion = catholic
+		size = 700
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = catholic
+		size = 125
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 1250
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = catholic
+		size = 125
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 10800
+	}
+
+	clergymen = {
+		culture = slovene
+		religion = catholic
+		size = 300
+	}
+
+	artisans = {
+		culture = slovene
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = slovene
+		religion = catholic
+		size = 325
+	}
+
+	farmers = {
+		culture = slovene
+		religion = catholic
+		size = 30000
+	}
+	
+	farmers = {
+		culture = gypsy
+		religion = catholic
+		size = 375
+	}
+
+}

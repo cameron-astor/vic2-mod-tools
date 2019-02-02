@@ -1,0 +1,50 @@
+
+2573 = {
+	aristocrats = {
+		culture = wolof
+		religion = sunni
+		size = 650
+	}
+
+	bureaucrats = {
+		culture = wolof
+		religion = sunni
+		size = 50
+	}
+
+	officers = {
+		culture = wolof
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = wolof
+		religion = sunni
+		size = 350
+	}
+
+	farmers = {
+		culture = wolof
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = wolof
+		religion = sunni
+		size = 1400
+	}
+
+	farmers = {
+		culture = wolof
+		religion = sunni
+		size = 41300
+	}
+
+	slaves = {
+		culture = wolof
+		religion = sunni
+		size = 7000
+	}
+}

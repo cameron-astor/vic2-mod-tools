@@ -1,0 +1,134 @@
+
+243 = {
+	bureaucrats = {
+		culture = yankee
+		religion = protestant
+		size = 300
+	}
+
+	officers = {
+		culture = yankee
+		religion = protestant
+		size = 150
+	}
+
+	capitalists = {
+		culture = yankee
+		religion = protestant
+		size = 350
+	}
+
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 675
+	}
+
+	clerks = {
+		culture = yankee
+		religion = protestant
+		size = 825
+	}
+
+	craftsmen = {
+		culture = yankee
+		religion = protestant
+		size = 16250
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 10000
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 10000
+	}
+	
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 10000
+	}
+	
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 10000
+	}
+	
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 7925
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 2000
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 22145
+	}
+
+	clergymen = {
+		culture = yankee
+		religion = catholic
+		size = 50
+	}
+
+	clerks = {
+		culture = yankee
+		religion = catholic
+		size = 50
+	}
+
+	craftsmen = {
+		culture = yankee
+		religion = catholic
+		size = 1100
+	}
+
+	artisans = {
+		culture = yankee
+		religion = catholic
+		size = 2950
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = catholic
+		size = 75
+	}
+
+	farmers = {
+		culture = yankee
+		religion = catholic
+		size = 2875
+	}
+
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 75
+	}
+
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 7000
+	}
+
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 925
+	}
+}

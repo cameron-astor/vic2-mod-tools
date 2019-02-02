@@ -1,0 +1,164 @@
+
+1324 = {
+	aristocrats = {
+		culture = sinhala
+		religion = theravada
+		size = 250
+	}
+
+	clergymen = {
+		culture = sinhala
+		religion = theravada
+		size = 225
+	}
+
+	artisans = {
+		culture = sinhala
+		religion = theravada
+		size = 500
+	}
+
+	soldiers = {
+		culture = sinhala
+		religion = theravada
+		size = 200
+	}
+
+	farmers = {
+		culture = sinhala
+		religion = theravada
+		size = 19825
+	}
+
+	aristocrats = {
+		culture = tamil
+		religion = hindu
+		size = 250
+	}
+
+	clergymen = {
+		culture = tamil
+		religion = hindu
+		size = 250
+	}
+
+	artisans = {
+		culture = tamil
+		religion = hindu
+		size = 500
+	}
+
+	soldiers = {
+		culture = tamil
+		religion = hindu
+		size = 250
+	}
+
+	labourers = {
+		culture = tamil
+		religion = hindu
+		size = 22750
+	}
+
+	clergymen = {
+		culture = sinhala
+		religion = protestant
+		size = 25
+	}
+
+	artisans = {
+		culture = sinhala
+		religion = protestant
+		size = 250
+	}
+
+	soldiers = {
+		culture = sinhala
+		religion = protestant
+		size = 25
+	}
+
+	labourers = {
+		culture = sinhala
+		religion = protestant
+		size = 700
+	}
+
+	clergymen = {
+		culture = sinhala
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = sinhala
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = sinhala
+		religion = catholic
+		size = 25
+	}
+
+	labourers = {
+		culture = sinhala
+		religion = catholic
+		size = 1475
+	}
+
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 250
+	}
+
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 50
+	}
+
+	labourers = {
+		culture = malay
+		religion = sunni
+		size = 675
+	}
+
+	aristocrats = {
+		culture = mashriqi
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 750
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = sunni
+		size = 25
+	}
+
+	labourers = {
+		culture = mashriqi
+		religion = sunni
+		size = 2150
+	}
+}

@@ -1,0 +1,57 @@
+
+2197 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 1050
+		militancy = 9
+		rebel_type = nationalist_rebels
+	}
+
+	bureaucrats = {
+		culture = central_american
+		religion = catholic
+		size = 100
+		militancy = 9
+		rebel_type = nationalist_rebels
+	}
+
+	officers = {
+		culture = central_american
+		religion = catholic
+		size = 75
+		militancy = 9
+		rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 475
+		militancy = 9
+		rebel_type = nationalist_rebels
+	}
+
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 2400
+	}
+
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 1475
+
+		militancy = 9
+		rebel_type = nationalist_rebels
+	}
+
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 43425
+		militancy = 9
+		rebel_type = nationalist_rebels
+	}
+}

@@ -1,0 +1,33 @@
+
+1332 = {
+	aristocrats = {
+		culture = karen
+		religion = theravada
+		size = 400
+	}
+
+	clergymen = {
+		culture = karen
+		religion = theravada
+		size = 500
+	}
+
+	artisans = {
+		culture = karen
+		religion = theravada
+		size = 2400
+	}
+
+	soldiers = {
+		culture = karen
+		religion = theravada
+		size = 500
+	}
+
+	farmers = {
+		culture = karen
+		religion = theravada
+		size = 24200
+	}
+
+	aristocrats = {

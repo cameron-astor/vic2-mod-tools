@@ -1,0 +1,152 @@
+
+1563 = {
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 28100
+	}
+
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 6700
+	}
+
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 6900
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 14100
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 400
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 3000
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 3000
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1100
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1165600
+	}
+	
+	serfs = {
+		culture = beifaren
+		religion = mahayana
+		size = 100000
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 1400
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 700
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 3550
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 725
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 64625
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 300
+	}
+
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 300
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 1500
+	}
+}

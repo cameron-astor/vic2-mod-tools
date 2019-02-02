@@ -1,0 +1,104 @@
+
+2056 = {
+	aristocrats = {
+		culture = nyasa
+		religion = animist
+		size = 400
+	}
+
+	clergymen = {
+		culture = nyasa
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = nyasa
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = nyasa
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = nyasa
+		religion = animist
+		size = 10100
+	}
+
+	slaves = {
+		culture = nyasa
+		religion = animist
+		size = 2100
+	}
+
+	aristocrats = {
+		culture = shona
+		religion = animist
+		size = 550
+	}
+
+	clergymen = {
+		culture = shona
+		religion = animist
+		size = 125
+	}
+
+	artisans = {
+		culture = shona
+		religion = animist
+		size = 650
+	}
+
+	soldiers = {
+		culture = shona
+		religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = shona
+		religion = animist
+		size = 35925
+	}
+
+	slaves = {
+		culture = shona
+		religion = animist
+		size = 3000
+	}
+
+	aristocrats = {
+		culture = sena
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = sena
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = sena
+		religion = animist
+		size = 150
+	}
+
+	soldiers = {
+		culture = sena
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = sena
+		religion = animist
+		size = 12710
+	}
+}

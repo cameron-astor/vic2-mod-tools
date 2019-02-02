@@ -1,0 +1,32 @@
+
+519 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 1850
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 625
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 3250
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 69275
+	}
+}

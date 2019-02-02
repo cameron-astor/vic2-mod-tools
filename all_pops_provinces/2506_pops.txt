@@ -1,0 +1,26 @@
+
+2506 = {
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 1750
+	}
+}

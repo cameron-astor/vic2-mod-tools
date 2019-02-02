@@ -1,0 +1,75 @@
+
+1076 = {
+
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 400
+	}
+
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 75
+	}
+
+	officers = {
+		culture = russian
+		religion = orthodox
+		size = 65
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 375
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 1850
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 375
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 7500
+	}
+	
+	aristocrats = {
+		culture = siberian
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = siberian
+		religion = animist
+		size = 10
+	}
+
+	artisans = {
+		culture = siberian
+		religion = animist
+		size = 25
+	}
+
+	soldiers = {
+		culture = siberian
+		religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = siberian
+		religion = animist
+		size = 450
+	}
+}

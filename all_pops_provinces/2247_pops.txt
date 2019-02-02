@@ -1,0 +1,98 @@
+
+2247 = {
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 1250
+	}
+
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 225
+	}
+
+	officers = {
+		culture = north_andean
+		religion = catholic
+		size = 175
+	}
+
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 525
+	}
+
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 2600
+	}
+
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 76875
+	}
+
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 200
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2475
+	}
+
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1250
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 200
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 3700
+	}
+}

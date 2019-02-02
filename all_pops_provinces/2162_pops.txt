@@ -1,0 +1,110 @@
+
+2162 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 1425
+		militancy = 5
+	}
+
+	bureaucrats = {
+		culture = mexican
+		religion = catholic
+		size = 175
+		militancy = 5
+	}
+
+	officers = {
+		culture = mexican
+		religion = catholic
+		size = 50
+		militancy = 5
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 500
+		militancy = 5
+	}
+
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 200
+		militancy = 5
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 50
+
+		militancy = 5
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 1600
+		militancy = 5
+	}
+
+	clergymen = {
+		culture = nahua
+		religion = catholic
+		size = 100
+		militancy = 5
+	}
+
+	artisans = {
+		culture = nahua
+		religion = catholic
+		size = 1050
+		militancy = 5
+	}
+
+	soldiers = {
+		culture = nahua
+		religion = catholic
+		size = 225
+
+		militancy = 5
+	}
+
+	farmers = {
+		culture = nahua
+		religion = catholic
+		size = 20025
+		militancy = 5
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 50
+		militancy = 5
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 500
+		militancy = 5
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 100
+
+		militancy = 5
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 9350
+		militancy = 5
+	}
+}

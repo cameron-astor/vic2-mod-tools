@@ -1,0 +1,74 @@
+
+1864 = {
+	aristocrats = {
+		culture = oromo
+		religion = sunni
+		size = 875
+	}
+
+	clergymen = {
+		culture = oromo
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = oromo
+		religion = sunni
+		size = 1850
+	}
+
+	soldiers = {
+		culture = oromo
+		religion = sunni
+		size = 450
+	}
+
+	farmers = {
+		culture = oromo
+		religion = sunni
+		size = 35375
+	}
+
+	slaves = {
+		culture = oromo
+		religion = sunni
+		size = 27000
+	}
+	
+	aristocrats = {
+		culture = cushitic
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = cushitic
+		religion = animist
+		size = 275
+	}
+
+	artisans = {
+		culture = cushitic
+		religion = animist
+		size = 1075
+	}
+
+	soldiers = {
+		culture = cushitic
+		religion = animist
+		size = 275
+	}
+
+	farmers = {
+		culture = cushitic
+		religion = animist
+		size = 9875
+	}
+
+	slaves = {
+		culture = cushitic
+		religion = animist
+		size = 7000
+	}
+}

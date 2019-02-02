@@ -1,0 +1,62 @@
+
+762 = {
+	aristocrats = {
+		culture = south_italian
+		religion = catholic
+		size = 5200
+	}
+
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic
+		size = 825
+	}
+
+	officers = {
+		culture = south_italian
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = south_italian
+		religion = catholic
+		size = 1900
+	}
+
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 8000
+	}
+
+	soldiers = {
+		culture = south_italian
+		religion = catholic
+		size = 2000
+	}
+
+	farmers = {
+		culture = south_italian
+		religion = catholic
+		size = 143125
+	}
+	
+	farmers = {
+		culture = albanian
+		religion = orthodox
+		size = 4450
+	}
+}

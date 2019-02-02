@@ -1,0 +1,32 @@
+
+615 = {
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 175 
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 125
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 600
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 1125
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 11975
+	}
+}

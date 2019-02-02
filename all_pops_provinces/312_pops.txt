@@ -1,0 +1,33 @@
+
+312 = {
+	aristocrats = {
+		culture = norwegian
+		religion = protestant
+		size = 300
+	}
+	
+	clergymen = {
+		culture = norwegian
+		religion = protestant
+		size = 125
+	}
+
+	artisans = {
+		culture = norwegian
+		religion = protestant
+		size = 2000
+	}
+
+	soldiers = {
+		culture = norwegian
+		religion = protestant
+		size = 250
+	}
+
+	farmers = {
+		culture = norwegian
+		religion = protestant
+		size = 32125
+	}
+
+}

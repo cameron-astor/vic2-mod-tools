@@ -1,0 +1,51 @@
+
+768 = {
+	aristocrats = {
+		culture = slovene
+		religion = catholic
+		size = 825
+	}
+
+	bureaucrats = {
+		culture = slovene
+		religion = catholic
+		size = 225
+	}
+
+	officers = {
+		culture = slovene
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = slovene
+		religion = catholic
+		size = 700
+	}
+
+	artisans = {
+		culture = slovene
+		religion = catholic
+		size = 4000
+	}
+
+	soldiers = {
+		culture = slovene
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = slovene
+		religion = catholic
+		size = 43150
+	}
+	
+	serfs = {
+		culture = slovene
+		religion = catholic
+		size = 20000
+	}
+	
+}

@@ -1,0 +1,45 @@
+
+304 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 25
+	}
+
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 125
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 3250
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 100
+	}
+
+	labourers = {
+		culture = british
+		religion = protestant
+		size = 7600
+	}
+
+	labourers = {
+		culture = british
+		religion = catholic
+		size = 300
+	}
+
+}

@@ -1,0 +1,62 @@
+
+1054 = {
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 25
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 50
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 825
+	}
+
+	aristocrats = {
+		culture = circassian
+		religion = orthodox
+		size = 2000
+	}
+
+	clergymen = {
+		culture = circassian
+		religion = orthodox
+		size = 2000
+	}
+
+	artisans = {
+		culture = circassian
+		religion = orthodox
+		size = 4000
+	}
+
+	soldiers = {
+		culture = circassian
+		religion = orthodox
+		size = 2000
+	}
+	
+	soldiers = {
+		culture = circassian
+		religion = sunni
+		size = 20000
+	}
+
+	farmers = {
+		culture = circassian
+		religion = animist
+		size = 104250
+	}
+}

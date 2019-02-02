@@ -1,0 +1,56 @@
+
+2165 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 325
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 150
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 2375
+	}
+
+	clergymen = {
+		culture = mayan
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = mayan
+		religion = catholic
+		size = 600
+	}
+
+	soldiers = {
+		culture = mayan
+		religion = catholic
+		size = 125
+	}
+
+	farmers = {
+		culture = mayan
+		religion = catholic
+		size = 11225
+	}
+}

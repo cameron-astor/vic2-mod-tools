@@ -1,0 +1,27 @@
+
+67 = {
+	clergymen = {
+		culture = french_canadian
+		religion = catholic
+		size = 150
+	}
+
+	artisans = {
+		culture = french_canadian
+		religion = catholic
+		size = 750
+	}
+
+	soldiers = {
+		culture = french_canadian
+		religion = catholic
+		size = 150
+	}
+
+	labourers = {
+		culture = french_canadian
+		religion = catholic
+		size = 4500
+	}
+
+}

@@ -1,0 +1,94 @@
+
+1593 = {
+	aristocrats = {
+		culture = tibetan
+		religion = gelugpa
+		size = 2625
+	}
+
+	clergymen = {
+		culture = tibetan
+		religion = gelugpa
+		size = 1350
+	}
+
+	artisans = {
+		culture = tibetan
+		religion = gelugpa
+		size = 6600
+	}
+
+	soldiers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 1325
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 12010
+	}
+
+	aristocrats = {
+		culture = kachin
+		religion = animist
+		size = 750
+	}
+
+	clergymen = {
+		culture = kachin
+		religion = animist
+		size = 400
+	}
+
+	artisans = {
+		culture = kachin
+		religion = animist
+		size = 1950
+	}
+
+	soldiers = {
+		culture = kachin
+		religion = animist
+		size = 350
+	}
+
+	farmers = {
+		culture = kachin
+		religion = animist
+		size = 3555
+	}
+
+	aristocrats = {
+		culture = asian_minor
+		religion = animist
+		size = 750
+	}
+
+	clergymen = {
+		culture = asian_minor
+		religion = animist
+		size = 375
+	}
+
+	artisans = {
+		culture = asian_minor
+		religion = animist
+		size = 1900
+	}
+
+	soldiers = {
+		culture = asian_minor
+		religion = animist
+		size = 375
+	}
+
+	farmers = {
+		culture = asian_minor
+		religion = animist
+		size = 3460
+	}
+
+}
+

@@ -1,0 +1,50 @@
+
+1067 = {
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 500
+	}
+
+	officers = {
+		culture = russian
+		religion = orthodox
+		size = 225
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 500
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 5000
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 1000
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 20000
+	}
+
+	aristocrats = {
+		culture = tatar
+		religion = animist
+		size = 100
+	}
+	
+	farmers = {
+		culture = tatar
+		religion = animist
+		size = 1400
+	}
+}

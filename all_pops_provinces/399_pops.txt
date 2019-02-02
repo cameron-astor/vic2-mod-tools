@@ -1,0 +1,74 @@
+
+399 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 1400
+	}
+
+	officers = {
+		culture = picard
+		religion = catholic
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = picard
+		religion = catholic
+		size = 1750
+	}
+
+	clergymen = {
+		culture = picard
+		religion = catholic
+		size = 1500
+	}
+
+	artisans = {
+		culture = picard
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = picard
+		religion = catholic
+		size = 7000
+	}
+
+	soldiers = {
+		culture = picard
+		religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = picard
+		religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = picard
+		religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = picard
+		religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = picard
+		religion = catholic
+		size = 3000
+	}
+
+	labourers = {
+		culture = picard
+		religion = catholic
+		size = 120500
+	}
+}

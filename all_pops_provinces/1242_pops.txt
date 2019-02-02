@@ -1,0 +1,152 @@
+
+1242 = {
+	aristocrats = {
+		culture = avadhi
+		religion = sunni
+		size = 1250
+	}
+
+	bureaucrats = {
+		culture = avadhi
+		religion = sunni
+		size = 500
+	}
+
+	officers = {
+		culture = avadhi
+		religion = sunni
+		size = 500
+	}
+
+	clergymen = {
+		culture = avadhi
+		religion = sunni
+		size = 1125
+	}
+
+	artisans = {
+		culture = avadhi
+		religion = sunni
+		size = 10000
+	}
+	
+	artisans = {
+		culture = avadhi
+		religion = sunni
+		size = 10000
+	}
+
+	soldiers = {
+		culture = avadhi
+		religion = sunni
+		size = 1500
+	}
+
+	farmers = {
+		culture = avadhi
+		religion = sunni
+		size = 61125
+	}
+
+	aristocrats = {
+		culture = avadhi
+		religion = shiite
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = avadhi
+		religion = shiite
+		size = 700
+	}
+
+	officers = {
+		culture = avadhi
+		religion = shiite
+		size = 750
+	}
+
+	clergymen = {
+		culture = avadhi
+		religion = shiite
+		size = 275
+	}
+
+	artisans = {
+		culture = avadhi
+		religion = shiite
+		size = 10000
+	}
+	
+	artisans = {
+		culture = avadhi
+		religion = shiite
+		size = 5000
+	}
+
+	soldiers = {
+		culture = avadhi
+		religion = shiite
+		size = 1100
+	}
+
+	farmers = {
+		culture = avadhi
+		religion = shiite
+		size = 10525
+	}
+
+	aristocrats = {
+		culture = avadhi
+		religion = hindu
+		size = 26500
+	}
+
+	bureaucrats = {
+		culture = avadhi
+		religion = hindu
+		size = 500
+	}
+
+	clergymen = {
+		culture = avadhi
+		religion = hindu
+		size = 5500
+	}
+
+	artisans = {
+		culture = avadhi
+		religion = hindu
+		size = 10000
+	}
+	
+	artisans = {
+		culture = avadhi
+		religion = hindu
+		size = 10000
+	}
+
+	soldiers = {
+		culture = avadhi
+		religion = hindu
+		size = 3000
+	}
+
+	soldiers = {
+		culture = avadhi
+		religion = hindu
+		size = 2000
+	}
+
+	farmers = {
+		culture = avadhi
+		religion = hindu
+		size = 356500
+	}
+
+	serfs = {
+		culture = avadhi
+		religion = hindu
+		size = 130000
+	}
+}

@@ -1,0 +1,62 @@
+
+1831 = {
+	aristocrats = {
+		culture = sudanese
+		religion = sunni
+		size = 350
+	}
+
+	clergymen = {
+		culture = sudanese
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = sudanese
+		religion = sunni
+		size = 975
+	}
+
+	soldiers = {
+		culture = sudanese
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = sudanese
+		religion = sunni
+		size = 17625
+	}
+
+	aristocrats = {
+		culture = dinka
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = dinka
+		religion = animist
+		size = 400
+	}
+
+	soldiers = {
+		culture = dinka
+		religion = animist
+		size = 75
+	}
+
+	farmers = {
+		culture = dinka
+		religion = animist
+		size = 7350
+	}
+
+	slaves = {
+		culture = luo
+		religion = animist
+		size = 4000
+	}
+}

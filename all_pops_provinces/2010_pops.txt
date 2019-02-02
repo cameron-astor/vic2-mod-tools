@@ -1,0 +1,74 @@
+
+2010 = {
+	aristocrats = {
+		culture = chokwe
+		religion = animist
+		size = 250
+	}
+
+	clergymen = {
+		culture = chokwe
+		religion = animist
+		size = 250
+	}
+
+	artisans = {
+		culture = chokwe
+		religion = animist
+		size = 1250
+	}
+
+	soldiers = {
+		culture = chokwe
+		religion = animist
+		size = 250
+	}
+
+	farmers = {
+		culture = chokwe
+		religion = animist
+		size = 8000
+	}
+
+	slaves = {
+		culture = chokwe
+		religion = animist
+		size = 8000
+	}
+
+	aristocrats = {
+		culture = lunda
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = lunda
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = lunda
+		religion = animist
+		size = 200
+	}
+
+	soldiers = {
+		culture = lunda
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = lunda
+		religion = animist
+		size = 10850
+	}
+
+	slaves = {
+		culture = kavango
+		religion = animist
+		size = 800
+	}
+}

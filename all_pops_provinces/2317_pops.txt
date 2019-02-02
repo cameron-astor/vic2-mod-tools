@@ -1,0 +1,86 @@
+
+2317 = {
+	clergymen = {
+		culture = south_andean
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = south_andean
+		religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+		culture = south_andean
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = south_andean
+		religion = catholic
+		size = 900
+	}
+
+	aristocrats = {
+		culture = amazonian
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = amazonian
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = amazonian
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = amazonian
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 1800
+	}
+
+	aristocrats = {
+		culture = guarani
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = guarani
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = guarani
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = guarani
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = guarani
+		religion = animist
+		size = 1800
+	}
+}

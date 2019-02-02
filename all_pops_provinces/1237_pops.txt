@@ -1,0 +1,92 @@
+
+1237 = {
+	aristocrats = {
+		culture = panjabi
+		religion = sunni
+		size = 1100
+	}
+
+	clergymen = {
+		culture = panjabi
+		religion = sunni
+		size = 625
+	}
+
+	artisans = {
+		culture = panjabi
+		religion = sunni
+		size = 8000
+	}
+
+	soldiers = {
+		culture = panjabi
+		religion = sunni
+		size = 750
+	}
+
+	farmers = {
+		culture = panjabi
+		religion = sunni
+		size = 157625
+	}
+
+	aristocrats = {
+		culture = panjabi
+		religion = sikh
+		size = 6250
+	}
+
+	clergymen = {
+		culture = panjabi
+		religion = sikh
+		size = 375
+	}
+
+	artisans = {
+		culture = panjabi
+		religion = sikh
+		size = 2000
+	}
+
+	soldiers = {
+		culture = panjabi
+		religion = sikh
+		size = 500
+	}
+
+	farmers = {
+		culture = panjabi
+		religion = sikh
+		size = 23875
+	}
+
+	aristocrats = {
+		culture = avadhi
+		religion = hindu
+		size = 2500
+	}
+
+	clergymen = {
+		culture = avadhi
+		religion = hindu
+		size = 2250
+	}
+
+	artisans = {
+		culture = avadhi
+		religion = hindu
+		size = 6000
+	}
+
+	soldiers = {
+		culture = avadhi
+		religion = hindu
+		size = 2000
+	}
+
+	farmers = {
+		culture = avadhi
+		religion = hindu
+		size = 106250
+	}
+}

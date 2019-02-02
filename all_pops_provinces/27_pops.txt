@@ -1,0 +1,45 @@
+
+27 = {
+
+	clergymen = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 5
+	}
+
+	artisans = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 5
+	}
+	
+	officers = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 5
+	}
+
+	soldiers = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 5
+	}
+	
+	farmers = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 15
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 710
+	}
+
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 185
+	}
+}

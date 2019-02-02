@@ -1,0 +1,39 @@
+
+1783 = {
+	aristocrats = {
+		culture = wolof
+		religion = sunni
+		size = 100
+	}
+	
+	officers = {
+		culture = wolof
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = wolof
+		religion = sunni
+		size = 100
+	}
+	
+	clergymen = {
+		culture = wolof
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = wolof
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = wolof
+		religion = sunni
+		size = 17800
+	}
+	
+}

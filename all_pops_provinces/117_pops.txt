@@ -1,0 +1,62 @@
+
+117 = {
+	aristocrats = {
+		culture = yankee
+		religion = protestant
+		size = 5
+	}
+	
+	officers = {
+		culture = yankee
+		religion = protestant
+		size = 5
+	}
+	
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 5
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 5
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 20
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 30
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 100
+	}
+	
+	aristocrats = {
+		culture = dakota
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = dakota
+		religion = animist
+		size = 300
+	}
+
+	farmers = {
+		culture = dakota
+		religion = animist
+		size = 1800
+	}
+}

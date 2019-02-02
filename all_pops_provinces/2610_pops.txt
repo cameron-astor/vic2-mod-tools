@@ -1,0 +1,56 @@
+
+2610 = {
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 30
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 45
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 25
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 1150
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 1825
+	}
+}

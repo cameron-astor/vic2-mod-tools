@@ -1,0 +1,32 @@
+
+2327 = {
+	aristocrats = {
+		culture = south_andean
+		religion = catholic
+		size = 125
+	}
+
+	clergymen = {
+		culture = south_andean
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = south_andean
+		religion = catholic
+		size = 250
+	}
+
+	soldiers = {
+		culture = south_andean
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = south_andean
+		religion = catholic
+		size = 4525
+	}
+}

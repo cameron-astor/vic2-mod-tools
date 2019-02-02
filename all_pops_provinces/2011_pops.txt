@@ -1,0 +1,76 @@
+
+2011 = {
+	aristocrats = {
+		culture = lunda
+		religion = animist
+		size = 150
+	}
+
+	clergymen = {
+		culture = lunda
+		religion = animist
+		size = 125
+	}
+
+	artisans = {
+		culture = lunda
+		religion = animist
+		size = 750
+	}
+
+	soldiers = {
+		culture = lunda
+		religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = lunda
+		religion = animist
+		size = 8125
+	}
+
+	slaves = {
+		culture = lunda
+		religion = animist
+		size = 4700
+	}
+
+	aristocrats = {
+		culture = chokwe
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = chokwe
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = chokwe
+		religion = animist
+		size = 250
+	}
+
+	soldiers = {
+		culture = chokwe
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = chokwe
+		religion = animist
+		size = 3600
+	}
+
+	slaves = {
+		culture = kavango
+		religion = animist
+		size = 1100
+	}
+
+}
+

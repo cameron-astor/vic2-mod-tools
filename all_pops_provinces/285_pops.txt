@@ -1,0 +1,44 @@
+
+285 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 750
+	}
+
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 625
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 5000
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 1100
+	}
+
+	labourers = {
+		culture = british
+		religion = protestant
+		size = 82625
+	}
+
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 1100
+	}
+
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 1100
+	}
+}

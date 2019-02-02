@@ -1,0 +1,26 @@
+
+341 = {
+	clergymen = {
+		culture = finnish
+		religion = protestant
+		size = 275
+	}
+
+	artisans = {
+		culture = finnish
+		religion = protestant
+		size = 1450
+	}
+
+	soldiers = {
+		culture = finnish
+		religion = protestant
+		size = 275
+	}
+
+	farmers = {
+		culture = finnish
+		religion = protestant
+		size = 27025
+	}
+}

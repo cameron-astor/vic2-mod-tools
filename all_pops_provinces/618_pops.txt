@@ -1,0 +1,56 @@
+
+618 = {
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 450 
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 325 
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 1550
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 25675
+	}
+
+	clergymen = {
+		culture = slovene
+		religion = catholic
+		size = 175 
+	}
+
+	artisans = {
+		culture = slovene
+		religion = catholic
+		size = 950
+	}
+
+	soldiers = {
+		culture = slovene
+		religion = catholic
+		size = 1200
+	}
+
+	farmers = {
+		culture = slovene
+		religion = catholic
+		size = 16675 
+	}
+}

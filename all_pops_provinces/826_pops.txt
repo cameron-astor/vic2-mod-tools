@@ -1,0 +1,68 @@
+
+826 = {
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 5
+	}
+
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 475
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = orthodox
+		size = 75
+	}
+
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 25
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 275
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 3000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 1100
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 22000
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 650
+	}
+	
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 10
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 490
+	}
+}

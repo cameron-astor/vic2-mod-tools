@@ -1,0 +1,40 @@
+
+1826 = {
+	aristocrats = {
+		culture = teda
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = teda
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = teda
+		religion = sunni
+		size = 50
+	}
+
+	soldiers = {
+		culture = teda
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = teda
+		religion = sunni
+		size = 1080
+	}
+	
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 300
+	}
+
+}
+

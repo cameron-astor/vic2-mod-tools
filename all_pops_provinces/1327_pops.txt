@@ -1,0 +1,94 @@
+
+1327 = {
+	aristocrats = {
+		culture = nepali
+		religion = hindu
+		size = 900
+	}
+
+	clergymen = {
+		culture = nepali
+		religion = hindu
+		size = 450
+	}
+
+	artisans = {
+		culture = nepali
+		religion = hindu
+		size = 2300
+	}
+
+	soldiers = {
+		culture = nepali
+		religion = hindu
+		size = 1100
+	}
+
+	farmers = {
+		culture = nepali
+		religion = hindu
+		size = 49250
+	}
+
+	aristocrats = {
+		culture = tibetan
+		religion = gelugpa
+		size = 700
+	}
+
+	clergymen = {
+		culture = tibetan
+		religion = gelugpa
+		size = 375
+	}
+
+	artisans = {
+		culture = tibetan
+		religion = gelugpa
+		size = 1850
+	}
+
+	soldiers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 350
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 33725
+	}
+
+	aristocrats = {
+		culture = asian_minor
+		religion = animist
+		size = 350
+	}
+
+	clergymen = {
+		culture = asian_minor
+		religion = animist
+		size = 200
+	}
+
+	artisans = {
+		culture = asian_minor
+		religion = animist
+		size = 950
+	}
+
+	soldiers = {
+		culture = asian_minor
+		religion = animist
+		size = 200
+	}
+
+	slaves = {
+		culture = asian_minor
+		religion = animist
+		size = 18300
+	}
+}
+
+

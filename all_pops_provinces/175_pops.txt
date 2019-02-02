@@ -1,0 +1,26 @@
+
+175 = {
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 150
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 200
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 50
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 3700
+	}
+}

@@ -1,0 +1,68 @@
+
+2037 = {
+	aristocrats = {
+		culture = swahili
+		religion = sunni
+		size = 325
+	}
+
+	clergymen = {
+		culture = swahili
+		religion = sunni
+		size = 175
+	}
+
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 725
+	}
+
+	soldiers = {
+		culture = swahili
+		religion = sunni
+		size = 175
+	}
+
+	farmers = {
+		culture = swahili
+		religion = sunni
+		size = 11600
+	}
+
+	slaves = {
+		culture = kilombero
+		religion = animist
+		size = 6000
+	}
+
+	aristocrats = {
+		culture = sukuma
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = sukuma
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = sukuma
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = sukuma
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = sukuma
+		religion = sunni
+		size = 2650
+	}
+}

@@ -1,0 +1,56 @@
+
+664 = {
+	aristocrats = {
+		culture = romanian
+		religion = orthodox
+		size = 4100 
+	}
+
+	bureaucrats = {
+		culture = romanian
+		religion = orthodox
+		size = 350 
+	}
+
+	officers = {
+		culture = romanian
+		religion = orthodox
+		size = 300 
+	}
+
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 600 
+	}
+
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 10000
+	}
+
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 1100
+	}
+
+	farmers = {
+		culture = romanian
+		religion = orthodox
+		size = 81650
+	}
+	
+	slaves = {
+		culture = gypsy
+		religion = orthodox
+		size = 6967
+	}
+	
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 2500
+	}
+}

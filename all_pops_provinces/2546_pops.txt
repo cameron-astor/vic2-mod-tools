@@ -1,0 +1,32 @@
+
+2546 = {
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 3
+	}
+
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 12
+	}
+
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 225
+	}
+}

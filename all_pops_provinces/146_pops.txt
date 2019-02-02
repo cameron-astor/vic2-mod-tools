@@ -1,0 +1,146 @@
+
+146 = {
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 150
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 1175
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 250
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 23650
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 5
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 220
+	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 275
+	}
+
+	aristocrats = {
+		culture = dixie
+		religion = protestant
+		size = 150
+	}
+
+	clergymen = {
+		culture = dixie
+		religion = protestant
+		size = 100
+	}
+
+	artisans = {
+		culture = dixie
+		religion = protestant
+		size = 2675
+	}
+
+	soldiers = {
+		culture = dixie
+		religion = protestant
+		size = 200
+	}
+
+	farmers = {
+		culture = dixie
+		religion = protestant
+		size = 13875
+	}
+
+	aristocrats = {
+		culture = dixie
+		religion = catholic
+		size = 10
+	}
+
+	clergymen = {
+		culture = dixie
+		religion = catholic
+		size = 15
+	}
+
+	artisans = {
+		culture = dixie
+		religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+		culture = dixie
+		religion = catholic
+		size = 10
+	}
+
+	farmers = {
+		culture = dixie
+		religion = catholic
+		size = 915
+	}
+
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 150
+	}
+
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 1825
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 50
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 150
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 100
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 2700
+	}
+}

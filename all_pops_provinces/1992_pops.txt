@@ -1,0 +1,38 @@
+
+1992 = {
+	aristocrats = {
+		culture = mongo
+		religion = animist
+		size = 2110
+	}
+
+	clergymen = {
+		culture = mongo
+		religion = animist
+		size = 1100
+	}
+
+	artisans = {
+		culture = mongo
+		religion = animist
+		size = 4400
+	}
+
+	soldiers = {
+		culture = mongo
+		religion = animist
+		size = 1100
+	}
+
+	farmers = {
+		culture = mongo
+		religion = animist
+		size = 145990
+	}
+
+	slaves = {
+		culture = forest_bantu
+		religion = animist
+		size = 25670
+	}
+}

@@ -1,0 +1,56 @@
+
+2211 = {
+	aristocrats = {
+		culture = caribeno
+		religion = catholic
+		size = 450
+	}
+
+	clergymen = {
+		culture = caribeno
+		religion = catholic
+		size = 400
+	}
+
+	artisans = {
+		culture = caribeno
+		religion = catholic
+		size = 3500
+	}
+
+	soldiers = {
+		culture = caribeno
+		religion = catholic
+		size = 150
+	}
+
+	farmers = {
+		culture = caribeno
+		religion = catholic
+		size = 8500
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 300
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2200
+	}
+
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 25000
+	}
+}

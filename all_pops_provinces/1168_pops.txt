@@ -1,0 +1,40 @@
+
+1168 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 2625
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 300
+	}
+
+}
+

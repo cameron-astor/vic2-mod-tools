@@ -1,0 +1,68 @@
+
+211 = {
+	aristocrats = {
+		culture = dixie
+		religion = protestant
+		size = 900
+	}
+
+	bureaucrats = {
+		culture = dixie
+		religion = protestant
+		size = 300
+	}
+
+	officers = {
+		culture = dixie
+		religion = protestant
+		size = 150
+	}
+
+	clergymen = {
+		culture = dixie
+		religion = protestant
+		size = 250
+	}
+
+	artisans = {
+		culture = dixie
+		religion = protestant
+		size = 1750
+	}
+
+	soldiers = {
+		culture = dixie
+		religion = protestant
+		size = 3000
+	}
+
+	farmers = {
+		culture = dixie
+		religion = protestant
+		size = 40000
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 75
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 500
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 900
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 26500
+	}
+}

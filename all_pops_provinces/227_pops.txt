@@ -1,0 +1,86 @@
+
+227 = {
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 300
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 2250
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 400
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 37300
+	}
+
+	clergymen = {
+		culture = yankee
+		religion = catholic
+		size = 125
+	}
+
+	artisans = {
+		culture = yankee
+		religion = catholic
+		size = 700
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = catholic
+		size = 120
+	}
+
+	farmers = {
+		culture = yankee
+		religion = catholic
+		size = 10500
+	}
+
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 60
+	}
+
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 275
+	}
+
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 5525
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 50
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 150
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 2800
+	}
+}

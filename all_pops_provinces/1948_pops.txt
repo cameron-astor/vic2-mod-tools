@@ -1,0 +1,152 @@
+
+1948 = {
+	aristocrats = {
+		culture = hausa
+		religion = sunni
+		size = 2325
+	}
+
+	bureaucrats = {
+		culture = hausa
+		religion = sunni
+		size = 125
+	}
+
+	officers = {
+		culture = hausa
+		religion = sunni
+		size = 250
+	}
+
+	clergymen = {
+		culture = hausa
+		religion = sunni
+		size = 1175
+	}
+
+	artisans = {
+		culture = hausa
+		religion = sunni
+		size = 5850
+	}
+
+	soldiers = {
+		culture = hausa
+		religion = sunni
+		size = 1175
+	}
+
+	farmers = {
+		culture = hausa
+		religion = sunni
+		size = 106025
+	}
+
+	aristocrats = {
+		culture = hausa
+		religion = animist
+		size = 575
+	}
+
+	clergymen = {
+		culture = hausa
+		religion = animist
+		size = 300
+	}
+
+	artisans = {
+		culture = hausa
+		religion = animist
+		size = 1500
+	}
+
+	soldiers = {
+		culture = hausa
+		religion = animist
+		size = 300
+	}
+
+	farmers = {
+		culture = hausa
+		religion = animist
+		size = 27325
+	}
+
+	slaves = {
+		culture = hausa
+		religion = animist
+		size = 13000
+	}
+
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 1325
+	}
+
+	bureaucrats = {
+		culture = fulbe
+		religion = sunni
+		size = 150
+	}
+
+	officers = {
+		culture = fulbe
+		religion = sunni
+		size = 450
+	}
+
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 675
+	}
+
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 2700
+	}
+
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 675
+	}
+
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 48025
+	}
+
+	aristocrats = {
+		culture = songhai
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = songhai
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = songhai
+		religion = sunni
+		size = 300
+	}
+
+	soldiers = {
+		culture = songhai
+		religion = sunni
+		size = 75
+	}
+
+	farmers = {
+		culture = songhai
+		religion = sunni
+		size = 5475
+	}
+}

@@ -1,0 +1,74 @@
+
+1958 = {
+	aristocrats = {
+		culture = forest_bantu
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = forest_bantu
+		religion = animist
+		size = 250
+	}
+
+	artisans = {
+		culture = forest_bantu
+		religion = animist
+		size = 1050
+	}
+
+	soldiers = {
+		culture = forest_bantu
+		religion = animist
+		size = 275
+	}
+
+	farmers = {
+		culture = forest_bantu
+		religion = animist
+		size = 20925
+	}
+
+	slaves = {
+		culture = forest_bantu
+		religion = animist
+		size = 3000
+	}
+
+	aristocrats = {
+		culture = fang
+		religion = animist
+		size = 325
+	}
+
+	clergymen = {
+		culture = fang
+		religion = animist
+		size = 175
+	}
+
+	artisans = {
+		culture = fang
+		religion = animist
+		size = 725
+	}
+
+	soldiers = {
+		culture = fang
+		religion = animist
+		size = 175
+	}
+
+	farmers = {
+		culture = fang
+		religion = animist
+		size = 11600
+	}
+
+	slaves = {
+		culture = fang
+		religion = animist
+		size = 5000
+	}
+}

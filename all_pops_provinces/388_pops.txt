@@ -1,0 +1,38 @@
+
+388 = {
+	aristocrats = {
+		culture = flemish
+		religion = catholic
+		size = 1150
+	}
+
+	clergymen = {
+		culture = flemish
+		religion = catholic
+		size = 625
+	}
+
+	artisans = {
+		culture = flemish
+		religion = catholic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = flemish
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = flemish
+		religion = catholic
+		size = 1700
+	}
+
+	farmers = {
+		culture = flemish
+		religion = catholic
+		size = 100525
+	}
+}

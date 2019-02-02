@@ -1,0 +1,62 @@
+
+1188 = {
+	aristocrats = {
+		culture = kazak
+		religion = sunni
+		size = 300
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 800
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 175
+	}
+
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 14575
+	}
+
+	aristocrats = {
+		culture = uighur
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = uighur
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = uighur
+		religion = sunni
+		size = 550
+	}
+
+	soldiers = {
+		culture = uighur
+		religion = sunni
+		size = 125
+	}
+
+	farmers = {
+		culture = uighur
+		religion = sunni
+		size = 10025
+	}
+}

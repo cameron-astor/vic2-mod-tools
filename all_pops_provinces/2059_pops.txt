@@ -1,0 +1,116 @@
+
+2059 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 125
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 100
+	}
+	
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 200
+	}
+
+	aristocrats = {
+		culture = sena
+		religion = animist
+		size = 150
+	}
+
+	clergymen = {
+		culture = sena
+		religion = animist
+		size = 125
+	}
+
+	artisans = {
+		culture = sena
+		religion = animist
+		size = 650
+	}
+
+	soldiers = {
+		culture = sena
+		religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = sena
+		religion = animist
+		size = 9925
+	}
+
+	slaves = {
+		culture = sena
+		religion = animist
+		size = 2000
+	}
+
+	clergymen = {
+		culture = swahili
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 975
+	}
+
+	aristocrats = {
+		culture = nyasa
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = nyasa
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = nyasa
+		religion = animist
+		size = 350
+	}
+
+	soldiers = {
+		culture = nyasa
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = nyasa
+		religion = animist
+		size = 1425
+	}
+
+	slaves = {
+		culture = nyasa
+		religion = animist
+		size = 5000
+	}
+}

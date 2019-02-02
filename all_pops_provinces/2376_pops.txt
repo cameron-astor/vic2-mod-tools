@@ -1,0 +1,44 @@
+
+2376 = {
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 75
+	}
+
+	bureaucrats = {
+		culture = platinean
+		religion = catholic
+		size = 10
+	}
+
+	officers = {
+		culture = platinean
+		religion = catholic
+		size = 10
+	}
+
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 3005
+	}
+
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 500
+	}
+}

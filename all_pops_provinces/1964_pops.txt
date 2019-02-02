@@ -1,0 +1,136 @@
+
+1964 = {
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 700
+	}
+
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 800
+	}
+
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 700
+	}
+
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 400
+	}
+
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 27400
+	}
+
+	aristocrats = {
+		culture = hausa
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = hausa
+		religion = sunni
+		size = 200
+	}
+
+	artisans = {
+		culture = hausa
+		religion = sunni
+		size = 800
+	}
+
+	soldiers = {
+		culture = hausa
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = hausa
+		religion = sunni
+		size = 20600
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 300
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 200
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 1100
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 18300
+	}
+
+	aristocrats = {
+		culture = baguirmi
+		religion = animist
+		size = 700
+	}
+
+	clergymen = {
+		culture = baguirmi
+		religion = animist
+		size = 400
+	}
+
+	artisans = {
+		culture = baguirmi
+		religion = animist
+		size = 1800
+	}
+
+	soldiers = {
+		culture = baguirmi
+		religion = animist
+		size = 400
+	}
+
+	farmers = {
+		culture = baguirmi
+		religion = animist
+		size = 23100
+	}
+
+	slaves = {
+		culture = kanuri
+		religion = sunni
+		size = 6000
+	}
+	
+	slaves = {
+		culture = sara
+		religion = sunni
+		size = 6000
+	}
+
+}
+

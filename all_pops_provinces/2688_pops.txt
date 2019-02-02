@@ -1,0 +1,26 @@
+
+2688 = {
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 5
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 195
+	}
+
+	clergymen = {
+		culture = ugrian
+		religion = animist
+		size = 10
+	}
+
+	farmers = {
+		culture = ugrian
+		religion = animist
+		size = 640
+	}
+}

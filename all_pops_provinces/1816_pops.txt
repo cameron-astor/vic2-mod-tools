@@ -1,0 +1,98 @@
+
+1816 = {
+	aristocrats = {
+		culture = kanuri
+		religion = sunni
+		size = 1800
+	}
+
+	clergymen = {
+		culture = kanuri
+		religion = sunni
+		size = 900
+	}
+
+	artisans = {
+		culture = kanuri
+		religion = sunni
+		size = 3700
+	}
+
+	soldiers = {
+		culture = kanuri
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = kanuri
+		religion = sunni
+		size = 17600
+	}
+
+	aristocrats = {
+		culture = tuareg
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = tuareg
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = tuareg
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = tuareg
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = tuareg
+		religion = sunni
+		size = 1600
+	}
+	
+	aristocrats = {
+		culture = hausa
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = hausa
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = tuareg
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = hausa
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = hausa
+		religion = sunni
+		size = 61600
+	}
+
+	slaves = {
+		culture = fulbe
+		religion = sunni
+		size = 8000
+	}
+}

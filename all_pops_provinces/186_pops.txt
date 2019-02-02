@@ -1,0 +1,104 @@
+
+186 = {
+	bureaucrats = {
+		culture = yankee
+		religion = protestant
+		size = 125
+	}
+
+	officers = {
+		culture = yankee
+		religion = protestant
+		size = 75
+	}
+
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 350
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 2350
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 475
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 23725
+	}
+
+	aristocrats = {
+		culture = dixie
+		religion = protestant
+		size = 450
+	}
+
+	bureaucrats = {
+		culture = dixie
+		religion = protestant
+		size = 125
+	}
+
+	officers = {
+		culture = dixie
+		religion = protestant
+		size = 125
+	}
+
+	clergymen = {
+		culture = dixie
+		religion = protestant
+		size = 175
+	}
+
+	artisans = {
+		culture = dixie
+		religion = protestant
+		size = 950
+	}
+
+	soldiers = {
+		culture = dixie
+		religion = protestant
+		size = 350
+	}
+
+	farmers = {
+		culture = dixie
+		religion = protestant
+		size = 41825
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 100
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 800
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 850
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 10250
+	}
+}

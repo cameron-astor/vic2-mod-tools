@@ -1,0 +1,188 @@
+
+654 = {
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 225 
+	}
+
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 450
+	}
+	
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 1200
+	}
+
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 250
+	}
+
+	serfs = {
+		culture = romanian
+		religion = orthodox
+		size = 20325 
+	}
+	
+	serfs = {
+		culture = romanian
+		religion = catholic
+		size = 2000 
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 250   
+	}
+
+	bureaucrats = {
+		culture = hungarian
+		religion = catholic
+		size = 375   
+	}
+
+	officers = {
+		culture = hungarian
+		religion = catholic
+		size = 250  
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 50   
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 650  
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 2375  
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = protestant
+		size = 500  
+	}
+
+	bureaucrats = {
+		culture = hungarian
+		religion = protestant
+		size = 275  
+	}
+
+	officers = {
+		culture = hungarian
+		religion = protestant
+		size = 250  
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = protestant
+		size = 75      
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = protestant
+		size = 1500     
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = protestant
+		size = 6300      
+	}
+
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 350   
+	}
+
+	bureaucrats = {
+		culture = north_german
+		religion = protestant
+		size = 250  
+	}
+
+	officers = {
+		culture = north_german
+		religion = protestant
+		size = 100 
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 80    
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 850  
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 50
+	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 3320   
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 50   
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 800  
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1175     
+	}
+}

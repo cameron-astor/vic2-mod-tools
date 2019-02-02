@@ -1,0 +1,124 @@
+
+1498 = {
+
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 100
+	}
+
+	officers = {
+		culture = portuguese
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 100
+	}
+	
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 100
+	}
+	
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 110
+	}
+
+	aristocrats = {
+		culture = yue
+		religion = catholic
+		size = 100
+	}
+	
+	officers = {
+		culture = yue
+		religion = catholic
+		size = 100
+	}
+	
+	clergymen = {
+		culture = yue
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = yue
+		religion = catholic
+		size = 935
+	}
+
+	soldiers = {
+		culture = yue
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = yue
+		religion = catholic
+		size = 250
+	}
+	
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 100
+	}
+	
+	officers = {
+		culture = yue
+		religion = mahayana
+		size = 100
+	}
+
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 100
+	}
+
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 200
+	}
+
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 100
+	}
+
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 5700
+	}
+	
+	slaves = {
+		culture = ovimbundu
+		religion = animist
+		size = 250
+	}
+	
+	slaves = {
+		culture = hakka
+		religion = mahayana
+		size = 200
+	}
+
+}

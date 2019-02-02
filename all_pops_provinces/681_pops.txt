@@ -1,0 +1,38 @@
+
+681 = {
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 525 
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 450 
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 2400
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 2000
+	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 46425
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 200
+	}
+}

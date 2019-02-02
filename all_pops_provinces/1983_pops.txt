@@ -1,0 +1,38 @@
+
+1983 = {
+	aristocrats = {
+		culture = bakongo
+		religion = animist
+		size = 640
+	}
+
+	clergymen = {
+		culture = bakongo
+		religion = animist
+		size = 365
+	}
+
+	artisans = {
+		culture = bakongo
+		religion = animist
+		size = 1375
+	}
+
+	soldiers = {
+		culture = bakongo
+		religion = animist
+		size = 1100
+	}
+
+	farmers = {
+		culture = bakongo
+		religion = animist
+		size = 349250
+	}
+
+	slaves = {
+		culture = bakongo
+		religion = animist
+		size = 10000
+	}
+}

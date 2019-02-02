@@ -1,0 +1,81 @@
+
+2683 = {
+	aristocrats = {
+		culture = russian
+		religion = animist
+		size = 100
+	}
+	
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 200
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 8800
+	}
+
+
+	clergymen = {
+		culture = siberian
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = siberian
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = siberian
+		religion = animist
+		size = 10
+	}
+
+	farmers = {
+		culture = siberian
+		religion = animist
+		size = 200
+	}
+
+	aristocrats = {
+		culture = ugrian
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = ugrian
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = ugrian
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = ugrian
+		religion = animist
+		size = 10
+	}
+
+	farmers = {
+		culture = ugrian
+		religion = animist
+		size = 500
+	}
+}

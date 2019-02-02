@@ -1,0 +1,92 @@
+
+2071 = {
+	aristocrats = {
+		culture = nguni
+		religion = animist
+		size = 500
+	}
+
+	bureaucrats = {
+		culture = nguni
+		religion = animist
+		size = 10
+	}
+
+	officers = {
+		culture = nguni
+		religion = animist
+		size = 40
+	}
+
+	clergymen = {
+		culture = nguni
+		religion = animist
+		size = 300
+	}
+
+	artisans = {
+		culture = nguni
+		religion = animist
+		size = 1200
+	}
+
+	soldiers = {
+		culture = nguni
+		religion = animist
+		size = 8050
+	}
+
+	farmers = {
+		culture = nguni
+		religion = animist
+		size = 29000
+	}
+
+	aristocrats = {
+		culture = shona
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = shona
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = shona
+		religion = animist
+		size = 300
+	}
+
+	soldiers = {
+		culture = shona
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = shona
+		religion = animist
+		size = 5400
+	}
+
+	artisans = {
+		culture = sotho
+		religion = animist
+		size = 200
+	}
+
+	soldiers = {
+		culture = sotho
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = sotho
+		religion = animist
+		size = 6650
+	}
+}

@@ -1,0 +1,44 @@
+
+1591 = {
+	aristocrats = {
+		culture = tibetan
+		religion = gelugpa
+		size = 375
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 400
+	}
+
+	clergymen = {
+		culture = tibetan
+		religion = gelugpa
+		size = 200
+	}
+
+	artisans = {
+		culture = tibetan
+		religion = gelugpa
+		size = 950
+	}
+
+	soldiers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 175
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 1730
+	}
+
+	slaves = {
+		culture = tibetan
+		religion = gelugpa
+		size = 600
+	}
+}

@@ -1,0 +1,32 @@
+
+986 = {
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 5
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 10
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 585
+	}
+
+	clergymen = {
+		culture = ugrian
+		religion = animist
+		size = 10
+	}
+
+	farmers = {
+		culture = ugrian
+		religion = animist
+		size = 390
+	}
+}

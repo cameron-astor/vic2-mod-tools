@@ -1,0 +1,33 @@
+
+839 = {
+	
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 170
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 300
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 600
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 10070
+	}
+}

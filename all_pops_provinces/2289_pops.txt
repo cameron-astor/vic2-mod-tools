@@ -1,0 +1,44 @@
+
+2289 = {
+	aristocrats = {
+		culture = amazonian
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = amazonian
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 2925
+	}
+	
+	clergymen = {
+		culture = south_andean
+		religion = catholic
+		size = 5
+	}
+
+	artisans = {
+		culture = south_andean
+		religion = catholic
+		size = 5
+	}
+
+	soldiers = {
+		culture = south_andean
+		religion = catholic
+		size = 5
+	}
+
+	farmers = {
+		culture = south_andean
+		religion = catholic
+		size = 20
+	}
+}

@@ -1,0 +1,56 @@
+
+39 = {
+	aristocrats = {
+		culture = cree
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = cree
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = cree
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = cree
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = cree
+		religion = animist
+		size = 900
+	}
+
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 15
+	}
+
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 910
+	}
+}

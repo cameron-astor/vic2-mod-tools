@@ -1,0 +1,50 @@
+
+1933 = {
+	aristocrats = {
+		culture = ibo
+		religion = animist
+		size = 6300
+	}
+
+	clergymen = {
+		culture = ibo
+		religion = animist
+		size = 3150
+	}
+
+	artisans = {
+		culture = ibo
+		religion = animist
+		size = 10000
+	}
+	
+	artisans = {
+		culture = ibo
+		religion = animist
+		size = 2650
+	}
+
+	soldiers = {
+		culture = ibo
+		religion = animist
+		size = 3000
+	}
+
+	soldiers = {
+		culture = ibo
+		religion = animist
+		size = 900
+	}
+
+	farmers = {
+		culture = ibo
+		religion = animist
+		size = 214000
+	}
+
+	slaves = {
+		culture = itsekari
+		religion = animist
+		size = 76000
+	}
+}

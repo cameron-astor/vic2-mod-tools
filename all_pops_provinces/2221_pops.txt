@@ -1,0 +1,164 @@
+
+2221 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11500
+	}
+
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 6850
+	}
+
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 5950
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 5250
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 6000
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 3000
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 250
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 442800
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = protestant
+		size = 5000
+	}
+	
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 6750
+	}
+
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 2375
+	}
+
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 3050
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 3325
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 9000
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 3000
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 350
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 284325
+	}
+	
+	farmers = {
+		culture = beifaren
+		religion = protestant
+		size = 2000
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 275
+	}
+
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 250
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 1100
+	}
+}

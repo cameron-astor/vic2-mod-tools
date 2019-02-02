@@ -1,0 +1,157 @@
+
+972 = {
+	farmers = {
+		culture = gypsy
+		religion = orthodox
+		size = 135
+	}
+	aristocrats = {
+		culture = ukrainian
+		religion = orthodox
+		size = 650
+	}
+	
+	officers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 100
+	}
+	
+	bureaucrats = {
+		culture = ukrainian
+		religion = orthodox
+		size = 100
+	}
+
+	clergymen = {
+		culture = ukrainian
+		religion = orthodox
+		size = 525
+	}
+
+	artisans = {
+		culture = ukrainian
+		religion = orthodox
+		size = 1900
+	}
+
+	soldiers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 550
+	}
+
+	farmers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 49175
+	}
+
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 450
+	}
+
+	officers = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 200
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 2125
+	}
+	
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	officers = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 300
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 3575
+	}
+	
+	aristocrats = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	officers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 750
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 2150
+	}
+}

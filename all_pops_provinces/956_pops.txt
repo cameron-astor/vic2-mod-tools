@@ -1,0 +1,86 @@
+
+956 = {
+	clergymen = {
+		culture = ukrainian
+		religion = orthodox
+		size = 825
+	}
+
+	artisans = {
+		culture = ukrainian
+		religion = orthodox
+		size = 2400
+	}
+
+	soldiers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 1000
+	}
+
+	farmers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 43775
+	}
+	
+	serfs = {
+		culture = ukrainian
+		religion = orthodox
+		size = 40000
+	}
+
+	aristocrats = {
+		culture = polish
+		religion = catholic
+		size = 2600
+	}
+
+	clergymen = {
+		culture = polish
+		religion = catholic
+		size = 125
+	}
+
+	artisans = {
+		culture = polish
+		religion = catholic
+		size = 750
+	}
+
+	soldiers = {
+		culture = polish
+		religion = catholic
+		size = 150
+	}
+
+	farmers = {
+		culture = polish
+		religion = catholic
+		size = 10375
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 125
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 2600
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 125
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 10250
+	}
+}

@@ -1,0 +1,80 @@
+
+812 = {
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 875
+	}
+
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 1350
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 3939
+	}
+	
+	clergymen = {
+		culture = bulgarian
+		religion = sunni
+		size = 200
+	}
+
+	artisans = {
+		culture = bulgarian
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = bulgarian
+		religion = sunni
+		size = 300
+	}
+
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 1736
+	}
+
+	clergymen = {
+		culture = bulgarian
+		religion = orthodox
+		size = 500
+	}
+	
+	soldiers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 500
+	}
+
+	artisans = {
+		culture = bulgarian
+		religion = orthodox
+		size = 1100
+	}
+
+	farmers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 47650
+	}
+}

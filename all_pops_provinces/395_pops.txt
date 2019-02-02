@@ -1,0 +1,50 @@
+
+395 = {
+	aristocrats = {
+		culture = wallonian
+		religion = catholic
+		size = 750
+	}
+
+	clergymen = {
+		culture = wallonian
+		religion = catholic
+		size = 500
+	}
+
+	clerks = {
+		culture = wallonian
+		religion = catholic
+		size = 100
+	}
+	
+	craftsmen = {
+		culture = wallonian
+		religion = catholic
+		size = 3000
+	}
+
+	artisans = {
+		culture = wallonian
+		religion = catholic
+		size = 1200
+	}
+
+	soldiers = {
+		culture = wallonian
+		religion = catholic
+		size = 3100
+	}
+
+	farmers = {
+		culture = wallonian
+		religion = catholic
+		size = 17800
+	}
+	
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 1250
+	}
+}

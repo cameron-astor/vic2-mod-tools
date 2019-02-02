@@ -1,0 +1,92 @@
+
+2572 = {
+	aristocrats = {
+		culture = thai
+		religion = theravada
+		size = 400
+	}
+
+	clergymen = {
+		culture = thai
+		religion = theravada
+		size = 225
+	}
+
+	artisans = {
+		culture = thai
+		religion = theravada
+		size = 1100
+	}
+
+	soldiers = {
+		culture = thai
+		religion = theravada
+		size = 225
+	}
+
+	farmers = {
+		culture = thai
+		religion = theravada
+		size = 20050
+	}
+
+	aristocrats = {
+		culture = shan
+		religion = theravada
+		size = 425
+	}
+
+	clergymen = {
+		culture = shan
+		religion = theravada
+		size = 200
+	}
+
+	artisans = {
+		culture = shan
+		religion = theravada
+		size = 1150
+	}
+
+	soldiers = {
+		culture = shan
+		religion = theravada
+		size = 250
+	}
+
+	farmers = {
+		culture = shan
+		religion = theravada
+		size = 21075
+	}
+
+	aristocrats = {
+		culture = lao
+		religion = theravada
+		size = 375
+	}
+
+	clergymen = {
+		culture = lao
+		religion = theravada
+		size = 200
+	}
+
+	artisans = {
+		culture = lao
+		religion = theravada
+		size = 1100
+	}
+
+	soldiers = {
+		culture = lao
+		religion = theravada
+		size = 225
+	}
+
+	farmers = {
+		culture = lao
+		religion = theravada
+		size = 20200
+	}
+}

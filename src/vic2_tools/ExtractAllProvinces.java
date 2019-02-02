@@ -9,7 +9,7 @@ public class ExtractAllProvinces {
 	
 	public static void main (String[] args) throws FileNotFoundException {
 		//Set up PopParser and output directory.
-		String fileName = "C://Users/camer/Documents/Paradox Interactive/vic2-mod-tools/1836.1.1_HPM/Afghanistan.txt";
+		String fileName = "C://Users/camer/Documents/Paradox Interactive/vic2-mod-tools/all_pops.txt";
 		PopParser parser = new PopParser(fileName);
 		File dir = new File(fileName.replace(".txt", "") + "_provinces");
 		dir.mkdir();
@@ -20,15 +20,12 @@ public class ExtractAllProvinces {
 		int provinceID;
 		while(input.hasNextLine()) {
 			currentLine = input.nextLine();
-			//System.out.println(currentLine);
-			if(currentLine.contains(" = {") && !currentLine.contains("[^a-z]")) {
-				System.out.println(currentLine);
-				String parseLine = currentLine.replaceAll("[\\D]", "");
-				System.out.println(parseLine); //test
-				
-				provinceID = Integer.parseInt(parseLine);
+			//If it is a province number line (i.e. it starts with a digit)
+			if(currentLine.contains(" = {") && currentLine.matches("\\d.*")) {
+				currentLine = currentLine.replaceAll("[\\D]", "");
+				provinceID = Integer.parseInt(currentLine);
+				//Extract province to folder 
 				parser.extractProvince(provinceID, dir.getPath() + "/");
-				System.out.println(provinceID); //test
 			}
 		}
 		input.close();

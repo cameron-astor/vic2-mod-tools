@@ -1,0 +1,39 @@
+
+1084 = {
+
+	clergymen = {
+		culture = manchu
+		religion = mahayana
+		size = 150
+	}
+
+	artisans = {
+		culture = manchu
+		religion = mahayana
+		size = 800
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 175
+	}
+
+	farmers = {
+		culture = manchu
+		religion = mahayana
+		size = 14575
+	}
+
+	farmers = {
+		culture = siberian
+		religion = animist
+		size = 200
+	}
+
+	slaves = {
+		culture = siberian
+		religion = animist
+		size = 800
+	}
+}

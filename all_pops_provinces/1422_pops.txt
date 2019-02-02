@@ -1,0 +1,44 @@
+
+1422 = {
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 300
+	}
+
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 250
+	}
+
+	artisans = {
+		culture = asian_minor
+		religion = animist
+		size = 1250
+	}
+
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 1250
+	}
+
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 15950
+	}
+	
+	slaves = {
+		culture = asian_minor
+		religion = animist
+		size = 3000
+	}
+	
+	farmers = {
+		culture = asian_minor
+		religion = animist
+		size = 4000
+	}
+}

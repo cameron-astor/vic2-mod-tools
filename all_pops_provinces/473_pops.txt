@@ -1,0 +1,65 @@
+
+473 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 400
+	}
+
+	aristocrats = {
+		culture = north_italian
+		religion = catholic
+		size = 150
+	}
+
+	officers = {
+		culture = french
+		religion = catholic
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 200
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 1500
+	}
+
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 4800
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 43300
+	}
+
+}
+
+

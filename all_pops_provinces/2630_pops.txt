@@ -1,0 +1,9 @@
+
+2630 = {
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 400
+	}
+}

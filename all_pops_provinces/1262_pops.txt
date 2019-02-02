@@ -1,0 +1,86 @@
+
+1262 = {
+	aristocrats = {
+		culture = oriya
+		religion = hindu
+		size = 900
+	}
+
+	bureaucrats = {
+		culture = oriya
+		religion = hindu
+		size = 100
+	}
+
+	clergymen = {
+		culture = oriya
+		religion = hindu
+		size = 850
+	}
+
+	artisans = {
+		culture = oriya
+		religion = hindu
+		size = 4000
+	}
+
+	soldiers = {
+		culture = oriya
+		religion = hindu
+		size = 3000
+	}
+
+	soldiers = {
+		culture = oriya
+		religion = hindu
+		size = 1000
+	}
+
+	farmers = {
+		culture = oriya
+		religion = hindu
+		size = 75150
+	}
+
+	aristocrats = {
+		culture = asian_minor
+		religion = animist
+		size = 225
+	}
+
+	clergymen = {
+		culture = asian_minor
+		religion = animist
+		size = 200
+	}
+
+	artisans = {
+		culture = asian_minor
+		religion = animist
+		size = 1100
+	}
+
+	soldiers = {
+		culture = asian_minor
+		religion = animist
+		size = 250
+	}
+
+	serfs = {
+		culture = asian_minor
+		religion = animist
+		size = 20000
+	}
+
+	clergymen = {
+		culture = bengali
+		religion = sunni
+		size = 75
+	}
+
+	farmers = {
+		culture = bengali
+		religion = sunni
+		size = 2925
+	}
+}

@@ -1,0 +1,38 @@
+
+1461 = {
+	aristocrats = {
+		culture = filipino
+		religion = catholic
+		size = 750
+	}
+
+	clergymen = {
+		culture = filipino
+		religion = catholic
+		size = 625
+	}
+
+	artisans = {
+		culture = filipino
+		religion = catholic
+		size = 4250
+	}
+
+	soldiers = {
+		culture = filipino
+		religion = catholic
+		size = 850
+	}
+
+	farmers = {
+		culture = filipino
+		religion = catholic
+		size = 70125
+	}
+	
+	slaves = {
+		culture = filipino
+		religion = catholic
+		size = 10000
+	}
+}

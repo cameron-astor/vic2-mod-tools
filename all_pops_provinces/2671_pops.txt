@@ -1,0 +1,62 @@
+
+2671 = {
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 25
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 50
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 25
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 3000
+	}
+	
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 35
+	}
+
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 15
+	}
+
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 85
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 15
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 2500
+	}	
+	
+	farmers = {
+		culture = siberian
+		religion = animist
+		size = 500
+	}
+}

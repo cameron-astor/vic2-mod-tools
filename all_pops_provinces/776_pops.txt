@@ -1,0 +1,74 @@
+
+776 = {
+	clergymen = {
+		culture = croat
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = croat
+		religion = catholic
+		size = 150
+	}
+
+	soldiers = {
+		culture = croat
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = croat
+		religion = catholic
+		size = 2675
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 50
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 250
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 75
+	}
+
+	serfs = {
+		culture = serb
+		religion = orthodox
+		size = 4625
+	}
+
+	clergymen = {
+		culture = czech
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = czech
+		religion = catholic
+		size = 250
+	}
+
+	soldiers = {
+		culture = czech
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = czech
+		religion = catholic
+		size = 4650
+	}
+}

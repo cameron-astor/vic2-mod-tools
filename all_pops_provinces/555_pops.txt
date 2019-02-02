@@ -1,0 +1,68 @@
+
+555 = {
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 325 
+	}
+
+	bureaucrats = {
+		culture = north_german
+		religion = protestant
+		size = 70 
+	}
+
+	officers = {
+		culture = north_german
+		religion = protestant
+		size = 25 
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 325
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 1900
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 1000
+	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 31355
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = catholic
+		size = 20      
+	}
+
+	artisans = {
+		culture = north_german
+		religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = catholic
+		size = 10       
+	}
+
+	farmers = {
+		culture = north_german
+		religion = catholic
+		size = 920       
+	}
+}

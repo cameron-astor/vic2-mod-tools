@@ -1,0 +1,57 @@
+
+130 = {
+	
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 5
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 10
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 50
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 50
+	}
+
+	soldiers = {
+		culture = cherokee
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = cherokee
+		religion = animist
+		size = 1600
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 50
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 900
+	}
+}

@@ -1,0 +1,68 @@
+
+1427 = {
+	aristocrats = {
+		culture = malay
+		religion = animist
+		size = 75
+	}
+
+	clergymen = {
+		culture = malay
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = malay
+		religion = animist
+		size = 400
+	}
+
+	soldiers = {
+		culture = malay
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = malay
+		religion = animist
+		size = 2700
+	}
+
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 350
+	}
+
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 650
+	}
+
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 1500
+	}
+
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 300
+	}
+
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 30000
+	}
+	
+	slaves = {
+		culture = malay
+		religion = sunni
+		size = 3000
+	}
+}

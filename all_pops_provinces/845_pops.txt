@@ -1,0 +1,32 @@
+
+845 = {
+	bureaucrats = {
+		culture = greek
+		religion = orthodox
+		size = 15
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 85
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 1100
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 8400
+	}
+}

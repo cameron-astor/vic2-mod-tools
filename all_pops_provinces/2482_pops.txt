@@ -1,0 +1,51 @@
+
+2482 = {
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 25
+	}
+
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 100
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 8675
+	}
+	
+	clergymen = {
+		culture = australian
+		religion = protestant
+		size = 10
+	}
+	
+	artisans = {
+		culture = australian
+		religion = protestant
+		size = 20
+	}
+	
+	soldiers = {
+		culture = australian
+		religion = protestant
+		size = 10
+	}
+	
+	farmers = {
+		culture = australian
+		religion = protestant
+		size = 60
+	}
+
+}

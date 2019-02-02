@@ -1,0 +1,81 @@
+
+2158 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 1725
+		militancy = 9
+	}
+
+	bureaucrats = {
+		culture = mexican
+		religion = catholic
+		size = 325
+		militancy = 9
+	}
+
+	officers = {
+		culture = mexican
+		religion = catholic
+		size = 75
+		militancy = 9
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 425
+		militancy = 9
+	}
+
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 3850
+		militancy = 9
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 425
+
+		militancy = 9
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 35175
+		militancy = 9
+	}
+
+	clergymen = {
+		culture = nahua
+		religion = catholic
+		size = 200
+		militancy = 9
+	}
+
+	artisans = {
+		culture = nahua
+		religion = catholic
+		size = 2150
+		militancy = 9
+	}
+
+	soldiers = {
+		culture = nahua
+		religion = catholic
+		size = 450
+
+		militancy = 9
+	}
+
+	farmers = {
+		culture = nahua
+		religion = catholic
+		size = 40200
+		militancy = 9
+	}
+}

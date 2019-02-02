@@ -1,0 +1,63 @@
+
+1432 = {
+	aristocrats = {
+		culture = moluccan
+		religion = sunni
+		size = 250
+	}
+
+	clergymen = {
+		culture = moluccan
+		religion = sunni
+		size = 250
+	}
+
+	artisans = {
+		culture = moluccan
+		religion = sunni
+		size = 1500
+	}
+
+	soldiers = {
+		culture = moluccan
+		religion = sunni
+		size = 1250
+	}
+
+	farmers = {
+		culture = moluccan
+		religion = sunni
+		size = 21750
+	}
+
+	aristocrats = {
+		culture = moluccan
+		religion = animist
+		size = 75
+	}
+
+	clergymen = {
+		culture = moluccan
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = moluccan
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = moluccan
+		religion = animist
+		size = 75
+	}
+
+	slaves = {
+		culture = moluccan
+		religion = animist
+		size = 6675
+	}
+
+}

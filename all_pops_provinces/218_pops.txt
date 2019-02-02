@@ -1,0 +1,75 @@
+
+218 = {
+	aristocrats = {
+		culture = dixie
+		religion = protestant
+		size = 200
+	}
+
+	clergymen = {
+		culture = dixie
+		religion = protestant
+		size = 75
+	}
+
+	artisans = {
+		culture = dixie
+		religion = protestant
+		size = 500
+	}
+
+	soldiers = {
+		culture = dixie
+		religion = protestant
+		size = 1175
+	}
+
+	farmers = {
+		culture = dixie
+		religion = protestant
+		size = 4125
+	}
+
+	aristocrats = {
+		culture = dixie
+		religion = catholic
+		size = 50
+	}
+
+	clergymen = {
+		culture = dixie
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = dixie
+		religion = catholic
+		size = 125
+	}
+
+
+	farmers = {
+		culture = dixie
+		religion = catholic
+		size = 2725
+	}
+	
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 10500
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 250
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 1000
+	}
+}

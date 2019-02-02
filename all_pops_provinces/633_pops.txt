@@ -1,0 +1,194 @@
+
+633 = {
+	bureaucrats = {
+		culture = slovak
+		religion = catholic
+		size = 125 
+	}
+
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 450
+	}
+	
+	officers = {
+		culture = slovak
+		religion = catholic
+		size = 75 
+	}
+
+	clergymen = {
+		culture = slovak
+		religion = catholic
+		size = 1200 
+	}
+
+	artisans = {
+		culture = slovak
+		religion = catholic
+		size = 6200
+	}
+
+	soldiers = {
+		culture = slovak
+		religion = catholic
+		size = 1250 
+	}
+
+	farmers = {
+		culture = slovak
+		religion = catholic
+		size = 19150
+	}
+	
+	serfs = {
+		culture = slovak
+		religion = catholic
+		size = 80000
+	}
+	
+	serfs = {
+		culture = gypsy
+		religion = catholic
+		size = 2000
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 1550  
+	}
+
+	bureaucrats = {
+		culture = hungarian
+		religion = catholic
+		size = 200  
+	}
+
+	officers = {
+		culture = hungarian
+		religion = catholic
+		size = 135   
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 135  
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 750
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 135  
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 7400   
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = protestant
+		size = 85
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = protestant
+		size = 750
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = protestant
+		size = 100  
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = protestant
+		size = 9725    
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 175  
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 10000
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1100
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 200 
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 8625  
+	}
+
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 1250  
+	}
+
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 275 
+	}
+
+	officers = {
+		culture = south_german
+		religion = catholic
+		size = 150 
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 150 
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 175  
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 13000  
+	}
+}

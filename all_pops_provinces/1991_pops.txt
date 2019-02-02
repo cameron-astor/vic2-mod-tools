@@ -1,0 +1,44 @@
+
+1991 = {
+	aristocrats = {
+		culture = kingwana
+		religion = sunni
+		size = 1375
+	}
+
+	clergymen = {
+		culture = kingwana
+		religion = sunni
+		size = 730
+	}
+
+	artisans = {
+		culture = kingwana
+		religion = sunni
+		size = 2840
+	}
+
+	soldiers = {
+		culture = kingwana
+		religion = sunni
+		size = 2200
+	}
+
+	farmers = {
+		culture = kingwana
+		religion = sunni
+		size = 449320
+	}
+	
+	farmers = {
+		culture = ruanda
+		religion = animist
+		size = 89320
+	}
+
+	slaves = {
+		culture = forest_bantu
+		religion = animist
+		size = 14670
+	}
+}

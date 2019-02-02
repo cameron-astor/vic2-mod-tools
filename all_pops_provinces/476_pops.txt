@@ -1,0 +1,33 @@
+
+476 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 700
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 800
+	}
+
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 4000
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 75500
+	}
+
+}

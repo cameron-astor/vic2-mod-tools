@@ -1,0 +1,70 @@
+
+2509 = {
+	aristocrats = {
+		culture = maori
+		religion = animist
+		size = 40
+	}
+
+	artisans = {
+		culture = maori
+		religion = animist
+		size = 200
+	}
+
+	soldiers = {
+		culture = maori
+		religion = animist
+		size = 100
+	}
+	
+	farmers = {
+		culture = maori
+		religion = animist
+		size = 4975
+	}
+	
+	aristocrats = {
+		culture = australian
+		religion = protestant
+		size = 30
+	}
+
+	artisans = {
+		culture = australian
+		religion = protestant
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = australian
+		religion = protestant
+		size = 10
+	}
+	
+	clergymen = {
+		culture = australian
+		religion = protestant
+		size = 75
+	}
+	
+	officers = {
+		culture = australian
+		religion = protestant
+		size = 25
+	}
+	
+	soldiers = {
+		culture = australian
+		religion = protestant
+		size = 200
+	}
+	
+	farmers = {
+		culture = australian
+		religion = protestant
+		size = 1000
+	}
+	
+}
+

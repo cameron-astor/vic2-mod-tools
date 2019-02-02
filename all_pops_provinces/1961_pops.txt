@@ -1,0 +1,38 @@
+
+1961 = {
+	aristocrats = {
+		culture = tiv
+		religion = animist
+		size = 1850
+	}
+
+	clergymen = {
+		culture = tiv
+		religion = animist
+		size = 950
+	}
+
+	artisans = {
+		culture = tiv
+		religion = animist
+		size = 3725
+	}
+
+	soldiers = {
+		culture = tiv
+		religion = animist
+		size = 950
+	}
+
+	farmers = {
+		culture = tiv
+		religion = animist
+		size = 75575
+	}
+
+	slaves = {
+		culture = ibibio
+		religion = animist
+		size = 10000
+	}
+}

@@ -1,0 +1,68 @@
+
+2060 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 275
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 600
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 50
+	}
+
+	aristocrats = {
+		culture = makua
+		religion = animist
+		size = 200
+	}
+
+	clergymen = {
+		culture = makua
+		religion = animist
+		size = 200
+	}
+
+	artisans = {
+		culture = makua
+		religion = animist
+		size = 1050
+	}
+
+	soldiers = {
+		culture = makua
+		religion = animist
+		size = 250
+	}
+
+	farmers = {
+		culture = makua
+		religion = animist
+		size = 13300
+	}
+
+	slaves = {
+		culture = makua
+		religion = animist
+		size = 6000
+	}
+}

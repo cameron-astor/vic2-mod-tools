@@ -1,0 +1,56 @@
+
+2646 = {
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 10
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 125
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 150
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 1900
+	}
+
+	aristocrats = {
+		culture = ugrian
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = ugrian
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = ugrian
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = ugrian
+		religion = animist
+		size = 10
+	}
+
+	farmers = {
+		culture = ugrian
+		religion = animist
+		size = 500
+	}
+}

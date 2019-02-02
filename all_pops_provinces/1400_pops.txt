@@ -1,0 +1,80 @@
+
+1400 = {
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 150
+	}
+
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 400
+	}
+
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 1150
+	}
+
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 12150
+	}
+
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 25
+	}
+
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 700
+	}
+
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 1275
+	}
+
+	aristocrats = {
+		culture = asian_minor
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = asian_minor
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = asian_minor
+		religion = animist
+		size = 150
+	}
+
+	soldiers = {
+		culture = asian_minor
+		religion = animist
+		size = 75
+	}
+
+	farmers = {
+		culture = asian_minor
+		religion = animist
+		size = 7575
+	}
+}

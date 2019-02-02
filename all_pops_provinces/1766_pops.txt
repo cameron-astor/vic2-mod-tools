@@ -1,0 +1,68 @@
+
+1766 = {
+	aristocrats = {
+		culture = misri
+		religion = sunni
+		size = 175
+	}
+
+	bureaucrats = {
+		culture = misri
+		religion = sunni
+		size = 45
+	}
+
+	officers = {
+		culture = misri
+		religion = sunni
+		size = 75
+	}
+
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = misri
+		religion = sunni
+		size = 125
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 8980
+	}
+
+	bureaucrats = {
+		culture = misri
+		religion = coptic
+		size = 5
+	}
+
+	clergymen = {
+		culture = misri
+		religion = coptic
+		size = 50
+	}
+
+	artisans = {
+		culture = misri
+		religion = coptic
+		size = 100
+	}
+
+	farmers = {
+		culture = misri
+		religion = coptic
+		size = 1850
+	}
+}

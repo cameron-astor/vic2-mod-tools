@@ -1,0 +1,45 @@
+
+135 = {
+	
+	clergymen = {
+		culture = texan
+		religion = protestant
+		size = 5
+	}
+
+	artisans = {
+		culture = texan
+		religion = protestant
+		size = 5
+	}
+
+	soldiers = {
+		culture = texan
+		religion = protestant
+		size = 5
+	}
+
+	farmers = {
+		culture = texan
+		religion = protestant
+		size = 20
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 1800
+	}
+}

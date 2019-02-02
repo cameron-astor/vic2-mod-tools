@@ -1,0 +1,32 @@
+
+1088 = {
+	aristocrats = {
+		culture = ainu
+		religion = animist
+		size = 2
+	}
+
+	clergymen = {
+		culture = ainu
+		religion = orthodox
+		size = 3
+	}
+
+	artisans = {
+		culture = ainu
+		religion = orthodox
+		size = 5
+	}
+
+	soldiers = {
+		culture = ainu
+		religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = ainu
+		religion = animist
+		size = 40
+	}
+}

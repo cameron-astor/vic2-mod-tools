@@ -1,0 +1,56 @@
+
+795 = {
+	aristocrats = {
+		culture = serb
+		religion = orthodox
+		size = 500
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 150
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 2600
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 1600
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 33360
+	}
+
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 500
+	}
+
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 400
+	}
+	
+	farmers = {
+		culture = romanian
+		religion = orthodox
+		size = 16000
+	}
+}

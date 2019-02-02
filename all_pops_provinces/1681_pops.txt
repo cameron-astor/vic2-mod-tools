@@ -1,0 +1,62 @@
+
+1681 = {
+	aristocrats = {
+		culture = maghrebi
+		religion = sunni
+		size = 525
+	}
+
+	clergymen = {
+		culture = maghrebi
+		religion = sunni
+		size = 300
+	}
+
+	artisans = {
+		culture = maghrebi
+		religion = sunni
+		size = 1450
+	}
+
+	soldiers = {
+		culture = maghrebi
+		religion = sunni
+		size = 1100
+	}
+
+	farmers = {
+		culture = maghrebi
+		religion = sunni
+		size = 33725
+	}
+
+	aristocrats = {
+		culture = berber
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = berber
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = berber
+		religion = sunni
+		size = 250
+	}
+
+	soldiers = {
+		culture = berber
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = berber
+		religion = sunni
+		size = 4600
+	}
+}

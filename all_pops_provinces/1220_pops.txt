@@ -1,0 +1,32 @@
+
+1220 = {
+	aristocrats = {
+		culture = baluchi
+		religion = sunni
+		size = 250
+	}
+
+	clergymen = {
+		culture = baluchi
+		religion = sunni
+		size = 250
+	}
+
+	artisans = {
+		culture = baluchi
+		religion = sunni
+		size = 1100
+	}
+
+	soldiers = {
+		culture = baluchi
+		religion = sunni
+		size = 5000
+	}
+
+	farmers = {
+		culture = baluchi
+		religion = sunni
+		size = 15500
+	}
+}

@@ -1,0 +1,50 @@
+
+1535 = {
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 2225
+	}
+
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 1125
+	}
+
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 5600
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 1125
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 101925
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 25
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 100
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = gelugpa
+		size = 1875
+	}
+}

@@ -1,0 +1,75 @@
+
+2065 = {
+	aristocrats = {
+		culture = sena
+		religion = animist
+		size = 250
+	}
+
+	clergymen = {
+		culture = sena
+		religion = animist
+		size = 250
+	}
+
+	artisans = {
+		culture = sena
+		religion = animist
+		size = 1250
+	}
+
+	soldiers = {
+		culture = sena
+		religion = animist
+		size = 300
+	}
+
+	farmers = {
+		culture = sena
+		religion = animist
+		size = 18450
+	}
+
+	slaves = {
+		culture = sena
+		religion = animist
+		size = 3500
+	}
+
+	aristocrats = {
+		culture = nyasa
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = nyasa
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = nyasa
+		religion = animist
+		size = 150
+	}
+
+	soldiers = {
+		culture = nyasa
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = nyasa
+		religion = animist
+		size = 750
+	}
+
+	slaves = {
+		culture = nyasa
+		religion = animist
+		size = 2000
+	}
+
+}

@@ -1,0 +1,86 @@
+
+1314 = {
+	aristocrats = {
+		culture = kannada
+		religion = hindu
+		size = 7250
+	}
+
+	bureaucrats = {
+		culture = kannada
+		religion = hindu
+		size = 850
+	}
+
+	officers = {
+		culture = kannada
+		religion = hindu
+		size = 500
+	}
+
+	clergymen = {
+		culture = kannada
+		religion = hindu
+		size = 2250
+	}
+
+	artisans = {
+		culture = kannada
+		religion = hindu
+		size = 9000
+	}
+
+	soldiers = {
+		culture = kannada
+		religion = hindu
+		size = 2000
+	}
+
+	farmers = {
+		culture = kannada
+		religion = hindu
+		size = 149150
+	}
+
+	aristocrats = {
+		culture = kannada
+		religion = sunni
+		size = 75
+	}
+
+	bureaucrats = {
+		culture = kannada
+		religion = sunni
+		size = 150
+	}
+
+	clergymen = {
+		culture = kannada
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = kannada
+		religion = sunni
+		size = 2000
+	}
+
+	soldiers = {
+		culture = kannada
+		religion = sunni
+		size = 75
+	}
+
+	farmers = {
+		culture = kannada
+		religion = sunni
+		size = 4625
+	}
+
+	serfs = {
+		culture = kannada
+		religion = hindu
+		size = 40000
+	}
+}

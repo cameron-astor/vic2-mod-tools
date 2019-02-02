@@ -1,0 +1,110 @@
+
+1865 = {
+	aristocrats = {
+		culture = harari
+		religion = sunni
+		size = 910
+	}
+
+	bureaucrats = {
+		culture = harari
+		religion = sunni
+		size = 25
+	}
+
+	officers = {
+		culture = harari
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = harari
+		religion = sunni
+		size = 285
+	}
+
+	artisans = {
+		culture = harari
+		religion = sunni
+		size = 1900
+	}
+
+	soldiers = {
+		culture = harari
+		religion = sunni
+		size = 1100
+	}
+
+	farmers = {
+		culture = harari
+		religion = sunni
+		size = 39215
+	}
+
+	aristocrats = {
+		culture = oromo
+		religion = sunni
+		size = 300
+	}
+
+	clergymen = {
+		culture = oromo
+		religion = sunni
+		size = 165
+	}
+
+	artisans = {
+		culture = oromo
+		religion = sunni
+		size = 700
+	}
+
+	soldiers = {
+		culture = oromo
+		religion = sunni
+		size = 1170
+	}
+
+	farmers = {
+		culture = oromo
+		religion = sunni
+		size = 11665
+	}
+	
+	slaves = {
+		culture = cushitic
+		religion = animist
+		size = 2200
+	}
+
+	aristocrats = {
+		culture = somali
+		religion = sunni
+		size = 950
+	}
+
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 475
+	}
+
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 2400
+	}
+
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 175
+	}
+
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 32800
+	}
+}

@@ -1,0 +1,98 @@
+
+1425 = {
+	aristocrats = {
+		culture = asian_minor
+		religion = animist
+		size = 200
+	}
+
+	clergymen = {
+		culture = asian_minor
+		religion = animist
+		size = 175
+	}
+
+	artisans = {
+		culture = asian_minor
+		religion = animist
+		size = 200
+	}
+
+	soldiers = {
+		culture = asian_minor
+		religion = animist
+		size = 150
+	}
+
+	labourers = {
+		culture = asian_minor
+		religion = animist
+		size = 9275
+	}
+	
+	slaves = {
+		culture = asian_minor
+		religion = animist
+		size = 2000
+	}
+
+	aristocrats = {
+		culture = malay
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = malay
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = malay
+		religion = animist
+		size = 250
+	}
+
+	soldiers = {
+		culture = malay
+		religion = animist
+		size = 25
+	}
+
+	labourers = {
+		culture = malay
+		religion = animist
+		size = 2650
+	}
+
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 750
+	}
+
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 50
+	}
+
+	labourers = {
+		culture = malay
+		religion = sunni
+		size = 8100
+	}
+}

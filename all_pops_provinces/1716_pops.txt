@@ -1,0 +1,26 @@
+
+1716 = {
+	aristocrats = {
+		culture = tuareg
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = tuareg
+		religion = sunni
+		size = 15
+	}
+
+	soldiers = {
+		culture = tuareg
+		religion = sunni
+		size = 65
+	}
+
+	farmers = {
+		culture = tuareg
+		religion = sunni
+		size = 1900
+	}
+}

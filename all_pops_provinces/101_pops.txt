@@ -1,0 +1,62 @@
+
+101 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 1500
+	}
+
+	aristocrats = {
+		culture = pueblo
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = pueblo
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = pueblo
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = pueblo
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = pueblo
+		religion = animist
+		size = 1200
+	}
+}

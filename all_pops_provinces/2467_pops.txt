@@ -1,0 +1,56 @@
+
+2467 = {
+	clergymen = {
+		culture = brazilian
+		religion = catholic
+		size = 75
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = catholic
+		size = 200
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = catholic
+		size = 1725
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 2000
+	}
+
+	aristocrats = {
+		culture = guarani
+		religion = animist
+		size = 75
+	}
+
+	clergymen = {
+		culture = guarani
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = guarani
+		religion = animist
+		size = 250
+	}
+
+	soldiers = {
+		culture = guarani
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = guarani
+		religion = animist
+		size = 4575
+	}
+}

@@ -1,0 +1,74 @@
+
+1702 = {
+	aristocrats = {
+		culture = maghrebi
+		religion = sunni
+		size = 600
+	}
+
+	clergymen = {
+		culture = maghrebi
+		religion = sunni
+		size = 500
+	}
+
+	artisans = {
+		culture = maghrebi
+		religion = sunni
+		size = 2400
+	}
+
+	soldiers = {
+		culture = maghrebi
+		religion = sunni
+		size = 3000
+	}
+
+	soldiers = {
+		culture = maghrebi
+		religion = sunni
+		size = 3000
+	}
+
+	soldiers = {
+		culture = maghrebi
+		religion = sunni
+		size = 2000
+	}
+
+	farmers = {
+		culture = maghrebi
+		religion = sunni
+		size = 80500
+	}
+
+	aristocrats = {
+		culture = berber
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = berber
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = berber
+		religion = sunni
+		size = 1600
+	}
+
+	farmers = {
+		culture = berber
+		religion = sunni
+		size = 12000
+	}
+
+	slaves = {
+		culture = forest_bantu
+		religion = animist
+		size = 6000
+	}
+}

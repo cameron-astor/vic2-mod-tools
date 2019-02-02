@@ -1,0 +1,128 @@
+
+946 = {
+	clergymen = {
+		culture = byelorussian
+		religion = orthodox
+		size = 1225
+	}
+
+	artisans = {
+		culture = byelorussian
+		religion = orthodox
+		size = 4850
+	}
+
+	soldiers = {
+		culture = byelorussian
+		religion = orthodox
+		size = 6100
+	}
+
+	farmers = {
+		culture = byelorussian
+		religion = orthodox
+		size = 44200
+	}
+	
+	serfs = {
+		culture = byelorussian
+		religion = orthodox
+		size = 70000
+	}
+
+	aristocrats = {
+		culture = polish
+		religion = catholic
+		size = 1500
+	}
+
+	clergymen = {
+		culture = polish
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = polish
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 175
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 2500
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 200
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 16125
+	}
+
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 1800
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 250
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 2850
+	}
+
+	clergymen = {
+		culture = lithuanian
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = lithuanian
+		religion = catholic
+		size = 250
+	}
+
+	soldiers = {
+		culture = lithuanian
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = lithuanian
+		religion = catholic
+		size = 4625
+	}
+}

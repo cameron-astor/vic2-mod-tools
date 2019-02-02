@@ -1,0 +1,122 @@
+
+1317 = {
+	aristocrats = {
+		culture = malayalam
+		religion = hindu
+		size = 6500
+	}
+
+	clergymen = {
+		culture = malayalam
+		religion = hindu
+		size = 2250
+	}
+
+	artisans = {
+		culture = malayalam
+		religion = hindu
+		size = 8000
+	}
+
+	soldiers = {
+		culture = malayalam
+		religion = hindu
+		size = 2000
+	}
+
+	farmers = {
+		culture = malayalam
+		religion = hindu
+		size = 171250
+	}
+
+	aristocrats = {
+		culture = malayalam
+		religion = sunni
+		size = 750
+	}
+
+	clergymen = {
+		culture = malayalam
+		religion = sunni
+		size = 875
+	}
+
+	artisans = {
+		culture = malayalam
+		religion = sunni
+		size = 5000
+	}
+
+	soldiers = {
+		culture = malayalam
+		religion = sunni
+		size = 1100
+	}
+
+	farmers = {
+		culture = malayalam
+		religion = sunni
+		size = 77375
+	}
+
+	aristocrats = {
+		culture = malayalam
+		religion = orthodox
+		size = 150
+	}
+
+	clergymen = {
+		culture = malayalam
+		religion = orthodox
+		size = 175
+	}
+
+	artisans = {
+		culture = malayalam
+		religion = orthodox
+		size = 2000
+	}
+
+	soldiers = {
+		culture = malayalam
+		religion = orthodox
+		size = 250
+	}
+
+	farmers = {
+		culture = malayalam
+		religion = orthodox
+		size = 28425
+	}
+
+	aristocrats = {
+		culture = malayalam
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = malayalam
+		religion = catholic
+		size = 250
+	}
+
+	artisans = {
+		culture = malayalam
+		religion = catholic
+		size = 2000
+	}
+
+	soldiers = {
+		culture = malayalam
+		religion = catholic
+		size = 250
+	}
+
+	farmers = {
+		culture = malayalam
+		religion = catholic
+		size = 34250
+	}
+}

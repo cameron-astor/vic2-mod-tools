@@ -1,0 +1,38 @@
+
+2004 = {
+	aristocrats = {
+		culture = herero
+		religion = animist
+		size = 300
+	}
+
+	clergymen = {
+		culture = herero
+		religion = animist
+		size = 600
+	}
+
+	artisans = {
+		culture = herero
+		religion = animist
+		size = 750
+	}
+
+	soldiers = {
+		culture = herero
+		religion = animist
+		size = 300
+	}
+
+	farmers = {
+		culture = herero
+		religion = animist
+		size = 21250
+	}
+
+	slaves = {
+		culture = khoisan
+		religion = animist
+		size = 5800
+	}
+}

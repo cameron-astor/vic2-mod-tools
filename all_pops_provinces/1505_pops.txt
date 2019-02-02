@@ -1,0 +1,158 @@
+
+1505 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 5275
+	}
+
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 575
+	}
+
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1350
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2675
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 3350
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2575
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 241025
+	}
+
+	aristocrats = {
+		culture = zhuang
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = zhuang
+		religion = animist
+		size = 500
+	}
+
+	artisans = {
+		culture = zhuang
+		religion = animist
+		size = 250
+	}
+
+	soldiers = {
+		culture = zhuang
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = zhuang
+		religion = animist
+		size = 4550
+	}
+
+	aristocrats = {
+		culture = yi
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = yi
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = yi
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = yi
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = yi
+		religion = animist
+		size = 1775
+	}
+
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 300
+	}
+
+	clergymen = {
+		culture = miao
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = miao
+		religion = animist
+		size = 750
+	}
+
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = miao
+		religion = animist
+		size = 13650
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 50
+	}
+
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 25
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 100
+	}
+}

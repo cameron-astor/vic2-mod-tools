@@ -1,0 +1,32 @@
+
+1323 = {
+	aristocrats = {
+		culture = sinhala
+		religion = theravada
+		size = 750
+	}
+
+	clergymen = {
+		culture = sinhala
+		religion = theravada
+		size = 750
+	}
+
+	artisans = {
+		culture = sinhala
+		religion = theravada
+		size = 4000
+	}
+
+	soldiers = {
+		culture = sinhala
+		religion = theravada
+		size = 750
+	}
+
+	farmers = {
+		culture = sinhala
+		religion = theravada
+		size = 69250
+	}
+}

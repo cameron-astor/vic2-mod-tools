@@ -1,0 +1,68 @@
+
+1989 = {
+	aristocrats = {
+		culture = luba
+		religion = animist
+		size = 4030
+	}
+
+	clergymen = {
+		culture = luba
+		religion = animist
+		size = 1830
+	}
+
+	artisans = {
+		culture = luba
+		religion = animist
+		size = 7520
+	}
+
+	soldiers = {
+		culture = luba
+		religion = animist
+		size = 2775
+	}
+
+	farmers = {
+		culture = luba
+		religion = animist
+		size = 144390
+	}
+
+	aristocrats = {
+		culture = kingwana
+		religion = sunni
+		size = 1280
+	}
+
+	clergymen = {
+		culture = kingwana
+		religion = sunni
+		size = 730
+	}
+
+	artisans = {
+		culture = kingwana
+		religion = sunni
+		size = 3480
+	}
+
+	soldiers = {
+		culture = kingwana
+		religion = animist
+		size = 2200
+	}
+
+	farmers = {
+		culture = kingwana
+		religion = animist
+		size = 43070
+	}
+
+	slaves = {
+		culture = kingwana
+		religion = animist
+		size = 47670
+	}
+}

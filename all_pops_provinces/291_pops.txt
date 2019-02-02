@@ -1,0 +1,44 @@
+
+291 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 500
+	}
+
+	officers = {
+		culture = british
+		religion = protestant
+		size = 250
+	}
+
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 1750
+	}
+
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 500
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 5500
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 1100
+	}
+
+	labourers = {
+		culture = british
+		religion = protestant
+		size = 68500
+	}
+}

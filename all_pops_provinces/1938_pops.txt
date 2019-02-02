@@ -1,0 +1,68 @@
+
+1938 = {
+	aristocrats = {
+		culture = east_kwa
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = east_kwa
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = east_kwa
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = east_kwa
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = east_kwa
+		religion = animist
+		size = 1800
+	}
+
+	slaves = {
+		culture = east_kwa
+		religion = animist
+		size = 2000
+	}
+
+	aristocrats = {
+		culture = east_kwa
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = east_kwa
+		religion = sunni
+		size = 125
+	}
+
+	artisans = {
+		culture = east_kwa
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = east_kwa
+		religion = sunni
+		size = 125
+	}
+
+	farmers = {
+		culture = east_kwa
+		religion = sunni
+		size = 9025
+	}
+}

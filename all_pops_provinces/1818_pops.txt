@@ -1,0 +1,122 @@
+
+1818 = {
+	aristocrats = {
+		culture = sara
+		religion = sunni
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = sara
+		religion = sunni
+		size = 100
+	}
+
+	officers = {
+		culture = sara
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = sara
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = sara
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = sara
+		religion = sunni
+		size = 500
+	}
+
+	farmers = {
+		culture = sara
+		religion = sunni
+		size = 10000
+	}
+	
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = bedouin
+		religion = sunni
+		size = 100
+	}
+
+	officers = {
+		culture = bedouin
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 500
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 13458
+	}
+
+	aristocrats = {
+		culture = baguirmi
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = baguirmi
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = baguirmi
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = baguirmi
+		religion = sunni
+		size = 500
+	}
+
+	farmers = {
+		culture = baguirmi
+		religion = sunni
+		size = 9000
+	}
+	
+	slaves = {
+		culture = baguirmi
+		religion = animist
+		size = 700
+	}
+}

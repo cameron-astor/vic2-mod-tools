@@ -1,0 +1,62 @@
+
+1449 = {
+	aristocrats = {
+		culture = moluccan
+		religion = protestant
+		size = 115
+	}
+
+	bureaucrats = {
+		culture = moluccan
+		religion = protestant
+		size = 10
+	}
+
+	clergymen = {
+		culture = moluccan
+		religion = protestant
+		size = 125
+	}
+
+	artisans = {
+		culture = moluccan
+		religion = protestant
+		size = 600
+	}
+
+	soldiers = {
+		culture = moluccan
+		religion = protestant
+		size = 150
+	}
+
+	farmers = {
+		culture = moluccan
+		religion = protestant
+		size = 1100
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 10
+	}
+
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 15
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 25
+	}
+
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size = 50
+	}
+}

@@ -1,0 +1,38 @@
+
+1790 = {
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 975
+	}
+
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 525
+	}
+
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 2175
+	}
+
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 1325
+	}
+
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 34000
+	}
+
+	slaves = {
+		culture = fulbe
+		religion = sunni
+		size = 15000
+	}
+}

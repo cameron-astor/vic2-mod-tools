@@ -1,0 +1,152 @@
+
+635 = {
+	clergymen = {
+		culture = slovak
+		religion = catholic
+		size = 850
+	}
+
+	artisans = {
+		culture = slovak
+		religion = catholic
+		size = 4400
+	}
+
+	soldiers = {
+		culture = slovak
+		religion = catholic
+		size = 650 
+	}
+
+	farmers = {
+		culture = slovak
+		religion = catholic
+		size = 20300
+	}
+	
+	serfs = {
+		culture = gypsy
+		religion = catholic
+		size = 3000
+	}
+	
+	serfs = {
+		culture = slovak
+		religion = catholic
+		size = 32000
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 2712  
+	}
+	
+	bureaucrats = {
+		culture = hungarian
+		religion = catholic
+		size = 300
+	}
+	
+	officers = {
+		culture = hungarian
+		religion = catholic
+		size = 65
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 140
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 1250
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 190 
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 16937 
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = protestant
+		size = 115  
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = protestant
+		size = 950
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = protestant
+		size = 162  
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = protestant
+		size = 17712    
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25  
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1100
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25 
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 850    
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 50  
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 150
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 50  
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 2750  
+	}
+}

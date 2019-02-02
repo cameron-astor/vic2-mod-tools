@@ -1,0 +1,62 @@
+
+1970 = {
+	aristocrats = {
+		culture = azande
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = azande
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = azande
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = azande
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = azande
+		religion = animist
+		size = 900
+	}
+
+	aristocrats = {
+		culture = ubangian
+		religion = animist
+		size = 225
+	}
+
+	clergymen = {
+		culture = ubangian
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = ubangian
+		religion = animist
+		size = 650
+	}
+
+	soldiers = {
+		culture = ubangian
+		religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = ubangian
+		religion = animist
+		size = 11875
+	}
+}

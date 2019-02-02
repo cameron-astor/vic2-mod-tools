@@ -1,0 +1,68 @@
+
+2186 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 500
+	}
+
+	bureaucrats = {
+		culture = central_american
+		religion = catholic
+		size = 500
+	}
+
+	officers = {
+		culture = central_american
+		religion = catholic
+		size = 110
+	}
+
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 165
+	}
+
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 925
+	}
+
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 785
+	}
+
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 16200
+	}
+
+	clergymen = {
+		culture = mayan
+		religion = catholic
+		size = 60
+	}
+
+	artisans = {
+		culture = mayan
+		religion = catholic
+		size = 600
+	}
+
+	soldiers = {
+		culture = mayan
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = mayan
+		religion = catholic
+		size = 15525
+	}
+}

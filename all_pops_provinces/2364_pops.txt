@@ -1,0 +1,50 @@
+
+2364 = {
+	aristocrats = {
+		culture = guarani
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = guarani
+		religion = animist
+		size = 75
+	}
+
+	soldiers = {
+		culture = guarani
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = guarani
+		religion = animist
+		size = 2700
+	}
+
+	bureaucrats = {
+		culture = platinean
+		religion = catholic
+		size = 2
+	}
+
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 23
+	}
+
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 1200
+	}
+}

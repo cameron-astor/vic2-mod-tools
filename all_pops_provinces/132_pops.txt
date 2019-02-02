@@ -1,0 +1,75 @@
+
+132 = {
+	bureaucrats = {
+		culture = texan
+		religion = protestant
+		size = 5
+	}
+	
+	aristocrats = {
+		culture = texan
+		religion = protestant
+		size = 25
+	}
+
+	clergymen = {
+		culture = texan
+		religion = protestant
+		size = 25
+	}
+
+	artisans = {
+		culture = texan
+		religion = protestant
+		size = 75
+	}
+
+	soldiers = {
+		culture = texan
+		religion = protestant
+		size = 550
+	}
+
+	farmers = {
+		culture = texan
+		religion = protestant
+		size = 1550
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 500
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 1
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 2
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 8
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 3
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 1
+	}
+}
+

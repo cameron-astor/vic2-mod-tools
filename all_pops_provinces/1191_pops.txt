@@ -1,0 +1,62 @@
+
+1191 = {
+	aristocrats = {
+		culture = uzbek
+		religion = sunni
+		size = 950
+	}
+
+	bureaucrats = {
+		culture = uzbek
+		religion = sunni
+		size = 125
+	}
+
+	officers = {
+		culture = uzbek
+		religion = sunni
+		size = 125
+	}
+
+	clergymen = {
+		culture = uzbek
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = uzbek
+		religion = sunni
+		size = 2300
+	}
+
+	soldiers = {
+		culture = uzbek
+		religion = sunni
+		size = 3000
+	}
+
+	soldiers = {
+		culture = uzbek
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = uzbek
+		religion = sunni
+		size = 38050
+	}
+
+	slaves = {
+		culture = persian
+		religion = shiite
+		size = 7000
+	}
+
+	slaves = {
+		culture = russian
+		religion = orthodox
+		size = 3000
+	}
+}

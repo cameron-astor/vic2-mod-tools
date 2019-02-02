@@ -1,0 +1,34 @@
+
+2285 = {
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 1
+	}
+
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 1
+	}
+
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 3
+	}
+
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 45
+	}
+
+}
+

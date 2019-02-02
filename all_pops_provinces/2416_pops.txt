@@ -1,0 +1,68 @@
+
+2416 = {
+	aristocrats = {
+		culture = brazilian
+		religion = catholic
+		size = 225
+	}
+
+	bureaucrats = {
+		culture = brazilian
+		religion = catholic
+		size = 10
+	}
+
+	officers = {
+		culture = brazilian
+		religion = catholic
+		size = 15
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = catholic
+		size = 125
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = catholic
+		size = 250
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = catholic
+		size = 75
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 5400
+	}
+
+	clergymen = {
+		culture = guarani
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = guarani
+		religion = animist
+		size = 250
+	}
+
+	soldiers = {
+		culture = guarani
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = guarani
+		religion = animist
+		size = 4650
+	}
+}

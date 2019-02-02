@@ -1,0 +1,9 @@
+
+2636 = {
+	farmers = {
+		culture = inuit
+		religion = protestant
+		size = 505
+	}
+}
+

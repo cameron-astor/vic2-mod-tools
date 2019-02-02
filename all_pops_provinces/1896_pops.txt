@@ -1,0 +1,68 @@
+
+1896 = {
+	aristocrats = {
+		culture = mande
+		religion = sunni
+		size = 150
+	}
+
+	clergymen = {
+		culture = mande
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = mande
+		religion = sunni
+		size = 400
+	}
+
+	soldiers = {
+		culture = mande
+		religion = sunni
+		size = 75
+	}
+
+	farmers = {
+		culture = mande
+		religion = sunni
+		size = 7300
+	}
+
+	aristocrats = {
+		culture = kru
+		religion = animist
+		size = 425
+	}
+
+	clergymen = {
+		culture = kru
+		religion = animist
+		size = 225
+	}
+
+	artisans = {
+		culture = kru
+		religion = animist
+		size = 1100
+	}
+
+	soldiers = {
+		culture = kru
+		religion = animist
+		size = 225
+	}
+
+	farmers = {
+		culture = kru
+		religion = animist
+		size = 15025
+	}
+
+	slaves = {
+		culture = kru
+		religion = animist
+		size = 5000
+	}
+}

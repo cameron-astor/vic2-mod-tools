@@ -1,0 +1,45 @@
+
+1714 = {
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 5
+	}
+
+	bureaucrats = {
+		culture = platinean
+		religion = catholic
+		size = 15
+	}
+
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 10
+	}
+	
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 10
+	}
+
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 60
+	}
+
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 300
+	}
+	
+	farmers = {
+		culture = south_andean
+		religion = catholic
+		size = 200
+	}
+}
+

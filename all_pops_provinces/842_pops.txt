@@ -1,0 +1,45 @@
+
+842 = {
+
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 1100
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = orthodox
+		size = 100
+	}
+
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 60
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 400
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 1100
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 41000
+	}
+}

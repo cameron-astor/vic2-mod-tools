@@ -1,0 +1,8 @@
+
+1654 = {
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 7
+	}
+}

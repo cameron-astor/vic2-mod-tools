@@ -1,0 +1,46 @@
+
+1998 = {
+	aristocrats = {
+		culture = azande
+		religion = animist
+		size = 1925
+	}
+
+	clergymen = {
+		culture = azande
+		religion = animist
+		size = 1100
+	}
+
+	artisans = {
+		culture = azande
+		religion = animist
+		size = 4950
+	}
+
+	soldiers = {
+		culture = azande
+		religion = animist
+		size = 3000
+	}
+
+	soldiers = {
+		culture = azande
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = azande
+		religion = animist
+		size = 180110
+	}
+	
+	farmers = {
+		culture = luo
+		religion = animist
+		size = 10000
+	}
+
+}
+

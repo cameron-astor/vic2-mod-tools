@@ -1,0 +1,38 @@
+
+1814 = {
+	aristocrats = {
+		culture = tuareg
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = tuareg
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = tuareg
+		religion = sunni
+		size = 550
+	}
+
+	soldiers = {
+		culture = tuareg
+		religion = sunni
+		size = 125
+	}
+
+	farmers = {
+		culture = tuareg
+		religion = sunni
+		size = 9025
+	}
+
+	slaves = {
+		culture = teda
+		religion = sunni
+		size = 1000
+	}
+}

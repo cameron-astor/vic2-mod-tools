@@ -1,0 +1,80 @@
+
+1824 = {
+	aristocrats = {
+		culture = teda
+		religion = sunni
+		size = 300
+	}
+
+	clergymen = {
+		culture = teda
+		religion = sunni
+		size = 200
+	}
+
+	artisans = {
+		culture = teda
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = teda
+		religion = sunni
+		size = 300
+	}
+
+	farmers = {
+		culture = teda
+		religion = sunni
+		size = 9216
+	}
+
+	aristocrats = {
+		culture = kanuri
+		religion = sunni
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = kanuri
+		religion = sunni
+		size = 100
+	}
+
+	officers = {
+		culture = kanuri
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = kanuri
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = kanuri
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = kanuri
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = kanuri
+		religion = sunni
+		size = 15010
+	}
+
+	slaves = {
+		culture = baguirmi
+		religion = animist
+		size = 1300
+	}
+}

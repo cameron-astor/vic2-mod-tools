@@ -1,0 +1,56 @@
+
+906 = {
+	aristocrats = {
+		culture = mashriqi
+		religion = druze
+		size = 50
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = druze
+		size = 40
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = druze
+		size = 250
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = druze
+		size = 60
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = druze
+		size = 4000
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = orthodox
+		size = 20
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = orthodox
+		size = 50
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = orthodox
+		size = 700
+	}
+	
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 100
+	}
+}

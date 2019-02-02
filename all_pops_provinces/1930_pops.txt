@@ -1,0 +1,110 @@
+
+1930 = {
+	aristocrats = {
+		culture = edo
+		religion = animist
+		size = 575
+	}
+
+	clergymen = {
+		culture = edo
+		religion = animist
+		size = 300
+	}
+
+	artisans = {
+		culture = edo
+		religion = animist
+		size = 1175
+	}
+
+	soldiers = {
+		culture = edo
+		religion = animist
+		size = 300
+	}
+
+	farmers = {
+		culture = edo
+		religion = animist
+		size = 18650
+	}
+
+	farmers = {
+		culture = edo
+		religion = animist
+		size = 8000
+	}
+
+	aristocrats = {
+		culture = east_kwa
+		religion = animist
+		size = 1100
+	}
+
+	clergymen = {
+		culture = east_kwa
+		religion = animist
+		size = 550
+	}
+
+	artisans = {
+		culture = east_kwa
+		religion = animist
+		size = 2250
+	}
+
+	soldiers = {
+		culture = east_kwa
+		religion = animist
+		size = 575
+	}
+
+	farmers = {
+		culture = east_kwa
+		religion = animist
+		size = 35525
+	}
+
+	slaves = {
+		culture = east_kwa
+		religion = animist
+		size = 16000
+	}
+
+	aristocrats = {
+		culture = ibo
+		religion = animist
+		size = 1550
+	}
+
+	clergymen = {
+		culture = ibo
+		religion = animist
+		size = 775
+	}
+
+	artisans = {
+		culture = ibo
+		religion = animist
+		size = 3125
+	}
+
+	soldiers = {
+		culture = ibo
+		religion = animist
+		size = 800
+	}
+
+	farmers = {
+		culture = ibo
+		religion = animist
+		size = 45750
+	}
+
+	slaves = {
+		culture = ibo
+		religion = animist
+		size = 26000
+	}
+}

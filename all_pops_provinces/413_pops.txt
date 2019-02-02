@@ -1,0 +1,56 @@
+
+413 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 600
+	}
+
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 425
+	}
+
+	artisans = {
+		culture = french
+		religion = protestant
+		size = 2000
+	}
+
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 750
+	}
+
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 73225
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 1525
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 25
+	}
+
+	labourers = {
+		culture = south_german
+		religion = catholic
+		size = 1400
+	}
+}

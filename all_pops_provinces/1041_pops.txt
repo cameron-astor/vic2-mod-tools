@@ -1,0 +1,86 @@
+
+1041 = {
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 25
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 50
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 25
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 900
+	}
+
+	aristocrats = {
+		culture = circassian
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = circassian
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = circassian
+		religion = sunni
+		size = 50
+	}
+
+	soldiers = {
+		culture = circassian
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = circassian
+		religion = sunni
+		size = 875
+	}
+
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 650
+	}
+
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 275
+	}
+
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 1450
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 300
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 26325
+	}
+}

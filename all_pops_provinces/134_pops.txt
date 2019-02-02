@@ -1,0 +1,44 @@
+
+134 = {
+	clergymen = {
+		culture = texan
+		religion = protestant
+		size = 5
+	}
+
+	artisans = {
+		culture = texan
+		religion = protestant
+		size = 5
+	}
+
+	soldiers = {
+		culture = texan
+		religion = protestant
+		size = 5
+	}
+
+	farmers = {
+		culture = texan
+		religion = protestant
+		size = 75
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 10
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 700
+	}
+}

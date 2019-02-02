@@ -1,0 +1,92 @@
+
+1928 = {
+	aristocrats = {
+		culture = edo
+		religion = animist
+		size = 4250
+	}
+
+	bureaucrats = {
+		culture = edo
+		religion = animist
+		size = 200
+	}
+
+	officers = {
+		culture = edo
+		religion = animist
+		size = 700
+	}
+
+	clergymen = {
+		culture = edo
+		religion = animist
+		size = 2150
+	}
+
+	artisans = {
+		culture = edo
+		religion = animist
+		size = 8600
+	}
+
+	soldiers = {
+		culture = edo
+		religion = animist
+		size = 3000
+	}
+
+	soldiers = {
+		culture = edo
+		religion = animist
+		size = 2000
+	}
+
+	farmers = {
+		culture = edo
+		religion = animist
+		size = 173100
+	}
+
+	slaves = {
+		culture = ibo
+		religion = animist
+		size = 20000
+	}
+
+	aristocrats = {
+		culture = yoruba
+		religion = animist
+		size = 1400
+	}
+
+	clergymen = {
+		culture = yoruba
+		religion = animist
+		size = 700
+	}
+
+	artisans = {
+		culture = yoruba
+		religion = animist
+		size = 2900
+	}
+
+	soldiers = {
+		culture = yoruba
+		religion = animist
+		size = 750
+	}
+
+	farmers = {
+		culture = yoruba
+		religion = animist
+		size = 44250
+	}
+
+	slaves = {
+		culture = yoruba
+		religion = animist
+		size = 22000
+	}
+}

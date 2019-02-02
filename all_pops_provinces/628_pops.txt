@@ -1,0 +1,62 @@
+
+628 = {
+	clergymen = {
+		culture = czech
+		religion = catholic
+		size = 75 
+	}
+
+	artisans = {
+		culture = czech
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = czech
+		religion = catholic
+		size = 100
+	}
+
+	serfs = {
+		culture = czech
+		religion = catholic
+		size = 8325
+	}
+
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 850  
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 675
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 3350
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 1200
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 63825
+	}
+	
+	farmers = {
+		culture = south_german
+		religion = jewish
+		size = 600 
+	}
+}

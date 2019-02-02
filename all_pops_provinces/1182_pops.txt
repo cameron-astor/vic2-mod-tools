@@ -1,0 +1,62 @@
+
+1182 = {
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 20
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 15
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 35
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 15
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 665
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = sunni
+		size = 75
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 3625
+	}
+}

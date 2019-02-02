@@ -1,0 +1,38 @@
+
+1996 = {
+	aristocrats = {
+		culture = lendu
+		religion = animist
+		size = 2840
+	}
+
+	clergymen = {
+		culture = lendu
+		religion = animist
+		size = 1470
+	}
+
+	artisans = {
+		culture = lendu
+		religion = animist
+		size = 5775
+	}
+
+	soldiers = {
+		culture = lendu
+		religion = animist
+		size = 1470
+	}
+
+	farmers = {
+		culture = lendu
+		religion = animist
+		size = 132120
+	}
+
+	slaves = {
+		culture = kingwana
+		religion = animist
+		size = 49330
+	}
+}

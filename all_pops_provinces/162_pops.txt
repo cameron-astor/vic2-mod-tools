@@ -1,0 +1,32 @@
+
+162 = {
+	bureaucrats = {
+		culture = yankee
+		religion = protestant
+		size = 15
+	}
+
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 25
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 100
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 25
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 1835
+	}
+}

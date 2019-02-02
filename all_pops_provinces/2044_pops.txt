@@ -1,0 +1,158 @@
+
+2044 = {
+	aristocrats = {
+		culture = luo
+		religion = animist
+		size = 475
+	}
+
+	clergymen = {
+		culture = luo
+		religion = animist
+		size = 250
+	}
+
+	artisans = {
+		culture = luo
+		religion = animist
+		size = 1100
+	}
+
+	soldiers = {
+		culture = luo
+		religion = animist
+		size = 250
+	}
+
+	farmers = {
+		culture = luo
+		religion = animist
+		size = 9025
+	}
+
+	aristocrats = {
+		culture = unyamwezi
+		religion = animist
+		size = 275
+	}
+
+	clergymen = {
+		culture = unyamwezi
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = unyamwezi
+		religion = animist
+		size = 600
+	}
+
+	soldiers = {
+		culture = unyamwezi
+		religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = unyamwezi
+		religion = animist
+		size = 3825
+	}
+
+	slaves = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 24000
+	}
+
+	aristocrats = {
+		culture = sukuma
+		religion = animist
+		size = 925
+	}
+
+	clergymen = {
+		culture = sukuma
+		religion = animist
+		size = 475
+	}
+
+	artisans = {
+		culture = sukuma
+		religion = animist
+		size = 2350
+	}
+
+	soldiers = {
+		culture = sukuma
+		religion = animist
+		size = 475
+	}
+
+	farmers = {
+		culture = sukuma
+		religion = animist
+		size = 42775
+	}
+
+	aristocrats = {
+		culture = ruanda
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = ruanda
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = ruanda
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = ruanda
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = ruanda
+		religion = animist
+		size = 900
+	}
+
+	aristocrats = {
+		culture = ruanda
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = ruanda
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = ruanda
+		religion = animist
+		size = 150
+	}
+
+	soldiers = {
+		culture = ruanda
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = ruanda
+		religion = animist
+		size = 2700
+	}
+}

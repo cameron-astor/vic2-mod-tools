@@ -1,0 +1,81 @@
+
+2183 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 1275
+		militancy = 9
+	}
+
+	bureaucrats = {
+		culture = mexican
+		religion = catholic
+		size = 200
+		militancy = 9
+	}
+
+	officers = {
+		culture = mexican
+		religion = catholic
+		size = 50
+		militancy = 9
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 475
+		militancy = 9
+	}
+
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 1050
+		militancy = 9
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 2000
+
+		militancy = 9
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 12950
+		militancy = 9
+	}
+
+	clergymen = {
+		culture = mayan
+		religion = catholic
+		size = 125
+		militancy = 9
+	}
+
+	artisans = {
+		culture = mayan
+		religion = catholic
+		size = 1950
+		militancy = 9
+	}
+
+	soldiers = {
+		culture = mayan
+		religion = catholic
+		size = 400
+
+		militancy = 9
+	}
+
+	farmers = {
+		culture = mayan
+		religion = catholic
+		size = 36525
+		militancy = 9
+	}
+}

@@ -1,0 +1,80 @@
+
+688 = {
+	bureaucrats = {
+		culture = czech
+		religion = catholic
+		size = 40 
+	}
+
+	officers = {
+		culture = czech
+		religion = catholic
+		size = 25 
+	}
+
+	clergymen = {
+		culture = czech
+		religion = catholic
+		size = 50 
+	}
+
+	artisans = {
+		culture = czech
+		religion = catholic
+		size = 450
+	}
+
+	soldiers = {
+		culture = czech
+		religion = catholic
+		size = 50
+	}
+
+	serfs = {
+		culture = czech
+		religion = catholic
+		size = 5385 
+	}
+
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 250  
+	}
+
+	officers = {
+		culture = south_german
+		religion = catholic
+		size = 50 
+	}
+
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 140 
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 200  
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 1550 
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 17610   
+	}
+}

@@ -1,0 +1,140 @@
+
+1283 = {
+	aristocrats = {
+		culture = telegu
+		religion = hindu
+		size = 24000
+	}
+
+	clergymen = {
+		culture = telegu
+		religion = hindu
+		size = 3250
+	}
+
+	artisans = {
+		culture = telegu
+		religion = hindu
+		size = 10000
+	}
+	
+	artisans = {
+		culture = telegu
+		religion = hindu
+		size = 10000
+	}
+	
+	artisans = {
+		culture = telegu
+		religion = hindu
+		size = 2000
+	}
+
+	soldiers = {
+		culture = telegu
+		religion = hindu
+		size = 3000
+	}
+
+	soldiers = {
+		culture = telegu
+		religion = hindu
+		size = 500
+	}
+
+	farmers = {
+		culture = telegu
+		religion = hindu
+		size = 197250
+	}
+
+	aristocrats = {
+		culture = avadhi
+		religion = sunni
+		size = 1250
+	}
+
+	bureaucrats = {
+		culture = avadhi
+		religion = sunni
+		size = 2250
+	}
+
+	officers = {
+		culture = avadhi
+		religion = sunni
+		size = 2000
+	}
+
+	clergymen = {
+		culture = avadhi
+		religion = sunni
+		size = 625
+	}
+
+	artisans = {
+		culture = avadhi
+		religion = sunni
+		size = 10000
+	}
+	
+	artisans = {
+		culture = avadhi
+		religion = sunni
+		size = 2000
+	}
+
+	soldiers = {
+		culture = avadhi
+		religion = sunni
+		size = 3000
+	}
+
+	soldiers = {
+		culture = avadhi
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = avadhi
+		religion = sunni
+		size = 13875
+	}
+
+	aristocrats = {
+		culture = avadhi
+		religion = shiite
+		size = 50
+	}
+
+	clergymen = {
+		culture = avadhi
+		religion = shiite
+		size = 50
+	}
+
+	artisans = {
+		culture = avadhi
+		religion = shiite
+		size = 4000
+	}
+
+	soldiers = {
+		culture = avadhi
+		religion = shiite
+		size = 75
+	}
+
+	farmers = {
+		culture = avadhi
+		religion = shiite
+		size = 1835
+	}
+
+	serfs = {
+		culture = telegu
+		religion = hindu
+		size = 30000
+	}
+}

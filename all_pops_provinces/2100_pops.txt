@@ -1,0 +1,45 @@
+
+2100 = {
+	aristocrats = {
+		culture = xhosa
+		religion = animist
+		size = 400
+	}
+
+	bureaucrats = {
+		culture = xhosa
+		religion = animist
+		size = 200
+	}
+
+	clergymen = {
+		culture = xhosa
+		religion = animist
+		size = 400
+	}
+
+	artisans = {
+		culture = xhosa
+		religion = animist
+		size = 1800
+	}
+
+	soldiers = {
+		culture = xhosa
+		religion = animist
+		size = 1400
+	}
+
+	farmers = {
+		culture = xhosa
+		religion = animist
+		size = 32000
+	}
+	
+	slaves = {
+		culture = xhosa
+		religion = animist
+		size = 1350
+	}
+
+}

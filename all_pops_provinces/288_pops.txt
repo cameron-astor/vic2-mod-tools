@@ -1,0 +1,68 @@
+
+288 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 750
+	}
+
+	officers = {
+		culture = british
+		religion = protestant
+		size = 1100
+	}
+
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 750
+	}
+
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 500
+	}
+
+	capitalists = {
+		culture = british
+		religion = protestant
+		size = 100
+	}
+
+	clerks = {
+		culture = british
+		religion = protestant
+		size = 200
+	}
+
+	craftsmen = {
+		culture = british
+		religion = protestant
+		size = 5000
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 3000
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 1100
+	}
+
+	labourers = {
+		culture = british
+		religion = protestant
+		size = 99700
+	}
+
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 5000
+	}
+}

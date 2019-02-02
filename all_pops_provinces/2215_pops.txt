@@ -1,0 +1,34 @@
+
+2215 = {
+	aristocrats = {
+		culture = afro_antillean
+		religion = catholic
+		size = 550
+	}
+
+	clergymen = {
+		culture = afro_antillean
+		religion = catholic
+		size = 75
+	}
+
+	artisans = {
+		culture = afro_antillean
+		religion = catholic
+		size = 2550
+	}
+
+	soldiers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 46825
+	}
+
+}
+

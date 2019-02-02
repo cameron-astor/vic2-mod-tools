@@ -1,0 +1,46 @@
+
+2345 = {
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = platinean
+		religion = catholic
+		size = 20
+	}	
+	
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 75
+	}
+
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 450
+	}
+
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 1000
+	}
+	
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 1500
+		militancy = 9
+		rebel_type = liberal_rebels
+	}
+
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 7275
+	}
+}

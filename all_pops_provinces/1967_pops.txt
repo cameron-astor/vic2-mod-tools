@@ -1,0 +1,62 @@
+
+1967 = {
+	aristocrats = {
+		culture = ubangian
+		religion = animist
+		size = 125
+	}
+
+	clergymen = {
+		culture = ubangian
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = ubangian
+		religion = animist
+		size = 350
+	}
+
+	soldiers = {
+		culture = ubangian
+		religion = animist
+		size = 75
+	}
+
+	farmers = {
+		culture = ubangian
+		religion = animist
+		size = 6375
+	}
+	
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 900
+	}
+}

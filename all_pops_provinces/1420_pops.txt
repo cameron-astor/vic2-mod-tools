@@ -1,0 +1,62 @@
+
+1420 = {
+	aristocrats = {
+		culture = javan
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = javan
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = javan
+		religion = animist
+		size = 750
+	}
+
+	soldiers = {
+		culture = javan
+		religion = animist
+		size = 100
+	}
+
+	slaves = {
+		culture = javan
+		religion = animist
+		size = 9975
+	}
+
+	aristocrats = {
+		culture = javan
+		religion = sunni
+		size = 1750
+	}
+
+	clergymen = {
+		culture = javan
+		religion = sunni
+		size = 1625
+	}
+
+	artisans = {
+		culture = javan
+		religion = sunni
+		size = 8000
+	}
+
+	soldiers = {
+		culture = javan
+		religion = sunni
+		size = 1500
+	}
+
+	farmers = {
+		culture = javan
+		religion = sunni
+		size = 153125
+	}
+}

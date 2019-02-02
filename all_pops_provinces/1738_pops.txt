@@ -1,0 +1,33 @@
+
+1738 = {
+	aristocrats = {
+		culture = maghrebi
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = maghrebi
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = maghrebi
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 2750
+	}
+}
+

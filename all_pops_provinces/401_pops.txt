@@ -1,0 +1,38 @@
+
+401 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 850
+	}
+
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 925
+	}
+
+	artisans = {
+		culture = picard
+		religion = catholic
+		size = 5750
+	}
+
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 1150
+	}
+
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 60200
+	}
+
+	farmers = {
+		culture = picard
+		religion = catholic
+		size = 30125
+	}
+}

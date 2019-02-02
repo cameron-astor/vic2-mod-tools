@@ -1,0 +1,40 @@
+
+1916 = {
+	aristocrats = {
+		culture = gur
+		religion = animist
+		size = 440
+	}
+
+	clergymen = {
+		culture = gur
+		religion = animist
+		size = 265
+	}
+
+	artisans = {
+		culture = gur
+		religion = animist
+		size = 1315
+	}
+
+	soldiers = {
+		culture = gur
+		religion = animist
+		size = 840
+	}
+
+	farmers = {
+		culture = gur
+		religion = animist
+		size = 22140
+	}
+
+	slaves = {
+		culture = ewe
+		religion = animist
+		size = 7000
+	}
+
+}
+

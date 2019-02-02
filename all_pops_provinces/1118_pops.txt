@@ -1,0 +1,32 @@
+
+1118 = {
+	aristocrats = {
+		culture = kurdish
+		religion = sunni
+		size = 425
+	}
+
+	clergymen = {
+		culture = kurdish
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = kurdish
+		religion = sunni
+		size = 1150
+	}
+
+	soldiers = {
+		culture = kurdish
+		religion = sunni
+		size = 250
+	}
+
+	farmers = {
+		culture = kurdish
+		religion = sunni
+		size = 20950
+	}
+}

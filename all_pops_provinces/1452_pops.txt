@@ -1,0 +1,38 @@
+
+1452 = {
+	aristocrats = {
+		culture = moluccan
+		religion = sunni
+		size = 100
+	}
+	
+	bureaucrats = {
+		culture = moluccan
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 250
+	}
+
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 75
+	}
+
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 7525
+	}
+}

@@ -1,0 +1,44 @@
+
+294 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 750
+	}
+
+	officers = {
+		culture = british
+		religion = protestant
+		size = 250
+	}
+
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 1075
+	}
+
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 1500
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 6000
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 1500
+	}
+
+	labourers = {
+		culture = british
+		religion = protestant
+		size = 66625
+	}
+}

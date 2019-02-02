@@ -1,0 +1,104 @@
+
+979 = {
+	aristocrats = {
+		culture = ukrainian
+		religion = orthodox
+		size = 675
+	}
+
+	clergymen = {
+		culture = ukrainian
+		religion = orthodox
+		size = 325
+	}
+
+	artisans = {
+		culture = ukrainian
+		religion = orthodox
+		size = 1750
+	}
+
+	soldiers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 3000
+	}
+
+	farmers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 28250
+	}
+
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 225
+	}
+
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 375
+	}
+
+	officers = {
+		culture = russian
+		religion = orthodox
+		size = 300
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 450
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 17450
+	}
+
+	aristocrats = {
+		culture = tatar
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = tatar
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = tatar
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = tatar
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = tatar
+		religion = sunni
+		size = 1775
+	}
+}

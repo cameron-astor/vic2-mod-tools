@@ -1,0 +1,146 @@
+
+1030 = {
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 400
+	}
+
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 700
+	}
+
+	officers = {
+		culture = russian
+		religion = orthodox
+		size = 500
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 250
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 1950
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 250
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 21950
+	}
+
+	aristocrats = {
+		culture = tatar
+		religion = sunni
+		size = 1350
+	}
+
+	bureaucrats = {
+		culture = tatar
+		religion = sunni
+		size = 300
+	}
+
+	officers = {
+		culture = tatar
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = tatar
+		religion = sunni
+		size = 750
+	}
+
+	artisans = {
+		culture = tatar
+		religion = sunni
+		size = 6000
+	}
+
+	soldiers = {
+		culture = tatar
+		religion = sunni
+		size = 750
+	}
+
+	farmers = {
+		culture = tatar
+		religion = sunni
+		size = 35400
+	}
+	
+	serfs = {
+		culture = tatar
+		religion = sunni
+		size = 30000
+	}
+
+	aristocrats = {
+		culture = tatar
+		religion = orthodox
+		size = 500
+	}
+
+	clergymen = {
+		culture = tatar
+		religion = orthodox
+		size = 275
+	}
+
+	artisans = {
+		culture = tatar
+		religion = orthodox
+		size = 2850
+	}
+
+	soldiers = {
+		culture = tatar
+		religion = orthodox
+		size = 350
+	}
+
+	farmers = {
+		culture = tatar
+		religion = orthodox
+		size = 31025
+	}
+
+	clergymen = {
+		culture = ugrian
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = ugrian
+		religion = orthodox
+		size = 1200
+	}
+
+	soldiers = {
+		culture = ugrian
+		religion = orthodox
+		size = 150
+	}
+
+	farmers = {
+		culture = ugrian
+		religion = orthodox
+		size = 13550
+	}
+}

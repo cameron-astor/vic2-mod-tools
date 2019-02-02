@@ -1,0 +1,70 @@
+
+1689 = {
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 5
+	}
+
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 10
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 40
+	}
+
+	clergymen = {
+		culture = maghrebi
+		religion = sunni
+		size = 10
+	}
+
+	artisans = {
+		culture = maghrebi
+		religion = sunni
+		size = 20
+	}
+
+	soldiers = {
+		culture = maghrebi
+		religion = sunni
+		size = 30
+	}
+
+	farmers = {
+		culture = maghrebi
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = berber
+		religion = sunni
+		size = 5
+	}
+
+	artisans = {
+		culture = berber
+		religion = sunni
+		size = 15
+	}
+
+	soldiers = {
+		culture = berber
+		religion = sunni
+		size = 30
+	}
+
+	farmers = {
+		culture = berber
+		religion = sunni
+		size = 150
+	}
+
+}
+

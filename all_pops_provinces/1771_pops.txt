@@ -1,0 +1,62 @@
+
+1771 = {
+	aristocrats = {
+		culture = misri
+		religion = sunni
+		size = 15
+	}
+
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 50
+	}
+
+	soldiers = {
+		culture = misri
+		religion = sunni
+		size = 10
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 900
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 3650
+	}
+}

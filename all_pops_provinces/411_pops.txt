@@ -1,0 +1,86 @@
+
+411 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 1100
+	}
+
+	officers = {
+		culture = french
+		religion = catholic
+		size = 400
+	}
+
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 600
+	}
+
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 850
+	}
+
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 7450
+	}
+
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 94600
+	}
+
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 175
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 1250
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = jewish
+		size = 25
+	}
+
+	artisans = {
+		culture = south_german
+		religion = jewish
+		size = 975
+	}
+}

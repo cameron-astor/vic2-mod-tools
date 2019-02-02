@@ -1,0 +1,63 @@
+
+2631 = {
+
+	clergymen = {
+		culture = alaskan
+		religion = orthodox
+		size = 5
+	}
+
+	artisans = {
+		culture = alaskan
+		religion = orthodox
+		size = 5
+	}
+
+	soldiers = {
+		culture = alaskan
+		religion = orthodox
+		size = 10
+	}
+	
+	farmers = {
+		culture = alaskan
+		religion = orthodox
+		size = 20
+	}
+	
+	farmers = {
+		culture = inuit
+		religion = animist
+		size = 500
+	}
+	
+	clergymen = {
+		culture = alaskan
+		religion = protestant
+		size = 5
+	}
+
+	artisans = {
+		culture = alaskan
+		religion = protestant
+		size = 5
+	}
+
+	soldiers = {
+		culture = alaskan
+		religion = protestant
+		size = 5
+	}
+	
+	farmers = {
+		culture = alaskan
+		religion = protestant
+		size = 15
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 250
+	}
+}

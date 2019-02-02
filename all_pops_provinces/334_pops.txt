@@ -1,0 +1,38 @@
+
+334 = {
+	aristocrats = {
+		culture = swedish
+		religion = protestant
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = swedish
+		religion = protestant
+		size = 800
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 375
+	}
+
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 3750
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 1100
+	}
+
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 69125
+	}
+}

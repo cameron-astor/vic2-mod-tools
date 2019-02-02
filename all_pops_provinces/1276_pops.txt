@@ -1,0 +1,56 @@
+
+1276 = {
+	aristocrats = {
+		culture = marathi
+		religion = hindu
+		size = 1500
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = hindu
+		size = 1500
+	}
+
+	artisans = {
+		culture = marathi
+		religion = hindu
+		size = 7500
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = hindu
+		size = 1500
+	}
+
+	farmers = {
+		culture = marathi
+		religion = hindu
+		size = 125000
+	}
+
+	clergymen = {
+		culture = avadhi
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = avadhi
+		religion = sunni
+		size = 600
+	}
+
+	soldiers = {
+		culture = avadhi
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = avadhi
+		religion = sunni
+		size = 11200
+	}
+}

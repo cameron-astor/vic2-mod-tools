@@ -1,0 +1,110 @@
+
+1819 = {
+	aristocrats = {
+		culture = sara
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = sara
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = sara
+		religion = sunni
+		size = 400
+	}
+
+	soldiers = {
+		culture = sara
+		religion = sunni
+		size = 500
+	}
+
+	farmers = {
+		culture = sara
+		religion = sunni
+		size = 8000
+	}
+	
+	aristocrats = {
+		culture = kanuri
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = kanuri
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = kanuri
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = kanuri
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = kanuri
+		religion = sunni
+		size = 11000
+	}
+
+	aristocrats = {
+		culture = sara
+		religion = animist
+		size = 600
+	}
+	
+	bureaucrats = {
+		culture = sara
+		religion = animist
+		size = 300
+	}
+
+	clergymen = {
+		culture = sara
+		religion = animist
+		size = 200
+	}
+
+	artisans = {
+		culture = sara
+		religion = animist
+		size = 2000
+	}
+
+	soldiers = {
+		culture = sara
+		religion = animist
+		size = 3000
+	}
+
+	farmers = {
+		culture = sara
+		religion = animist
+		size = 30566
+	}
+
+	slaves = {
+		culture = sara
+		religion = animist
+		size = 4000
+	}
+
+	slaves = {
+		culture = ubangian
+		religion = animist
+		size = 2000
+	}
+}

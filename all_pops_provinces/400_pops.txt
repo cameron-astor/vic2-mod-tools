@@ -1,0 +1,74 @@
+
+400 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 800
+	}
+
+	clergymen = {
+		culture = picard
+		religion = catholic
+		size = 850
+	}
+
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 5000
+	}
+
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 1000
+	}
+
+	farmers = {
+		culture = picard
+		religion = catholic
+		size = 63550
+	}
+
+	artisans = {
+		culture = flemish
+		religion = catholic
+		size = 2500
+	}
+
+	soldiers = {
+		culture = flemish
+		religion = catholic
+		size = 300
+	}
+
+	farmers = {
+		culture = flemish
+		religion = catholic
+		size = 15000
+	}
+}

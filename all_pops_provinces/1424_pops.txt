@@ -1,0 +1,62 @@
+
+1424 = {
+	aristocrats = {
+		culture = malay
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = malay
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = malay
+		religion = animist
+		size = 150
+	}
+
+	soldiers = {
+		culture = malay
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = malay
+		religion = animist
+		size = 3700
+	}
+
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 150
+	}
+
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 125
+	}
+
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 650
+	}
+
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 10925
+	}
+}

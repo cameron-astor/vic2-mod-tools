@@ -1,0 +1,27 @@
+
+1722 = {
+	aristocrats = {
+		culture = tuareg
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = tuareg
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = tuareg
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = tuareg
+		religion = sunni
+		size = 3800
+	}
+}
+

@@ -1,0 +1,80 @@
+
+2016 = {
+	aristocrats = {
+		culture = lunda
+		religion = animist
+		size = 450
+	}
+
+	bureaucrats = {
+		culture = lunda
+		religion = animist
+		size = 30
+	}
+
+	officers = {
+		culture = lunda
+		religion = animist
+		size = 120
+	}
+
+	clergymen = {
+		culture = lunda
+		religion = animist
+		size = 250
+	}
+
+	artisans = {
+		culture = lunda
+		religion = animist
+		size = 1100
+	}
+
+	soldiers = {
+		culture = lunda
+		religion = animist
+		size = 1150
+	}
+
+	farmers = {
+		culture = lunda
+		religion = animist
+		size = 15000
+	}
+
+	aristocrats = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 300
+	}
+
+	clergymen = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 200
+	}
+
+	artisans = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 900
+	}
+
+	soldiers = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 200
+	}
+
+	farmers = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 16400
+	}
+
+	slaves = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 6000
+	}
+}

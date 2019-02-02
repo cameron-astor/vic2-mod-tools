@@ -1,0 +1,38 @@
+
+1936 = {
+	aristocrats = {
+		culture = tiv
+		religion = animist
+		size = 1850
+	}
+
+	clergymen = {
+		culture = tiv
+		religion = animist
+		size = 925
+	}
+
+	artisans = {
+		culture = tiv
+		religion = animist
+		size = 3725
+	}
+
+	soldiers = {
+		culture = tiv
+		religion = animist
+		size = 950
+	}
+
+	farmers = {
+		culture = tiv
+		religion = animist
+		size = 62550
+	}
+
+	slaves = {
+		culture = ibo
+		religion = animist
+		size = 23000
+	}
+}

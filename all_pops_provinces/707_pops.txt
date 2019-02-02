@@ -1,0 +1,86 @@
+
+707 = {
+	aristocrats = {
+		culture = polish
+		religion = catholic
+		size = 1150
+	}
+
+	clergymen = {
+		culture = polish
+		religion = catholic
+		size = 375
+	}
+
+	artisans = {
+		culture = polish
+		religion = catholic
+		size = 1900
+	}
+
+	soldiers = {
+		culture = polish
+		religion = catholic
+		size = 375
+	}
+
+	farmers = {
+		culture = polish
+		religion = catholic
+		size = 50625
+	}
+	
+	serfs = {
+		culture = polish
+		religion = catholic
+		size = 5000
+	}
+
+	clergymen = {
+		culture = lithuanian
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = lithuanian
+		religion = catholic
+		size = 250
+	}
+
+	soldiers = {
+		culture = lithuanian
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = lithuanian
+		religion = catholic
+		size = 4625
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 2000
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 2900
+	}
+}

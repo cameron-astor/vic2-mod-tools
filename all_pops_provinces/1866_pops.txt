@@ -1,0 +1,40 @@
+
+1866 = {
+
+	aristocrats = {
+		culture = oromo
+		religion = sunni
+		size = 625
+	}
+
+	clergymen = {
+		culture = oromo
+		religion = sunni
+		size = 325
+	}
+
+	artisans = {
+		culture = oromo
+		religion = sunni
+		size = 1600
+	}
+
+	soldiers = {
+		culture = oromo
+		religion = sunni
+		size = 1050
+	}
+
+	farmers = {
+		culture = oromo
+		religion = sunni
+		size = 38500
+	}
+	
+	slaves = {
+		culture = cushitic
+		religion = animist
+		size = 5000
+	}
+	
+}

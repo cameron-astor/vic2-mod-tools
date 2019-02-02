@@ -1,0 +1,32 @@
+
+1597 = {
+	aristocrats = {
+		culture = uighur
+		religion = sunni
+		size = 950
+	}
+
+	clergymen = {
+		culture = uighur
+		religion = sunni
+		size = 500
+	}
+
+	artisans = {
+		culture = uighur
+		religion = sunni
+		size = 2400
+	}
+
+	soldiers = {
+		culture = uighur
+		religion = sunni
+		size = 500
+	}
+
+	farmers = {
+		culture = uighur
+		religion = sunni
+		size = 43650
+	}
+}

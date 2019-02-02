@@ -1,0 +1,26 @@
+
+2083 = {
+	aristocrats = {
+		culture = khoisan
+		religion = animist
+		size = 15
+	}
+
+	artisans = {
+		culture = khoisan
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = khoisan
+		religion = animist
+		size = 10
+	}
+
+	farmers = {
+		culture = khoisan
+		religion = animist
+		size = 1925
+	}
+}

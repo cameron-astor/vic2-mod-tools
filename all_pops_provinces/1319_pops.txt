@@ -1,0 +1,171 @@
+
+1319 = {
+	aristocrats = {
+		culture = malayalam
+		religion = hindu
+		size = 850
+	}
+
+	bureaucrats = {
+		culture = malayalam
+		religion = hindu
+		size = 600
+	}
+
+	officers = {
+		culture = malayalam
+		religion = hindu
+		size = 300
+	}
+
+	clergymen = {
+		culture = malayalam
+		religion = hindu
+		size = 825
+	}
+
+	artisans = {
+		culture = malayalam
+		religion = hindu
+		size = 2750
+	}
+
+	soldiers = {
+		culture = malayalam
+		religion = hindu
+		size = 3000
+	}
+
+	soldiers = {
+		culture = malayalam
+		religion = hindu
+		size = 3000
+	}
+
+	soldiers = {
+		culture = malayalam
+		religion = hindu
+		size = 1000
+	}
+
+	farmers = {
+		culture = malayalam
+		religion = hindu
+		size = 56675
+	}
+
+	aristocrats = {
+		culture = malayalam
+		religion = sunni
+		size = 150
+	}
+
+	clergymen = {
+		culture = malayalam
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = malayalam
+		religion = sunni
+		size = 1100
+	}
+
+	soldiers = {
+		culture = malayalam
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = malayalam
+		religion = sunni
+		size = 12550
+	}
+
+	clergymen = {
+		culture = malayalam
+		religion = shiite
+		size = 25
+	}
+
+	artisans = {
+		culture = malayalam
+		religion = shiite
+		size = 700
+	}
+
+	farmers = {
+		culture = malayalam
+		religion = shiite
+		size = 275
+	}
+
+	aristocrats = {
+		culture = malayalam
+		religion = orthodox
+		size = 100
+	}
+
+	clergymen = {
+		culture = malayalam
+		religion = orthodox
+		size = 125
+	}
+
+	artisans = {
+		culture = malayalam
+		religion = orthodox
+		size = 850
+	}
+
+	soldiers = {
+		culture = malayalam
+		religion = orthodox
+		size = 100
+	}
+
+	farmers = {
+		culture = malayalam
+		religion = orthodox
+		size = 10825
+	}
+
+	aristocrats = {
+		culture = malayalam
+		religion = catholic
+		size = 75
+	}
+
+	clergymen = {
+		culture = malayalam
+		religion = catholic
+		size = 75
+	}
+
+	artisans = {
+		culture = malayalam
+		religion = catholic
+		size = 650
+	}
+
+	soldiers = {
+		culture = malayalam
+		religion = catholic
+		size = 75
+	}
+
+	farmers = {
+		culture = malayalam
+		religion = catholic
+		size = 8125
+	}
+
+	serfs = {
+		culture = malayalam
+		religion = hindu
+		size = 34000
+	}
+
+}

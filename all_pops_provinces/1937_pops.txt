@@ -1,0 +1,38 @@
+
+1937 = {
+	aristocrats = {
+		culture = tiv
+		religion = animist
+		size = 875
+	}
+
+	clergymen = {
+		culture = tiv
+		religion = animist
+		size = 450
+	}
+
+	artisans = {
+		culture = tiv
+		religion = animist
+		size = 1775
+	}
+
+	soldiers = {
+		culture = tiv
+		religion = animist
+		size = 450
+	}
+
+	farmers = {
+		culture = tiv
+		religion = animist
+		size = 56250
+	}
+
+	slaves = {
+		culture = tiv
+		religion = animist
+		size = 8000
+	}
+}

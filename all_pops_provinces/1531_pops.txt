@@ -1,0 +1,32 @@
+
+1531 = {
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 250
+	}
+
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 1300
+	}
+
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 275
+	}
+
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 23675
+	}
+}

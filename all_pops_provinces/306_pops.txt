@@ -1,0 +1,38 @@
+
+306 = {
+	clergymen = {
+		culture = norwegian
+		religion = protestant
+		size = 50
+	}
+
+	aristocrats = {
+		culture = norwegian
+		religion = protestant
+		size = 100
+	}
+
+	artisans = {
+		culture = norwegian
+		religion = protestant
+		size = 750
+	}
+
+	soldiers = {
+		culture = norwegian
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = norwegian
+		religion = protestant
+		size = 13100
+	}
+
+	farmers = {
+		culture = finnish
+		religion = protestant
+		size = 1100
+	}
+}

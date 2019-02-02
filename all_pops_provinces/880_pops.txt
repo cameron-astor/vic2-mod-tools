@@ -1,0 +1,80 @@
+
+880 = {
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 825
+	}
+
+	bureaucrats = {
+		culture = turkish
+		religion = sunni
+		size = 125
+	}
+
+	officers = {
+		culture = turkish
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 725
+	}
+
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 3650
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 750
+	}
+
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 66825
+	}
+	
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 120
+	}
+	
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 120
+	}
+	
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 200
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 120
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 150
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 925
+	}
+}

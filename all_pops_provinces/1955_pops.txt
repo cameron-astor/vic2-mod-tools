@@ -1,0 +1,81 @@
+
+1955 = {
+
+	aristocrats = {
+		culture = forest_bantu
+		religion = animist
+		size = 10
+	}
+	
+	officers = {
+		culture = forest_bantu
+		religion = animist
+		size = 20
+	}
+
+	clergymen = {
+		culture = forest_bantu
+		religion = animist
+		size = 20
+	}
+
+	artisans = {
+		culture = forest_bantu
+		religion = animist
+		size = 120
+	}
+
+	soldiers = {
+		culture = forest_bantu
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = forest_bantu
+		religion = animist
+		size = 530
+	}
+	
+	aristocrats = {
+		culture = ibo
+		religion = animist
+		size = 10
+	}
+	
+	officers = {
+		culture = ibo
+		religion = animist
+		size = 20
+	}
+
+	clergymen = {
+		culture = ibo
+		religion = animist
+		size = 20
+	}
+
+	artisans = {
+		culture = ibo
+		religion = animist
+		size = 120
+	}
+
+	soldiers = {
+		culture = ibo
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = ibo
+		religion = animist
+		size = 700
+	}
+
+	slaves = {
+		culture = kru
+		religion = animist
+		size = 630
+	}
+}

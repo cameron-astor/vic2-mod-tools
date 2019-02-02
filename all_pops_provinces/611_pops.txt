@@ -1,0 +1,64 @@
+
+611 = {
+	aristocrats = {
+		culture = swiss
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = swiss
+		religion = catholic
+		size = 275
+	}
+
+	artisans = {
+		culture = swiss
+		religion = catholic
+		size = 650
+	}
+
+	soldiers = {
+		culture = swiss
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = swiss
+		religion = catholic
+		size = 11275
+	}
+
+	aristocrats = {
+		culture = swiss
+		religion = protestant
+		size = 50
+	}
+
+	clergymen = {
+		culture = swiss
+		religion = protestant
+		size = 50
+	}
+
+	artisans = {
+		culture = swiss
+		religion = protestant
+		size = 350
+	}
+
+	soldiers = {
+		culture = swiss
+		religion = protestant
+		size = 75
+	}
+
+	farmers = {
+		culture = swiss
+		religion = protestant
+		size = 6475
+	}
+
+}
+

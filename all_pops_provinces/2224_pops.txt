@@ -1,0 +1,62 @@
+
+2224 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 30
+	}
+
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 10
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 200
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 10
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 200
+	}
+
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 75
+	}
+
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 150
+	}
+
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 50
+	}
+
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 5470
+	}
+}

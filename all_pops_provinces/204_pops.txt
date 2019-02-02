@@ -1,0 +1,56 @@
+
+204 = {
+	aristocrats = {
+		culture = dixie
+		religion = protestant
+		size = 700
+	}
+
+	clergymen = {
+		culture = dixie
+		religion = protestant
+		size = 200
+	}
+
+	artisans = {
+		culture = dixie
+		religion = protestant
+		size = 1175
+	}
+
+	soldiers = {
+		culture = dixie
+		religion = protestant
+		size = 2100
+	}
+
+	farmers = {
+		culture = dixie
+		religion = protestant
+		size = 24825
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 25
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 475
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 25
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 20475
+	}
+}

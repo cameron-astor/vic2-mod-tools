@@ -1,0 +1,64 @@
+
+1971 = {
+	aristocrats = {
+		culture = fur
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = fur
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = fur
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = fur
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = fur
+		religion = sunni
+		size = 900
+	}
+
+	aristocrats = {
+		culture = ubangian
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = ubangian
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = ubangian
+		religion = animist
+		size = 300
+	}
+
+	soldiers = {
+		culture = ubangian
+		religion = animist
+		size = 75
+	}
+
+	farmers = {
+		culture = ubangian
+		religion = animist
+		size = 5475
+	}
+
+}
+

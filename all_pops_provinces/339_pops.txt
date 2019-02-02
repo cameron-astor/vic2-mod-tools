@@ -1,0 +1,98 @@
+
+339 = {
+	bureaucrats = {
+		culture = finnish
+		religion = protestant
+		size = 50
+	}
+
+	officers = {
+		culture = finnish
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = finnish
+		religion = protestant
+		size = 400
+	}
+
+	artisans = {
+		culture = finnish
+		religion = protestant
+		size = 2150
+	}
+
+	soldiers = {
+		culture = finnish
+		religion = protestant
+		size = 400
+	}
+
+	farmers = {
+		culture = finnish
+		religion = protestant
+		size = 42700
+	}
+
+	clergymen = {
+		culture = finnish
+		religion = orthodox
+		size = 50
+	}
+
+	artisans = {
+		culture = finnish
+		religion = orthodox
+		size = 250
+	}
+
+	soldiers = {
+		culture = finnish
+		religion = orthodox
+		size = 50
+	}
+
+	farmers = {
+		culture = finnish
+		religion = orthodox
+		size = 4650
+	}
+
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 150
+	}
+
+	officers = {
+		culture = russian
+		religion = orthodox
+		size = 50
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 25
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 50
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+}

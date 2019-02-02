@@ -1,0 +1,74 @@
+
+1265 = {
+	aristocrats = {
+		culture = rajput
+		religion = hindu
+		size = 2100
+	}
+
+	bureaucrats = {
+		culture = rajput
+		religion = hindu
+		size = 125
+	}
+
+	officers = {
+		culture = rajput
+		religion = hindu
+		size = 100
+	}
+
+	clergymen = {
+		culture = rajput
+		religion = hindu
+		size = 1050
+	}
+
+	artisans = {
+		culture = rajput
+		religion = hindu
+		size = 3000
+	}
+
+	soldiers = {
+		culture = rajput
+		religion = hindu
+		size = 1100
+	}
+
+	farmers = {
+		culture = rajput
+		religion = hindu
+		size = 74525
+	}
+
+	clergymen = {
+		culture = avadhi
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = avadhi
+		religion = sunni
+		size = 2500
+	}
+
+	soldiers = {
+		culture = avadhi
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = avadhi
+		religion = sunni
+		size = 5325
+	}
+	
+	serfs = {
+		culture = rajput
+		religion = hindu
+		size = 20000
+	}
+}

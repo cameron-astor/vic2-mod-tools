@@ -1,0 +1,64 @@
+
+686 = {
+	aristocrats = {
+		culture = turkmen
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = turkmen
+		religion = sunni
+		size = 200
+	}
+
+	artisans = {
+		culture = turkmen
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = turkmen
+		religion = sunni
+		size = 250
+	}
+
+	farmers = {
+		culture = turkmen
+		religion = sunni
+		size = 5000
+	}
+	
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 50
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 50
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 400
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 75
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 2425
+	}
+}
+
+

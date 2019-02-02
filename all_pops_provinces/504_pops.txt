@@ -1,0 +1,62 @@
+
+504 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 550
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 250
+	}
+
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 1300
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 250
+	}
+
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 21650
+	}
+
+	aristocrats = {
+		culture = catalan
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = catalan
+		religion = catholic
+		size = 275
+	}
+
+	artisans = {
+		culture = catalan
+		religion = catholic
+		size = 1700
+	}
+
+	soldiers = {
+		culture = catalan
+		religion = catholic
+		size = 250
+	}
+
+	farmers = {
+		culture = catalan
+		religion = catholic
+		size = 26275
+	}
+}

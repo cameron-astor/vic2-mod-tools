@@ -1,0 +1,86 @@
+
+487 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 2000
+	}
+
+	officers = {
+		culture = spanish
+		religion = catholic
+		size = 500
+	}
+
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 1100
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 900
+	}
+
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 8500
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 3000
+	}
+
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 20100
+	}
+}

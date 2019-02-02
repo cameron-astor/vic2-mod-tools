@@ -1,0 +1,80 @@
+
+1855 = {
+	aristocrats = {
+		culture = amhara
+		religion = coptic
+		size = 1450
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = coptic
+		size = 760
+	}
+
+	artisans = {
+		culture = amhara
+		religion = coptic
+		size = 3050
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = coptic
+		size = 1740
+	}
+
+	farmers = {
+		culture = amhara
+		religion = coptic
+		size = 184500
+	}
+
+	slaves = {
+		culture = amhara
+		religion = coptic
+		size = 7000
+	}
+
+	aristocrats = {
+		culture = oromo
+		religion = coptic
+		size = 1900
+	}
+
+	clergymen = {
+		culture = oromo
+		religion = coptic
+		size = 500
+	}
+
+	artisans = {
+		culture = oromo
+		religion = animist
+		size = 8000
+	}
+
+	soldiers = {
+		culture = oromo
+		religion = coptic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = oromo
+		religion = coptic
+		size = 1300
+	}
+
+	farmers = {
+		culture = oromo
+		religion = coptic
+		size = 50000
+	}
+
+	slaves = {
+		culture = oromo
+		religion = animist
+		size = 9800
+	}
+}

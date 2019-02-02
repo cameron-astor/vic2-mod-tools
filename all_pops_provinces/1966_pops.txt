@@ -1,0 +1,39 @@
+
+1966 = {
+	aristocrats = {
+		culture = ubangian
+		religion = animist
+		size = 75
+	}
+
+	clergymen = {
+		culture = ubangian
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = ubangian
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = ubangian
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = ubangian
+		religion = animist
+		size = 9125
+	}
+	
+	slaves = {
+		culture = forest_bantu
+		religion = animist
+		size = 500
+	}
+	
+}

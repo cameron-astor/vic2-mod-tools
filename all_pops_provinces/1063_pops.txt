@@ -1,0 +1,87 @@
+
+1063 = {
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1500
+	}
+	
+	farmers = {
+		culture = gypsy
+		religion = orthodox
+		size = 300
+	}
+
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 700
+	}
+
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 300
+	}
+
+	officers = {
+		culture = russian
+		religion = orthodox
+		size = 250
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 2000
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 5000
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 1000
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 20000
+	}
+
+	clergymen = {
+		culture = tatar
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = tatar
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = tatar
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = tatar
+		religion = sunni
+		size = 2775
+	}
+	
+	farmers = {
+		culture = siberian
+		religion = animist
+		size = 700
+	}
+}

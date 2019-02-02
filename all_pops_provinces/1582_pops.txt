@@ -1,0 +1,140 @@
+
+1582 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 5550
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 7650
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 3000
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2550
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 503250
+	}
+
+	aristocrats = {
+		culture = yi
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = yi
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = yi
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = yi
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = yi
+		religion = animist
+		size = 1800
+	}
+
+	aristocrats = {
+		culture = asian_minor
+		religion = animist
+		size = 2000
+	}
+
+	clergymen = {
+		culture = asian_minor
+		religion = animist
+		size = 1050
+	}
+
+	artisans = {
+		culture = asian_minor
+		religion = animist
+		size = 5250
+	}
+
+	soldiers = {
+		culture = asian_minor
+		religion = animist
+		size = 1050
+	}
+
+	farmers = {
+		culture = asian_minor
+		religion = animist
+		size = 95650
+	}
+
+	aristocrats = {
+		culture = tibetan
+		religion = gelugpa
+		size = 750
+	}
+
+	clergymen = {
+		culture = tibetan
+		religion = gelugpa
+		size = 400
+	}
+
+	artisans = {
+		culture = tibetan
+		religion = gelugpa
+		size = 1950
+	}
+
+	soldiers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 400
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 35500
+	}
+}

@@ -1,0 +1,44 @@
+
+1839 = {
+	aristocrats = {
+		culture = sudanese
+		religion = sunni
+		size = 100
+	}
+	
+	bureaucrats = {
+		culture = sudanese
+		religion = sunni
+		size = 25
+	}	
+
+	aristocrats = {
+		culture = dinka
+		religion = animist
+		size = 475
+	}
+
+	artisans = {
+		culture = dinka
+		religion = animist
+		size = 1100
+	}
+
+	soldiers = {
+		culture = dinka
+		religion = animist
+		size = 425
+	}
+
+	farmers = {
+		culture = dinka
+		religion = animist
+		size = 24900
+	}
+
+	slaves = {
+		culture = nilotic
+		religion = animist
+		size = 15000
+	}
+}

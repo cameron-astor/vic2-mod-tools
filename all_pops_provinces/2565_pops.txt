@@ -1,0 +1,75 @@
+
+2565 = {
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 125
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 25
+	}
+
+	aristocrats = {
+		culture = filipino
+		religion = catholic
+		size = 675
+	}
+
+	bureaucrats = {
+		culture = filipino
+		religion = catholic
+		size = 375
+	}
+
+	clergymen = {
+		culture = filipino
+		religion = catholic
+		size = 450
+	}
+
+	artisans = {
+		culture = filipino
+		religion = catholic
+		size = 3500
+	}
+
+	soldiers = {
+		culture = filipino
+		religion = catholic
+		size = 750
+	}
+
+	farmers = {
+		culture = filipino
+		religion = catholic
+		size = 64050
+	}
+
+	clergymen = {
+		culture = filipino
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = filipino
+		religion = sunni
+		size = 500
+	}
+
+	slaves = {
+		culture = filipino
+		religion = sunni
+		size = 7375
+	}
+
+}

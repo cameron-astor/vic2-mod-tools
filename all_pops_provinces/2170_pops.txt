@@ -1,0 +1,45 @@
+
+2170 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 1750
+	}
+
+	bureaucrats = {
+		culture = mexican
+		religion = catholic
+		size = 325
+	}
+
+	officers = {
+		culture = mexican
+		religion = catholic
+		size = 50
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 500
+	}
+
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 2550
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 525
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 45300
+	}
+
+	clergymen = {

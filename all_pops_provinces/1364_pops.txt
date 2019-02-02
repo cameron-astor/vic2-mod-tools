@@ -1,0 +1,74 @@
+
+1364 = {
+	aristocrats = {
+		culture = khmer
+		religion = theravada
+		size = 2000
+	}
+
+	bureaucrats = {
+		culture = khmer
+		religion = theravada
+		size = 150
+	}
+
+	officers = {
+		culture = khmer
+		religion = theravada
+		size = 200
+	}
+
+	clergymen = {
+		culture = khmer
+		religion = theravada
+		size = 1125
+	}
+
+	artisans = {
+		culture = khmer
+		religion = theravada
+		size = 5500
+	}
+
+	soldiers = {
+		culture = khmer
+		religion = theravada
+		size = 3000
+	}
+
+	soldiers = {
+		culture = khmer
+		religion = theravada
+		size = 1000
+	}
+
+	farmers = {
+		culture = khmer
+		religion = theravada
+		size = 93025
+	}
+
+	slaves = {
+		culture = khmer
+		religion = theravada
+		size = 9000
+	}
+
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 75
+	}
+
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 1250
+	}
+
+	farmers = {
+		culture = vietnamese
+		religion = mahayana
+		size = 2675
+	}
+}

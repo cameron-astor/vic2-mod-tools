@@ -1,0 +1,39 @@
+
+472 = {
+	aristocrats = {
+		culture = north_italian
+		religion = catholic
+		size = 450
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = catholic
+		size = 225
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 6000
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = catholic
+		size = 1000
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 19025
+	}
+
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 18825
+	}
+
+}

@@ -1,0 +1,68 @@
+
+1305 = {
+	aristocrats = {
+		culture = telegu
+		religion = hindu
+		size = 14000
+	}
+
+	bureaucrats = {
+		culture = telegu
+		religion = hindu
+		size = 5000
+	}
+
+	clergymen = {
+		culture = telegu
+		religion = hindu
+		size = 3750
+	}
+
+	artisans = {
+		culture = telegu
+		religion = hindu
+		size = 10000
+	}
+	
+	artisans = {
+		culture = telegu
+		religion = hindu
+		size = 3000
+	}
+
+	soldiers = {
+		culture = telegu
+		religion = hindu
+		size = 3000
+	}
+
+	soldiers = {
+		culture = telegu
+		religion = hindu
+		size = 500
+	}
+
+	farmers = {
+		culture = telegu
+		religion = hindu
+		size = 272750
+	}
+
+	artisans = {
+		culture = telegu
+		religion = sunni
+		size = 2000
+	}
+
+	farmers = {
+		culture = telegu
+		religion = sunni
+		size = 1100
+	}
+
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 75
+	}
+}

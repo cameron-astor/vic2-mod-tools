@@ -1,0 +1,43 @@
+
+497 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 1200
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 550
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 2750
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 1100
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 51500
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+}

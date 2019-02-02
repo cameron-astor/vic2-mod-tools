@@ -1,0 +1,32 @@
+
+1874 = {
+	aristocrats = {
+		culture = somali
+		religion = sunni
+		size = 150
+	}
+
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 400
+	}
+
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 75
+	}
+
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 7300
+	}
+}

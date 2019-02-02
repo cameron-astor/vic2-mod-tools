@@ -1,0 +1,8 @@
+
+2623 = {
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 30
+	}
+}

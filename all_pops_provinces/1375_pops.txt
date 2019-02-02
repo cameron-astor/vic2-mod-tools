@@ -1,0 +1,86 @@
+
+1375 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = mahayana
+		size = 4750
+	}
+
+	bureaucrats = {
+		culture = vietnamese
+		religion = mahayana
+		size = 850
+	}
+
+	officers = {
+		culture = vietnamese
+		religion = mahayana
+		size = 525
+	}
+
+	clergymen = {
+		culture = vietnamese
+		religion = mahayana
+		size = 2250
+	}
+
+	artisans = {
+		culture = vietnamese
+		religion = mahayana
+		size = 7475
+	}
+
+	soldiers = {
+		culture = vietnamese
+		religion = mahayana
+		size = 2250
+	}
+
+	farmers = {
+		culture = vietnamese
+		religion = mahayana
+		size = 174900
+	}
+
+	slaves = {
+		culture = vietnamese
+		religion = mahayana
+		size = 20000
+	}
+
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 225
+	}
+
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 1025
+	}
+
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 29750
+	}
+
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 75
+	}
+
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 4000
+	}
+
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 2925
+	}
+}

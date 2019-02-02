@@ -1,0 +1,32 @@
+
+274 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 250
+	}
+
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 125
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 1100
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 2000
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 38625
+	}
+}

@@ -1,0 +1,38 @@
+
+1858 = {
+	aristocrats = {
+		culture = afar
+		religion = sunni
+		size = 315
+	}
+
+	clergymen = {
+		culture = afar
+		religion = sunni
+		size = 175
+	}
+
+	artisans = {
+		culture = afar
+		religion = sunni
+		size = 700
+	}
+
+	soldiers = {
+		culture = afar
+		religion = sunni
+		size = 175
+	}
+
+	farmers = {
+		culture = afar
+		religion = sunni
+		size = 12635
+	}
+
+	slaves = {
+		culture = cushitic
+		religion = animist
+		size = 3000
+	}
+}

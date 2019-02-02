@@ -1,0 +1,26 @@
+
+841 = {
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 150
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 350
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 400
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 9000
+	}
+}

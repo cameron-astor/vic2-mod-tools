@@ -1,0 +1,110 @@
+
+1594 = {
+	aristocrats = {
+		culture = uighur
+		religion = sunni
+		size = 1100
+	}
+
+	bureaucrats = {
+		culture = uighur
+		religion = sunni
+		size = 250
+	}
+
+	officers = {
+		culture = uighur
+		religion = sunni
+		size = 325
+	}
+
+	clergymen = {
+		culture = uighur
+		religion = sunni
+		size = 525
+	}
+
+	artisans = {
+		culture = uighur
+		religion = sunni
+		size = 2600
+	}
+
+	soldiers = {
+		culture = uighur
+		religion = sunni
+		size = 2525
+	}
+
+	farmers = {
+		culture = uighur
+		religion = sunni
+		size = 66775
+	}
+
+	aristocrats = {
+		culture = kirgiz
+		religion = animist
+		size = 225
+	}
+
+	clergymen = {
+		culture = kirgiz
+		religion = animist
+		size = 125
+	}
+
+	artisans = {
+		culture = kirgiz
+		religion = animist
+		size = 575
+	}
+
+	soldiers = {
+		culture = kirgiz
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = kirgiz
+		religion = animist
+		size = 8975
+	}
+
+	clergymen = {
+		culture = tajik
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = tajik
+		religion = sunni
+		size = 500
+	}
+
+	farmers = {
+		culture = tajik
+		religion = sunni
+		size = 1450
+	}
+
+	clergymen = {
+		culture = uzbek
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = uzbek
+		religion = sunni
+		size = 975
+	}
+
+	slaves = {
+		culture = beifaren
+		religion = mahayana
+		size = 9000
+	}
+}

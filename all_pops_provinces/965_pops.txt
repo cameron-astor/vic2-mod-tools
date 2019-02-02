@@ -1,0 +1,194 @@
+
+965 = {
+	aristocrats = {
+		culture = ukrainian
+		religion = orthodox
+		size = 450
+	}
+
+	clergymen = {
+		culture = ukrainian
+		religion = orthodox
+		size = 125
+	}
+
+	artisans = {
+		culture = ukrainian
+		religion = orthodox
+		size = 275
+	}
+
+	soldiers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 150
+	}
+
+	farmers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 2000
+	}
+	
+	serfs = {
+		culture = ukrainian
+		religion = orthodox
+		size = 10000
+	}
+
+	aristocrats = {
+		culture = tatar
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = tatar
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = tatar
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = tatar
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = tatar
+		religion = sunni
+		size = 4575
+	}
+
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 75
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 150
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 50
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 2625
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 400
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1550
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 25
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 200
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 25
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 750
+	}
+
+	clergymen = {
+		culture = bulgarian
+		religion = orthodox
+		size = 50
+	}
+
+	artisans = {
+		culture = bulgarian
+		religion = orthodox
+		size = 100
+	}
+
+	soldiers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 25
+	}
+
+	farmers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 2825
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 125
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 1800
+	}
+}

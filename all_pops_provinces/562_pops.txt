@@ -1,0 +1,44 @@
+
+562 = {
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 725 
+	}
+
+	bureaucrats = {
+		culture = north_german
+		religion = protestant
+		size = 125 
+	}
+
+	officers = {
+		culture = north_german
+		religion = protestant
+		size = 75 
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 675
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 3650
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 1000
+	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 66750
+	}
+}

@@ -1,0 +1,64 @@
+
+2075 = {
+	aristocrats = {
+		culture = nguni
+		religion = animist
+		size = 30
+	}
+
+	clergymen = {
+		culture = nguni
+		religion = animist
+		size = 30
+	}
+
+	artisans = {
+		culture = nguni
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = nguni
+		religion = animist
+		size = 40
+	}
+
+	farmers = {
+		culture = nguni
+		religion = animist
+		size = 1800
+	}
+
+	aristocrats = {
+		culture = tswana
+		religion = animist
+		size = 30
+	}
+
+	clergymen = {
+		culture = tswana
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = tswana
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = tswana
+		religion = animist
+		size = 20
+	}
+
+	farmers = {
+		culture = tswana
+		religion = animist
+		size = 1800
+	}
+
+}
+

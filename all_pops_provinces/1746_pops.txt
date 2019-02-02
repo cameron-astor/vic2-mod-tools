@@ -1,0 +1,98 @@
+
+1746 = {
+	aristocrats = {
+		culture = circassian
+		religion = sunni
+		size = 500
+	}
+
+	artisans = {
+		culture = circassian
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = circassian
+		religion = sunni
+		size = 5575
+	}
+
+	soldiers = {
+		culture = circassian
+		religion = sunni
+		size = 75
+	}
+
+	aristocrats = {
+		culture = misri
+		religion = sunni
+		size = 1500
+	}
+
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 462
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 10000
+	}
+	
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 1800
+	}
+
+	soldiers = {
+		culture = misri
+		religion = sunni
+		size = 3000
+	}
+
+	soldiers = {
+		culture = misri
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 79238
+	}
+
+	clergymen = {
+		culture = misri
+		religion = coptic
+		size = 25
+	}
+
+	artisans = {
+		culture = misri
+		religion = coptic
+		size = 150
+	}
+
+	farmers = {
+		culture = misri
+		religion = coptic
+		size = 2825
+	}
+}

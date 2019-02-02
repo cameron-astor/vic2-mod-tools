@@ -1,0 +1,110 @@
+
+361 = {
+	aristocrats = {
+		culture = lithuanian
+		religion = catholic
+		size = 950
+	}
+
+	clergymen = {
+		culture = lithuanian
+		religion = catholic
+		size = 400
+	}
+
+	artisans = {
+		culture = lithuanian
+		religion = catholic
+		size = 1150
+	}
+
+	soldiers = {
+		culture = lithuanian
+		religion = catholic
+		size = 2100
+	}
+
+	farmers = {
+		culture = lithuanian
+		religion = catholic
+		size = 36500
+	}
+
+	aristocrats = {
+		culture = polish
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = polish
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = polish
+		religion = catholic
+		size = 150
+	}
+
+	soldiers = {
+		culture = polish
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = polish
+		religion = catholic
+		size = 550
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1800
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 7050
+	}
+	
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+}

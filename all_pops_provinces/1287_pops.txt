@@ -1,0 +1,81 @@
+
+1287 = {
+	aristocrats = {
+		culture = telegu
+		religion = hindu
+		size = 3250
+	}
+
+	clergymen = {
+		culture = telegu
+		religion = hindu
+		size = 3325
+	}
+
+	artisans = {
+		culture = telegu
+		religion = hindu
+		size = 9500
+	}
+
+	soldiers = {
+		culture = telegu
+		religion = hindu
+		size = 3000
+	}
+
+	soldiers = {
+		culture = telegu
+		religion = hindu
+		size = 500
+	}
+
+	farmers = {
+		culture = telegu
+		religion = hindu
+		size = 254325
+	}
+
+	aristocrats = {
+		culture = avadhi
+		religion = sunni
+		size = 250
+	}
+
+	clergymen = {
+		culture = avadhi
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = avadhi
+		religion = sunni
+		size = 10000
+	}
+	
+	artisans = {
+		culture = avadhi
+		religion = sunni
+		size = 1100
+	}
+
+	soldiers = {
+		culture = avadhi
+		religion = sunni
+		size = 250
+	}
+
+	farmers = {
+		culture = avadhi
+		religion = sunni
+		size = 5350
+	}
+
+	serfs = {
+		culture = telegu
+		religion = hindu
+		size = 100000
+	}
+
+}

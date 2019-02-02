@@ -1,0 +1,63 @@
+
+1723 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 20
+	}
+
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 10
+	}
+
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 895
+	}
+
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1325
+	}
+
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 500
+	}
+}
+

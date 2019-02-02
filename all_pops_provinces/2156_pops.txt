@@ -1,0 +1,44 @@
+
+2156 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 650
+	}
+
+	bureaucrats = {
+		culture = mexican
+		religion = catholic
+		size = 100
+	}
+
+	officers = {
+		culture = mexican
+		religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 275
+	}
+
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 1450
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 300
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 26200
+	}
+}

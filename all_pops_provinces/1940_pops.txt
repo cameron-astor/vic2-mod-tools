@@ -1,0 +1,38 @@
+
+1940 = {
+	aristocrats = {
+		culture = east_kwa
+		religion = animist
+		size = 325
+	}
+
+	clergymen = {
+		culture = east_kwa
+		religion = animist
+		size = 175
+	}
+
+	artisans = {
+		culture = east_kwa
+		religion = animist
+		size = 700
+	}
+
+	soldiers = {
+		culture = east_kwa
+		religion = animist
+		size = 175
+	}
+
+	farmers = {
+		culture = east_kwa
+		religion = animist
+		size = 10625
+	}
+
+	slaves = {
+		culture = east_kwa
+		religion = animist
+		size = 5000
+	}
+}

@@ -1,0 +1,27 @@
+
+272 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 100
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 2000
+	}
+
+	labourers = {
+		culture = british
+		religion = protestant
+		size = 40800
+	}
+
+}

@@ -1,0 +1,98 @@
+
+1091 = {
+	aristocrats = {
+		culture = georgian
+		religion = orthodox
+		size = 200
+	}
+
+	clergymen = {
+		culture = georgian
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = armenian
+		religion = orthodox
+		size = 500
+	}
+
+	soldiers = {
+		culture = georgian
+		religion = orthodox
+		size = 100
+	}
+
+	serfs = {
+		culture = georgian
+		religion = orthodox
+		size = 9100
+	}
+
+	aristocrats = {
+		culture = circassian
+		religion = orthodox
+		size = 100
+	}
+
+	clergymen = {
+		culture = circassian
+		religion = orthodox
+		size = 50
+	}
+
+	artisans = {
+		culture = circassian
+		religion = orthodox
+		size = 300
+	}
+
+	soldiers = {
+		culture = circassian
+		religion = orthodox
+		size = 50
+	}
+
+	farmers = {
+		culture = circassian
+		religion = orthodox
+		size = 5500
+	}
+	
+	farmers = {
+		culture = chechen
+		religion = sunni
+		size = 500
+	}
+
+	aristocrats = {
+		culture = armenian
+		religion = orthodox
+		size = 50
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = orthodox
+		size = 50
+	}
+
+	artisans = {
+		culture = armenian
+		religion = orthodox
+		size = 150
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = orthodox
+		size = 50
+	}
+
+	farmers = {
+		culture = armenian
+		religion = orthodox
+		size = 2700
+	}
+}

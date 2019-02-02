@@ -1,0 +1,128 @@
+
+2042 = {
+	aristocrats = {
+		culture = unyamwezi
+		religion = animist
+		size = 375
+	}
+
+	clergymen = {
+		culture = unyamwezi
+		religion = animist
+		size = 200
+	}
+
+	artisans = {
+		culture = unyamwezi
+		religion = animist
+		size = 800
+	}
+
+	soldiers = {
+		culture = unyamwezi
+		religion = animist
+		size = 200
+	}
+
+	farmers = {
+		culture = unyamwezi
+		religion = animist
+		size = 13225
+	}
+
+	aristocrats = {
+		culture = nyasa
+		religion = animist
+		size = 450
+	}
+
+	clergymen = {
+		culture = nyasa
+		religion = animist
+		size = 225
+	}
+
+	artisans = {
+		culture = nyasa
+		religion = animist
+		size = 1150
+	}
+
+	soldiers = {
+		culture = nyasa
+		religion = animist
+		size = 225
+	}
+
+	farmers = {
+		culture = nyasa
+		religion = animist
+		size = 20950
+	}
+
+	slaves = {
+		culture = nyasa
+		religion = animist
+		size = 13000
+	}
+
+	aristocrats = {
+		culture = nyasa
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = nyasa
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = nyasa
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = nyasa
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = nyasa
+		religion = sunni
+		size = 3650
+	}
+
+	aristocrats = {
+		culture = yao
+		religion = animist
+		size = 525
+	}
+
+	clergymen = {
+		culture = yao
+		religion = animist
+		size = 275
+	}
+
+	artisans = {
+		culture = yao
+		religion = animist
+		size = 1100
+	}
+
+	soldiers = {
+		culture = yao
+		religion = animist
+		size = 275
+	}
+
+	farmers = {
+		culture = yao
+		religion = animist
+		size = 17825
+	}
+}

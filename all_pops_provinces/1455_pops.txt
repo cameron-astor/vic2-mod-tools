@@ -1,0 +1,128 @@
+
+1455 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 400
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 250
+	}
+
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 1050
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 100
+	}
+
+	aristocrats = {
+		culture = filipino
+		religion = catholic
+		size = 1250
+	}
+
+	bureaucrats = {
+		culture = filipino
+		religion = catholic
+		size = 450
+	}
+
+	clergymen = {
+		culture = filipino
+		religion = catholic
+		size = 750
+	}
+
+	artisans = {
+		culture = filipino
+		religion = catholic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = filipino
+		religion = catholic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = filipino
+		religion = catholic
+		size = 9000
+	}
+
+	soldiers = {
+		culture = filipino
+		religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = filipino
+		religion = catholic
+		size = 1000
+	}
+
+	farmers = {
+		culture = filipino
+		religion = catholic
+		size = 116550
+	}
+	
+	slaves = {
+		culture = filipino
+		religion = catholic
+		size = 20000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = catholic
+		size = 1200
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = catholic
+		size = 800
+	}
+
+	clergymen = {
+		culture = malay
+		religion = catholic
+		size = 75
+	}
+
+	artisans = {
+		culture = malay
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = malay
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = malay
+		religion = catholic
+		size = 17725
+	}
+}

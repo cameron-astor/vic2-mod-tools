@@ -1,0 +1,15 @@
+
+1320 = {
+	clergymen = {
+		culture = asian_minor
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = asian_minor
+		religion = animist
+		size = 3400
+	}
+
+}

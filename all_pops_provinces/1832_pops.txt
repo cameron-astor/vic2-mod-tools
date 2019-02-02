@@ -1,0 +1,104 @@
+
+1832 = {
+	aristocrats = {
+		culture = sudanese
+		religion = sunni
+		size = 100
+	}
+	
+	bureaucrats = {
+		culture = sudanese
+		religion = sunni
+		size = 25
+	}	
+	
+	aristocrats = {
+		culture = nuer
+		religion = animist
+		size = 275
+	}
+
+	artisans = {
+		culture = nuer
+		religion = animist
+		size = 750
+	}
+
+	soldiers = {
+		culture = nuer
+		religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = nuer
+		religion = animist
+		size = 13825
+	}
+
+	aristocrats = {
+		culture = dinka
+		religion = animist
+		size = 125
+	}
+
+	artisans = {
+		culture = dinka
+		religion = animist
+		size = 350
+	}
+
+	soldiers = {
+		culture = dinka
+		religion = animist
+		size = 75
+	}
+
+	farmers = {
+		culture = dinka
+		religion = animist
+		size = 6450
+	}
+
+	aristocrats = {
+		culture = luo
+		religion = animist
+		size = 200
+	}
+	
+	bureaucrats = {
+		culture = luo
+		religion = animist
+		size = 50
+	}	
+	
+	officers = {
+		culture = luo
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = luo
+		religion = animist
+		size = 550
+	}
+
+	soldiers = {
+		culture = luo
+		religion = animist
+		size = 3025
+	}
+	
+	farmers = {
+		culture = luo
+		religion = animist
+		size = 10125
+	}
+
+	slaves = {
+		culture = luo
+		religion = animist
+		size = 4000
+	}	
+}

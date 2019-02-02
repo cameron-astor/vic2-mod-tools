@@ -1,0 +1,50 @@
+
+166 = {
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 150
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 1250
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 250
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 23350
+	}
+
+	clergymen = {
+		culture = yankee
+		religion = mormon
+		size = 100
+	}
+
+	artisans = {
+		culture = yankee
+		religion = mormon
+		size = 350
+	}
+
+	farmers = {
+		culture = yankee
+		religion = mormon
+		size = 4000
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = mormon
+		size = 250
+	}
+}

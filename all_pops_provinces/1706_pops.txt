@@ -1,0 +1,68 @@
+
+1706 = {
+	aristocrats = {
+		culture = maghrebi
+		religion = sunni
+		size = 300
+	}
+
+	clergymen = {
+		culture = maghrebi
+		religion = sunni
+		size = 300
+	}
+
+	artisans = {
+		culture = maghrebi
+		religion = sunni
+		size = 1500
+	}
+
+	soldiers = {
+		culture = maghrebi
+		religion = sunni
+		size = 350
+	}
+
+	farmers = {
+		culture = maghrebi
+		religion = sunni
+		size = 27550
+	}
+
+	aristocrats = {
+		culture = berber
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = berber
+		religion = sunni
+		size = 175
+	}
+
+	artisans = {
+		culture = berber
+		religion = sunni
+		size = 850
+	}
+
+	soldiers = {
+		culture = berber
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = berber
+		religion = sunni
+		size = 12575
+	}
+
+	slaves = {
+		culture = forest_bantu
+		religion = animist
+		size = 2000
+	}
+}

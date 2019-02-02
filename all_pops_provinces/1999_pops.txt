@@ -1,0 +1,128 @@
+
+1999 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 150
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 100
+	}
+
+	aristocrats = {
+		culture = bakongo
+		religion = catholic
+		size = 50
+	}
+
+	clergymen = {
+		culture = bakongo
+		religion = catholic
+		size = 150
+	}
+
+	artisans = {
+		culture = bakongo
+		religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = bakongo
+		religion = catholic
+		size = 250
+	}
+
+	farmers = {
+		culture = bakongo
+		religion = catholic
+		size = 11550
+	}
+
+	aristocrats = {
+		culture = bakongo
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = bakongo
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = bakongo
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = bakongo
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = bakongo
+		religion = animist
+		size = 40200
+	}
+
+	slaves = {
+		culture = bakongo
+		religion = animist
+		size = 2000
+	}
+
+	aristocrats = {
+		culture = kavango
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = kavango
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = kavango
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = kavango
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = kavango
+		religion = animist
+		size = 8600
+	}
+
+	slaves = {
+		culture = kavango
+		religion = animist
+		size = 2000
+	}
+}

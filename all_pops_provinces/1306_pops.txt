@@ -1,0 +1,74 @@
+
+1306 = {
+	aristocrats = {
+		culture = telegu
+		religion = hindu
+		size = 5000
+	}
+
+	clergymen = {
+		culture = telegu
+		religion = hindu
+		size = 4500
+	}
+
+	artisans = {
+		culture = telegu
+		religion = hindu
+		size = 10000
+	}
+	
+	artisans = {
+		culture = telegu
+		religion = hindu
+		size = 4000
+	}
+
+	soldiers = {
+		culture = telegu
+		religion = hindu
+		size = 3000
+	}
+
+	soldiers = {
+		culture = telegu
+		religion = hindu
+		size = 1500
+	}
+
+	farmers = {
+		culture = telegu
+		religion = hindu
+		size = 395000
+	}
+
+	aristocrats = {
+		culture = telegu
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = telegu
+		religion = sunni
+		size = 175
+	}
+
+	artisans = {
+		culture = telegu
+		religion = sunni
+		size = 8000
+	}
+
+	soldiers = {
+		culture = telegu
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = telegu
+		religion = sunni
+		size = 5575
+	}
+}

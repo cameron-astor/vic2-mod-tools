@@ -1,0 +1,74 @@
+
+780 = {
+	aristocrats = {
+		culture = croat
+		religion = catholic
+		size = 400
+	}
+
+	clergymen = {
+		culture = croat
+		religion = catholic
+		size = 350
+	}
+
+	artisans = {
+		culture = croat
+		religion = catholic
+		size = 2000
+	}
+
+	soldiers = {
+		culture = croat
+		religion = catholic
+		size = 350
+	}
+
+	farmers = {
+		culture = croat
+		religion = catholic
+		size = 23250
+	}
+	
+	farmers = {
+		culture = croat
+		religion = sunni
+		size = 100
+	}
+	
+	serfs = {
+		culture = gypsy
+		religion = catholic
+		size = 1000
+	}
+	
+	serfs = {
+		culture = croat
+		religion = catholic
+		size = 10000
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 450
+	}
+}

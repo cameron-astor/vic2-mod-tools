@@ -1,0 +1,9 @@
+
+533 = {
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 400
+	}
+
+}

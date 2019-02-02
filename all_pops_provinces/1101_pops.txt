@@ -1,0 +1,58 @@
+
+1101 = {
+	aristocrats = {
+		culture = armenian
+		religion = orthodox
+		size = 125
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = orthodox
+		size = 175
+	}
+
+	artisans = {
+		culture = armenian
+		religion = orthodox
+		size = 450
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = orthodox
+		size = 100
+	}
+
+	farmers = {
+		culture = armenian
+		religion = orthodox
+		size = 8250
+	}
+
+	aristocrats = {
+		culture = azerbaijani
+		religion = shiite
+		size = 100
+	}
+
+	clergymen = {
+		culture = azerbaijani
+		religion = shiite
+		size = 75
+	}
+
+	soldiers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 50
+	}
+
+	farmers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 4500
+	}
+
+}
+

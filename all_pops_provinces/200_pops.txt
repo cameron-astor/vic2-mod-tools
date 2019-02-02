@@ -1,0 +1,75 @@
+
+200 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 1800
+	}
+	
+	
+	clergymen = {
+		culture = dixie
+		religion = protestant
+		size = 100
+	}
+
+	artisans = {
+		culture = dixie
+		religion = protestant
+		size = 100
+	}
+
+	soldiers = {
+		culture = dixie
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = dixie
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 300
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 100
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 200
+	}
+}

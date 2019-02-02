@@ -1,0 +1,38 @@
+
+2055 = {
+	aristocrats = {
+		culture = shona
+		religion = animist
+		size = 450
+	}
+
+	clergymen = {
+		culture = shona
+		religion = animist
+		size = 400
+	}
+
+	artisans = {
+		culture = shona
+		religion = animist
+		size = 2000
+	}
+
+	soldiers = {
+		culture = shona
+		religion = animist
+		size = 450
+	}
+
+	farmers = {
+		culture = shona
+		religion = animist
+		size = 50700
+	}
+
+	slaves = {
+		culture = shona
+		religion = animist
+		size = 2000
+	}
+}

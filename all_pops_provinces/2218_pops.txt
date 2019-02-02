@@ -1,0 +1,22 @@
+
+2218 = {
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 5
+	}
+
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 15
+	}
+
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 280
+	}
+
+}
+

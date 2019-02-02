@@ -1,0 +1,32 @@
+
+796 = {
+	aristocrats = {
+		culture = serb
+		religion = orthodox
+		size = 400
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 150
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 1200
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 1500
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 40200
+	}
+}

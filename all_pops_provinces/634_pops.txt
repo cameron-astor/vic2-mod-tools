@@ -1,0 +1,98 @@
+
+634 = {
+	clergymen = {
+		culture = slovak
+		religion = catholic
+		size = 500 
+	}
+
+	artisans = {
+		culture = slovak
+		religion = catholic
+		size = 2800
+	}
+
+	soldiers = {
+		culture = slovak
+		religion = catholic
+		size = 500 
+	}
+
+	farmers = {
+		culture = slovak
+		religion = catholic
+		size = 53400
+	}
+	
+	serfs = {
+		culture = slovak
+		religion = catholic
+		size = 29000
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25  
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1100
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25 
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 850    
+	}
+
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 300  
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 100  
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 400
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 100  
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 6450 
+	}
+	
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 50 
+	}
+	
+	officers = {
+		culture = south_german
+		religion = catholic
+		size = 35 
+	}
+}

@@ -1,0 +1,141 @@
+
+1558 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 700
+	}
+	
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 6000
+	}
+	
+	aristocrats = {
+		culture = tibetan
+		religion = gelugpa
+		size = 400
+	}
+	
+	clergymen = {
+		culture = tibetan
+		religion = gelugpa
+		size = 400
+	}
+
+	artisans = {
+		culture = tibetan
+		religion = gelugpa
+		size = 1900
+	}
+
+	soldiers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 400
+	}
+
+	slaves = {
+		culture = tibetan
+		religion = gelugpa
+		size = 28600
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 125
+	}
+
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 600
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 125
+	}
+
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 10925
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = animist
+		size = 200
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = kazak
+		religion = animist
+		size = 550
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = animist
+		size = 125
+	}
+
+	farmers = {
+		culture = kazak
+		religion = animist
+		size = 10025
+	}
+
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 925
+	}
+
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 475
+	}
+
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 2350
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 475
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 35775
+	}
+	
+	serfs = {
+		culture = mongol
+		religion = gelugpa
+		size = 8000
+	}
+
+}

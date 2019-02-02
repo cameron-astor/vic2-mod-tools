@@ -1,0 +1,68 @@
+
+1913 = {
+	aristocrats = {
+		culture = gur
+		religion = animist
+		size = 350
+	}
+
+	clergymen = {
+		culture = gur
+		religion = animist
+		size = 175
+	}
+
+	artisans = {
+		culture = gur
+		religion = animist
+		size = 1050
+	}
+
+	soldiers = {
+		culture = gur
+		religion = animist
+		size = 760
+	}
+
+	farmers = {
+		culture = gur
+		religion = animist
+		size = 38160
+	}
+
+	slaves = {
+		culture = akan
+		religion = animist
+		size = 3500
+	}
+
+	aristocrats = {
+		culture = mossi
+		religion = animist
+		size = 615
+	}
+
+	clergymen = {
+		culture = mossi
+		religion = animist
+		size = 350
+	}
+
+	artisans = {
+		culture = mossi
+		religion = animist
+		size = 1315
+	}
+
+	soldiers = {
+		culture = mossi
+		religion = animist
+		size = 350
+	}
+
+	farmers = {
+		culture = mossi
+		religion = animist
+		size = 18375
+	}
+}

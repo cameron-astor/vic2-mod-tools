@@ -1,0 +1,50 @@
+
+90 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 10
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 25
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 15
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 900
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 1800
+	}
+}

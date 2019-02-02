@@ -1,0 +1,32 @@
+
+2668 = {
+	aristocrats = {
+		culture = yakut
+		religion = animist
+		size = 20
+	}
+
+	clergymen = {
+		culture = yakut
+		religion = animist
+		size = 20
+	}
+
+	artisans = {
+		culture = yakut
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = yakut
+		religion = animist
+		size = 10
+	}
+
+	farmers = {
+		culture = yakut
+		religion = animist
+		size = 875
+	}
+}

@@ -1,0 +1,45 @@
+
+111 = {
+	
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 5
+	}
+	
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 5
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 50
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 50
+	}
+	
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 2900
+	}
+}

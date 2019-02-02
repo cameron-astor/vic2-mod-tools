@@ -1,0 +1,32 @@
+
+596 = {
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 350 
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 350
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 1750
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 350 
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 31200
+	}
+}

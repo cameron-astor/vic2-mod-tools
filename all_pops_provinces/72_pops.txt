@@ -1,0 +1,32 @@
+
+72 = {
+	clergymen = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 50
+	}
+
+	artisans = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 750
+	}
+
+	soldiers = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 125
+	}
+
+	farmers = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 9075
+	}
+
+	labourers = {
+		culture = french_canadian
+		religion = catholic
+		size = 1100
+	}
+}

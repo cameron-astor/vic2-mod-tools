@@ -1,0 +1,39 @@
+
+1861 = {
+
+	aristocrats = {
+		culture = oromo
+		religion = sunni
+		size = 1250
+	}
+
+	clergymen = {
+		culture = oromo
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = oromo
+		religion = sunni
+		size = 2650
+	}
+
+	soldiers = {
+		culture = oromo
+		religion = sunni
+		size = 450
+	}
+
+	farmers = {
+		culture = oromo
+		religion = sunni
+		size = 50500
+	}
+
+	slaves = {
+		culture = oromo
+		religion = sunni
+		size = 10000
+	}
+	

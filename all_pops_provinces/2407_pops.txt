@@ -1,0 +1,44 @@
+
+2407 = {
+	aristocrats = {
+		culture = amazonian
+		religion = animist
+		size = 10
+	}
+
+	soldiers = {
+		culture = amazonian
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 975
+	}
+	
+	clergymen = {
+		culture = brazilian
+		religion = catholic
+		size = 5
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = catholic
+		size = 5
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = catholic
+		size = 5
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 20
+	}
+}

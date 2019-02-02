@@ -1,0 +1,128 @@
+
+1523 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 15500
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 8000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 3000
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1025
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 270475
+	}
+	
+	slaves = {
+		culture = nanfaren
+		religion = mahayana
+		size = 400000
+	}
+	
+	serfs = {
+		culture = nanfaren
+		religion = mahayana
+		size = 60000
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 2800
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 1450
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 7250
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1450
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 131050
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 20
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 20
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 50
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 10
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 900
+	}
+}

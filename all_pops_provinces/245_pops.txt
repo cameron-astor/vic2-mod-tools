@@ -1,0 +1,26 @@
+
+245 = {
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 150
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 1050
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 225
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 19575
+	}
+}

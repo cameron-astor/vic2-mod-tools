@@ -1,0 +1,38 @@
+
+620 = {
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 375 
+	}
+
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 600 
+	}
+	
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 250
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 1200
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 250 
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 19925 
+	}
+}

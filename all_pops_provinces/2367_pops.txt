@@ -1,0 +1,26 @@
+
+2367 = {
+	aristocrats = {
+		culture = guarani
+		religion = catholic
+		size = 75
+	}
+
+	clergymen = {
+		culture = guarani
+		religion = catholic
+		size = 75
+	}
+
+	soldiers = {
+		culture = guarani
+		religion = catholic
+		size = 550
+	}
+
+	labourers = {
+		culture = guarani
+		religion = animist
+		size = 4075
+	}
+}

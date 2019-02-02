@@ -1,0 +1,32 @@
+
+2080 = {
+	aristocrats = {
+		culture = kavango
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = kavango
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = kavango
+		religion = animist
+		size = 300
+	}
+
+	soldiers = {
+		culture = kavango
+		religion = animist
+		size = 75
+	}
+
+	farmers = {
+		culture = kavango
+		religion = animist
+		size = 5475
+	}
+}

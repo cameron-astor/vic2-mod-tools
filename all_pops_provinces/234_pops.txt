@@ -1,0 +1,74 @@
+
+234 = {
+	bureaucrats = {
+		culture = yankee
+		religion = protestant
+		size = 975
+	}
+
+	officers = {
+		culture = yankee
+		religion = protestant
+		size = 500
+	}
+
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 625
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 3125
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 2000
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 70775
+	}
+
+	bureaucrats = {
+		culture = yankee
+		religion = catholic
+		size = 100
+	}
+
+	officers = {
+		culture = yankee
+		religion = catholic
+		size = 50
+	}
+
+	clergymen = {
+		culture = yankee
+		religion = catholic
+		size = 75
+	}
+
+	artisans = {
+		culture = yankee
+		religion = catholic
+		size = 250
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = yankee
+		religion = catholic
+		size = 4475
+	}
+}

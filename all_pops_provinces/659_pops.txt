@@ -1,0 +1,146 @@
+
+659 = {
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 225
+	}
+
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 1250 
+	}
+
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 250
+	}
+
+	serfs = {
+		culture = romanian
+		religion = orthodox
+		size = 22275
+	}
+	
+	serfs = {
+		culture = gypsy
+		religion = orthodox
+		size = 1000
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 200   
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 50   
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 400  
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 1325    
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = protestant
+		size = 250  
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = protestant
+		size = 75      
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = protestant
+		size = 800    
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = protestant
+		size = 50
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = protestant
+		size = 2825      
+	}
+
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 350  
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 75    
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 2400  
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 6075   
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 50   
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 800  
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1175     
+	}
+}

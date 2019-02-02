@@ -1,0 +1,56 @@
+
+1588 = {
+	aristocrats = {
+		culture = tibetan
+		religion = gelugpa
+		size = 2750
+	}
+
+	clergymen = {
+		culture = tibetan
+		religion = gelugpa
+		size = 1450
+	}
+
+	artisans = {
+		culture = tibetan
+		religion = gelugpa
+		size = 2000
+	}
+
+	soldiers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 1400
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 12740
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = gelugpa
+		size = 150
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = animist
+		size = 800
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = gelugpa
+		size = 150
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = gelugpa
+		size = 1490
+	}
+}

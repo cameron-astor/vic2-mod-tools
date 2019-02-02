@@ -1,0 +1,122 @@
+
+354 = {
+	clergymen = {
+		culture = latvian
+		religion = protestant
+		size = 325
+	}
+
+	artisans = {
+		culture = latvian
+		religion = protestant
+		size = 1500
+	}
+
+	soldiers = {
+		culture = latvian
+		religion = protestant
+		size = 2400
+	}
+
+	farmers = {
+		culture = latvian
+		religion = protestant
+		size = 36775
+	}
+
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 650
+	}
+
+	bureaucrats = {
+		culture = north_german
+		religion = protestant
+		size = 200
+	}
+
+	officers = {
+		culture = north_german
+		religion = protestant
+		size = 250
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 6725
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	officers = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 1500
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 150
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 2075
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+	
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 800
+	}
+}

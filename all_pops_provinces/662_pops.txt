@@ -1,0 +1,152 @@
+
+662 = {
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 75 
+	}
+
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 400
+	}
+
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 100
+	}
+
+	farmers = {
+		culture = romanian
+		religion = orthodox
+		size = 9425 
+	}
+
+	clergymen = {
+		culture = ukrainian
+		religion = orthodox
+		size = 200   
+	}
+
+	artisans = {
+		culture = ukrainian
+		religion = orthodox
+		size = 1100 
+	}
+
+	soldiers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 200
+	}
+
+	serfs = {
+		culture = ukrainian
+		religion = orthodox
+		size = 19600   
+	}
+
+	aristocrats = {
+		culture = polish
+		religion = catholic
+		size = 700    
+	}
+
+	bureaucrats = {
+		culture = polish
+		religion = catholic
+		size = 30 
+	}
+
+	officers = {
+		culture = polish
+		religion = catholic
+		size = 60  
+	}
+
+	clergymen = {
+		culture = polish
+		religion = catholic
+		size = 50 
+	}
+
+	artisans = {
+		culture = polish
+		religion = catholic
+		size = 300 
+	}
+
+	soldiers = {
+		culture = polish
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = polish
+		religion = catholic
+		size = 3810
+	}
+
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 35
+	}
+
+	officers = {
+		culture = south_german
+		religion = catholic
+		size = 40  
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 50 
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 200  
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 2650   
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 50    
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 600   
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 2325      
+	}
+}

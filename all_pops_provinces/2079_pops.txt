@@ -1,0 +1,62 @@
+
+2079 = {
+	aristocrats = {
+		culture = herero
+		religion = animist
+		size = 150
+	}
+
+	clergymen = {
+		culture = herero
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = herero
+		religion = animist
+		size = 450
+	}
+
+	soldiers = {
+		culture = herero
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = herero
+		religion = animist
+		size = 8200
+	}
+
+	aristocrats = {
+		culture = kavango
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = kavango
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = kavango
+		religion = animist
+		size = 200
+	}
+
+	soldiers = {
+		culture = kavango
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = kavango
+		religion = animist
+		size = 3650
+	}
+}

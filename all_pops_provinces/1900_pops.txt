@@ -1,0 +1,100 @@
+
+1900 = {
+	aristocrats = {
+		culture = mande
+		religion = sunni
+		size = 900
+	}
+
+	clergymen = {
+		culture = mande
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = mande
+		religion = sunni
+		size = 1950
+	}
+
+	soldiers = {
+		culture = mande
+		religion = sunni
+		size = 1200
+	}
+
+	farmers = {
+		culture = mande
+		religion = sunni
+		size = 34500
+	}
+
+	aristocrats = {
+		culture = dyula
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = dyula
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = dyula
+		religion = sunni
+		size = 750
+	}
+
+	soldiers = {
+		culture = dyula
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = dyula
+		religion = sunni
+		size = 13725
+	}
+
+	aristocrats = {
+		culture = western_nigritic
+		religion = animist
+		size = 150
+	}
+
+	clergymen = {
+		culture = western_nigritic
+		religion = animist
+		size = 225
+	}
+
+	artisans = {
+		culture = western_nigritic
+		religion = animist
+		size = 450
+	}
+
+	soldiers = {
+		culture = western_nigritic
+		religion = animist
+		size = 75
+	}
+
+	farmers = {
+		culture = western_nigritic
+		religion = animist
+		size = 8100
+	}
+
+	slaves = {
+		culture = western_nigritic
+		religion = animist
+		size = 9000
+	}
+
+}
+

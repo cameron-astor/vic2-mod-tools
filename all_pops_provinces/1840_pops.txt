@@ -1,0 +1,86 @@
+
+1840 = {
+	aristocrats = {
+		culture = sudanese
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = sudanese
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = sudanese
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = sudanese
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = sudanese
+		religion = sunni
+		size = 10000
+	}
+	
+	aristocrats = {
+		culture = nuba
+		religion = animist
+		size = 350
+	}
+
+	artisans = {
+		culture = nuba
+		religion = animist
+		size = 725
+	}
+
+	soldiers = {
+		culture = nuba
+		religion = animist
+		size = 300
+	}
+
+	farmers = {
+		culture = nuba
+		religion = animist
+		size = 16650
+	}
+
+	slaves = {
+		culture = nuba
+		religion = animist
+		size = 10000
+	}
+
+	aristocrats = {
+		culture = luo
+		religion = animist
+		size = 275
+	}
+
+	artisans = {
+		culture = luo
+		religion = animist
+		size = 800
+	}
+
+	soldiers = {
+		culture = luo
+		religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = luo
+		religion = animist
+		size = 14775
+	}
+}

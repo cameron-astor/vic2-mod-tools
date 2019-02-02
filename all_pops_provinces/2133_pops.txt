@@ -1,0 +1,10 @@
+
+2133 = {
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 30
+	}
+
+}
+

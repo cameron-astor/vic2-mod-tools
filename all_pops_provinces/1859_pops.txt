@@ -1,0 +1,189 @@
+
+1859 = {
+	aristocrats = {
+		culture = amhara
+		religion = coptic
+		size = 11175
+	}
+
+	bureaucrats = {
+		culture = amhara
+		religion = coptic
+		size = 665
+	}
+
+	officers = {
+		culture = amhara
+		religion = coptic
+		size = 660
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = coptic
+		size = 5700
+	}
+
+	artisans = {
+		culture = amhara
+		religion = coptic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = amhara
+		religion = coptic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = amhara
+		religion = coptic
+		size = 2800
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = coptic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = coptic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = coptic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = coptic
+		size = 3000
+	}
+
+	farmers = {
+		culture = amhara
+		religion = coptic
+		size = 62400
+	}
+
+	slaves = {
+		culture = amhara
+		religion = coptic
+		size = 21600
+	}
+
+	aristocrats = {
+		culture = oromo
+		religion = coptic
+		size = 3225
+	}
+
+	bureaucrats = {
+		culture = oromo
+		religion = coptic
+		size = 180
+	}
+
+	officers = {
+		culture = oromo
+		religion = coptic
+		size = 600
+	}
+
+	clergymen = {
+		culture = oromo
+		religion = coptic
+		size = 1730
+	}
+
+	artisans = {
+		culture = oromo
+		religion = coptic
+		size = 6900
+	}
+
+	soldiers = {
+		culture = oromo
+		religion = coptic
+		size = 2065
+	}
+
+	farmers = {
+		culture = oromo
+		religion = coptic
+		size = 110000
+	}
+
+	slaves = {
+		culture = oromo
+		religion = sunni
+		size = 57300
+	}
+	
+	aristocrats = {
+		culture = harari
+		religion = sunni
+		size = 275
+	}
+	
+	clergymen = {
+		culture = harari
+		religion = sunni
+		size = 100
+	}
+	
+	artisans = {
+		culture = harari
+		religion = sunni
+		size = 800
+	}
+	
+	soldiers = {
+		culture = harari
+		religion = sunni
+		size = 1250
+	}
+	
+	farmers = {
+		culture = harari
+		religion = coptic
+		size = 20000
+	}
+	
+	aristocrats = {
+		culture = harari
+		religion = coptic
+		size = 275
+	}
+	
+	clergymen = {
+		culture = harari
+		religion = coptic
+		size = 100
+	}
+	
+	artisans = {
+		culture = harari
+		religion = coptic
+		size = 800
+	}
+	
+	soldiers = {
+		culture = harari
+		religion = coptic
+		size = 1250
+	}
+	
+	farmers = {
+		culture = harari
+		religion = coptic
+		size = 20000
+	}
+	
+}

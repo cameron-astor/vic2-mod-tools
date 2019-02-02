@@ -1,0 +1,32 @@
+
+1115 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 250
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 125
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 650
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 125
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 11850
+	}
+}

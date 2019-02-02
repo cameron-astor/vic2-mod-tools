@@ -1,0 +1,57 @@
+
+257 = {
+	aristocrats = {
+		culture = irish
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 250
+	}
+
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 3750
+	}
+
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	labourers = {
+		culture = irish
+		religion = catholic
+		size = 103250
+	}
+
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 50
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 2250
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 125
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 16575
+	}
+
+}

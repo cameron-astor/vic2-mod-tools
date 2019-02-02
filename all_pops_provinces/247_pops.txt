@@ -1,0 +1,56 @@
+
+247 = {
+	bureaucrats = {
+		culture = yankee
+		religion = protestant
+		size = 150
+	}
+
+	capitalists = {
+		culture = yankee
+		religion = protestant
+		size = 100
+	}
+
+	officers = {
+		culture = yankee
+		religion = protestant
+		size = 75
+	}
+
+	clerks = {
+		culture = yankee
+		religion = protestant
+		size = 25
+	}
+
+	craftsmen = {
+		culture = yankee
+		religion = protestant
+		size = 7000
+	}
+
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 1150
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 2925
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 2000
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 55700
+	}
+}

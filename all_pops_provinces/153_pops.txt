@@ -1,0 +1,44 @@
+
+153 = {
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 35
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 150
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 25
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 2790
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 10
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 975
+	}
+}

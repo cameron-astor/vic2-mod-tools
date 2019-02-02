@@ -1,0 +1,86 @@
+
+451 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+
+	officers = {
+		culture = french
+		religion = catholic
+		size = 700
+	}
+
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 1650
+	}
+
+	capitalists = {
+		culture = french
+		religion = catholic
+		size = 50
+	}
+
+	clerks = {
+		culture = french
+		religion = catholic
+		size = 350
+	}
+
+	craftsmen = {
+		culture = french
+		religion = catholic
+		size = 6500
+	}
+
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 1500
+	}
+
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 26500
+	}
+
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 2100
+	}
+
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 103600
+	}
+
+	clergymen = {
+		culture = french
+		religion = jewish
+		size = 50
+	}
+
+	clerks = {
+		culture = french
+		religion = jewish
+		size = 50
+	}
+
+	craftsmen = {
+		culture = french
+		religion = jewish
+		size = 250
+	}
+
+	artisans = {
+		culture = french
+		religion = jewish
+		size = 4200
+	}
+}

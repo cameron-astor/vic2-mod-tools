@@ -1,0 +1,80 @@
+
+788 = {
+	aristocrats = {
+		culture = bosniak
+		religion = sunni
+		size = 450
+	}
+	
+	soldiers = {
+		culture = bosniak
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = bosniak
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = bosniak
+		religion = sunni
+		size = 600
+	}
+
+	farmers = {
+		culture = bosniak
+		religion = sunni
+		size = 3900
+	}
+	
+	soldiers = {
+		culture = croat
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = croat
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = croat
+		religion = catholic
+		size = 500
+	}
+
+	farmers = {
+		culture = croat
+		religion = catholic
+		size = 14375
+	}
+	
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 100
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 200
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 5750
+	}
+}

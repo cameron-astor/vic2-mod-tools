@@ -1,0 +1,80 @@
+
+729 = {
+	aristocrats = {
+		culture = north_italian
+		religion = catholic
+		size = 2300
+	}
+
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic
+		size = 1600
+	}
+
+	officers = {
+		culture = north_italian
+		religion = catholic
+		size = 400
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = catholic
+		size = 1125
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 4000
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = catholic
+		size = 1150
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 60925
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = jewish
+		size = 10
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = jewish
+		size = 490
+	}
+}

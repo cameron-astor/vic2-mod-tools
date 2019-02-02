@@ -1,0 +1,68 @@
+
+1899 = {
+	aristocrats = {
+		culture = dyula
+		religion = sunni
+		size = 600
+	}
+
+	clergymen = {
+		culture = dyula
+		religion = sunni
+		size = 300
+	}
+
+	artisans = {
+		culture = dyula
+		religion = sunni
+		size = 1650
+	}
+
+	soldiers = {
+		culture = dyula
+		religion = sunni
+		size = 1450
+	}
+
+	farmers = {
+		culture = dyula
+		religion = sunni
+		size = 20000
+	}
+
+	aristocrats = {
+		culture = senufo
+		religion = animist
+		size = 375
+	}
+
+	clergymen = {
+		culture = senufo
+		religion = animist
+		size = 225
+	}
+
+	artisans = {
+		culture = senufo
+		religion = animist
+		size = 1050
+	}
+
+	soldiers = {
+		culture = senufo
+		religion = animist
+		size = 225
+	}
+
+	farmers = {
+		culture = senufo
+		religion = animist
+		size = 25125
+	}
+
+	slaves = {
+		culture = senufo
+		religion = animist
+		size = 3000
+	}
+}

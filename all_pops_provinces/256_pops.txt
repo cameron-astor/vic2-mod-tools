@@ -1,0 +1,56 @@
+
+256 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 250
+	}
+
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 250
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 2500
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 1100
+	}
+
+	labourers = {
+		culture = british
+		religion = protestant
+		size = 43000
+	}
+
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 250
+	}
+
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 250
+	}
+
+	labourers = {
+		culture = irish
+		religion = catholic
+		size = 20500
+	}
+}

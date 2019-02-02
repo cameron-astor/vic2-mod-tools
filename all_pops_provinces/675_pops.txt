@@ -1,0 +1,88 @@
+
+675 = {
+
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 100
+	}
+
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 250
+	}
+
+	farmers = {
+		culture = romanian
+		religion = orthodox
+		size = 3600 
+	}
+	
+	slaves = {
+		culture = tatar
+		religion = orthodox
+		size = 1100
+	}
+
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 150 
+	}
+
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 200 
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 1100
+	}
+
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 600 
+	}
+	
+	soldiers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 100
+	}
+
+	clergymen = {
+		culture = ukrainian
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = ukrainian
+		religion = orthodox
+		size = 150
+	}
+
+	farmers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 2825
+	}
+}
+

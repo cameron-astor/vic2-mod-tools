@@ -1,0 +1,32 @@
+
+2369 = {
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 900
+	}
+}

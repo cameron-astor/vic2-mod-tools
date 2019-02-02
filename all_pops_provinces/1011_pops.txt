@@ -1,0 +1,44 @@
+
+1011 = {
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 4900
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 2875
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 10000
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 4500
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 12000
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 114725
+	}
+	
+	serfs = {
+		culture = russian
+		religion = orthodox
+		size = 140000
+	}
+}

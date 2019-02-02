@@ -1,0 +1,56 @@
+
+2175 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 950
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 200
+	}
+
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 950
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 16700
+	}
+
+	clergymen = {
+		culture = nahua
+		religion = catholic
+		size = 125
+	}
+
+	artisans = {
+		culture = nahua
+		religion = catholic
+		size = 1400
+	}
+
+	soldiers = {
+		culture = nahua
+		religion = catholic
+		size = 300
+	}
+
+	farmers = {
+		culture = nahua
+		religion = catholic
+		size = 26175
+	}
+}

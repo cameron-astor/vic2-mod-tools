@@ -1,0 +1,122 @@
+
+902 = {
+	aristocrats = {
+		culture = mashriqi
+		religion = sunni
+		size = 850
+	}
+
+	bureaucrats = {
+		culture = mashriqi
+		religion = sunni
+		size = 275
+	}
+
+	officers = {
+		culture = mashriqi
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = sunni
+		size = 575
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 10000
+	}
+	
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 1000
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = sunni
+		size = 825
+	}
+	
+	farmers = {
+		culture = circassian
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 43200
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = shiite
+		size = 50
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = shiite
+		size = 500
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = shiite
+		size = 1450
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = orthodox
+		size = 175
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = orthodox
+		size = 5500
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = orthodox
+		size = 14325
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 50
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 1950
+	}
+	
+	aristocrats = {
+		culture = mashriqi
+		religion = druze
+		size = 50
+	}
+	
+	artisans = {
+		culture = mashriqi
+		religion = druze
+		size = 100
+	}
+	
+	farmers = {
+		culture = mashriqi
+		religion = druze
+		size = 2000
+	}
+}

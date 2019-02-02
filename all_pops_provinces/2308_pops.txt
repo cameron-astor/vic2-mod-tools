@@ -1,0 +1,56 @@
+
+2308 = {
+	aristocrats = {
+		culture = south_andean
+		religion = catholic
+		size = 125
+	}
+
+	clergymen = {
+		culture = south_andean
+		religion = catholic
+		size = 75
+	}
+
+	artisans = {
+		culture = south_andean
+		religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+		culture = south_andean
+		religion = catholic
+		size = 10
+	}
+
+	farmers = {
+		culture = south_andean
+		religion = catholic
+		size = 740
+	}
+
+	clergymen = {
+		culture = aimara
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = aimara
+		religion = catholic
+		size = 200
+	}
+
+	soldiers = {
+		culture = aimara
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = aimara
+		religion = catholic
+		size = 3725
+	}
+}

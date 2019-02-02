@@ -1,0 +1,37 @@
+
+69 = {
+
+	artisans = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 491
+	}
+	artisans = {
+		culture = french_canadian
+		religion = catholic
+		size = 63
+	}
+	clergymen = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 30
+
+	}
+	farmers = {
+		culture = french_canadian
+		religion = catholic
+		size = 4660
+	}
+	farmers = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 1053
+
+	}
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 2501
+	}
+
+}

@@ -1,0 +1,32 @@
+
+1975 = {
+	aristocrats = {
+		culture = forest_bantu
+		religion = animist
+		size = 125
+	}
+
+	clergymen = {
+		culture = forest_bantu
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = forest_bantu
+		religion = animist
+		size = 350
+	}
+
+	soldiers = {
+		culture = forest_bantu
+		religion = animist
+		size = 75
+	}
+
+	farmers = {
+		culture = forest_bantu
+		religion = animist
+		size = 6375
+	}
+}

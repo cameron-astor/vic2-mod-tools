@@ -1,0 +1,62 @@
+
+2032 = {
+	aristocrats = {
+		culture = kikuyu
+		religion = animist
+		size = 650
+	}
+
+	clergymen = {
+		culture = kikuyu
+		religion = animist
+		size = 375
+	}
+
+	artisans = {
+		culture = kikuyu
+		religion = animist
+		size = 1750
+	}
+
+	soldiers = {
+		culture = kikuyu
+		religion = animist
+		size = 350
+	}
+
+	farmers = {
+		culture = kikuyu
+		religion = animist
+		size = 31875
+	}
+
+	aristocrats = {
+		culture = somali
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = somali
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = somali
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = somali
+		religion = sunni
+		size = 2700
+	}
+}

@@ -1,0 +1,56 @@
+
+350 = {
+	clergymen = {
+		culture = estonian
+		religion = protestant
+		size = 425
+	}
+
+	artisans = {
+		culture = estonian
+		religion = protestant
+		size = 2300
+	}
+
+	soldiers = {
+		culture = estonian
+		religion = protestant
+		size = 1450
+	}
+
+	farmers = {
+		culture = estonian
+		religion = protestant
+		size = 39825
+	}
+
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 800
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 1100
+	}
+}

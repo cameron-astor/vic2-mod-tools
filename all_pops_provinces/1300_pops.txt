@@ -1,0 +1,74 @@
+
+1300 = {
+	aristocrats = {
+		culture = marathi
+		religion = hindu
+		size = 2500
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = hindu
+		size = 2500
+	}
+
+	artisans = {
+		culture = marathi
+		religion = hindu
+		size = 1100
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = hindu
+		size = 2500
+	}
+
+	farmers = {
+		culture = marathi
+		religion = hindu
+		size = 186500
+	}
+
+	farmers = {
+		culture = marathi
+		religion = catholic
+		size = 9000
+	}
+
+	aristocrats = {
+		culture = kannada
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = kannada
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = kannada
+		religion = sunni
+		size = 3000
+	}
+
+	soldiers = {
+		culture = kannada
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = kannada
+		religion = sunni
+		size = 4750
+	}
+
+	serfs = {
+		culture = marathi
+		religion = hindu
+		size = 40000
+	}
+}

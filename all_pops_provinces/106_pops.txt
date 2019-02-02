@@ -1,0 +1,57 @@
+
+106 = {
+
+	aristocrats = {
+		culture = yankee
+		religion = protestant
+		size = 5
+	}
+	
+	officers = {
+		culture = yankee
+		religion = protestant
+		size = 5
+	}
+	
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 5
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 10
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 50
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 50
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 1950
+	}
+}

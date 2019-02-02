@@ -1,0 +1,68 @@
+
+2038 = {
+	aristocrats = {
+		culture = swahili
+		religion = sunni
+		size = 550
+	}
+
+	clergymen = {
+		culture = swahili
+		religion = sunni
+		size = 275
+	}
+
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 1125
+	}
+
+	soldiers = {
+		culture = swahili
+		religion = sunni
+		size = 300
+	}
+
+	farmers = {
+		culture = swahili
+		religion = sunni
+		size = 14750
+	}
+
+	aristocrats = {
+		culture = yao
+		religion = animist
+		size = 350
+	}
+
+	clergymen = {
+		culture = yao
+		religion = animist
+		size = 200
+	}
+
+	artisans = {
+		culture = yao
+		religion = animist
+		size = 950
+	}
+
+	soldiers = {
+		culture = yao
+		religion = animist
+		size = 200
+	}
+
+	farmers = {
+		culture = yao
+		religion = animist
+		size = 17300
+	}
+
+	slaves = {
+		culture = yao
+		religion = animist
+		size = 10000
+	}
+}

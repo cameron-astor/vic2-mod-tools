@@ -1,0 +1,26 @@
+
+233 = {
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 175
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 1250
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 250
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 23325
+	}
+}

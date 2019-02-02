@@ -1,0 +1,45 @@
+
+287 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 1100
+	}
+
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 500
+	}
+
+	clerks = {
+		culture = british
+		religion = protestant
+		size = 1100
+	}
+
+	craftsmen = {
+		culture = british
+		religion = protestant
+		size = 3500
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 3000
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 1100
+	}
+
+	labourers = {
+		culture = british
+		religion = protestant
+		size = 95000
+	}
+
+}

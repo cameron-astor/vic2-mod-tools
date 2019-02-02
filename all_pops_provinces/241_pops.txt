@@ -1,0 +1,74 @@
+
+241 = {
+	bureaucrats = {
+		culture = yankee
+		religion = protestant
+		size = 150
+	}
+
+	officers = {
+		culture = yankee
+		religion = protestant
+		size = 75
+	}
+
+	capitalists = {
+		culture = yankee
+		religion = protestant
+		size = 15
+	}
+
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 550
+	}
+
+	clerks = {
+		culture = yankee
+		religion = protestant
+		size = 50
+	}
+
+	craftsmen = {
+		culture = yankee
+		religion = protestant
+		size = 550
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 3050
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 2000
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 66560
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 25
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 500
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 1475
+	}
+}

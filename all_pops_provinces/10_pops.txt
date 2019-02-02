@@ -1,0 +1,33 @@
+
+10 = {
+	clergymen = {
+		culture = south_italian
+		religion = catholic
+		size = 600
+	}
+
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 3125
+	}
+
+	soldiers = {
+		culture = south_italian
+		religion = catholic
+		size = 1000
+	}
+
+	farmers = {
+		culture = south_italian
+		religion = catholic
+		size = 60000
+	}
+
+	farmers = {
+		culture = croat
+		religion = catholic
+		size = 3000
+	}
+}
+

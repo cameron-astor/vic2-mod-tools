@@ -1,0 +1,58 @@
+
+2550 = {
+	clergymen = {
+		culture = amazonian
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = amazonian
+		religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+		culture = amazonian
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 900
+	}
+
+	aristocrats = {
+		culture = amazonian
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = amazonian
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = amazonian
+		religion = animist
+		size = 150
+	}
+
+	soldiers = {
+		culture = amazonian
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 2700
+	}
+
+}
+

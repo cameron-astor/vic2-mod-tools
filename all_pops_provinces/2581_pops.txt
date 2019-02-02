@@ -1,0 +1,45 @@
+
+2581 = {
+	aristocrats = {
+		culture = yao
+		religion = sunni
+		size = 450
+	}
+
+	clergymen = {
+		culture = yao
+		religion = sunni
+		size = 400
+	}
+
+	artisans = {
+		culture = yao
+		religion = sunni
+		size = 2100
+	}
+
+	soldiers = {
+		culture = yao
+		religion = sunni
+		size = 450
+	}
+
+	farmers = {
+		culture = yao
+		religion = sunni
+		size = 35600
+	}
+
+	slaves = {
+		culture = yao
+		religion = animist
+		size = 2000
+	}
+
+	slaves = {
+		culture = yao
+		religion = animist
+		size = 15000
+	}
+}
+

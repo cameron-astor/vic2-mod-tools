@@ -1,0 +1,98 @@
+
+1713 = {
+	aristocrats = {
+		culture = berber
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = berber
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = berber
+		religion = sunni
+		size = 6500
+	}
+
+	soldiers = {
+		culture = berber
+		religion = sunni
+		size = 1100
+	}
+
+	farmers = {
+		culture = berber
+		religion = sunni
+		size = 11000
+	}
+
+	aristocrats = {
+		culture = maghrebi
+		religion = sunni
+		size = 125
+	}
+
+	clergymen = {
+		culture = maghrebi
+		religion = sunni
+		size = 125
+	}
+
+	artisans = {
+		culture = maghrebi
+		religion = sunni
+		size = 550
+	}
+
+	soldiers = {
+		culture = maghrebi
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = maghrebi
+		religion = sunni
+		size = 9050
+	}
+
+	aristocrats = {
+		culture = maghrebi
+		religion = shiite
+		size = 20
+	}
+
+	clergymen = {
+		culture = maghrebi
+		religion = shiite
+		size = 40
+	}
+
+	artisans = {
+		culture = maghrebi
+		religion = shiite
+		size = 100
+	}
+
+	soldiers = {
+		culture = maghrebi
+		religion = shiite
+		size = 40
+	}
+
+	farmers = {
+		culture = maghrebi
+		religion = shiite
+		size = 1800
+	}
+
+	slaves = {
+		culture = forest_bantu
+		religion = animist
+		size = 2500
+	}
+}

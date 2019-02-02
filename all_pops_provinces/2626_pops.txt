@@ -1,0 +1,63 @@
+
+2626 = {
+	aristocrats = {
+		culture = inuit
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = inuit
+		religion = animist
+		size = 20
+	}
+
+	artisans = {
+		culture = inuit
+		religion = animist
+		size = 40
+	}
+
+	soldiers = {
+		culture = inuit
+		religion = animist
+		size = 20
+	}
+
+	farmers = {
+		culture = inuit
+		religion = animist
+		size = 600
+	}
+
+	aristocrats = {
+		culture = cree
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = cree
+		religion = animist
+		size = 20
+	}
+
+	artisans = {
+		culture = cree
+		religion = animist
+		size = 25
+	}
+
+	soldiers = {
+		culture = cree
+		religion = animist
+		size = 10
+	}
+
+	farmers = {
+		culture = cree
+		religion = animist
+		size = 500
+	}
+}
+

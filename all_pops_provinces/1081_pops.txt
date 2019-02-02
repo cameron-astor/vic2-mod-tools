@@ -1,0 +1,92 @@
+
+1081 = {
+	aristocrats = {
+		culture = manchu
+		religion = mahayana
+		size = 125
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 25
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = mahayana
+		size = 100
+	}
+
+	artisans = {
+		culture = manchu
+		religion = mahayana
+		size = 550
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 125
+	}
+
+	farmers = {
+		culture = manchu
+		religion = mahayana
+		size = 10575
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 10
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 25
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 5
+	}
+
+	slaves = {
+		culture = russian
+		religion = orthodox
+		size = 460
+	}
+
+	aristocrats = {
+		culture = siberian
+		religion = animist
+		size = 7
+	}
+
+	clergymen = {
+		culture = siberian
+		religion = animist
+		size = 8
+	}
+
+	artisans = {
+		culture = siberian
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = siberian
+		religion = animist
+		size = 10
+	}
+
+	slaves = {
+		culture = siberian
+		religion = animist
+		size = 925
+	}
+}

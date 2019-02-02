@@ -1,0 +1,44 @@
+
+1926 = {
+	aristocrats = {
+		culture = yoruba
+		religion = animist
+		size = 4250
+	}
+
+	clergymen = {
+		culture = yoruba
+		religion = animist
+		size = 2150
+	}
+
+	artisans = {
+		culture = yoruba
+		religion = animist
+		size = 10000
+	}
+	
+	artisans = {
+		culture = yoruba
+		religion = animist
+		size = 800
+	}
+
+	soldiers = {
+		culture = yoruba
+		religion = animist
+		size = 2200
+	}
+
+	farmers = {
+		culture = yoruba
+		religion = animist
+		size = 158600
+	}
+
+	slaves = {
+		culture = yoruba
+		religion = animist
+		size = 40000
+	}
+}

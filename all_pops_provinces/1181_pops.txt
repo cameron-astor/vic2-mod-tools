@@ -1,0 +1,32 @@
+
+1181 = {
+	aristocrats = {
+		culture = kazak
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 125
+	}
+
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 650
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 125
+	}
+
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 12875
+	}
+}

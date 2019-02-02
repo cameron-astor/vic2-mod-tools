@@ -1,0 +1,74 @@
+
+2040 = {
+	aristocrats = {
+		culture = yao
+		religion = sunni
+		size = 375
+	}
+
+	clergymen = {
+		culture = yao
+		religion = sunni
+		size = 200
+	}
+
+	artisans = {
+		culture = yao
+		religion = sunni
+		size = 800
+	}
+
+	soldiers = {
+		culture = yao
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = yao
+		religion = sunni
+		size = 15425
+	}
+
+	aristocrats = {
+		culture = nyasa
+		religion = animist
+		size = 225
+	}
+
+	clergymen = {
+		culture = nyasa
+		religion = animist
+		size = 125
+	}
+
+	artisans = {
+		culture = nyasa
+		religion = animist
+		size = 600
+	}
+
+	soldiers = {
+		culture = nyasa
+		religion = animist
+		size = 125
+	}
+
+	farmers = {
+		culture = nyasa
+		religion = animist
+		size = 10925
+	}
+
+	slaves = {
+		culture = nyasa
+		religion = animist
+		size = 3000
+	}
+
+	slaves = {
+		culture = chewa
+		religion = animist
+		size = 2000
+	}
+}

@@ -36,9 +36,14 @@ public class PopParser {
 		this.popTypes = defaultTypesList;
 		}
 	
-	//Returns the file the parser is attached to.
+	//Returns the file object that the parser is attached to.
 	public File getFile() throws FileNotFoundException {
 		return this.file;
+	}
+	
+	//Returns the name of the file the parser is attached to as a string
+	public String getFileName() throws FileNotFoundException {
+		return this.fileName;
 	}
 	
 	//Returns an integer total of all pops of this type in the file.

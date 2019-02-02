@@ -1,0 +1,68 @@
+
+2028 = {
+	aristocrats = {
+		culture = luo
+		religion = animist
+		size = 375
+	}
+
+	clergymen = {
+		culture = luo
+		religion = animist
+		size = 200
+	}
+
+	artisans = {
+		culture = luo
+		religion = animist
+		size = 775
+	}
+
+	soldiers = {
+		culture = luo
+		religion = animist
+		size = 300
+	}
+
+	farmers = {
+		culture = luo
+		religion = animist
+		size = 20350
+	}
+
+	aristocrats = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 375
+	}
+
+	clergymen = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 200
+	}
+
+	artisans = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 1100
+	}
+
+	soldiers = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 200
+	}
+
+	farmers = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 18225
+	}
+
+	slaves = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 7000
+	}
+}

@@ -1,0 +1,50 @@
+
+995 = {
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 375
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 150
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 900
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 200
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 12000
+	}
+
+	clergymen = {
+		culture = finnish
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = finnish
+		religion = orthodox
+		size = 400
+	}
+
+	farmers = {
+		culture = finnish
+		religion = orthodox
+		size = 11500
+	}
+}

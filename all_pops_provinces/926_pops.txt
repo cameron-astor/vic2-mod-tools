@@ -1,0 +1,171 @@
+
+926 = {
+	aristocrats = {
+		culture = mashriqi
+		religion = sunni
+		size = 1100
+	}
+
+	bureaucrats = {
+		culture = mashriqi
+		religion = sunni
+		size = 350
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = sunni
+		size = 400
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 4000
+	}
+	
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 3950
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = sunni
+		size = 1225
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 30525
+	}
+
+	farmers = {
+		culture = circassian
+		religion = sunni
+		size = 100
+	}
+
+	aristocrats = {
+		culture = mashriqi
+		religion = shiite
+		size = 100
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = shiite
+		size = 100
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = shiite
+		size = 150
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = shiite
+		size = 2750
+	}
+	
+	aristocrats = {
+		culture = assyrian
+		religion = catholic
+		size = 100
+	}
+	
+	officers = {
+		culture = assyrian
+		religion = catholic
+		size = 100
+	}
+	
+	soldiers = {
+		culture = assyrian
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = assyrian
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = assyrian
+		religion = catholic
+		size = 2000
+	}
+
+	farmers = {
+		culture = assyrian
+		religion = catholic
+		size = 3650
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = orthodox
+		size = 1500
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = orthodox
+		size = 2425
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 100
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 3925
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 400
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 7350
+	}
+	
+	slaves = {

@@ -1,0 +1,62 @@
+
+1193 = {
+	aristocrats = {
+		culture = uzbek
+		religion = sunni
+		size = 250
+	}
+
+	clergymen = {
+		culture = uzbek
+		religion = sunni
+		size = 125
+	}
+
+	artisans = {
+		culture = uzbek
+		religion = sunni
+		size = 700
+	}
+
+	soldiers = {
+		culture = uzbek
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = uzbek
+		religion = sunni
+		size = 12775
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = sunni
+		size = 250
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 125
+	}
+
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 600
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 125
+	}
+
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 11900
+	}
+}

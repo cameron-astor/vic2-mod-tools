@@ -1,0 +1,122 @@
+
+2295 = {
+	aristocrats = {
+		culture = south_andean
+		religion = catholic
+		size = 1675
+	}
+
+	bureaucrats = {
+		culture = south_andean
+		religion = catholic
+		size = 200
+	}
+
+	officers = {
+		culture = south_andean
+		religion = catholic
+		size = 150
+	}
+
+	clergymen = {
+		culture = south_andean
+		religion = catholic
+		size = 500
+	}
+
+	artisans = {
+		culture = south_andean
+		religion = catholic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = south_andean
+		religion = catholic
+		size = 2400
+	}
+
+	soldiers = {
+		culture = south_andean
+		religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = south_andean
+		religion = catholic
+		size = 2000
+	}
+
+	farmers = {
+		culture = south_andean
+		religion = catholic
+		size = 41075
+	}
+	
+	aristocrats = {
+		culture = quechua
+		religion = catholic
+		size = 200
+	}
+	
+	officers = {
+		culture = quechua
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 800
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = catholic
+		size = 150
+	}
+
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 14950
+	}
+
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2000
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1400
+	}
+
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1500
+	}
+}

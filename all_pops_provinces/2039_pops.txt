@@ -1,0 +1,49 @@
+
+2039 = {
+	aristocrats = {
+		culture = swahili
+		religion = sunni
+		size = 100
+	}
+	aristocrats = {
+		culture = bedouin
+		religion = ibadi
+		size = 500
+	}
+
+	bureaucrats = {
+		culture = bedouin
+		religion = ibadi
+		size = 25
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = ibadi
+		size = 50
+	}
+
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 650
+	}
+
+	soldiers = {
+		culture = swahili
+		religion = sunni
+		size = 175
+	}
+
+	farmers = {
+		culture = swahili
+		religion = sunni
+		size = 10725
+	}
+
+	slaves = {
+		culture = yao
+		religion = animist
+		size = 4000
+	}
+}

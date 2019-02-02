@@ -1,0 +1,164 @@
+
+890 = {
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 175
+	}
+
+	bureaucrats = {
+		culture = turkish
+		religion = sunni
+		size = 125
+	}
+
+	officers = {
+		culture = turkish
+		religion = sunni
+		size = 105
+	}
+
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 550
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 175
+	}
+
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 12750
+	}
+	
+	aristocrats = {
+		culture = armenian
+		religion = orthodox
+		size = 100
+	}
+	
+	officers = {
+		culture = armenian
+		religion = orthodox
+		size = 50
+	}
+	
+	soldiers = {
+		culture = armenian
+		religion = orthodox
+		size = 200
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = armenian
+		religion = orthodox
+		size = 950
+	}
+
+	farmers = {
+		culture = armenian
+		religion = orthodox
+		size = 14475
+	}
+	
+	aristocrats = {
+		culture = assyrian
+		religion = catholic
+		size = 100
+	}
+	
+	officers = {
+		culture = assyrian
+		religion = catholic
+		size = 50
+	}
+	
+	soldiers = {
+		culture = assyrian
+		religion = catholic
+		size = 200
+	}
+
+	clergymen = {
+		culture = assyrian
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = assyrian
+		religion = catholic
+		size = 300
+	}
+
+	farmers = {
+		culture = assyrian
+		religion = catholic
+		size = 5300
+	}
+
+	aristocrats = {
+		culture = kurdish
+		religion = sunni
+		size = 550
+	}
+
+	bureaucrats = {
+		culture = kurdish
+		religion = sunni
+		size = 75
+	}
+
+	officers = {
+		culture = kurdish
+		religion = sunni
+		size = 75
+	}
+
+	clergymen = {
+		culture = kurdish
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = kurdish
+		religion = sunni
+		size = 1500
+	}
+
+	soldiers = {
+		culture = kurdish
+		religion = sunni
+		size = 2850
+	}
+
+	farmers = {
+		culture = kurdish
+		religion = sunni
+		size = 30600
+	}
+
+	slaves = {
+		culture = armenian
+		religion = orthodox
+		size = 1000
+	}
+}

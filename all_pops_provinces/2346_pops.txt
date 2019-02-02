@@ -1,0 +1,62 @@
+
+2346 = {
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 25
+	}
+
+	bureaucrats = {
+		culture = platinean
+		religion = catholic
+		size = 10
+	}
+
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 1800
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = catholic
+		size = 15
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 925
+	}
+}

@@ -1,0 +1,57 @@
+
+371 = {
+	clergymen = {
+		culture = danish
+		religion = protestant
+		size = 125
+	}
+
+	artisans = {
+		culture = danish
+		religion = protestant
+		size = 1100
+	}
+
+	soldiers = {
+		culture = danish
+		religion = protestant
+		size = 250
+	}
+
+	farmers = {
+		culture = danish
+		religion = protestant
+		size = 16625
+	}
+
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 50
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 250
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 50
+	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 6550
+	}
+
+}

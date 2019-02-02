@@ -1,0 +1,86 @@
+
+1520 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 15000
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 8000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 3000
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1000
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 729000
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 300
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 800
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 175
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 14575
+	}
+}

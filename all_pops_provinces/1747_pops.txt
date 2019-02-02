@@ -1,0 +1,68 @@
+
+1747 = {
+	aristocrats = {
+		culture = circassian
+		religion = sunni
+		size = 750
+	}
+
+	artisans = {
+		culture = circassian
+		religion = sunni
+		size = 5575
+	}
+
+	soldiers = {
+		culture = circassian
+		religion = sunni
+		size = 75
+	}
+
+	aristocrats = {
+		culture = misri
+		religion = sunni
+		size = 850
+	}
+
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 425
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 4100
+	}
+
+	soldiers = {
+		culture = misri
+		religion = sunni
+		size = 1100
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 75625
+	}
+
+	clergymen = {
+		culture = misri
+		religion = coptic
+		size = 25
+	}
+
+	artisans = {
+		culture = misri
+		religion = coptic
+		size = 100
+	}
+
+	farmers = {
+		culture = misri
+		religion = coptic
+		size = 1875
+	}
+}

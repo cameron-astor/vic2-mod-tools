@@ -1,0 +1,50 @@
+
+1951 = {
+	aristocrats = {
+		culture = kanuri
+		religion = sunni
+		size = 4600
+	}
+
+	bureaucrats = {
+		culture = kanuri
+		religion = sunni
+		size = 800
+	}
+
+	officers = {
+		culture = kanuri
+		religion = sunni
+		size = 700
+	}
+
+	clergymen = {
+		culture = kanuri
+		religion = sunni
+		size = 2500
+	}
+
+	artisans = {
+		culture = kanuri
+		religion = sunni
+		size = 9600
+	}
+
+	soldiers = {
+		culture = kanuri
+		religion = sunni
+		size = 2400
+	}
+
+	farmers = {
+		culture = kanuri
+		religion = sunni
+		size = 160000
+	}
+
+	slaves = {
+		culture = hausa
+		religion = sunni
+		size = 60000
+	}
+}

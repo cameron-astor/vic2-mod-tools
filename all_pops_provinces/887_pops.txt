@@ -1,0 +1,110 @@
+
+887 = {
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = turkish
+		religion = sunni
+		size = 150
+	}
+
+	officers = {
+		culture = turkish
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 125
+	}
+
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 650
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 1100
+	}
+
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 10875
+	}
+	
+	soldiers = {
+		culture = armenian
+		religion = orthodox
+		size = 110
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = orthodox
+		size = 110
+	}
+
+	artisans = {
+		culture = armenian
+		religion = orthodox
+		size = 450
+	}
+
+	farmers = {
+		culture = armenian
+		religion = orthodox
+		size = 8775
+	}
+
+	aristocrats = {
+		culture = kurdish
+		religion = sunni
+		size = 300
+	}
+
+	bureaucrats = {
+		culture = kurdish
+		religion = sunni
+		size = 50
+	}
+
+	officers = {
+		culture = kurdish
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = kurdish
+		religion = sunni
+		size = 200
+	}
+
+	artisans = {
+		culture = kurdish
+		religion = sunni
+		size = 1100
+	}
+
+	soldiers = {
+		culture = kurdish
+		religion = sunni
+		size = 1100
+	}
+
+	farmers = {
+		culture = kurdish
+		religion = sunni
+		size = 17350
+	}
+}

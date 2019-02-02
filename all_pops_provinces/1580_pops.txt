@@ -1,0 +1,158 @@
+
+1580 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 9900
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 5000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 5000
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2500
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 254100
+	}
+	
+	slaves = {
+		culture = nanfaren
+		religion = mahayana
+		size = 200000
+	}
+
+	aristocrats = {
+		culture = yi
+		religion = animist
+		size = 7300
+	}
+
+	clergymen = {
+		culture = yi
+		religion = animist
+		size = 3750
+	}
+
+	artisans = {
+		culture = yi
+		religion = animist
+		size = 11000
+	}
+	
+	artisans = {
+		culture = yi
+		religion = animist
+		size = 8500
+	}
+
+	soldiers = {
+		culture = yi
+		religion = animist
+		size = 2700
+	}
+
+	farmers = {
+		culture = yi
+		religion = animist
+		size = 136750
+	}
+	
+	slaves = {
+		culture = yi
+		religion = animist
+		size = 150000
+	}
+	
+	serfs = {
+		culture = yi
+		religion = animist
+		size = 60000
+	}
+
+	aristocrats = {
+		culture = asian_minor
+		religion = animist
+		size = 2200
+	}
+
+	clergymen = {
+		culture = asian_minor
+		religion = animist
+		size = 1100
+	}
+
+	artisans = {
+		culture = asian_minor
+		religion = animist
+		size = 5550
+	}
+
+	soldiers = {
+		culture = asian_minor
+		religion = animist
+		size = 1125
+	}
+
+	farmers = {
+		culture = asian_minor
+		religion = animist
+		size = 101025
+	}
+
+	aristocrats = {
+		culture = tibetan
+		religion = gelugpa
+		size = 800
+	}
+
+	clergymen = {
+		culture = tibetan
+		religion = gelugpa
+		size = 400
+	}
+
+	artisans = {
+		culture = tibetan
+		religion = gelugpa
+		size = 2000
+	}
+
+	soldiers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 400
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 36400
+	}
+}

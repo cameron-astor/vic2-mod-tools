@@ -1,0 +1,152 @@
+
+1304 = {
+	aristocrats = {
+		culture = tamil
+		religion = hindu
+		size = 33000
+	}
+
+	clergymen = {
+		culture = tamil
+		religion = hindu
+		size = 10000
+	}
+
+	bureaucrats = {
+		culture = tamil
+		religion = hindu
+		size = 2000
+	}
+
+	artisans = {
+		culture = tamil
+		religion = hindu
+		size = 10000
+	}
+	
+	artisans = {
+		culture = tamil
+		religion = hindu
+		size = 10000
+	}
+
+	soldiers = {
+		culture = tamil
+		religion = hindu
+		size = 3000
+	}
+
+	soldiers = {
+		culture = tamil
+		religion = hindu
+		size = 2000
+	}
+
+	farmers = {
+		culture = tamil
+		religion = hindu
+		size = 822000
+	}
+
+	clergymen = {
+		culture = tamil
+		religion = catholic
+		size = 125
+	}
+
+	artisans = {
+		culture = tamil
+		religion = catholic
+		size = 1750
+	}
+
+	farmers = {
+		culture = tamil
+		religion = catholic
+		size = 16125
+	}
+
+	clergymen = {
+		culture = tamil
+		religion = protestant
+		size = 125
+	}
+
+	artisans = {
+		culture = tamil
+		religion = protestant
+		size = 1750
+	}
+
+	farmers = {
+		culture = tamil
+		religion = protestant
+		size = 13125
+	}
+
+	aristocrats = {
+		culture = kannada
+		religion = sunni
+		size = 1100
+	}
+
+	clergymen = {
+		culture = kannada
+		religion = sunni
+		size = 1500
+	}
+
+	bureaucrats = {
+		culture = kannada
+		religion = sunni
+		size = 500
+	}
+
+	artisans = {
+		culture = kannada
+		religion = sunni
+		size = 10000
+	}
+	
+	artisans = {
+		culture = kannada
+		religion = sunni
+		size = 6000
+	}
+
+	soldiers = {
+		culture = kannada
+		religion = sunni
+		size = 1500
+	}
+
+	farmers = {
+		culture = kannada
+		religion = sunni
+		size = 138500
+	}
+
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 1375
+	}
+
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 375
+	}
+
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 250
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 3000
+	}
+}

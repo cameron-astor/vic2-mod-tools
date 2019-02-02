@@ -1,0 +1,32 @@
+
+2613 = {
+	aristocrats = {
+		culture = ugrian
+		religion = animist
+		size = 5
+	}
+
+	clergymen = {
+		culture = ugrian
+		religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = ugrian
+		religion = animist
+		size = 10
+	}
+
+	soldiers = {
+		culture = ugrian
+		religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = ugrian
+		religion = animist
+		size = 225
+	}
+}

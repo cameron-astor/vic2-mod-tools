@@ -1,0 +1,70 @@
+
+1817 = {
+	aristocrats = {
+		culture = tuareg
+		religion = sunni
+		size = 125
+	}
+
+	clergymen = {
+		culture = tuareg
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = tuareg
+		religion = sunni
+		size = 350
+	}
+
+	soldiers = {
+		culture = tuareg
+		religion = sunni
+		size = 75
+	}
+
+	farmers = {
+		culture = tuareg
+		religion = sunni
+		size = 6375
+	}
+
+	aristocrats = {
+		culture = teda
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = teda
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = teda
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = teda
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = teda
+		religion = sunni
+		size = 800
+	}
+
+	slaves = {
+		culture = baguirmi
+		religion = animist
+		size = 1000
+	}
+
+}
+

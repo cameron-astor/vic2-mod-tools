@@ -1,0 +1,98 @@
+
+1947 = {
+	aristocrats = {
+		culture = hausa
+		religion = sunni
+		size = 1925
+	}
+
+	clergymen = {
+		culture = hausa
+		religion = sunni
+		size = 975
+	}
+
+	artisans = {
+		culture = hausa
+		religion = sunni
+		size = 4900
+	}
+
+	soldiers = {
+		culture = hausa
+		religion = sunni
+		size = 1100
+	}
+
+	farmers = {
+		culture = hausa
+		religion = sunni
+		size = 150100
+	}
+
+	aristocrats = {
+		culture = hausa
+		religion = animist
+		size = 525
+	}
+
+	clergymen = {
+		culture = hausa
+		religion = animist
+		size = 275
+	}
+
+	artisans = {
+		culture = hausa
+		religion = animist
+		size = 1400
+	}
+
+	soldiers = {
+		culture = hausa
+		religion = animist
+		size = 300
+	}
+
+	farmers = {
+		culture = hausa
+		religion = animist
+		size = 45500
+	}
+
+	slaves = {
+		culture = hausa
+		religion = animist
+		size = 54000
+	}
+
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 725
+	}
+
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 375
+	}
+
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 1500
+	}
+
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 375
+	}
+
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 100025
+	}
+}

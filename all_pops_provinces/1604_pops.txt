@@ -1,0 +1,200 @@
+
+1604 = {
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 5450
+	}
+
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 1550
+	}
+
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 2475
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 2750
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 8000
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 2750
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 199450
+	}
+	
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1000
+	}
+	
+	serfs = {
+		culture = beifaren
+		religion = mahayana
+		size = 10000
+	}
+	
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2725
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1375
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 7450
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1375
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 104075
+	}
+
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = miao
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = miao
+		religion = animist
+		size = 200
+	}
+
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = miao
+		religion = animist
+		size = 3650
+	}
+
+	aristocrats = {
+		culture = min
+		religion = animist
+		size = 125
+	}
+
+	clergymen = {
+		culture = min
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = min
+		religion = animist
+		size = 350
+	}
+
+	soldiers = {
+		culture = min
+		religion = animist
+		size = 75
+	}
+
+	farmers = {
+		culture = min
+		religion = animist
+		size = 6375
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 50
+	}
+
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 75
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 500
+	}
+}

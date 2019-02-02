@@ -1,0 +1,98 @@
+
+1212 = {
+	aristocrats = {
+		culture = pashtun
+		religion = sunni
+		size = 825
+	}
+	
+	bureaucrats = {
+		culture = pashtun
+		religion = sunni
+		size = 375
+	}
+
+	clergymen = {
+		culture = pashtun
+		religion = sunni
+		size = 375
+	}
+
+	artisans = {
+		culture = pashtun
+		religion = sunni
+		size = 2050
+	}
+
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 34650
+	}
+
+	aristocrats = {
+		culture = tajik
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = tajik
+		religion = sunni
+		size = 238
+	}
+
+	soldiers = {
+		culture = tajik
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = tajik
+		religion = sunni
+		size = 14912
+	}
+	
+	aristocrats = {
+		culture = persian
+		religion = sunni
+		size = 700
+	}
+
+	clergymen = {
+		culture = persian
+		religion = sunni
+		size = 200
+	}
+
+	artisans = {
+		culture = persian
+		religion = sunni
+		size = 2000
+	}
+
+	soldiers = {
+		culture = persian
+		religion = sunni
+		size = 3000
+	}
+
+	farmers = {
+		culture = persian
+		religion = sunni
+		size = 15000
+	}
+
+	slaves = {
+		culture = uzbek
+		religion = sunni
+		size = 6500
+	}
+}

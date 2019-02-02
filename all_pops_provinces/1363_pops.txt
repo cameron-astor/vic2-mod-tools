@@ -1,0 +1,34 @@
+
+1363 = {
+	aristocrats = {
+		culture = lao
+		religion = theravada
+		size = 275
+	}
+
+	clergymen = {
+		culture = lao
+		religion = theravada
+		size = 150
+	}
+
+	artisans = {
+		culture = lao
+		religion = theravada
+		size = 750
+	}
+
+	soldiers = {
+		culture = lao
+		religion = theravada
+		size = 125
+	}
+
+	farmers = {
+		culture = lao
+		religion = theravada
+		size = 13700
+	}
+
+}
+

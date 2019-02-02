@@ -1,0 +1,53 @@
+
+383 = {
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 235
+	}
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 282
+	}
+	officers = {
+		culture = dutch
+		religion = protestant
+		size = 141
+	}
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 752
+	}
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 188
+	}
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 6580
+	}
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size = 2820
+	}
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size = 940
+	}
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 33323
+	}
+	labourers = {
+		culture = north_german
+		religion = protestant
+		size = 1034
+	}
+}

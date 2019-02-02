@@ -1,0 +1,44 @@
+
+1056 = {
+	aristocrats = {
+		culture = circassian
+		religion = sunni
+		size = 675
+	}
+
+	clergymen = {
+		culture = circassian
+		religion = sunni
+		size = 1350
+	}
+
+	officers = {
+		culture = circassian
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = circassian
+		religion = sunni
+		size = 1700
+	}
+
+	soldiers = {
+		culture = circassian
+		religion = sunni
+		size = 13350
+	}
+
+	farmers = {
+		culture = circassian
+		religion = sunni
+		size = 175875
+	}
+	
+	farmers = {
+		culture = circassian
+		religion = sunni
+		size = 25875
+	}
+}

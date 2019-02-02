@@ -1,0 +1,68 @@
+
+1904 = {
+	aristocrats = {
+		culture = mossi
+		religion = animist
+		size = 250
+	}
+
+	clergymen = {
+		culture = mossi
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = mossi
+		religion = animist
+		size = 700
+	}
+
+	soldiers = {
+		culture = mossi
+		religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = mossi
+		religion = animist
+		size = 12750
+	}
+
+	slaves = {
+		culture = mossi
+		religion = animist
+		size = 7000
+	}
+
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 550
+	}
+
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 300
+	}
+
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 1150
+	}
+
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 300
+	}
+
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 19700
+	}
+}

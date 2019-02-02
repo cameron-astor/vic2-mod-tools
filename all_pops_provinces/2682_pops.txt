@@ -1,0 +1,50 @@
+
+2682 = {
+	aristocrats = {
+		culture = ugrian
+		religion = animist
+		size = 5
+	}
+
+	clergymen = {
+		culture = ugrian
+		religion = animist
+		size = 10
+	}
+
+	artisans = {
+		culture = ugrian
+		religion = animist
+		size = 25
+	}
+
+	soldiers = {
+		culture = ugrian
+		religion = animist
+		size = 10
+	}
+
+	farmers = {
+		culture = ugrian
+		religion = animist
+		size = 450
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 2
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 3
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 45
+	}
+}

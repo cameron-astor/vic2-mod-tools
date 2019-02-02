@@ -1,0 +1,45 @@
+
+259 = {
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 500
+	}
+
+	bureaucrats = {
+		culture = irish
+		religion = catholic
+		size = 250
+	}
+
+	aristocrats = {
+		culture = irish
+		religion = catholic
+		size = 1100
+	}
+
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 2000
+	}
+
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 9500
+	}
+
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 2500
+	}
+
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 176250
+	}
+
+}

@@ -1,0 +1,80 @@
+
+182 = {
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 575
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 2650
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 525
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 49450
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 50
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 400
+	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 7550
+	}
+
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 75
+	}
+
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 9425
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 50
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 200
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 2750
+	}
+}

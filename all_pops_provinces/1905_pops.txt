@@ -1,0 +1,110 @@
+
+1905 = {
+	aristocrats = {
+		culture = dyula
+		religion = sunni
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = dyula
+		religion = sunni
+		size = 25
+	}
+
+	officers = {
+		culture = dyula
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = dyula
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = dyula
+		religion = sunni
+		size = 125
+	}
+
+	soldiers = {
+		culture = dyula
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = dyula
+		religion = sunni
+		size = 1650
+	}
+
+	aristocrats = {
+		culture = mande
+		religion = sunni
+		size = 450
+	}
+
+	clergymen = {
+		culture = mande
+		religion = sunni
+		size = 250
+	}
+
+	artisans = {
+		culture = mande
+		religion = sunni
+		size = 1100
+	}
+
+	soldiers = {
+		culture = mande
+		religion = sunni
+		size = 250
+	}
+
+	farmers = {
+		culture = mande
+		religion = sunni
+		size = 19550
+	}
+
+	aristocrats = {
+		culture = mossi
+		religion = animist
+		size = 125
+	}
+
+	clergymen = {
+		culture = mossi
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = mossi
+		religion = animist
+		size = 350
+	}
+
+	soldiers = {
+		culture = mossi
+		religion = animist
+		size = 75
+	}
+
+	farmers = {
+		culture = mossi
+		religion = animist
+		size = 6375
+	}
+
+	slaves = {
+		culture = mossi
+		religion = animist
+		size = 5000
+	}
+}

@@ -1,0 +1,52 @@
+
+804 = {
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 200
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 400
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 33250
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 1100
+	}
+
+	clergymen = {
+		culture = bosniak
+		religion = sunni
+		size = 200
+	}
+
+	artisans = {
+		culture = bosniak
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = bosniak
+		religion = sunni
+		size = 1100
+	}
+
+	farmers = {
+		culture = bosniak
+		religion = sunni
+		size = 7450
+	}
+
+}
+

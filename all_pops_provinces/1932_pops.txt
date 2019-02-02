@@ -1,0 +1,38 @@
+
+1932 = {
+	aristocrats = {
+		culture = itsekari
+		religion = animist
+		size = 1100
+	}
+
+	clergymen = {
+		culture = itsekari
+		religion = animist
+		size = 550
+	}
+
+	artisans = {
+		culture = itsekari
+		religion = animist
+		size = 2250
+	}
+
+	soldiers = {
+		culture = itsekari
+		religion = animist
+		size = 1100
+	}
+
+	farmers = {
+		culture = itsekari
+		religion = animist
+		size = 50000
+	}
+
+	slaves = {
+		culture = ibibio
+		religion = animist
+		size = 14000
+	}
+}

@@ -1,0 +1,128 @@
+
+2018 = {
+	aristocrats = {
+		culture = lunda
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = lunda
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = lunda
+		religion = animist
+		size = 250
+	}
+
+	soldiers = {
+		culture = lunda
+		religion = animist
+		size = 75
+	}
+
+	farmers = {
+		culture = lunda
+		religion = animist
+		size = 3525
+	}
+
+	aristocrats = {
+		culture = nyasa
+		religion = animist
+		size = 150
+	}
+
+	clergymen = {
+		culture = nyasa
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = nyasa
+		religion = animist
+		size = 400
+	}
+
+	soldiers = {
+		culture = nyasa
+		religion = animist
+		size = 75
+	}
+
+	farmers = {
+		culture = nyasa
+		religion = animist
+		size = 7300
+	}
+
+	slaves = {
+		culture = nyasa
+		religion = animist
+		size = 2000
+	}
+
+	aristocrats = {
+		culture = nguni
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = nguni
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = nguni
+		religion = animist
+		size = 250
+	}
+
+	soldiers = {
+		culture = nguni
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = nguni
+		religion = animist
+		size = 4575
+	}
+
+	aristocrats = {
+		culture = sena
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = sena
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = sena
+		religion = animist
+		size = 200
+	}
+
+	soldiers = {
+		culture = sena
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = sena
+		religion = animist
+		size = 3650
+	}
+}

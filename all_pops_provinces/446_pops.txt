@@ -1,0 +1,32 @@
+
+446 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 1300
+	}
+
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 850
+	}
+
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 6500
+	}
+
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 1350
+	}
+
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 121000
+	}
+}

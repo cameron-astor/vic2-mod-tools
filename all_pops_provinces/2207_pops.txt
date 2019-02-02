@@ -1,0 +1,33 @@
+
+2207 = {
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 350
+	}
+
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 175
+	}
+
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 875
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 175
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 16200
+	}
+}
+

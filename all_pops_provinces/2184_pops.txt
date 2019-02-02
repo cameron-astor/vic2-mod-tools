@@ -1,0 +1,56 @@
+
+2184 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 550
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 175
+	}
+
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 400
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 6775
+	}
+
+	clergymen = {
+		culture = mayan
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = mayan
+		religion = catholic
+		size = 900
+	}
+
+	soldiers = {
+		culture = mayan
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = mayan
+		religion = catholic
+		size = 17800
+	}
+}

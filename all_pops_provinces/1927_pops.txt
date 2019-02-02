@@ -1,0 +1,74 @@
+
+1927 = {
+	aristocrats = {
+		culture = yoruba
+		religion = sunni
+		size = 950
+	}
+
+	clergymen = {
+		culture = yoruba
+		religion = sunni
+		size = 525
+	}
+
+	artisans = {
+		culture = yoruba
+		religion = animist
+		size = 2500
+	}
+
+	soldiers = {
+		culture = yoruba
+		religion = animist
+		size = 1100
+	}
+
+	farmers = {
+		culture = yoruba
+		religion = animist
+		size = 39025
+	}
+
+	slaves = {
+		culture = yoruba
+		religion = animist
+		size = 6000
+	}
+
+	aristocrats = {
+		culture = hausa
+		religion = sunni
+		size = 250
+	}
+
+	clergymen = {
+		culture = hausa
+		religion = sunni
+		size = 175
+	}
+
+	artisans = {
+		culture = east_kwa
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = east_kwa
+		religion = sunni
+		size = 125
+	}
+
+	farmers = {
+		culture = hausa
+		religion = animist
+		size = 9050
+	}
+
+	slaves = {
+		culture = hausa
+		religion = animist
+		size = 2000
+	}
+}

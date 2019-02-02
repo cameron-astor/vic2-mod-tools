@@ -1,0 +1,20 @@
+
+2552 = {
+	clergymen = {
+		culture = polynesian
+		religion = protestant
+		size = 1
+	}
+
+	artisans = {
+		culture = polynesian
+		religion = protestant
+		size = 4
+	}
+
+	farmers = {
+		culture = polynesian
+		religion = protestant
+		size = 35
+	}
+}

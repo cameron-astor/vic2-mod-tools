@@ -1,0 +1,116 @@
+
+277 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 1100
+	}
+
+	officers = {
+		culture = british
+		religion = protestant
+		size = 500
+	}
+
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 1550
+	}
+
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 1100
+	}
+
+	capitalists = {
+		culture = british
+		religion = protestant
+		size = 1250
+	}
+
+	clerks = {
+		culture = british
+		religion = protestant
+		size = 1750
+	}
+
+	craftsmen = {
+		culture = british
+		religion = protestant
+		size = 30000
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 10000
+	}
+	
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 2500
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 3000
+	}
+
+	labourers = {
+		culture = british
+		religion = protestant
+		size = 138850
+	}
+
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 50
+	}
+
+	craftsmen = {
+		culture = british
+		religion = catholic
+		size = 1100
+	}
+
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 1500
+	}
+
+	labourers = {
+		culture = british
+		religion = catholic
+		size = 6450
+	}
+
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 125
+	}
+
+	craftsmen = {
+		culture = irish
+		religion = catholic
+		size = 2250
+	}
+
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 10750
+	}
+
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 7875
+	}
+}

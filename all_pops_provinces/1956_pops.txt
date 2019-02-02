@@ -1,0 +1,44 @@
+
+1956 = {
+	aristocrats = {
+		culture = forest_bantu
+		religion = animist
+		size = 1675
+	}
+
+	officers = {
+		culture = forest_bantu
+		religion = animist
+		size = 150
+	}
+
+	clergymen = {
+		culture = forest_bantu
+		religion = animist
+		size = 825
+	}
+
+	artisans = {
+		culture = forest_bantu
+		religion = animist
+		size = 3300
+	}
+
+	soldiers = {
+		culture = forest_bantu
+		religion = animist
+		size = 825
+	}
+
+	farmers = {
+		culture = forest_bantu
+		religion = animist
+		size = 61225
+	}
+
+	slaves = {
+		culture = fang
+		religion = animist
+		size = 14000
+	}
+}

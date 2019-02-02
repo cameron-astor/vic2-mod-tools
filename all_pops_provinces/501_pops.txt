@@ -1,0 +1,74 @@
+
+501 = {
+	aristocrats = {
+		culture = catalan
+		religion = catholic
+		size = 850
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	clergymen = {
+		culture = catalan
+		religion = catholic
+		size = 400
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	artisans = {
+		culture = catalan
+		religion = catholic
+		size = 2000
+	}
+
+	soldiers = {
+		culture = catalan
+		religion = catholic
+		size = 400
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	farmers = {
+		culture = catalan
+		religion = catholic
+		size = 37850
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 450
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 200
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 17650
+	}
+}

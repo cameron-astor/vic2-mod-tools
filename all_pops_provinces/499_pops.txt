@@ -1,0 +1,64 @@
+
+499 = {
+	aristocrats = {
+		culture = catalan
+		religion = catholic
+		size = 750
+	}
+
+	clergymen = {
+		culture = catalan
+		religion = catholic
+		size = 350
+	}
+
+	artisans = {
+		culture = catalan
+		religion = catholic
+		size = 1750
+	}
+
+	soldiers = {
+		culture = catalan
+		religion = catholic
+		size = 350
+	}
+
+	farmers = {
+		culture = catalan
+		religion = catholic
+		size = 33300
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 450
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 200
+	}
+
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 250
+	}
+
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 18600
+	}
+}

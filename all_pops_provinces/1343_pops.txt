@@ -1,0 +1,39 @@
+
+1343 = {
+	aristocrats = {
+		culture = karen
+		religion = theravada
+		size = 400
+	}
+
+	clergymen = {
+		culture = karen
+		religion = theravada
+		size = 350
+	}
+
+	artisans = {
+		culture = karen
+		religion = theravada
+		size = 1100
+	}
+
+	soldiers = {
+		culture = karen
+		religion = theravada
+		size = 300
+	}
+
+	farmers = {
+		culture = karen
+		religion = theravada
+		size = 30650
+	}
+	
+	farmers = {
+		culture = karen
+		religion = protestant
+		size = 300
+	}
+
+	aristocrats = {

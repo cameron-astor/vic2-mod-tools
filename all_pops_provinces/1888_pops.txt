@@ -1,0 +1,62 @@
+
+1888 = {
+	aristocrats = {
+		culture = afro_american
+		religion = protestant
+		size = 750
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 375
+	}
+
+	artisans = {
+		culture = kru
+		religion = protestant
+		size = 1900
+	}
+
+	soldiers = {
+		culture = kru
+		religion = animist
+		size = 375
+	}
+
+	farmers = {
+		culture = kru
+		religion = animist
+		size = 24600
+	}
+
+	aristocrats = {
+		culture = western_nigritic
+		religion = protestant
+		size = 250
+	}
+
+	clergymen = {
+		culture = western_nigritic
+		religion = animist
+		size = 125
+	}
+
+	artisans = {
+		culture = western_nigritic
+		religion = animist
+		size = 650
+	}
+
+	soldiers = {
+		culture = western_nigritic
+		religion = animist
+		size = 125
+	}
+
+	farmers = {
+		culture = western_nigritic
+		religion = animist
+		size = 21850
+	}
+}

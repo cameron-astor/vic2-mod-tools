@@ -1,0 +1,64 @@
+
+1174 = {
+	aristocrats = {
+		culture = bedouin
+		religion = ibadi
+		size = 65
+	}
+
+	bureaucrats = {
+		culture = bedouin
+		religion = ibadi
+		size = 5
+	}
+
+	officers = {
+		culture = bedouin
+		religion = ibadi
+		size = 5
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = ibadi
+		size = 75
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = ibadi
+		size = 250
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = ibadi
+		size = 1000
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = ibadi
+		size = 3000
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 2025
+	}
+
+}
+

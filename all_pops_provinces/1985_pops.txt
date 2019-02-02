@@ -1,0 +1,68 @@
+
+1985 = {
+	aristocrats = {
+		culture = lunda
+		religion = animist
+		size = 1100
+	}
+
+	clergymen = {
+		culture = lunda
+		religion = animist
+		size = 550
+	}
+
+	artisans = {
+		culture = lunda
+		religion = animist
+		size = 2380
+	}
+
+	soldiers = {
+		culture = lunda
+		religion = animist
+		size = 1925
+	}
+
+	farmers = {
+		culture = lunda
+		religion = animist
+		size = 86660
+	}
+
+	aristocrats = {
+		culture = chokwe
+		religion = animist
+		size = 1100
+	}
+
+	clergymen = {
+		culture = chokwe
+		religion = animist
+		size = 550
+	}
+
+	artisans = {
+		culture = chokwe
+		religion = animist
+		size = 2750
+	}
+
+	soldiers = {
+		culture = chokwe
+		religion = animist
+		size = 1650
+	}
+
+	farmers = {
+		culture = chokwe
+		religion = animist
+		size = 100140
+	}
+
+	slaves = {
+		culture = kavango
+		religion = animist
+		size = 17300
+	}
+}

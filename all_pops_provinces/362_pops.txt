@@ -1,0 +1,104 @@
+
+362 = {
+	clergymen = {
+		culture = lithuanian
+		religion = catholic
+		size = 250
+	}
+
+	artisans = {
+		culture = lithuanian
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = lithuanian
+		religion = catholic
+		size = 2250
+	}
+
+	farmers = {
+		culture = lithuanian
+		religion = catholic
+		size = 23000
+	}
+
+	aristocrats = {
+		culture = polish
+		religion = catholic
+		size = 1950
+	}
+
+	clergymen = {
+		culture = polish
+		religion = catholic
+		size = 275
+	}
+
+	artisans = {
+		culture = polish
+		religion = catholic
+		size = 1200
+	}
+
+	soldiers = {
+		culture = polish
+		religion = catholic
+		size = 300
+	}
+
+	farmers = {
+		culture = polish
+		religion = catholic
+		size = 13225
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1400
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 8425
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 200
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 3675
+	}
+}

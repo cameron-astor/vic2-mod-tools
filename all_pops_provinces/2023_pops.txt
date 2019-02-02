@@ -1,0 +1,82 @@
+
+2023 = {
+	aristocrats = {
+		culture = baganda
+		religion = animist
+		size = 275
+	}
+
+	clergymen = {
+		culture = baganda
+		religion = animist
+		size = 150
+	}
+	
+	aristocrats = {
+		culture = baganda
+		religion = sunni
+		size = 750
+	}
+
+	clergymen = {
+		culture = baganda
+		religion = sunni
+		size = 375
+	}
+
+	artisans = {
+		culture = baganda
+		religion = animist
+		size = 575
+	}
+
+	soldiers = {
+		culture = baganda
+		religion = animist
+		size = 150
+	}
+	
+	soldiers = {
+		culture = baganda
+		religion = sunni
+		size = 375
+	}
+
+	farmers = {
+		culture = baganda
+		religion = animist
+		size = 52850
+	}
+	
+	farmers = {
+		culture = baganda
+		religion = sunni
+		size = 9000
+	}
+
+	artisans = {
+		culture = luo
+		religion = animist
+		size = 1900
+	}
+
+	farmers = {
+		culture = luo
+		religion = animist
+		size = 4400
+	}
+
+	artisans = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 200
+	}
+	
+	slaves = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 6000
+	}
+
+}
+

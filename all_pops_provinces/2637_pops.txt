@@ -1,0 +1,33 @@
+
+2637 = {
+	aristocrats = {
+		culture = inuit
+		religion = animist
+		size = 9
+	}
+
+	clergymen = {
+		culture = inuit
+		religion = animist
+		size = 15
+	}
+
+	artisans = {
+		culture = inuit
+		religion = animist
+		size = 35
+	}
+
+	soldiers = {
+		culture = inuit
+		religion = animist
+		size = 11
+	}
+
+	farmers = {
+		culture = inuit
+		religion = animist
+		size = 680
+	}
+}
+

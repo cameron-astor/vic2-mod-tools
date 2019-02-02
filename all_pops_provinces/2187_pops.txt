@@ -1,0 +1,56 @@
+
+2187 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 175
+	}
+
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 75
+	}
+
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 350
+	}
+
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 5400
+	}
+
+	clergymen = {
+		culture = mayan
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = mayan
+		religion = catholic
+		size = 1050
+	}
+
+	soldiers = {
+		culture = mayan
+		religion = catholic
+		size = 225
+	}
+
+	farmers = {
+		culture = mayan
+		religion = catholic
+		size = 19625
+	}
+}

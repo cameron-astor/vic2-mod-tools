@@ -1,0 +1,92 @@
+
+1856 = {
+	aristocrats = {
+		culture = tigray
+		religion = coptic
+		size = 800
+	}
+
+	bureaucrats = {
+		culture = tigray
+		religion = coptic
+		size = 75
+	}
+
+	officers = {
+		culture = tigray
+		religion = coptic
+		size = 70
+	}
+
+	clergymen = {
+		culture = tigray
+		religion = coptic
+		size = 420
+	}
+
+	artisans = {
+		culture = tigray
+		religion = coptic
+		size = 1750
+	}
+
+	soldiers = {
+		culture = tigray
+		religion = coptic
+		size = 2400
+	}
+
+	farmers = {
+		culture = tigray
+		religion = coptic
+		size = 62485
+	}
+
+	slaves = {
+		culture = tigray
+		religion = coptic
+		size = 7000
+	}
+
+	aristocrats = {
+		culture = amhara
+		religion = coptic
+		size = 100
+	}
+
+	officers = {
+		culture = amhara
+		religion = coptic
+		size = 100
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = coptic
+		size = 100
+	}
+
+	artisans = {
+		culture = amhara
+		religion = coptic
+		size = 280
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = coptic
+		size = 100
+	}
+
+	farmers = {
+		culture = amhara
+		religion = coptic
+		size = 2075
+	}
+
+	slaves = {
+		culture = nilotic
+		religion = animist
+		size = 1400
+	}
+}

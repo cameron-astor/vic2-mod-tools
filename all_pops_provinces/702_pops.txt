@@ -1,0 +1,122 @@
+
+702 = {
+	clergymen = {
+		culture = ukrainian
+		religion = orthodox
+		size = 750
+	}
+
+	artisans = {
+		culture = ukrainian
+		religion = orthodox
+		size = 4200
+	}
+
+	soldiers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 1000
+	}
+
+	farmers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 77050
+	}
+	
+	serfs = {
+		culture = gypsy
+		religion = orthodox
+		size = 1000
+	}
+
+	aristocrats = {
+		culture = polish
+		religion = catholic
+		size = 3750
+	}
+
+	bureaucrats = {
+		culture = polish
+		religion = catholic
+		size = 1300
+	}
+
+	officers = {
+		culture = polish
+		religion = catholic
+		size = 750
+	}
+
+	clergymen = {
+		culture = polish
+		religion = catholic
+		size = 775
+	}
+
+	artisans = {
+		culture = polish
+		religion = catholic
+		size = 3250
+	}
+
+	soldiers = {
+		culture = polish
+		religion = catholic
+		size = 650
+	}
+
+	serfs = {
+		culture = polish
+		religion = catholic
+		size = 54725
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 125
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 2800
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 125
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 10950
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 1825
+	}
+}

@@ -1,0 +1,56 @@
+
+735 = {
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 250 
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 150
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 150 
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 14950
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = catholic
+		size = 50 
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 5400
+	}
+}

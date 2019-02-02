@@ -1,0 +1,50 @@
+
+1841 = {
+	aristocrats = {
+		culture = fur
+		religion = sunni
+		size = 1200
+	}
+
+	bureaucrats = {
+		culture = fur
+		religion = sunni
+		size = 100
+	}
+
+	officers = {
+		culture = fur
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = fur
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = fur
+		religion = sunni
+		size = 2600
+	}
+
+	soldiers = {
+		culture = fur
+		religion = sunni
+		size = 1250
+	}
+
+	farmers = {
+		culture = fur
+		religion = sunni
+		size = 58600
+	}
+
+	slaves = {
+		culture = teda
+		religion = sunni
+		size = 4000
+	}
+}

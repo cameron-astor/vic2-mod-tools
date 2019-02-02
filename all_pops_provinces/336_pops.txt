@@ -1,0 +1,38 @@
+
+336 = {
+	bureaucrats = {
+		culture = finnish
+		religion = protestant
+		size = 150
+	}
+
+	officers = {
+		culture = finnish
+		religion = protestant
+		size = 25
+	}
+
+	clergymen = {
+		culture = finnish
+		religion = protestant
+		size = 150
+	}
+
+	artisans = {
+		culture = finnish
+		religion = protestant
+		size = 800
+	}
+
+	soldiers = {
+		culture = finnish
+		religion = protestant
+		size = 150
+	}
+
+	farmers = {
+		culture = finnish
+		religion = protestant
+		size = 14725
+	}
+}

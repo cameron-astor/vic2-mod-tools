@@ -1,0 +1,81 @@
+
+1312 = {
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 10
+	}
+
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 15
+	}
+
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 25
+	}
+	
+	aristocrats = {
+		culture = tamil
+		religion = hindu
+		size = 700
+	}
+
+	clergymen = {
+		culture = tamil
+		religion = hindu
+		size = 250
+	}
+
+	artisans = {
+		culture = tamil
+		religion = hindu
+		size = 1500
+	}
+
+	soldiers = {
+		culture = tamil
+		religion = hindu
+		size = 300
+	}
+
+	farmers = {
+		culture = tamil
+		religion = hindu
+		size = 22250
+	}
+
+	clergymen = {
+		culture = tamil
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = tamil
+		religion = catholic
+		size = 200
+	}
+
+	soldiers = {
+		culture = tamil
+		religion = catholic
+		size = 75
+	}
+
+	farmers = {
+		culture = tamil
+		religion = catholic
+		size = 2600
+	}
+
+	slaves = {
+		culture = tamil
+		religion = hindu
+		size = 5000
+	}
+
+}

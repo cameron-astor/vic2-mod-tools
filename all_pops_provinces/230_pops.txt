@@ -1,0 +1,74 @@
+
+230 = {
+	bureaucrats = {
+		culture = yankee
+		religion = protestant
+		size = 125
+	}
+
+	officers = {
+		culture = yankee
+		religion = protestant
+		size = 70
+	}
+
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 150
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 1050
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 225
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 21105
+	}
+
+	bureaucrats = {
+		culture = yankee
+		religion = catholic
+		size = 25
+	}
+
+	officers = {
+		culture = yankee
+		religion = catholic
+		size = 15
+	}
+
+	clergymen = {
+		culture = yankee
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = yankee
+		religion = catholic
+		size = 150
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = yankee
+		religion = catholic
+		size = 2735
+	}
+}

@@ -1,0 +1,110 @@
+
+2019 = {
+	aristocrats = {
+		culture = baganda
+		religion = animist
+		size = 1000
+	}
+	
+	aristocrats = {
+		culture = baganda
+		religion = sunni
+		size = 350
+	}
+
+	bureaucrats = {
+		culture = baganda
+		religion = sunni
+		size = 50
+	}
+
+	officers = {
+		culture = baganda
+		religion = animist
+		size = 50
+	}
+	
+	officers = {
+		culture = baganda
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = baganda
+		religion = sunni
+		size = 725
+	}
+
+	artisans = {
+		culture = baganda
+		religion = animist
+		size = 1800
+	}
+	
+	artisans = {
+		culture = baganda
+		religion = sunni
+		size = 1000
+	}
+
+	soldiers = {
+		culture = baganda
+		religion = animist
+		size = 1000
+	}
+	
+	soldiers = {
+		culture = baganda
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = baganda
+		religion = animist
+		size = 48025
+	}
+	
+	farmers = {
+		culture = baganda
+		religion = sunni
+		size = 15000
+	}
+
+	aristocrats = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 575
+	}
+
+	clergymen = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 300
+	}
+
+	artisans = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 1500
+	}
+
+	soldiers = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 300
+	}
+
+	farmers = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 10325
+	}
+
+	slaves = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 7000
+	}
+}

@@ -1,0 +1,111 @@
+
+1552 = {
+	aristocrats = {
+		culture = manchu
+		religion = mahayana
+		size = 3750
+	}
+	
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 650
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 300
+	}
+
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 300
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = mahayana
+		size = 500
+	}
+
+	artisans = {
+		culture = manchu
+		religion = mahayana
+		size = 1000
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 1100
+	}
+
+	labourers = {
+		culture = manchu
+		religion = mahayana
+		size = 4100
+	}
+	
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 3000
+	}
+	
+	labourers = {
+		culture = mongol
+		religion = gelugpa
+		size = 60000
+	}
+	
+	slaves = {
+		culture = mongol
+		religion = gelugpa
+		size = 10000
+	}
+	
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 1750
+	}
+	
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 100
+	}
+
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 100
+	}
+	
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 100
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 500
+	}
+	
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1100
+	}
+	
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 5650
+	}
+
+}

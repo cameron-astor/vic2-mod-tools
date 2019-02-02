@@ -1,0 +1,98 @@
+
+2046 = {
+	aristocrats = {
+		culture = unyamwezi
+		religion = animist
+		size = 1075
+	}
+
+	clergymen = {
+		culture = unyamwezi
+		religion = animist
+		size = 550
+	}
+
+	artisans = {
+		culture = unyamwezi
+		religion = animist
+		size = 2200
+	}
+
+	soldiers = {
+		culture = unyamwezi
+		religion = animist
+		size = 550
+	}
+
+	farmers = {
+		culture = unyamwezi
+		religion = animist
+		size = 31425
+	}
+
+	aristocrats = {
+		culture = nyasa
+		religion = animist
+		size = 475
+	}
+
+	clergymen = {
+		culture = nyasa
+		religion = animist
+		size = 250
+	}
+
+	artisans = {
+		culture = nyasa
+		religion = animist
+		size = 1250
+	}
+
+	soldiers = {
+		culture = nyasa
+		religion = animist
+		size = 250
+	}
+
+	farmers = {
+		culture = nyasa
+		religion = animist
+		size = 22775
+	}
+
+	slaves = {
+		culture = nyasa
+		religion = animist
+		size = 12000
+	}
+
+	aristocrats = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 200
+	}
+
+	soldiers = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 3650
+	}
+}

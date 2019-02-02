@@ -1,0 +1,56 @@
+
+693 = {
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 700
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 125  
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 1400
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 1000
+	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 24425 
+	}
+
+	clergymen = {
+		culture = polish
+		religion = catholic
+		size = 75 
+	}
+
+	artisans = {
+		culture = polish
+		religion = catholic
+		size = 450
+	}
+
+	soldiers = {
+		culture = polish
+		religion = catholic
+		size = 1000
+	}
+
+	farmers = {
+		culture = polish
+		religion = catholic
+		size = 7475
+	}
+}

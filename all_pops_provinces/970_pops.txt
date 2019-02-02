@@ -1,0 +1,164 @@
+
+970 = {
+	aristocrats = {
+		culture = ukrainian
+		religion = orthodox
+		size = 850
+	}
+
+	clergymen = {
+		culture = ukrainian
+		religion = orthodox
+		size = 275
+	}
+
+	artisans = {
+		culture = ukrainian
+		religion = orthodox
+		size = 700
+	}
+
+	soldiers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 300
+	}
+
+	farmers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 22875
+	}
+	
+	serfs = {
+		culture = ukrainian
+		religion = orthodox
+		size = 5000
+	}
+
+	aristocrats = {
+		culture = polish
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = polish
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = polish
+		religion = catholic
+		size = 150
+	}
+
+	soldiers = {
+		culture = polish
+		religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 50
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1500
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 75
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 5375
+	}
+
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 350
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 50
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 250
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 50
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 14300
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 150
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 2775
+	}
+
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 125
+	}
+
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 350
+	}
+
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 150
+	}
+
+	farmers = {
+		culture = romanian
+		religion = orthodox
+		size = 14375
+	}
+}

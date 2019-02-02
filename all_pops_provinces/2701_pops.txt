@@ -1,0 +1,56 @@
+
+2701 = {
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 75
+	}
+
+	officers = {
+		culture = russian
+		religion = orthodox
+		size = 50
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 500
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 750
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 500
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 10000
+	}
+
+	farmers = {
+		culture = siberian
+		religion = animist
+		size = 230
+	}
+	
+	farmers = {
+		culture = tatar
+		religion = animist
+		size = 400
+	}
+}

@@ -1,0 +1,50 @@
+
+988 = {
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 75
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 2150
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 25
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 2500
+	}
+
+	clergymen = {
+		culture = finnish
+		religion = orthodox
+		size = 50
+	}
+
+	artisans = {
+		culture = finnish
+		religion = orthodox
+		size = 200
+	}
+
+	soldiers = {
+		culture = finnish
+		religion = orthodox
+		size = 25
+	}
+
+	farmers = {
+		culture = finnish
+		religion = orthodox
+		size = 4000
+	}
+}

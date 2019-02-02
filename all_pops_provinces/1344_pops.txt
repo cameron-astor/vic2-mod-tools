@@ -1,0 +1,105 @@
+
+1344 = {
+	aristocrats = {
+		culture = karen
+		religion = theravada
+		size = 400
+	}
+
+	clergymen = {
+		culture = karen
+		religion = theravada
+		size = 375
+	}
+
+	artisans = {
+		culture = karen
+		religion = theravada
+		size = 1100
+	}
+
+	soldiers = {
+		culture = karen
+		religion = theravada
+		size = 400
+	}
+
+	farmers = {
+		culture = karen
+		religion = theravada
+		size = 34525
+	}
+	
+	farmers = {
+		culture = karen
+		religion = protestant
+		size = 300
+	}
+
+	aristocrats = {
+		culture = thai
+		religion = theravada
+		size = 100
+	}
+
+	clergymen = {
+		culture = thai
+		religion = theravada
+		size = 200
+	}
+
+	artisans = {
+		culture = thai
+		religion = theravada
+		size = 1250
+	}
+
+	soldiers = {
+		culture = thai
+		religion = theravada
+		size = 200
+	}
+
+	farmers = {
+		culture = thai
+		religion = theravada
+		size = 17250
+	}
+
+	aristocrats = {
+		culture = burmese
+		religion = theravada
+		size = 350
+	}
+
+	clergymen = {
+		culture = burmese
+		religion = theravada
+		size = 300
+	}
+
+	artisans = {
+		culture = burmese
+		religion = theravada
+		size = 2000
+	}
+
+	soldiers = {
+		culture = burmese
+		religion = theravada
+		size = 300
+	}
+
+	farmers = {
+		culture = burmese
+		religion = theravada
+		size = 23050
+	}
+	
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 1000
+	}
+
+}

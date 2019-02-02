@@ -1,0 +1,45 @@
+
+1554 = {
+
+	clergymen = {
+		culture = manchu
+		religion = mahayana
+		size = 400
+	}
+
+	artisans = {
+		culture = manchu
+		religion = mahayana
+		size = 1000
+	}
+	
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 2300
+	}
+
+	labourers = {
+		culture = manchu
+		religion = mahayana
+		size = 40400
+	}
+	
+	labourers = {
+		culture = beifaren
+		religion = mahayana
+		size = 20000
+	}
+	
+	slaves = {
+		culture = beifaren
+		religion = mahayana
+		size = 5000
+	}
+
+	slaves = {
+		culture = korean
+		religion = mahayana
+		size = 800
+	}
+}

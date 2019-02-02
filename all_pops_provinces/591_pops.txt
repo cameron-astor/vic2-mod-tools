@@ -1,0 +1,55 @@
+
+591 = {
+	aristocrats = {
+		culture = south_german
+		religion = protestant
+		size = 400 
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = protestant
+		size = 375
+	}
+
+	artisans = {
+		culture = south_german
+		religion = protestant
+		size = 1900
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = protestant
+		size = 400 
+	}
+
+	farmers = {
+		culture = south_german
+		religion = protestant
+		size = 36925 
+	}
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 325
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 1750
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 300  
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 30625 
+	}
+}

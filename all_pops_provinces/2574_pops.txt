@@ -1,0 +1,32 @@
+
+2574 = {
+	aristocrats = {
+		culture = tswana
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = tswana
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = tswana
+		religion = animist
+		size = 200
+	}
+
+	soldiers = {
+		culture = tswana
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = tswana
+		religion = animist
+		size = 3650
+	}
+}

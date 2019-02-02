@@ -1,0 +1,32 @@
+
+319 = {
+	clergymen = {
+		culture = swedish
+		religion = protestant
+		size = 50
+	}
+
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 500
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 100
+	}
+
+	labourers = {
+		culture = swedish
+		religion = protestant
+		size = 9350
+	}
+
+	labourers = {
+		culture = norwegian
+		religion = protestant
+		size = 1100
+	}
+}

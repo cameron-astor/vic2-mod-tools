@@ -1,0 +1,81 @@
+
+365 = {
+	aristocrats = {
+		culture = lithuanian
+		religion = catholic
+		size = 350
+	}
+
+	clergymen = {
+		culture = lithuanian
+		religion = catholic
+		size = 150
+	}
+
+	artisans = {
+		culture = lithuanian
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = lithuanian
+		religion = catholic
+		size = 175
+	}
+
+	farmers = {
+		culture = lithuanian
+		religion = catholic
+		size = 15825
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 600
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 2325
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 850
+	}
+
+}

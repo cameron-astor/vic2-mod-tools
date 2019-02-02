@@ -1,0 +1,27 @@
+
+252 = {
+	bureaucrats = {
+		culture = icelandic
+		religion = protestant
+		size = 25
+	}
+
+	clergymen = {
+		culture = icelandic
+		religion = protestant
+		size = 100
+	}
+
+	artisans = {
+		culture = icelandic
+		religion = protestant
+		size = 750
+	}
+
+	farmers = {
+		culture = icelandic
+		religion = protestant
+		size = 13125
+	}
+}
+

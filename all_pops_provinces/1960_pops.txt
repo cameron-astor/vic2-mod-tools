@@ -1,0 +1,38 @@
+
+1960 = {
+	aristocrats = {
+		culture = tiv
+		religion = sunni
+		size = 1375
+	}
+
+	clergymen = {
+		culture = tiv
+		religion = sunni
+		size = 700
+	}
+
+	artisans = {
+		culture = tiv
+		religion = sunni
+		size = 2775
+	}
+
+	soldiers = {
+		culture = tiv
+		religion = sunni
+		size = 700
+	}
+
+	farmers = {
+		culture = tiv
+		religion = sunni
+		size = 44450
+	}
+
+	slaves = {
+		culture = tiv
+		religion = animist
+		size = 19000
+	}
+}

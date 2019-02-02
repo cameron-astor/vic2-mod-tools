@@ -1,0 +1,56 @@
+
+773 = {
+	aristocrats = {
+		culture = croat
+		religion = catholic
+		size = 550
+	}
+
+	clergymen = {
+		culture = croat
+		religion = catholic
+		size = 350
+	}
+
+	artisans = {
+		culture = croat
+		religion = catholic
+		size = 1700
+	}
+
+	soldiers = {
+		culture = croat
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = croat
+		religion = catholic
+		size = 30400
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 125
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 600
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 150
+	}
+
+	serfs = {
+		culture = serb
+		religion = orthodox
+		size = 11125
+	}
+}

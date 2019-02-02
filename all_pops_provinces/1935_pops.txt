@@ -1,0 +1,44 @@
+
+1935 = {
+	aristocrats = {
+		culture = ibo
+		religion = animist
+		size = 4150
+	}
+	
+	bureaucrats = {
+		culture = ibo
+		religion = animist
+		size = 450
+	}
+
+	clergymen = {
+		culture = ibo
+		religion = animist
+		size = 2100
+	}
+
+	artisans = {
+		culture = ibo
+		religion = animist
+		size = 8350
+	}
+
+	soldiers = {
+		culture = ibo
+		religion = animist
+		size = 2400
+	}
+
+	farmers = {
+		culture = ibo
+		religion = animist
+		size = 157000
+	}
+
+	slaves = {
+		culture = ibibio
+		religion = animist
+		size = 34000
+	}
+}

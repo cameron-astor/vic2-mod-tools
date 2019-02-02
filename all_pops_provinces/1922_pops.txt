@@ -1,0 +1,64 @@
+
+1922 = {
+	aristocrats = {
+		culture = gur
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = gur
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = gur
+		religion = animist
+		size = 250
+	}
+
+	soldiers = {
+		culture = gur
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = gur
+		religion = animist
+		size = 4575
+	}
+
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 1800
+	}
+
+}
+

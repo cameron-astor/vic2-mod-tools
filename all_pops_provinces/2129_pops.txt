@@ -1,0 +1,44 @@
+
+2129 = {
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 5
+	}
+
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 25
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 20
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 50
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 245
+	}
+	
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 155
+	}
+	
+	farmers = {
+		culture = afro_caribeno
+		religion = protestant
+		size = 500
+	}
+}

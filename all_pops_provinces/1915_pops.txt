@@ -1,0 +1,74 @@
+
+1915 = {
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 790
+	}
+
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 440
+	}
+
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 1750
+	}
+
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 440
+	}
+
+	farmers = {
+		culture = akan
+		religion = animist
+		size = 31600
+	}
+
+	slaves = {
+		culture = akan
+		religion = animist
+		size = 7000
+	}
+
+	aristocrats = {
+		culture = ewe
+		religion = animist
+		size = 1200
+	}
+
+	clergymen = {
+		culture = ewe
+		religion = animist
+		size = 615
+	}
+
+	artisans = {
+		culture = ewe
+		religion = animist
+		size = 2540
+	}
+
+	soldiers = {
+		culture = ewe
+		religion = animist
+		size = 700
+	}
+
+	farmers = {
+		culture = ewe
+		religion = animist
+		size = 40425
+	}
+
+	slaves = {
+		culture = gur
+		religion = animist
+		size = 17500
+	}
+}

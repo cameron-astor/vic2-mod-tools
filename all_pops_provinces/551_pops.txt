@@ -1,0 +1,32 @@
+
+551 = {
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 550 
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 575
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 3000
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 2000
+	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 51875
+	}
+}

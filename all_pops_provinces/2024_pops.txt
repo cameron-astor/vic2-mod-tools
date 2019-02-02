@@ -1,0 +1,92 @@
+
+2024 = {
+	aristocrats = {
+		culture = kikuyu
+		religion = animist
+		size = 925
+	}
+
+	clergymen = {
+		culture = kikuyu
+		religion = animist
+		size = 475
+	}
+
+	artisans = {
+		culture = kikuyu
+		religion = animist
+		size = 2400
+	}
+
+	soldiers = {
+		culture = kikuyu
+		religion = animist
+		size = 500
+	}
+
+	farmers = {
+		culture = kikuyu
+		religion = animist
+		size = 43700
+	}
+
+	aristocrats = {
+		culture = nilotic
+		religion = animist
+		size = 200
+	}
+
+	clergymen = {
+		culture = nilotic
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = nilotic
+		religion = animist
+		size = 550
+	}
+
+	soldiers = {
+		culture = nilotic
+		religion = animist
+		size = 125
+	}
+
+	farmers = {
+		culture = nilotic
+		religion = animist
+		size = 10025
+	}
+
+	aristocrats = {
+		culture = maasai
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = maasai
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = maasai
+		religion = animist
+		size = 200
+	}
+
+	soldiers = {
+		culture = maasai
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = maasai
+		religion = animist
+		size = 3650
+	}
+}

@@ -1,0 +1,62 @@
+
+774 = {
+	aristocrats = {
+		culture = croat
+		religion = catholic
+		size = 275
+	}
+
+	clergymen = {
+		culture = croat
+		religion = catholic
+		size = 125
+	}
+	
+	bureaucrats = {
+		culture = croat
+		religion = catholic
+		size = 200
+	}
+
+	artisans = {
+		culture = croat
+		religion = catholic
+		size = 650
+	}
+
+	soldiers = {
+		culture = croat
+		religion = catholic
+		size = 125
+	}
+
+	farmers = {
+		culture = croat
+		religion = catholic
+		size = 11325
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 550
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 125
+	}
+
+	serfs = {
+		culture = serb
+		religion = orthodox
+		size = 10225
+	}
+}

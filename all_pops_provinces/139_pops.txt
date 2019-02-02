@@ -1,0 +1,92 @@
+
+139 = {
+	aristocrats = {
+		culture = dixie
+		religion = protestant
+		size = 225
+	}
+
+	clergymen = {
+		culture = dixie
+		religion = protestant
+		size = 125
+	}
+
+	artisans = {
+		culture = dixie
+		religion = protestant
+		size = 650
+	}
+
+	soldiers = {
+		culture = dixie
+		religion = protestant
+		size = 1250
+	}
+
+	farmers = {
+		culture = dixie
+		religion = protestant
+		size = 14250
+	}
+
+	aristocrats = {
+		culture = dixie
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = dixie
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = dixie
+		religion = catholic
+		size = 200
+	}
+
+	soldiers = {
+		culture = dixie
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = dixie
+		religion = catholic
+		size = 4550
+	}
+
+	artisans = {
+		culture = dixie
+		religion = jewish
+		size = 100
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = catholic
+		size = 650
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = catholic
+		size = 3325
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 10000
+	}
+}

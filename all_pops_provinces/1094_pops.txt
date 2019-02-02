@@ -1,0 +1,44 @@
+
+1094 = {
+	aristocrats = {
+		culture = georgian
+		religion = orthodox
+		size = 500
+	}
+
+	clergymen = {
+		culture = georgian
+		religion = orthodox
+		size = 250
+	}
+
+	artisans = {
+		culture = georgian
+		religion = orthodox
+		size = 1300
+	}
+
+	soldiers = {
+		culture = georgian
+		religion = orthodox
+		size = 275
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 3500
+	}
+	
+	serfs = {
+		culture = georgian
+		religion = orthodox
+		size = 20675
+	}
+	
+	farmers = {
+		culture = georgian
+		religion = orthodox
+		size = 3000
+	}
+}

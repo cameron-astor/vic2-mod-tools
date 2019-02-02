@@ -1,0 +1,50 @@
+
+2232 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 10
+	}
+
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 10
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 130
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 50
+	}
+
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 150
+	}
+
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 50
+	}
+
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 4250
+	}
+}

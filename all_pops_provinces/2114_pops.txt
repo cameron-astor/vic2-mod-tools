@@ -1,0 +1,76 @@
+
+2114 = {
+	aristocrats = {
+		culture = zulu
+		religion = animist
+		size = 250
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = zulu
+		religion = animist
+		size = 700
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = zulu
+		religion = animist
+		size = 12750
+	}
+
+	aristocrats = {
+		culture = nguni
+		religion = animist
+		size = 500
+	}
+
+	bureaucrats = {
+		culture = nguni
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = nguni
+		religion = animist
+		size = 250
+	}
+
+	artisans = {
+		culture = nguni
+		religion = animist
+		size = 1300
+	}
+
+	soldiers = {
+		culture = nguni
+		religion = animist
+		size = 1000
+	}
+
+	farmers = {
+		culture = nguni
+		religion = animist
+		size = 22950
+	}
+	
+	slaves = {
+		culture = nguni
+		religion = animist
+		size = 2450
+	}
+
+}
+

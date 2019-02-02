@@ -1,0 +1,38 @@
+
+2644 = {
+	farmers = {
+		culture = siberian
+		religion = animist
+		size = 200
+	}
+
+	aristocrats = {
+		culture = yakut
+		religion = animist
+		size = 15
+	}
+
+	clergymen = {
+		culture = yakut
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = yakut
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = yakut
+		religion = animist
+		size = 10
+	}
+
+	farmers = {
+		culture = yakut
+		religion = animist
+		size = 2000
+	}
+}

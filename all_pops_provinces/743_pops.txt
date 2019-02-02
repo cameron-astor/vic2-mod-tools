@@ -1,0 +1,32 @@
+
+743 = {
+	aristocrats = {
+		culture = north_italian
+		religion = catholic
+		size = 1300
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = catholic
+		size = 625
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 5000
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = catholic
+		size = 650
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 54425
+	}
+}

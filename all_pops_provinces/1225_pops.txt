@@ -1,0 +1,86 @@
+
+1225 = {
+	aristocrats = {
+		culture = pashtun
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = pashtun
+		religion = sunni
+		size = 50
+	}
+
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 4600
+	}
+
+	aristocrats = {
+		culture = kashmiri
+		religion = sunni
+		size = 450
+	}
+
+	clergymen = {
+		culture = kashmiri
+		religion = sunni
+		size = 425
+	}
+
+	artisans = {
+		culture = kashmiri
+		religion = sunni
+		size = 2000
+	}
+
+	soldiers = {
+		culture = kashmiri
+		religion = sunni
+		size = 400
+	}
+
+	farmers = {
+		culture = kashmiri
+		religion = sunni
+		size = 36725
+	}
+
+	aristocrats = {
+		culture = tibetan
+		religion = mahayana
+		size = 200
+	}
+
+	clergymen = {
+		culture = tibetan
+		religion = mahayana
+		size = 225
+	}
+
+	artisans = {
+		culture = tibetan
+		religion = mahayana
+		size = 800
+	}
+
+	soldiers = {
+		culture = tibetan
+		religion = mahayana
+		size = 200
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = mahayana
+		size = 19575
+	}
+}

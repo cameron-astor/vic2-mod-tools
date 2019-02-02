@@ -1,0 +1,92 @@
+
+1968 = {
+	aristocrats = {
+		culture = ubangian
+		religion = animist
+		size = 75
+	}
+
+	clergymen = {
+		culture = ubangian
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = ubangian
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = ubangian
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = ubangian
+		religion = animist
+		size = 9125
+	}
+
+	aristocrats = {
+		culture = baguirmi
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = baguirmi
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = baguirmi
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = baguirmi
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = baguirmi
+		religion = sunni
+		size = 900
+	}
+
+	aristocrats = {
+		culture = sara
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = sara
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = sara
+		religion = animist
+		size = 150
+	}
+
+	soldiers = {
+		culture = sara
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = sara
+		religion = animist
+		size = 2700
+	}
+}

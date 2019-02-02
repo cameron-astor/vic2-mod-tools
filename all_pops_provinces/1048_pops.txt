@@ -1,0 +1,62 @@
+
+1048 = {
+	aristocrats = {
+		culture = ukrainian
+		religion = orthodox
+		size = 400
+	}
+
+	clergymen = {
+		culture = ukrainian
+		religion = orthodox
+		size = 300
+	}
+
+	artisans = {
+		culture = ukrainian
+		religion = orthodox
+		size = 1400
+	}
+
+	soldiers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 325
+	}
+
+	farmers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 30625
+	}
+	
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 20000
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 25
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 350
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 25
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 600
+	}
+}

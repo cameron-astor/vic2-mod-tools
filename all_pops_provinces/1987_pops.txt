@@ -1,0 +1,92 @@
+
+1987 = {
+	aristocrats = {
+		culture = lunda
+		religion = animist
+		size = 7150
+	}
+
+	bureaucrats = {
+		culture = lunda
+		religion = animist
+		size = 75
+	}
+
+	officers = {
+		culture = lunda
+		religion = animist
+		size = 290
+	}
+
+	clergymen = {
+		culture = lunda
+		religion = animist
+		size = 3575
+	}
+
+	artisans = {
+		culture = lunda
+		religion = animist
+		size = 10000
+	}
+	
+	artisans = {
+		culture = lunda
+		religion = animist
+		size = 4390
+	}
+
+	soldiers = {
+		culture = lunda
+		religion = animist
+		size = 3000
+	}
+
+	soldiers = {
+		culture = lunda
+		religion = animist
+		size = 1030
+	}
+
+	farmers = {
+		culture = lunda
+		religion = animist
+		size = 307180
+	}
+
+	aristocrats = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 920
+	}
+
+	clergymen = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 460
+	}
+
+	artisans = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 2380
+	}
+
+	soldiers = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 1375
+	}
+
+	farmers = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 83450
+	}
+
+	slaves = {
+		culture = chokwe
+		religion = animist
+		size = 33000
+	}
+}

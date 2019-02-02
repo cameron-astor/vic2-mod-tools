@@ -1,0 +1,152 @@
+
+549 = {
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 1750 
+	}
+
+	bureaucrats = {
+		culture = north_german
+		religion = protestant
+		size = 2700
+	}
+
+	officers = {
+		culture = north_german
+		religion = protestant
+		size = 1200 
+	}
+
+	capitalists = {
+		culture = north_german
+		religion = protestant
+		size = 75
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 1550 
+	}
+
+	clerks = {
+		culture = north_german
+		religion = protestant
+		size = 600
+	}
+
+	craftsmen = {
+		culture = north_german
+		religion = protestant
+		size = 16525
+	}
+	
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 40000
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 5400
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 5000 
+	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 106300
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = catholic
+		size = 50     
+	}
+
+	craftsmen = {
+		culture = north_german
+		religion = catholic
+		size = 150 
+	}
+
+	artisans = {
+		culture = north_german
+		religion = catholic
+		size = 1350
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = catholic
+		size = 50      
+	}
+
+	farmers = {
+		culture = north_german
+		religion = catholic
+		size = 3400      
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 30     
+	}
+
+	clerks = {
+		culture = ashkenazi
+		religion = jewish
+		size = 50 
+	}
+
+	craftsmen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 500 
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1420
+	}
+
+	clergymen = {
+		culture = polish
+		religion = catholic
+		size = 50    
+	}
+
+	craftsmen = {
+		culture = polish
+		religion = catholic
+		size = 150
+	}
+
+	artisans = {
+		culture = polish
+		religion = catholic
+		size = 1850
+	}
+
+	soldiers = {
+		culture = polish
+		religion = catholic
+		size = 50     
+	}
+
+	farmers = {
+		culture = polish
+		religion = catholic
+		size = 2900   
+	}
+}

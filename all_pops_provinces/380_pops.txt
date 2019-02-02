@@ -1,0 +1,28 @@
+
+380 = {
+	aristocrats = {
+		culture = dutch
+		religion = catholic
+		size = 470
+	}
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 376
+	}
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 3525
+	}
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size = 1034
+	}
+	labourers = {
+		culture = dutch
+		religion = catholic
+		size = 32947
+	}
+}

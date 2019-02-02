@@ -1,0 +1,48 @@
+
+376 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 705
+	}
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 587
+	}
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 18800
+	}
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 5170
+	}
+	soldiers = {
+		culture = dutch
+		religion = catholic
+		size = 2115
+	}
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 75200
+	}
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 26437
+	}
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 3290
+	}
+	artisans = {
+		culture = flemish
+		religion = catholic
+		size = 1034
+	}
+}

@@ -1,0 +1,68 @@
+
+2012 = {
+	aristocrats = {
+		culture = lunda
+		religion = animist
+		size = 75
+	}
+
+	clergymen = {
+		culture = lunda
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = lunda
+		religion = animist
+		size = 200
+	}
+
+	soldiers = {
+		culture = lunda
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = lunda
+		religion = animist
+		size = 1575
+	}
+
+	aristocrats = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 1800
+	}
+
+	slaves = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 3000
+	}
+}

@@ -1,0 +1,26 @@
+
+144 = {
+	clergymen = {
+		culture = dixie
+		religion = protestant
+		size = 75
+	}
+
+	artisans = {
+		culture = dixie
+		religion = protestant
+		size = 200
+	}
+
+	soldiers = {
+		culture = dixie
+		religion = protestant
+		size = 250
+	}
+
+	farmers = {
+		culture = dixie
+		religion = protestant
+		size = 3275
+	}
+}

@@ -1,0 +1,80 @@
+
+364 = {
+	aristocrats = {
+		culture = lithuanian
+		religion = catholic
+		size = 900
+	}
+
+	clergymen = {
+		culture = lithuanian
+		religion = catholic
+		size = 400
+	}
+
+	artisans = {
+		culture = lithuanian
+		religion = catholic
+		size = 1250
+	}
+
+	soldiers = {
+		culture = lithuanian
+		religion = catholic
+		size = 2200
+	}
+
+	farmers = {
+		culture = lithuanian
+		religion = catholic
+		size = 38250
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 125
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1400
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 5400
+	}
+	
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+}

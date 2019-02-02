@@ -1,0 +1,56 @@
+
+68 = {
+	bureaucrats = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 75
+	}
+
+	clergymen = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 275
+	}
+
+	artisans = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 750
+	}
+
+	soldiers = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 150
+	}
+
+	farmers = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 17000
+	}
+
+	clergymen = {
+		culture = french_canadian
+		religion = catholic
+		size = 150
+	}
+
+	artisans = {
+		culture = french_canadian
+		religion = catholic
+		size = 350
+	}
+
+	soldiers = {
+		culture = french_canadian
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = french_canadian
+		religion = catholic
+		size = 10650
+	}
+}

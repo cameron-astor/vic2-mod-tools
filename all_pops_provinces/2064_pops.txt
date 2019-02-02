@@ -1,0 +1,80 @@
+
+2064 = {
+	aristocrats = {
+		culture = yao
+		religion = sunni
+		size = 250
+	}
+
+	clergymen = {
+		culture = yao
+		religion = sunni
+		size = 250
+	}
+
+	artisans = {
+		culture = yao
+		religion = sunni
+		size = 1250
+	}
+
+	soldiers = {
+		culture = yao
+		religion = sunni
+		size = 300
+	}
+
+	farmers = {
+		culture = yao
+		religion = sunni
+		size = 21950
+	}
+
+	slaves = {
+		culture = yao
+		religion = animist
+		size = 1100
+	}
+
+	aristocrats = {
+		culture = makua
+		religion = animist
+		size = 200
+	}
+
+	clergymen = {
+		culture = makua
+		religion = animist
+		size = 200
+	}
+
+	artisans = {
+		culture = makua
+		religion = animist
+		size = 900
+	}
+
+	soldiers = {
+		culture = makua
+		religion = animist
+		size = 200
+	}
+
+	farmers = {
+		culture = makua
+		religion = animist
+		size = 40500
+	}
+
+	slaves = {
+		culture = makua
+		religion = animist
+		size = 1000
+	}
+
+	slaves = {
+		culture = yao
+		religion = animist
+		size = 3000
+	}
+}

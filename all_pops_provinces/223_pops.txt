@@ -1,0 +1,158 @@
+
+223 = {
+	bureaucrats = {
+		culture = yankee
+		religion = protestant
+		size = 1800
+	}
+
+	officers = {
+		culture = yankee
+		religion = protestant
+		size = 300
+	}
+
+	capitalists = {
+		culture = yankee
+		religion = protestant
+		size = 25
+	}
+
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 550
+	}
+
+	clerks = {
+		culture = yankee
+		religion = protestant
+		size = 60
+	}
+
+	craftsmen = {
+		culture = yankee
+		religion = protestant
+		size = 1200
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 10000
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 740
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 2000
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 66950
+	}
+
+	bureaucrats = {
+		culture = yankee
+		religion = catholic
+		size = 75
+	}
+
+	officers = {
+		culture = yankee
+		religion = catholic
+		size = 75
+	}
+
+	clergymen = {
+		culture = yankee
+		religion = catholic
+		size = 125
+	}
+
+	clerks = {
+		culture = yankee
+		religion = catholic
+		size = 5
+	}
+
+	craftsmen = {
+		culture = yankee
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = yankee
+		religion = catholic
+		size = 2045
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = catholic
+		size = 175
+	}
+
+	farmers = {
+		culture = yankee
+		religion = catholic
+		size = 15400
+	}
+
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 5000
+	}
+
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 2950
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 50
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 2000
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 5950
+	}
+
+	clergymen = {
+		culture = yankee
+		religion = jewish
+		size = 10
+	}
+
+	artisans = {
+		culture = yankee
+		religion = jewish
+		size = 490
+	}
+}

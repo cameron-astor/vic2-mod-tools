@@ -1,0 +1,69 @@
+
+2577 = {
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 520
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 250
+	}
+	
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 3170
+	}
+
+	serfs = {
+		culture = serb
+		religion = orthodox
+		size = 5175
+	}
+
+	aristocrats = {
+		culture = bosniak
+		religion = sunni
+		size = 250
+	}
+
+	clergymen = {
+		culture = bosniak
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = bosniak
+		religion = sunni
+		size = 300
+	}
+
+	soldiers = {
+		culture = bosniak
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = bosniak
+		religion = sunni
+		size = 3000
+	}
+
+	farmers = {
+		culture = gypsy
+		religion = sunni
+		size = 200
+	}
+}

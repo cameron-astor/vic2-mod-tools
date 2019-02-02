@@ -1,0 +1,164 @@
+
+1502 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1825
+	}
+
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1350
+	}
+
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2150
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 925
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 4600
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 925
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 79850
+	}
+
+	aristocrats = {
+		culture = zhuang
+		religion = animist
+		size = 7850
+	}
+
+	clergymen = {
+		culture = zhuang
+		religion = animist
+		size = 3950
+	}
+
+	artisans = {
+		culture = zhuang
+		religion = animist
+		size = 11000
+	}
+	
+	artisans = {
+		culture = zhuang
+		religion = animist
+		size = 9700
+	}
+
+	soldiers = {
+		culture = zhuang
+		religion = animist
+		size = 2950
+	}
+
+	slaves = {
+		culture = zhuang
+		religion = animist
+		size = 258550
+	}
+	
+	farmers = {
+		culture = zhuang
+		religion = animist
+		size = 100000
+	}
+
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 2450
+	}
+
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 1250
+	}
+
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 3250
+	}
+
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 1250
+	}
+
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 112800
+	}
+
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 200
+	}
+
+	clergymen = {
+		culture = miao
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = miao
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = miao
+		religion = animist
+		size = 9100
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 150
+	}
+
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 75
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 150
+	}
+}

@@ -1,0 +1,86 @@
+
+1365 = {
+	aristocrats = {
+		culture = thai
+		religion = theravada
+		size = 75
+	}
+
+	clergymen = {
+		culture = thai
+		religion = theravada
+		size = 50
+	}
+
+	artisans = {
+		culture = thai
+		religion = theravada
+		size = 225
+	}
+
+	soldiers = {
+		culture = thai
+		religion = theravada
+		size = 50
+	}
+
+	farmers = {
+		culture = thai
+		religion = theravada
+		size = 4600
+	}
+
+	aristocrats = {
+		culture = khmer
+		religion = theravada
+		size = 150
+	}
+
+	clergymen = {
+		culture = khmer
+		religion = theravada
+		size = 100
+	}
+
+	artisans = {
+		culture = khmer
+		religion = theravada
+		size = 500
+	}
+
+	soldiers = {
+		culture = khmer
+		religion = theravada
+		size = 100
+	}
+
+	farmers = {
+		culture = khmer
+		religion = theravada
+		size = 9150
+	}
+
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 50
+	}
+
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 750
+	}
+
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 50
+	}
+
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 2150
+	}
+}

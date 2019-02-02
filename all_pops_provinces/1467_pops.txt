@@ -1,0 +1,62 @@
+
+1467 = {
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 825
+	}
+
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 425
+	}
+
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 2050
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 425
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 37275
+	}
+
+	aristocrats = {
+		culture = yakut
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = yakut
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = yakut
+		religion = animist
+		size = 125
+	}
+
+	soldiers = {
+		culture = yakut
+		religion = animist
+		size = 25
+	}
+
+	slaves = {
+		culture = yakut
+		religion = animist
+		size = 3000
+	}
+}

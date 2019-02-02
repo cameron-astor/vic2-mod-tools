@@ -1,0 +1,57 @@
+
+2621 = {
+	aristocrats = {
+		culture = siberian
+		religion = animist
+		size = 4
+	}
+
+	clergymen = {
+		culture = siberian
+		religion = animist
+		size = 8
+	}
+
+	artisans = {
+		culture = siberian
+		religion = animist
+		size = 14
+	}
+
+	soldiers = {
+		culture = siberian
+		religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = siberian
+		religion = animist
+		size = 340
+	}
+
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 2
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 3
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 20
+	}
+
+	farmers = {
+		culture = yakut
+		religion = animist
+		size = 110
+	}
+}
+

@@ -1,0 +1,74 @@
+
+2204 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 225
+	}
+
+	bureaucrats = {
+		culture = central_american
+		religion = catholic
+		size = 25
+	}
+
+	officers = {
+		culture = central_american
+		religion = catholic
+		size = 50
+	}
+
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 450
+	}
+
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 8050
+	}
+
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 75
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 200
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2675
+	}
+
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1100
+	}
+}

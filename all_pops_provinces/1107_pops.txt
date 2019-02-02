@@ -1,0 +1,34 @@
+
+1107 = {
+	aristocrats = {
+		culture = azerbaijani
+		religion = shiite
+		size = 225
+	}
+
+	clergymen = {
+		culture = azerbaijani
+		religion = shiite
+		size = 125
+	}
+
+	artisans = {
+		culture = azerbaijani
+		religion = shiite
+		size = 700
+	}
+
+	soldiers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 150
+	}
+
+	farmers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 12800
+	}
+
+}
+

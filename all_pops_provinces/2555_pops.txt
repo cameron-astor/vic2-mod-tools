@@ -1,0 +1,56 @@
+
+2555 = {
+	aristocrats = {
+		culture = dixie
+		religion = protestant
+		size = 500
+	}
+
+	clergymen = {
+		culture = dixie
+		religion = protestant
+		size = 125
+	}
+
+	artisans = {
+		culture = dixie
+		religion = protestant
+		size = 725
+	}
+
+	soldiers = {
+		culture = dixie
+		religion = protestant
+		size = 1350
+	}
+
+	farmers = {
+		culture = dixie
+		religion = protestant
+		size = 15300
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 15
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 325
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 10
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 13650
+	}
+}

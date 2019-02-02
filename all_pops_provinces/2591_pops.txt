@@ -1,0 +1,51 @@
+
+2591 = {
+	aristocrats = {
+		culture = tamil
+		religion = hindu
+		size = 20
+	}
+
+	clergymen = {
+		culture = tamil
+		religion = hindu
+		size = 50
+	}
+
+	artisans = {
+		culture = tamil
+		religion = hindu
+		size = 455
+	}
+
+	soldiers = {
+		culture = tamil
+		religion = hindu
+		size = 100
+	}
+
+	farmers = {
+		culture = tamil
+		religion = hindu
+		size = 8000
+	}
+
+	farmers = {
+		culture = tamil
+		religion = sunni
+		size = 445
+	}
+	
+	clergymen = {
+		culture = danish
+		religion = protestant
+		size = 10
+	}
+	
+	farmers = {
+		culture = tamil
+		religion = protestant
+		size = 90
+	}
+}
+

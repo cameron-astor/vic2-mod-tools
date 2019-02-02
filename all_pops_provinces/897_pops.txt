@@ -1,0 +1,184 @@
+
+897 = {
+
+	aristocrats = {
+		culture = kurdish
+		religion = sunni
+		size = 200
+	}
+
+	officers = {
+		culture = kurdish
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = kurdish
+		religion = sunni
+		size = 125
+	}
+
+	artisans = {
+		culture = kurdish
+		religion = sunni
+		size = 1400
+	}
+
+	soldiers = {
+		culture = kurdish
+		religion = sunni
+		size = 350
+	}
+
+	farmers = {
+		culture = kurdish
+		religion = sunni
+		size = 10000
+	}
+	
+	
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 300
+	}
+
+	officers = {
+		culture = turkish
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 700
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 800
+	}
+
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 2575
+	}
+
+	aristocrats = {
+		culture = mashriqi
+		religion = sunni
+		size = 550
+	}
+
+	bureaucrats = {
+		culture = mashriqi
+		religion = sunni
+		size = 350
+	}
+
+	officers = {
+		culture = mashriqi
+		religion = sunni
+		size = 125
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = sunni
+		size = 300
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 3400
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = sunni
+		size = 550
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 31000
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = orthodox
+		size = 75
+	}
+
+	artisans = {
+		culture = armenian
+		religion = orthodox
+		size = 750
+	}
+
+	farmers = {
+		culture = armenian
+		religion = orthodox
+		size = 3300
+	}
+	
+	clergymen = {
+		culture = assyrian
+		religion = catholic
+		size = 200
+	}
+
+	artisans = {
+		culture = assyrian
+		religion = catholic
+		size = 1600
+	}
+
+	farmers = {
+		culture = assyrian
+		religion = catholic
+		size = 15000
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 100
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 3300
+	}
+	
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 700
+	}
+	
+	aristocrats = {
+		culture = mashriqi
+		religion = druze
+		size = 50
+	}
+	
+	farmers = {
+		culture = mashriqi
+		religion = druze
+		size = 2000
+	}
+}

@@ -1,0 +1,122 @@
+
+944 = {
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 2000
+	}
+	
+	officers = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+	
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 500
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+	
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 1000
+	}
+
+	serfs = {
+		culture = russian
+		religion = orthodox
+		size = 3450
+	}
+	
+	aristocrats = {
+		culture = byelorussian
+		religion = orthodox
+		size = 100
+	}
+	
+	bureaucrats = {
+		culture = byelorussian
+		religion = orthodox
+		size = 100
+	}
+	
+	officers = {
+		culture = byelorussian
+		religion = orthodox
+		size = 100
+	}
+
+	clergymen = {
+		culture = byelorussian
+		religion = orthodox
+		size = 800
+	}
+
+	artisans = {
+		culture = byelorussian
+		religion = orthodox
+		size = 3150
+	}
+
+	soldiers = {
+		culture = byelorussian
+		religion = orthodox
+		size = 4000
+	}
+
+	farmers = {
+		culture = byelorussian
+		religion = orthodox
+		size = 75700
+	}
+	
+	aristocrats = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+	
+	officers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1250
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 5625
+	}
+}

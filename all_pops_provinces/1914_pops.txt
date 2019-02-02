@@ -1,0 +1,68 @@
+
+1914 = {
+	aristocrats = {
+		culture = ewe
+		religion = animist
+		size = 775
+	}
+
+	clergymen = {
+		culture = ewe
+		religion = animist
+		size = 400
+	}
+
+	artisans = {
+		culture = ewe
+		religion = animist
+		size = 1575
+	}
+
+	soldiers = {
+		culture = ewe
+		religion = animist
+		size = 400
+	}
+
+	farmers = {
+		culture = ewe
+		religion = animist
+		size = 30850
+	}
+
+	aristocrats = {
+		culture = east_kwa
+		religion = animist
+		size = 275
+	}
+
+	clergymen = {
+		culture = east_kwa
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = east_kwa
+		religion = animist
+		size = 600
+	}
+
+	soldiers = {
+		culture = east_kwa
+		religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = east_kwa
+		religion = animist
+		size = 11825
+	}
+
+	slaves = {
+		culture = east_kwa
+		religion = animist
+		size = 7000
+	}
+}

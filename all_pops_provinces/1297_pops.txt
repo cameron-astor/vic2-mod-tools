@@ -1,0 +1,188 @@
+
+1297 = {
+	aristocrats = {
+		culture = marathi
+		religion = hindu
+		size = 26000
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = hindu
+		size = 5500
+	}
+
+	bureaucrats = {
+		culture = marathi
+		religion = hindu
+		size = 1500
+	}
+
+	artisans = {
+		culture = marathi
+		religion = hindu
+		size = 10000
+	}
+	
+	artisans = {
+		culture = marathi
+		religion = hindu
+		size = 10000
+	}
+	
+	artisans = {
+		culture = marathi
+		religion = hindu
+		size = 2000
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = hindu
+		size = 3000
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = hindu
+		size = 2000
+	}
+
+	farmers = {
+		culture = marathi
+		religion = hindu
+		size = 400000
+	}
+
+	artisans = {
+		culture = sindi
+		religion = jewish
+		size = 1100
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = marathi
+		religion = catholic
+		size = 1950
+	}
+
+	farmers = {
+		culture = marathi
+		religion = catholic
+		size = 2000
+	}
+
+	clergymen = {
+		culture = gujarati
+		religion = animist
+		size = 625
+	}
+
+	artisans = {
+		culture = gujarati
+		religion = animist
+		size = 8000
+	}
+
+	farmers = {
+		culture = gujarati
+		religion = animist
+		size = 38125
+	}
+
+	aristocrats = {
+		culture = sindi
+		religion = sunni
+		size = 500
+	}
+
+	clergymen = {
+		culture = sindi
+		religion = sunni
+		size = 1250
+	}
+
+	bureaucrats = {
+		culture = sindi
+		religion = sunni
+		size = 500
+	}
+
+	artisans = {
+		culture = sindi
+		religion = sunni
+		size = 10000
+	}
+	
+	artisans = {
+		culture = sindi
+		religion = sunni
+		size = 10000
+	}
+
+	soldiers = {
+		culture = sindi
+		religion = sunni
+		size = 1500
+	}
+
+	farmers = {
+		culture = sindi
+		religion = sunni
+		size = 97250
+	}
+
+	clergymen = {
+		culture = sindi
+		religion = shiite
+		size = 50
+	}
+
+	artisans = {
+		culture = sindi
+		religion = shiite
+		size = 3875
+	}
+
+	farmers = {
+		culture = sindi
+		religion = shiite
+		size = 2075
+	}
+
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 1125
+	}
+
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 250
+	}
+
+	officers = {
+		culture = british
+		religion = protestant
+		size = 500
+	}
+
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 125
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 3000
+	}
+}

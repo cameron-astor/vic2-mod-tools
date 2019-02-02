@@ -1,0 +1,32 @@
+
+1341 = {
+	aristocrats = {
+		culture = kachin
+		religion = animist
+		size = 550
+	}
+
+	clergymen = {
+		culture = kachin
+		religion = animist
+		size = 550
+	}
+
+	artisans = {
+		culture = kachin
+		religion = animist
+		size = 2500
+	}
+
+	soldiers = {
+		culture = kachin
+		religion = animist
+		size = 550
+	}
+
+	farmers = {
+		culture = kachin
+		religion = animist
+		size = 49850
+	}
+}

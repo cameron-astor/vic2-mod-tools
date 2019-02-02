@@ -1,0 +1,50 @@
+
+1501 = {
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 8800
+	}
+
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 4450
+	}
+
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 2150
+	}
+
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 2450
+	}
+
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 203150
+	}
+	
+	slaves = {
+		culture = yue
+		religion = mahayana
+		size = 200000
+	}
+}

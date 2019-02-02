@@ -1,0 +1,64 @@
+
+2347 = {
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 150
+	}
+
+	bureaucrats = {
+		culture = platinean
+		religion = catholic
+		size = 10
+	}
+
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 350
+	}
+
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 400
+	}
+
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 5450
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = catholic
+		size = 150
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 2775
+	}
+
+}
+

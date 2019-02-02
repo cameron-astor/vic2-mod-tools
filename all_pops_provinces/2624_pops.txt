@@ -1,0 +1,44 @@
+
+2624 = {
+	aristocrats = {
+		culture = bakongo
+		religion = animist
+		size = 1500
+	}
+	
+	bureaucrats = {
+		culture = bakongo
+		religion = animist
+		size = 400
+	}
+
+	clergymen = {
+		culture = bakongo
+		religion = animist
+		size = 750
+	}
+
+	artisans = {
+		culture = bakongo
+		religion = animist
+		size = 3250
+	}
+
+	soldiers = {
+		culture = bakongo
+		religion = animist
+		size = 1000
+	}
+
+	farmers = {
+		culture = bakongo
+		religion = animist
+		size = 53500
+	}
+
+	slaves = {
+		culture = bakongo
+		religion = animist
+		size = 20000
+	}
+}

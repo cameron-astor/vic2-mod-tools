@@ -1,0 +1,30 @@
+
+2557 = {
+	artisans = {
+		culture = danish
+		religion = protestant
+		size = 1100
+	}
+	clergymen = {
+		culture = danish
+		religion = protestant
+		size = 125
+	}
+	soldiers = {
+		culture = danish
+		religion = protestant
+		size = 1100
+	}
+	aristocrats = {
+		culture = danish
+		religion = protestant
+		size = 250
+	}
+	farmers = {
+		culture = danish
+		religion = protestant
+		size = 23550
+	}
+}
+	
+	

@@ -1,0 +1,26 @@
+
+2699 = {
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 5
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 145
+	}
+
+	clergymen = {
+		culture = ugrian
+		religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = ugrian
+		religion = animist
+		size = 345
+	}
+}

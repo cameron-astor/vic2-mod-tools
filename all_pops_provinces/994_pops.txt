@@ -1,0 +1,152 @@
+
+994 = {
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 6650
+	}
+
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 1750
+	}
+
+	officers = {
+		culture = russian
+		religion = orthodox
+		size = 200
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 1200
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 10000
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 10000
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 10000
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 10000
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 10000
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 10000
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 14000
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 8750
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 16000
+	}
+
+	serfs = {
+		culture = russian
+		religion = orthodox
+		size = 16700
+	}
+	
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 50700
+	}
+
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 150
+	}
+
+	bureaucrats = {
+		culture = north_german
+		religion = protestant
+		size = 700
+	}
+
+	officers = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 6850
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = finnish
+		religion = protestant
+		size = 100
+	}
+
+	artisans = {
+		culture = finnish
+		religion = protestant
+		size = 8000
+	}
+
+	farmers = {
+		culture = finnish
+		religion = protestant
+		size = 14000
+	}
+	
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 750
+	}
+}

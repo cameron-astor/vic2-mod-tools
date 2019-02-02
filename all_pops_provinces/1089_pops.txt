@@ -1,0 +1,34 @@
+
+1089 = {
+	aristocrats = {
+		culture = ainu
+		religion = animist
+		size = 2
+	}
+
+	clergymen = {
+		culture = ainu
+		religion = animist
+		size = 3
+	}
+
+	artisans = {
+		culture = ainu
+		religion = animist
+		size = 10
+	}
+
+	soldiers = {
+		culture = ainu
+		religion = animist
+		size = 10
+	}
+
+	farmers = {
+		culture = ainu
+		religion = animist
+		size = 475
+	}
+
+}
+

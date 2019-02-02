@@ -1,0 +1,152 @@
+
+641 = {
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 2750 
+	}
+
+	bureaucrats = {
+		culture = hungarian
+		religion = catholic
+		size = 600 
+	}
+	
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 600 
+	}
+
+	officers = {
+		culture = hungarian
+		religion = catholic
+		size = 325 
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 825
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 9000
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 2100
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 60500
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = protestant
+		size = 500 
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = protestant
+		size = 450  
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = protestant
+		size = 7500  
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = protestant
+		size = 2500
+	}
+
+	serfs = {
+		culture = hungarian
+		religion = protestant
+		size = 35050    
+	}
+
+	serfs = {
+		culture = gypsy
+		religion = protestant
+		size = 3000    
+	}
+	
+	clergymen = {
+		culture = hungarian
+		religion = jewish
+		size = 50 
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = jewish
+		size = 5000 
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = jewish
+		size = 75
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = jewish
+		size = 875    
+	}
+
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 800  
+	}
+
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 500  
+	}
+
+	officers = {
+		culture = south_german
+		religion = catholic
+		size = 175  
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 250
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 7500 
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 1275
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 15500
+	}
+}

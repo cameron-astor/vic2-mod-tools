@@ -1,0 +1,32 @@
+
+1411 = {
+	aristocrats = {
+		culture = asian_minor
+		religion = animist
+		size = 300
+	}
+
+	clergymen = {
+		culture = asian_minor
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = asian_minor
+		religion = animist
+		size = 700
+	}
+
+	soldiers = {
+		culture = asian_minor
+		religion = animist
+		size = 200
+	}
+
+	farmers = {
+		culture = asian_minor
+		religion = animist
+		size = 15650
+	}
+}

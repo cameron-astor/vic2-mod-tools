@@ -1,0 +1,58 @@
+
+2216 = {
+	aristocrats = {
+		culture = caribeno
+		religion = catholic
+		size = 550
+	}
+	
+	clergymen = {
+		culture = caribeno
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = caribeno
+		religion = catholic
+		size = 400
+	}
+
+	soldiers = {
+		culture = caribeno
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = caribeno
+		religion = catholic
+		size = 30175
+	}
+
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 300
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 75
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 19575
+	}
+
+}
+

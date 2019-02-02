@@ -1,0 +1,44 @@
+
+1907 = {
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 650
+	}
+
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 325
+	}
+
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 1325
+	}
+
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 3000
+	}
+
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 1350
+	}
+
+	farmers = {
+		culture = akan
+		religion = animist
+		size = 20350
+	}
+
+	slaves = {
+		culture = akan
+		religion = animist
+		size = 6000
+	}
+}

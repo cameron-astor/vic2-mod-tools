@@ -1,0 +1,104 @@
+
+2043 = {
+	aristocrats = {
+		culture = unyamwezi
+		religion = animist
+		size = 1075
+	}
+
+	clergymen = {
+		culture = unyamwezi
+		religion = animist
+		size = 550
+	}
+
+	artisans = {
+		culture = unyamwezi
+		religion = animist
+		size = 2200
+	}
+
+	soldiers = {
+		culture = unyamwezi
+		religion = animist
+		size = 550
+	}
+
+	farmers = {
+		culture = unyamwezi
+		religion = animist
+		size = 37625
+	}
+
+	aristocrats = {
+		culture = kilombero
+		religion = animist
+		size = 150
+	}
+
+	clergymen = {
+		culture = kilombero
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = kilombero
+		religion = animist
+		size = 350
+	}
+
+	soldiers = {
+		culture = kilombero
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = kilombero
+		religion = animist
+		size = 6325
+	}
+
+	slaves = {
+		culture = kilombero
+		religion = animist
+		size = 7000
+	}
+
+	aristocrats = {
+		culture = sukuma
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = sukuma
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = sukuma
+		religion = animist
+		size = 150
+	}
+
+	soldiers = {
+		culture = sukuma
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = sukuma
+		religion = animist
+		size = 2700
+	}
+
+	slaves = {
+		culture = sukuma
+		religion = animist
+		size = 6000
+	}
+}

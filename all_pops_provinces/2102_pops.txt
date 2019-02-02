@@ -1,0 +1,92 @@
+
+2102 = {
+	artisans = {
+		culture = boer
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = boer
+		religion = protestant
+		size = 100
+	}
+
+	soldiers = {
+		culture = boer
+		religion = protestant
+		size = 1000
+	}
+	
+	farmers = {
+		culture = boer
+		religion = protestant
+		size = 800
+	}
+
+	aristocrats = {
+		culture = sotho
+		religion = animist
+		size = 350
+	}
+
+	clergymen = {
+		culture = sotho
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = sotho
+		religion = animist
+		size = 1100
+	}
+
+	soldiers = {
+		culture = sotho
+		religion = animist
+		size = 200
+	}
+
+	slaves = {
+		culture = nguni
+		religion = animist
+		size = 1750
+	}
+	
+	farmers = {
+		culture = sotho
+		religion = animist
+		size = 18225
+	}
+
+	aristocrats = {
+		culture = nguni
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = nguni
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = nguni
+		religion = animist
+		size = 250
+	}
+
+	soldiers = {
+		culture = nguni
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = nguni
+		religion = animist
+		size = 4575
+	}
+}

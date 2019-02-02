@@ -1,0 +1,110 @@
+
+699 = {
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 2000 
+	}
+ 
+	bureaucrats = {
+		culture = north_german
+		religion = protestant
+		size = 700 
+	}
+
+	officers = {
+		culture = north_german
+		religion = protestant
+		size = 350   
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 325  
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 2650
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 1000
+	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 26825
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = catholic
+		size = 175   
+	}
+
+	artisans = {
+		culture = north_german
+		religion = catholic
+		size = 1750
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = catholic
+		size = 175    
+	}
+
+	farmers = {
+		culture = north_german
+		religion = catholic
+		size = 15190  
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25   
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1475
+	}
+
+	aristocrats = {
+		culture = polish
+		religion = catholic
+		size = 500 
+	}
+
+	clergymen = {
+		culture = polish
+		religion = catholic
+		size = 700 
+	}
+
+	artisans = {
+		culture = polish
+		religion = catholic
+		size = 4000
+	}
+
+	soldiers = {
+		culture = polish
+		religion = catholic
+		size = 2000
+	}
+
+	farmers = {
+		culture = polish
+		religion = catholic
+		size = 74800
+	}
+}

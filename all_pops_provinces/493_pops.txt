@@ -1,0 +1,100 @@
+
+493 = {
+	aristocrats = {
+		culture = basque
+		religion = catholic
+		size = 700
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	officers = {
+		culture = basque
+		religion = catholic
+		size = 100
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	bureaucrats = {
+		culture = basque
+		religion = catholic
+		size = 150
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	clergymen = {
+		culture = basque
+		religion = catholic
+		size = 375
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	artisans = {
+		culture = basque
+		religion = catholic
+		size = 1750
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	soldiers = {
+		culture = basque
+		religion = catholic
+		size = 400
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	labourers = {
+		culture = basque
+		religion = catholic
+		size = 35025
+		militancy = 8
+		rebel_type = carlist_rebels
+	}
+
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 500
+	}
+
+	officers = {
+		culture = spanish
+		religion = catholic
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 200
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 225
+	}
+
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 1250
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 250
+	}
+
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 19975
+	}
+}

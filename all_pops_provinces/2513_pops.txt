@@ -1,0 +1,38 @@
+
+2513 = {
+	aristocrats = {
+		culture = maori
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = maori
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = maori
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = maori
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = australian
+		religion = protestant
+		size = 5
+	}
+	
+	farmers = {
+		culture = maori
+		religion = animist
+		size = 900
+	}
+}

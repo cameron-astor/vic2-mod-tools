@@ -1,0 +1,110 @@
+
+1833 = {
+	aristocrats = {
+		culture = sudanese
+		religion = sunni
+		size = 75
+	}
+
+	bureaucrats = {
+		culture = sudanese
+		religion = sunni
+		size = 25
+	}
+
+	officers = {
+		culture = sudanese
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = sudanese
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = sudanese
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = sudanese
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = sudanese
+		religion = sunni
+		size = 3575
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 125
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 350
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 75
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 6375
+	}
+
+	aristocrats = {
+		culture = beja
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = beja
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = beja
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = beja
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = beja
+		religion = sunni
+		size = 1800
+	}
+
+	slaves = {
+		culture = nilotic
+		religion = animist
+		size = 2000
+	}
+}

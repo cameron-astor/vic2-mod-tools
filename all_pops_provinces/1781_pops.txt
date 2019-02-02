@@ -1,0 +1,62 @@
+
+1781 = {
+	aristocrats = {
+		culture = maures
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = maures
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = maures
+		religion = sunni
+		size = 300
+	}
+
+	soldiers = {
+		culture = maures
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = maures
+		religion = sunni
+		size = 5400
+	}
+
+	aristocrats = {
+		culture = maures
+		religion = sunni
+		size = 75
+	}
+
+	clergymen = {
+		culture = maures
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = maures
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = maures
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = maures
+		religion = sunni
+		size = 3675
+	}
+}

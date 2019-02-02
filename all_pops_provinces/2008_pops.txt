@@ -1,0 +1,75 @@
+
+2008 = {
+	aristocrats = {
+		culture = ovimbundu
+		religion = animist
+		size = 30
+	}
+
+	clergymen = {
+		culture = ovimbundu
+		religion = animist
+		size = 60
+	}
+
+	artisans = {
+		culture = ovimbundu
+		religion = animist
+		size = 75
+	}
+
+	soldiers = {
+		culture = ovimbundu
+		religion = animist
+		size = 30
+	}
+
+	farmers = {
+		culture = ovimbundu
+		religion = animist
+		size = 2205
+	}
+
+	slaves = {
+		culture = ovimbundu
+		religion = animist
+		size = 600
+	}
+
+	aristocrats = {
+		culture = kavango
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = kavango
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = kavango
+		religion = animist
+		size = 300
+	}
+
+	soldiers = {
+		culture = kavango
+		religion = animist
+		size = 75
+	}
+
+	farmers = {
+		culture = kavango
+		religion = animist
+		size = 4275
+	}
+
+	slaves = {
+		culture = khoisan
+		religion = animist
+		size = 1250
+	}
+
+}

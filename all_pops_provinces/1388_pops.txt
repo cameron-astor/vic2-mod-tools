@@ -1,0 +1,44 @@
+
+1388 = {
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 50
+	}
+
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 3875
+	}
+
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 2075
+	}
+
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 750
+	}
+
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 13900
+	}
+}

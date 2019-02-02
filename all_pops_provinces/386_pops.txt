@@ -1,0 +1,34 @@
+
+386 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 141
+	}
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 94
+	}
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 1034
+	}
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size = 1034
+	}
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 15745
+	}
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 1034
+	}
+}
+

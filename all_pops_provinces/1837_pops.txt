@@ -1,0 +1,92 @@
+
+1837 = {
+	aristocrats = {
+		culture = sudanese
+		religion = sunni
+		size = 15
+	}
+
+	clergymen = {
+		culture = sudanese
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = sudanese
+		religion = sunni
+		size = 50
+	}
+
+	soldiers = {
+		culture = sudanese
+		religion = sunni
+		size = 10
+	}
+
+	farmers = {
+		culture = sudanese
+		religion = sunni
+		size = 900
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 300
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 75
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 5475
+	}
+
+	aristocrats = {
+		culture = beja
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = beja
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = beja
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = beja
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = beja
+		religion = sunni
+		size = 2700
+	}
+}

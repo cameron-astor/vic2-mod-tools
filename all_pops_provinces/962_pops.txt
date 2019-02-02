@@ -1,0 +1,92 @@
+
+962 = {
+	aristocrats = {
+		culture = ukrainian
+		religion = orthodox
+		size = 3000
+	}
+
+	clergymen = {
+		culture = ukrainian
+		religion = orthodox
+		size = 1400
+	}
+
+	artisans = {
+		culture = ukrainian
+		religion = orthodox
+		size = 6000
+	}
+
+	soldiers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 6100
+	}
+
+	farmers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 57500
+	}
+	
+	serfs = {
+		culture = ukrainian
+		religion = orthodox
+		size = 70000
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1500
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 6325
+	}
+
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 500
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 150
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 1250
+	}
+}

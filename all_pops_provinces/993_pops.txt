@@ -1,0 +1,56 @@
+
+993 = {
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 325
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 175
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 950
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 200
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 17350
+	}
+
+	clergymen = {
+		culture = ugrian
+		religion = orthodox
+		size = 75
+	}
+
+	artisans = {
+		culture = ugrian
+		religion = orthodox
+		size = 250
+	}
+
+	soldiers = {
+		culture = ugrian
+		religion = orthodox
+		size = 50
+	}
+
+	farmers = {
+		culture = ugrian
+		religion = orthodox
+		size = 4625
+	}
+}

@@ -1,0 +1,80 @@
+
+1256 = {
+	aristocrats = {
+		culture = bengali
+		religion = sunni
+		size = 1500
+	}
+
+	clergymen = {
+		culture = bengali
+		religion = sunni
+		size = 3750
+	}
+
+	artisans = {
+		culture = bengali
+		religion = sunni
+		size = 10000
+	}
+	
+	artisans = {
+		culture = bengali
+		religion = sunni
+		size = 750
+	}
+
+	soldiers = {
+		culture = bengali
+		religion = sunni
+		size = 3000
+	}
+
+	soldiers = {
+		culture = bengali
+		religion = sunni
+		size = 750
+	}
+
+	farmers = {
+		culture = bengali
+		religion = sunni
+		size = 347250
+	}
+
+	aristocrats = {
+		culture = bengali
+		religion = hindu
+		size = 2250
+	}
+
+	clergymen = {
+		culture = bengali
+		religion = hindu
+		size = 2000
+	}
+
+	artisans = {
+		culture = bengali
+		religion = hindu
+		size = 10000
+	}
+
+	artisans = {
+		culture = bengali
+		religion = hindu
+		size = 1100
+	}
+	
+	soldiers = {
+		culture = bengali
+		religion = hindu
+		size = 2250
+	}
+
+	farmers = {
+		culture = bengali
+		religion = hindu
+		size = 201500
+	}
+}

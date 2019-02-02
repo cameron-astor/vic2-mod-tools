@@ -1,0 +1,34 @@
+
+368 = {
+	aristocrats = {
+		culture = danish
+		religion = protestant
+		size = 250
+	}
+
+	clergymen = {
+		culture = danish
+		religion = protestant
+		size = 250
+	}
+
+	artisans = {
+		culture = danish
+		religion = protestant
+		size = 1100 
+	}
+
+	soldiers = {
+		culture = danish
+		religion = protestant
+		size = 1100
+	}
+
+	farmers = {
+		culture = danish
+		religion = protestant
+		size = 23400 
+	}
+
+}
+

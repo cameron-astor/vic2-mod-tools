@@ -1,0 +1,56 @@
+
+541 = {
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 125  
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 125
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 650
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 125 
+	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 11975
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = catholic
+		size = 75 
+	}
+
+	artisans = {
+		culture = north_german
+		religion = catholic
+		size = 400
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = catholic
+		size = 75   
+	}
+
+	artisans = {
+		culture = north_german
+		religion = catholic
+		size = 7450
+	}
+}

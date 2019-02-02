@@ -1,0 +1,82 @@
+
+1533 = {
+
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 325
+	}
+
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 1375
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 3000
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 90650
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 200
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 1000
+	}
+	
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1100
+	}
+	
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 70650
+	}
+
+	slaves = {
+		culture = beifaren
+		religion = mahayana
+		size = 10875
+	}
+	
+	clergymen = {
+		culture = manchu
+		religion = mahayana
+		size = 200
+	}
+
+	artisans = {
+		culture = manchu
+		religion = mahayana
+		size = 300
+	}
+	
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 1100
+	}
+	
+	farmers = {
+		culture = manchu
+		religion = mahayana
+		size = 3650
+	}
+
+}

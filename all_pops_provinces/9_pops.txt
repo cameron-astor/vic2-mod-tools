@@ -1,0 +1,45 @@
+
+9 = {
+	aristocrats = {
+		culture = cree
+		religion = animist
+		size = 15
+	}
+
+	clergymen = {
+		culture = cree
+		religion = animist
+		size = 20
+	}
+
+	artisans = {
+		culture = cree
+		religion = animist
+		size = 25
+	}
+
+	soldiers = {
+		culture = cree
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = cree
+		religion = animist
+		size = 520
+	}
+
+	soldiers = {
+		culture = inuit
+		religion = animist
+		size = 30
+	}
+
+	farmers = {
+		culture = inuit
+		religion = animist
+		size = 720
+	}
+}
+

@@ -1,0 +1,68 @@
+
+1812 = {
+	aristocrats = {
+		culture = tuareg
+		religion = sunni
+		size = 500
+	}
+
+	clergymen = {
+		culture = tuareg
+		religion = sunni
+		size = 300
+	}
+
+	artisans = {
+		culture = tuareg
+		religion = sunni
+		size = 1100
+	}
+
+	soldiers = {
+		culture = tuareg
+		religion = sunni
+		size = 1100
+	}
+
+	farmers = {
+		culture = tuareg
+		religion = sunni
+		size = 15000
+	}
+
+	aristocrats = {
+		culture = hausa
+		religion = sunni
+		size = 250
+	}
+
+	clergymen = {
+		culture = hausa
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = hausa
+		religion = sunni
+		size = 700
+	}
+
+	soldiers = {
+		culture = hausa
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = hausa
+		religion = sunni
+		size = 20750
+	}
+
+	slaves = {
+		culture = baguirmi
+		religion = animist
+		size = 2000
+	}
+}

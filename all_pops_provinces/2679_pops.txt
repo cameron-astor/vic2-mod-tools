@@ -1,0 +1,68 @@
+
+2679 = {
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 350
+	}
+
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 175
+	}
+
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 900
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 175
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 16400
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 600
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 125
+	}
+	
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 10975
+	}
+	
+	slaves = {
+		culture = kazak
+		religion = sunni
+		size = 2000
+	}
+}

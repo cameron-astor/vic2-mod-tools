@@ -1,0 +1,128 @@
+
+1810 = {
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 350
+	}
+
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 5300
+	}
+
+	aristocrats = {
+		culture = hausa
+		religion = sunni
+		size = 700
+	}
+
+	clergymen = {
+		culture = hausa
+		religion = sunni
+		size = 400
+	}
+
+	artisans = {
+		culture = hausa
+		religion = sunni
+		size = 2200
+	}
+
+	soldiers = {
+		culture = hausa
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = hausa
+		religion = sunni
+		size = 47900
+	}
+
+	aristocrats = {
+		culture = songhai
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = songhai
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = songhai
+		religion = animist
+		size = 200
+	}
+
+	soldiers = {
+		culture = songhai
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = songhai
+		religion = sunni
+		size = 3600
+	}
+
+	slaves = {
+		culture = songhai
+		religion = animist
+		size = 5800
+	}
+
+	aristocrats = {
+		culture = tuareg
+		religion = sunni
+		size = 350
+	}
+
+	clergymen = {
+		culture = tuareg
+		religion = sunni
+		size = 200
+	}
+
+	artisans = {
+		culture = tuareg
+		religion = sunni
+		size = 250
+	}
+
+	soldiers = {
+		culture = tuareg
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = tuareg
+		religion = sunni
+		size = 1000
+	}
+}

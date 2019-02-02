@@ -1,0 +1,104 @@
+
+1929 = {
+	aristocrats = {
+		culture = yoruba
+		religion = animist
+		size = 850
+	}
+
+	clergymen = {
+		culture = yoruba
+		religion = animist
+		size = 450
+	}
+
+	artisans = {
+		culture = yoruba
+		religion = animist
+		size = 2200
+	}
+
+	soldiers = {
+		culture = yoruba
+		religion = animist
+		size = 450
+	}
+
+	farmers = {
+		culture = yoruba
+		religion = animist
+		size = 34050
+	}
+
+	slaves = {
+		culture = yoruba
+		religion = animist
+		size = 6000
+	}
+
+	aristocrats = {
+		culture = edo
+		religion = animist
+		size = 200
+	}
+
+	clergymen = {
+		culture = edo
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = edo
+		religion = animist
+		size = 600
+	}
+
+	soldiers = {
+		culture = edo
+		religion = animist
+		size = 1150
+	}
+
+	farmers = {
+		culture = edo
+		religion = animist
+		size = 9950
+	}
+
+	aristocrats = {
+		culture = east_kwa
+		religion = animist
+		size = 400
+	}
+
+	clergymen = {
+		culture = east_kwa
+		religion = animist
+		size = 200
+	}
+
+	artisans = {
+		culture = east_kwa
+		religion = animist
+		size = 900
+	}
+
+	soldiers = {
+		culture = east_kwa
+		religion = animist
+		size = 250
+	}
+
+	farmers = {
+		culture = east_kwa
+		religion = animist
+		size = 14250
+	}
+
+	slaves = {
+		culture = east_kwa
+		religion = animist
+		size = 6000
+	}
+}

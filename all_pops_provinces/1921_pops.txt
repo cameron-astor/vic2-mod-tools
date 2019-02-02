@@ -1,0 +1,68 @@
+
+1921 = {
+	aristocrats = {
+		culture = gur
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = gur
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = gur
+		religion = animist
+		size = 150
+	}
+
+	soldiers = {
+		culture = gur
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = gur
+		religion = animist
+		size = 2700
+	}
+
+	slaves = {
+		culture = yoruba
+		religion = animist
+		size = 1100
+	}
+
+	aristocrats = {
+		culture = east_kwa
+		religion = sunni
+		size = 175
+	}
+
+	clergymen = {
+		culture = east_kwa
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = east_kwa
+		religion = sunni
+		size = 375
+	}
+
+	soldiers = {
+		culture = east_kwa
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = east_kwa
+		religion = sunni
+		size = 7250
+	}
+}

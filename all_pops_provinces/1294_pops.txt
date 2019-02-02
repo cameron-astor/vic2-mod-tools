@@ -1,0 +1,80 @@
+
+1294 = {
+	aristocrats = {
+		culture = gujarati
+		religion = hindu
+		size = 28500
+	}
+
+	clergymen = {
+		culture = gujarati
+		religion = hindu
+		size = 4500
+	}
+
+	artisans = {
+		culture = gujarati
+		religion = hindu
+		size = 10000
+	}
+	
+	artisans = {
+		culture = gujarati
+		religion = hindu
+		size = 2000
+	}
+
+	soldiers = {
+		culture = gujarati
+		religion = hindu
+		size = 3000
+	}
+
+	soldiers = {
+		culture = gujarati
+		religion = hindu
+		size = 1500
+	}
+
+	farmers = {
+		culture = gujarati
+		religion = hindu
+		size = 280300
+	}
+
+	aristocrats = {
+		culture = sindi
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = sindi
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = sindi
+		religion = sunni
+		size = 2000
+	}
+
+	soldiers = {
+		culture = sindi
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = sindi
+		religion = sunni
+		size = 850
+	}
+
+	serfs = {
+		culture = gujarati
+		religion = hindu
+		size = 50000
+	}
+}

@@ -1,0 +1,56 @@
+
+1386 = {
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 50
+	}
+
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 1450
+	}
+
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 1500
+	}
+
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 175
+	}
+
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 25
+	}
+
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 9300
+	}
+}

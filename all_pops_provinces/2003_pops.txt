@@ -1,0 +1,38 @@
+
+2003 = {
+	aristocrats = {
+		culture = ovimbundu
+		religion = animist
+		size = 300
+	}
+
+	clergymen = {
+		culture = ovimbundu
+		religion = animist
+		size = 300
+	}
+
+	artisans = {
+		culture = ovimbundu
+		religion = animist
+		size = 1500
+	}
+
+	soldiers = {
+		culture = ovimbundu
+		religion = animist
+		size = 300
+	}
+
+	farmers = {
+		culture = ovimbundu
+		religion = animist
+		size = 20800
+	}
+
+	slaves = {
+		culture = ovimbundu
+		religion = animist
+		size = 5800
+	}
+}

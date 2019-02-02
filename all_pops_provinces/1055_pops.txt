@@ -1,0 +1,32 @@
+
+1055 = {
+	aristocrats = {
+		culture = chechen
+		religion = sunni
+		size = 1325
+	}
+
+	clergymen = {
+		culture = chechen
+		religion = sunni
+		size = 1175
+	}
+
+	artisans = {
+		culture = chechen
+		religion = sunni
+		size = 3850
+	}
+
+	soldiers = {
+		culture = chechen
+		religion = sunni
+		size = 42650
+	}
+
+	farmers = {
+		culture = chechen
+		religion = sunni
+		size = 179000
+	}
+}

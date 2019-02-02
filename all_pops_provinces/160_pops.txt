@@ -1,0 +1,51 @@
+
+160 = {
+
+	aristocrats = {
+		culture = yankee
+		religion = protestant
+		size = 5
+	}
+	
+	officers = {
+		culture = yankee
+		religion = protestant
+		size = 5
+	}
+	
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 5
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 5
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 20
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 30
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 900
+	}
+}

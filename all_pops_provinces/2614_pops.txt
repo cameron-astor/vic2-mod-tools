@@ -1,0 +1,74 @@
+
+2614 = {
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 800
+	}
+
+	bureaucrats = {
+		culture = russian
+		religion = orthodox
+		size = 275
+	}
+
+	officers = {
+		culture = russian
+		religion = orthodox
+		size = 225
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 500
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 10000
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 4950
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 1000
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 60000
+	}
+	
+	serfs = {
+		culture = russian
+		religion = orthodox
+		size = 10000
+	}
+	
+	aristocrats = {
+		culture = tatar
+		religion = sunni
+		size = 100
+	}
+	
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+	
+	farmers = {
+		culture = tatar
+		religion = sunni
+		size = 4300
+	}
+}

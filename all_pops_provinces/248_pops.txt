@@ -1,0 +1,38 @@
+
+248 = {
+	bureaucrats = {
+		culture = yankee
+		religion = protestant
+		size = 175
+	}
+
+	officers = {
+		culture = yankee
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 450
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 3000
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 600
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 55675
+	}
+}

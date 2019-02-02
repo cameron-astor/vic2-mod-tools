@@ -1,0 +1,45 @@
+
+1779 = {
+	aristocrats = {
+		culture = maures
+		religion = sunni
+		size = 40
+	}
+
+	bureaucrats = {
+		culture = maures
+		religion = sunni
+		size = 3
+	}
+
+	officers = {
+		culture = maures
+		religion = sunni
+		size = 7
+	}
+
+	clergymen = {
+		culture = maures
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = maures
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = maures
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = maures
+		religion = sunni
+		size = 2700
+	}
+}
+

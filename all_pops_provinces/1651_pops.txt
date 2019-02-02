@@ -1,0 +1,62 @@
+
+1651 = {
+	aristocrats = {
+		culture = japanese
+		religion = shinto
+		size = 2125
+	}
+
+	clergymen = {
+		culture = japanese
+		religion = shinto
+		size = 1125
+	}
+
+	artisans = {
+		culture = japanese
+		religion = shinto
+		size = 9850
+	}
+
+	soldiers = {
+		culture = japanese
+		religion = shinto
+		size = 1125
+	}
+
+	farmers = {
+		culture = japanese
+		religion = shinto
+		size = 98675
+	}
+
+	aristocrats = {
+		culture = japanese
+		religion = shinto
+		size = 500
+	}
+
+	clergymen = {
+		culture = japanese
+		religion = shinto
+		size = 325
+	}
+
+	artisans = {
+		culture = japanese
+		religion = shinto
+		size = 2650
+	}
+
+	soldiers = {
+		culture = japanese
+		religion = shinto
+		size = 300
+	}
+
+	farmers = {
+		culture = japanese
+		religion = shinto
+		size = 26225
+	}
+}

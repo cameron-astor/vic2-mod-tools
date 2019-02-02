@@ -1,0 +1,124 @@
+
+2582 = {
+	aristocrats = {
+		culture = croat
+		religion = catholic
+		size = 50
+	}
+	
+	officers = {
+		culture = croat
+		religion = catholic
+		size = 10
+	}
+
+	clergymen = {
+		culture = croat
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = croat
+		religion = catholic
+		size = 250
+	}
+
+	soldiers = {
+		culture = croat
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = croat
+		religion = catholic
+		size = 4000
+	}
+	
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 350
+	}
+	
+	aristocrats = {
+		culture = serb
+		religion = orthodox
+		size = 200
+	}
+	
+	officers = {
+		culture = serb
+		religion = orthodox
+		size = 10
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 550
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 125
+	}
+
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 10225
+	}
+	
+	farmers = {
+		culture = serb
+		religion = catholic
+		size = 350
+	}
+	
+	aristocrats = {
+		culture = north_italian
+		religion = catholic
+		size = 50
+	}
+	
+	officers = {
+		culture = north_italian
+		religion = catholic
+		size = 10
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 100
+	}
+
+}
+

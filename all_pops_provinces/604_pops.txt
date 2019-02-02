@@ -1,0 +1,86 @@
+
+604 = {
+	aristocrats = {
+		culture = swiss
+		religion = protestant
+		size = 150
+	}
+
+	clergymen = {
+		culture = swiss
+		religion = protestant
+		size = 275
+	}
+
+	clerks = {
+		culture = swiss
+		religion = protestant
+		size = 35
+	}
+
+	craftsmen = {
+		culture = swiss
+		religion = protestant
+		size = 750
+	}
+
+	artisans = {
+		culture = swiss
+		religion = protestant
+		size = 2250
+	}
+
+	soldiers = {
+		culture = swiss
+		religion = protestant
+		size = 1100
+	}
+
+	farmers = {
+		culture = swiss
+		religion = protestant
+		size = 33540
+	}
+
+	aristocrats = {
+		culture = swiss
+		religion = catholic
+		size = 150
+	}
+
+	clergymen = {
+		culture = swiss
+		religion = catholic
+		size = 250
+	}
+
+	clerks = {
+		culture = swiss
+		religion = catholic
+		size = 30
+	}
+
+	craftsmen = {
+		culture = swiss
+		religion = catholic
+		size = 600
+	}
+
+	artisans = {
+		culture = swiss
+		religion = catholic
+		size = 1900
+	}
+
+	soldiers = {
+		culture = swiss
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = swiss
+		religion = catholic
+		size = 25800
+	}
+}

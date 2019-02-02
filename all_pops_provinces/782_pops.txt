@@ -1,0 +1,93 @@
+
+782 = {
+	aristocrats = {
+		culture = croat
+		religion = catholic
+		size = 75
+	}
+
+	clergymen = {
+		culture = croat
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = croat
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = croat
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = croat
+		religion = catholic
+		size = 9125
+	}
+	
+	farmers = {
+		culture = croat
+		religion = sunni
+		size = 100
+	}
+
+	aristocrats = {
+		culture = north_italian
+		religion = catholic
+		size = 50
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 400
+	}
+
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 50
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 100
+	}
+
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 25
+	}
+
+	serfs = {
+		culture = serb
+		religion = orthodox
+		size = 1825
+	}
+
+}

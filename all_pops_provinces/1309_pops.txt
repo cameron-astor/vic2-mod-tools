@@ -1,0 +1,74 @@
+
+1309 = {
+	aristocrats = {
+		culture = tamil
+		religion = hindu
+		size = 3500
+	}
+
+	clergymen = {
+		culture = tamil
+		religion = hindu
+		size = 3750
+	}
+
+	artisans = {
+		culture = tamil
+		religion = hindu
+		size = 10000
+	}
+	
+	artisans = {
+		culture = tamil
+		religion = hindu
+		size = 3000
+	}
+
+	soldiers = {
+		culture = tamil
+		religion = hindu
+		size = 3000
+	}
+
+	soldiers = {
+		culture = tamil
+		religion = hindu
+		size = 500
+	}
+
+	farmers = {
+		culture = tamil
+		religion = hindu
+		size = 314350
+	}
+
+	aristocrats = {
+		culture = tamil
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = tamil
+		religion = sunni
+		size = 175
+	}
+
+	artisans = {
+		culture = tamil
+		religion = sunni
+		size = 5000
+	}
+
+	soldiers = {
+		culture = tamil
+		religion = sunni
+		size = 250
+	}
+
+	farmers = {
+		culture = tamil
+		religion = sunni
+		size = 9475
+	}
+}

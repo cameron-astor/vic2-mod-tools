@@ -1,0 +1,92 @@
+
+1354 = {
+	aristocrats = {
+		culture = thai
+		religion = theravada
+		size = 625
+	}
+
+	clergymen = {
+		culture = thai
+		religion = theravada
+		size = 325
+	}
+
+	artisans = {
+		culture = thai
+		religion = theravada
+		size = 1300
+	}
+
+	soldiers = {
+		culture = thai
+		religion = theravada
+		size = 1100
+	}
+
+	farmers = {
+		culture = thai
+		religion = theravada
+		size = 28800
+	}
+
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 75
+	}
+
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 50
+	}
+
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 1275
+	}
+
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 50
+	}
+
+	slaves = {
+		culture = yue
+		religion = mahayana
+		size = 3550
+	}
+
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 125
+	}
+
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 600
+	}
+
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 10975
+	}
+}

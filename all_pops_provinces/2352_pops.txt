@@ -1,0 +1,20 @@
+
+2352 = {
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 50
+	}
+
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 75
+	}
+
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 20700
+	}
+}

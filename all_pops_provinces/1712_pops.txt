@@ -1,0 +1,50 @@
+
+1712 = {
+	aristocrats = {
+		culture = berber
+		religion = sunni
+		size = 20
+	}
+
+	clergymen = {
+		culture = berber
+		religion = sunni
+		size = 30
+	}
+
+	soldiers = {
+		culture = berber
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = berber
+		religion = sunni
+		size = 1850
+	}
+
+	aristocrats = {
+		culture = maghrebi
+		religion = sunni
+		size = 10
+	}
+
+	clergymen = {
+		culture = maghrebi
+		religion = sunni
+		size = 20
+	}
+
+	soldiers = {
+		culture = maghrebi
+		religion = sunni
+		size = 70
+	}
+
+	farmers = {
+		culture = maghrebi
+		religion = sunni
+		size = 900
+	}
+}

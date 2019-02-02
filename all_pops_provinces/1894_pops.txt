@@ -1,0 +1,38 @@
+
+1894 = {
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 425
+	}
+
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 225
+	}
+
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 1100
+	}
+
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 225
+	}
+
+	farmers = {
+		culture = akan
+		religion = animist
+		size = 16025
+	}
+
+	slaves = {
+		culture = akan
+		religion = animist
+		size = 4000
+	}
+}

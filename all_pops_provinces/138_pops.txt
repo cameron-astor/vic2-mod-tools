@@ -1,0 +1,55 @@
+
+138 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 10
+		militancy = 9
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 100
+
+		militancy = 9
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 900
+		militancy = 9
+	}
+
+	clergymen = {
+		culture = texan
+		religion = protestant
+		size = 5
+	}
+
+	artisans = {
+		culture = texan
+		religion = protestant
+		size = 5
+	}
+
+	soldiers = {
+		culture = texan
+		religion = protestant
+		size = 5
+	}
+
+	farmers = {
+		culture = texan
+		religion = protestant
+		size = 20
+	}
+	
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 500
+		militancy = 9
+	}
+}

@@ -1,0 +1,39 @@
+
+466 = {
+	aristocrats = {
+		culture = north_italian
+		religion = catholic
+		size = 550
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = catholic
+		size = 375
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 2800
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = catholic
+		size = 1000
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 26375
+	}
+
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 26175
+	}
+
+}

@@ -1,0 +1,38 @@
+
+2094 = {
+	farmers = {
+		culture = boer
+		religion = protestant
+		size = 50
+	}
+
+	aristocrats = {
+		culture = tswana
+		religion = animist
+		size = 400
+	}
+
+	clergymen = {
+		culture = tswana
+		religion = animist
+		size = 400
+	}
+
+	artisans = {
+		culture = tswana
+		religion = animist
+		size = 1600
+	}
+
+	soldiers = {
+		culture = tswana
+		religion = animist
+		size = 400
+	}
+
+	farmers = {
+		culture = tswana
+		religion = animist
+		size = 36200
+	}
+}

@@ -1,0 +1,39 @@
+
+1981 = {
+	aristocrats = {
+		culture = forest_bantu
+		religion = animist
+		size = 150
+	}
+
+	clergymen = {
+		culture = forest_bantu
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = forest_bantu
+		religion = animist
+		size = 400
+	}
+
+	soldiers = {
+		culture = forest_bantu
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = forest_bantu
+		religion = animist
+		size = 7300
+	}
+	
+	slaves = {
+		culture = ubangian
+		religion = animist
+		size = 500
+	}
+}
+

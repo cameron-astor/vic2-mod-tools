@@ -1,0 +1,75 @@
+
+1711 = {
+	aristocrats = {
+		culture = maghrebi
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = maghrebi
+		religion = sunni
+		size = 265
+	}
+
+	soldiers = {
+		culture = maghrebi
+		religion = sunni
+		size = 30
+	}
+
+	farmers = {
+		culture = maghrebi
+		religion = sunni
+		size = 2730
+	}
+
+	aristocrats = {
+		culture = berber
+		religion = sunni
+		size = 30
+	}
+
+	clergymen = {
+		culture = berber
+		religion = sunni
+		size = 70
+	}
+
+
+	soldiers = {
+		culture = berber
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = berber
+		religion = sunni
+		size = 3700
+	}
+
+	aristocrats = {
+		culture = tuareg
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = tuareg
+		religion = sunni
+		size = 15
+	}
+
+	soldiers = {
+		culture = tuareg
+		religion = sunni
+		size = 65
+	}
+
+	farmers = {
+		culture = tuareg
+		religion = sunni
+		size = 1900
+	}
+}

@@ -1,0 +1,44 @@
+
+1207 = {
+	aristocrats = {
+		culture = tajik
+		religion = sunni
+		size = 575
+	}
+
+	clergymen = {
+		culture = tajik
+		religion = sunni
+		size = 275
+	}
+
+	artisans = {
+		culture = tajik
+		religion = sunni
+		size = 1450
+	}
+
+	soldiers = {
+		culture = tajik
+		religion = sunni
+		size = 250
+	}
+
+	farmers = {
+		culture = tajik
+		religion = sunni
+		size = 27450
+	}
+
+	slaves = {
+		culture = tajik
+		religion = sunni
+		size = 2000
+	}
+
+	slaves = {
+		culture = uighur
+		religion = sunni
+		size = 4000
+	}
+}

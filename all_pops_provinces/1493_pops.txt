@@ -1,0 +1,314 @@
+
+1493 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 4250
+	}
+
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 4050
+	}
+
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 5250
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2250
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 7250
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 22250
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 48400
+	}
+	
+	slaves = {
+		culture = nanfaren
+		religion = mahayana
+		size = 100000
+	}
+
+	aristocrats = {
+		culture = zhuang
+		religion = animist
+		size = 1050
+	}
+
+	clergymen = {
+		culture = zhuang
+		religion = animist
+		size = 550
+	}
+
+	artisans = {
+		culture = zhuang
+		religion = animist
+		size = 2700
+	}
+
+	soldiers = {
+		culture = zhuang
+		religion = animist
+		size = 550
+	}
+	
+	farmers = {
+		culture = zhuang
+		religion = animist
+		size = 20000
+	}
+
+	serfs = {
+		culture = zhuang
+		religion = animist
+		size = 49400
+	}
+
+	aristocrats = {
+		culture = hakka
+		religion = mahayana
+		size = 725
+	}
+
+	clergymen = {
+		culture = hakka
+		religion = mahayana
+		size = 375
+	}
+
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 1850
+	}
+
+	soldiers = {
+		culture = hakka
+		religion = mahayana
+		size = 375
+	}
+
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 33675
+	}
+
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 3250
+	}
+
+	clergymen = {
+		culture = miao
+		religion = animist
+		size = 1650
+	}
+
+	artisans = {
+		culture = miao
+		religion = animist
+		size = 8200
+	}
+
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 1650
+	}
+
+	farmers = {
+		culture = miao
+		religion = animist
+		size = 129250
+	}
+
+	aristocrats = {
+		culture = min
+		religion = mahayana
+		size = 300
+	}
+
+	clergymen = {
+		culture = min
+		religion = mahayana
+		size = 150
+	}
+
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 800
+	}
+
+	soldiers = {
+		culture = min
+		religion = mahayana
+		size = 175
+	}
+
+	farmers = {
+		culture = min
+		religion = mahayana
+		size = 14575
+	}
+
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 12500
+	}
+
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 6375
+	}
+
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 9950
+	}
+
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 3000
+	}
+
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 400
+	}
+
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 201775
+	}
+	
+	slaves = {
+		culture = yue
+		religion = mahayana
+		size = 300000
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 500
+	}
+
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 300
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 500
+	}
+}

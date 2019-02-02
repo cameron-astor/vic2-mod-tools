@@ -1,0 +1,116 @@
+
+649 = {
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 1500 
+	}
+	
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 600 
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 625 
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 2500
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 1100
+	}
+
+	serfs = {
+		culture = hungarian
+		religion = catholic
+		size = 54375 
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = protestant
+		size = 2500
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = protestant
+		size = 850   
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = protestant
+		size = 3900   
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = protestant
+		size = 900
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = protestant
+		size = 80850    
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = jewish
+		size = 50 
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = jewish
+		size = 1100 
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = jewish
+		size = 25
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = jewish
+		size = 825     
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 50  
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 500  
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 75
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 5375  
+	}
+}

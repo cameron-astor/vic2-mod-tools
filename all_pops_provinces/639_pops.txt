@@ -1,0 +1,194 @@
+
+639 = {
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 450 
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 300 
+	}
+
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 400 
+	}
+	
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 27450 
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 3750 
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 1250
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 6000
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 250
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 100000
+	}
+	
+	serfs = {
+		culture = gypsy
+		religion = catholic
+		size = 5750
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = protestant
+		size = 650 
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = protestant
+		size = 225 
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = protestant
+		size = 1750
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = protestant
+		size = 300
+	}
+
+	serfs = {
+		culture = hungarian
+		religion = protestant
+		size = 29075  
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = jewish
+		size = 50 
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = jewish
+		size = 2000
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = jewish
+		size = 50
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = jewish
+		size = 2900   
+	}
+
+	clergymen = {
+		culture = slovene
+		religion = catholic
+		size = 150 
+	}
+
+	artisans = {
+		culture = slovene
+		religion = catholic
+		size = 750
+	}
+
+	soldiers = {
+		culture = slovene
+		religion = catholic
+		size = 150
+	}
+
+	serfs = {
+		culture = slovene
+		religion = catholic
+		size = 13950 
+	}
+
+	clergymen = {
+		culture = croat
+		religion = catholic
+		size = 50 
+	}
+
+	artisans = {
+		culture = croat
+		religion = catholic
+		size = 350
+	}
+
+	soldiers = {
+		culture = croat
+		religion = catholic
+		size = 75
+	}
+
+	serfs = {
+		culture = croat
+		religion = catholic
+		size = 6525 
+	}
+}

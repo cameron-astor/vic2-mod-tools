@@ -1,0 +1,39 @@
+
+2002 = {
+	aristocrats = {
+		culture = kavango
+		religion = animist
+		size = 300
+	}
+
+	clergymen = {
+		culture = kavango
+		religion = animist
+		size = 250
+	}
+
+	artisans = {
+		culture = kavango
+		religion = animist
+		size = 1200
+	}
+
+	soldiers = {
+		culture = kavango
+		religion = animist
+		size = 300
+	}
+
+	farmers = {
+		culture = kavango
+		religion = animist
+		size = 21950
+	}
+
+	slaves = {
+		culture = kavango
+		religion = animist
+		size = 6000
+	}
+
+}

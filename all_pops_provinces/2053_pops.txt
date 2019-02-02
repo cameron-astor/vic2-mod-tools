@@ -1,0 +1,128 @@
+
+2053 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 150
+	}
+	
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 1000
+	}
+
+	aristocrats = {
+		culture = shona
+		religion = animist
+		size = 150
+	}
+
+	clergymen = {
+		culture = shona
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = shona
+		religion = animist
+		size = 700
+	}
+
+	soldiers = {
+		culture = shona
+		religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = shona
+		religion = animist
+		size = 10850
+	}
+
+	slaves = {
+		culture = shona
+		religion = animist
+		size = 3000
+	}
+
+	aristocrats = {
+		culture = sena
+		religion = animist
+		size = 250
+	}
+
+	clergymen = {
+		culture = sena
+		religion = animist
+		size = 200
+	}
+
+	artisans = {
+		culture = sena
+		religion = animist
+		size = 1100
+	}
+
+	soldiers = {
+		culture = sena
+		religion = animist
+		size = 250
+	}
+
+	farmers = {
+		culture = sena
+		religion = animist
+		size = 42700
+	}
+
+	slaves = {
+		culture = sena
+		religion = animist
+		size = 2500
+	}
+
+	clergymen = {
+		culture = swahili
+		religion = sunni
+		size = 100
+	}
+	
+	soldiers = {
+		culture = swahili
+		religion = sunni
+		size = 250
+	}
+
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 975
+	}
+	
+	farmers = {
+		culture = swahili
+		religion = sunni
+		size = 3000
+	}
+}

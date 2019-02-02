@@ -1,0 +1,32 @@
+
+129 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 4
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 8
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 20
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 4
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 300
+	}
+}

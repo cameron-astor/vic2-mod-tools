@@ -1,0 +1,82 @@
+
+2647 = {
+	aristocrats = {
+		culture = melanesian
+		religion = catholic
+		size = 15
+	}
+	
+	clergymen = {
+		culture = melanesian
+		religion = catholic
+		size = 20
+	}
+
+	artisans = {
+		culture = melanesian
+		religion = catholic
+		size = 25
+	}
+
+	soldiers = {
+		culture = melanesian
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = melanesian
+		religion = catholic
+		size = 300
+	}
+
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 5
+	}
+
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 5
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 10
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 10
+	}
+}
+
+

@@ -1,0 +1,62 @@
+
+495 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 1600
+	}
+
+	officers = {
+		culture = spanish
+		religion = catholic
+		size = 250
+	}
+
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 300
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 750
+	}
+
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 5000
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 57100
+	}
+
+	clergymen = {
+		culture = catalan
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = catalan
+		religion = catholic
+		size = 1950
+	}
+}

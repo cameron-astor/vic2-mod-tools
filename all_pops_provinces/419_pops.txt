@@ -1,0 +1,40 @@
+
+419 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 50
+	}
+
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 125
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 3400
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 250
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 14075
+	}
+
+}
+

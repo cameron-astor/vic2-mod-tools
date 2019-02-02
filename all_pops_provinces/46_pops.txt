@@ -1,0 +1,32 @@
+
+46 = {
+	bureaucrats = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 250
+	}
+
+	clergymen = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 250
+	}
+
+	artisans = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 2500
+	}
+
+	soldiers = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 1100
+	}
+
+	farmers = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 39000
+	}
+}

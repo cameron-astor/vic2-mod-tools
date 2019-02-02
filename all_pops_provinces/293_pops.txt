@@ -1,0 +1,39 @@
+
+293 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 500
+	}
+
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 375
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 7500
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 1500
+	}
+
+	labourers = {
+		culture = british
+		religion = protestant
+		size = 57125
+	}
+
+	labourers = {
+		culture = british
+		religion = catholic
+		size = 2000
+	}
+
+}

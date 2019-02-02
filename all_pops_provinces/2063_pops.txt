@@ -1,0 +1,62 @@
+
+2063 = {
+	aristocrats = {
+		culture = makua
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = makua
+		religion = animist
+		size = 500
+	}
+
+	artisans = {
+		culture = makua
+		religion = animist
+		size = 2500
+	}
+
+	soldiers = {
+		culture = makua
+		religion = animist
+		size = 500
+	}
+
+	farmers = {
+		culture = makua
+		religion = animist
+		size = 50000
+	}
+
+	slaves = {
+		culture = makua
+		religion = animist
+		size = 2000
+	}
+
+	clergymen = {
+		culture = swahili
+		religion = sunni
+		size = 100
+	}
+	
+	soldiers = {
+		culture = swahili
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 1950
+	}
+	
+	farmers = {
+		culture = swahili
+		religion = sunni
+		size = 3000
+	}
+}

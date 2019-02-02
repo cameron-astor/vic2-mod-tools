@@ -1,0 +1,56 @@
+
+844 = {
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 250
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 125
+	}
+
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 500
+	}
+	
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 200
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 120
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 9125
+	}
+}

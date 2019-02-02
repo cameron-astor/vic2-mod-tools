@@ -1,0 +1,10 @@
+
+2128 = {
+	farmers = {
+		culture = kreol
+		religion = catholic
+		size = 175
+	}
+
+}
+

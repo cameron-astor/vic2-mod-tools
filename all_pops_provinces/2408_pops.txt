@@ -1,0 +1,44 @@
+
+2408 = {
+	aristocrats = {
+		culture = amazonian
+		religion = animist
+		size = 25
+	}
+
+	soldiers = {
+		culture = amazonian
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 1950
+	}
+	
+	clergymen = {
+		culture = brazilian
+		religion = catholic
+		size = 5
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = catholic
+		size = 5
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = catholic
+		size = 5
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 20
+	}
+}

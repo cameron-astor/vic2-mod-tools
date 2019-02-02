@@ -1,0 +1,32 @@
+
+417 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 1100
+	}
+
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 900
+	}
+
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 5500
+	}
+
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 1200
+	}
+
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 101800
+	}
+}

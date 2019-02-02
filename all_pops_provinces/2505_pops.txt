@@ -1,0 +1,68 @@
+
+2505 = {
+	aristocrats = {
+		culture = australian
+		religion = protestant
+		size = 2
+	}
+	
+	bureaucrats = {
+		culture = australian
+		religion = protestant
+		size = 2
+	}
+	
+	clergymen = {
+		culture = australian
+		religion = protestant
+		size = 3
+	}
+	
+	officers = {
+		culture = australian
+		religion = protestant
+		size = 3
+	}
+
+	artisans = {
+		culture = australian
+		religion = protestant
+		size = 5
+	}
+	
+	soldiers = {
+		culture = australian
+		religion = protestant
+		size = 5
+	}
+	
+	farmers = {
+		culture = australian
+		religion = protestant
+		size = 20
+	}
+
+	aristocrats = {
+		culture = aborigine
+		religion = animist
+		size = 75
+	}
+
+	clergymen = {
+		culture = aborigine
+		religion = animist
+		size = 125
+	}
+
+	soldiers = {
+		culture = aborigine
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = aborigine
+		religion = animist
+		size = 4500
+	}
+}

@@ -1,0 +1,26 @@
+
+2521 = {
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 2
+	}
+
+	artisans = {
+		culture = micronesian
+		religion = animist
+		size = 70
+	}
+
+	soldiers = {
+		culture = micronesian
+		religion = animist
+		size = 3
+	}
+
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 1325
+	}
+}

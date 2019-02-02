@@ -1,0 +1,68 @@
+
+379 = {
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 235
+	}
+	aristocrats = {
+		culture = dutch
+		religion = catholic
+		size = 1316
+	}
+	officers = {
+		culture = dutch
+		religion = catholic
+		size = 28
+	}
+	bureaucrats = {
+		culture = dutch
+		religion = catholic
+		size = 752
+	}
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 752
+	}
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 2961
+	}
+	soldiers = {
+		culture = dutch
+		religion = catholic
+		size = 2820
+	}
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size = 94
+	}
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 47000
+	}
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 470
+	}
+	clergymen = {
+		culture = flemish
+		religion = catholic
+		size = 47
+	}
+	artisans = {
+		culture = flemish
+		religion = catholic
+		size = 141
+	}
+	farmers = {
+		culture = flemish
+		religion = catholic
+		size = 2820
+	}
+}

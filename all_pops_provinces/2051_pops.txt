@@ -1,0 +1,74 @@
+
+2051 = {
+	aristocrats = {
+		culture = nguni
+		religion = animist
+		size = 150
+	}
+
+	clergymen = {
+		culture = nguni
+		religion = animist
+		size = 125
+	}
+
+	artisans = {
+		culture = nguni
+		religion = animist
+		size = 600
+	}
+
+	soldiers = {
+		culture = nguni
+		religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = nguni
+		religion = animist
+		size = 25975
+	}
+
+	slaves = {
+		culture = nguni
+		religion = animist
+		size = 2000
+	}
+
+	aristocrats = {
+		culture = tonga
+		religion = animist
+		size = 300
+	}
+
+	clergymen = {
+		culture = tonga
+		religion = animist
+		size = 300
+	}
+
+	artisans = {
+		culture = tonga
+		religion = animist
+		size = 1400
+	}
+
+	soldiers = {
+		culture = tonga
+		religion = animist
+		size = 400
+	}
+
+	farmers = {
+		culture = tonga
+		religion = animist
+		size = 30600
+	}
+
+	slaves = {
+		culture = tonga
+		religion = animist
+		size = 5000
+	}
+}

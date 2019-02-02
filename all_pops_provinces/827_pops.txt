@@ -1,0 +1,32 @@
+
+827 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 300
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 175
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 950
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 150
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 17425
+	}
+}

@@ -1,0 +1,80 @@
+
+185 = {
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 150
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 650
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 125
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 4150
+	}
+
+	aristocrats = {
+		culture = dixie
+		religion = protestant
+		size = 250
+	}
+
+	clergymen = {
+		culture = dixie
+		religion = protestant
+		size = 150
+	}
+
+	artisans = {
+		culture = dixie
+		religion = protestant
+		size = 525
+	}
+
+	soldiers = {
+		culture = dixie
+		religion = protestant
+		size = 2225
+	}
+
+	farmers = {
+		culture = dixie
+		religion = protestant
+		size = 17950
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = protestant
+		size = 100
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 700
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 700
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 9500
+	}
+}

@@ -1,0 +1,62 @@
+
+1791 = {
+	aristocrats = {
+		culture = bambara
+		religion = sunni
+		size = 575
+	}
+
+	clergymen = {
+		culture = bambara
+		religion = sunni
+		size = 300
+	}
+
+	artisans = {
+		culture = bambara
+		religion = sunni
+		size = 1175
+	}
+
+	soldiers = {
+		culture = bambara
+		religion = sunni
+		size = 300
+	}
+
+	farmers = {
+		culture = bambara
+		religion = sunni
+		size = 18650
+	}
+
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 300
+	}
+
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 22575
+	}
+
+	slaves = {
+		culture = fulbe
+		religion = sunni
+		size = 6000
+	}
+}

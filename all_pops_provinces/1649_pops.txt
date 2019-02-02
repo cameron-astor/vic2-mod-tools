@@ -1,0 +1,182 @@
+
+1649 = {
+	aristocrats = {
+		culture = japanese
+		religion = shinto
+		size = 8500
+	}
+
+	bureaucrats = {
+		culture = japanese
+		religion = shinto
+		size = 2200
+	}
+
+	officers = {
+		culture = japanese
+		religion = shinto
+		size = 1275
+	}
+
+	clergymen = {
+		culture = japanese
+		religion = shinto
+		size = 3175
+	}
+
+	artisans = {
+		culture = japanese
+		religion = shinto
+		size = 10000
+	}
+	
+	artisans = {
+		culture = japanese
+		religion = shinto
+		size = 10000
+	}
+	
+	artisans = {
+		culture = japanese
+		religion = shinto
+		size = 10000
+	}
+	
+	artisans = {
+		culture = japanese
+		religion = shinto
+		size = 10000
+	}
+	
+	artisans = {
+		culture = japanese
+		religion = shinto
+		size = 10000
+	}
+	
+	artisans = {
+		culture = japanese
+		religion = shinto
+		size = 10000
+	}
+	
+	artisans = {
+		culture = japanese
+		religion = shinto
+		size = 10000
+	}
+	
+	artisans = {
+		culture = japanese
+		religion = shinto
+		size = 10000
+	}
+	
+	artisans = {
+		culture = japanese
+		religion = shinto
+		size = 10000
+	}
+	
+	artisans = {
+		culture = japanese
+		religion = shinto
+		size = 10000
+	}
+	
+	artisans = {
+		culture = japanese
+		religion = shinto
+		size = 3000
+	}
+
+	soldiers = {
+		culture = japanese
+		religion = shinto
+		size = 3000
+	}
+
+	soldiers = {
+		culture = japanese
+		religion = shinto
+		size = 3000
+	}
+
+	soldiers = {
+		culture = japanese
+		religion = shinto
+		size = 3000
+	}
+
+	soldiers = {
+		culture = japanese
+		religion = shinto
+		size = 3000
+	}
+
+	soldiers = {
+		culture = japanese
+		religion = shinto
+		size = 3000
+	}
+
+	soldiers = {
+		culture = japanese
+		religion = shinto
+		size = 3000
+	}
+
+	soldiers = {
+		culture = japanese
+		religion = shinto
+		size = 2075
+	}
+
+	farmers = {
+		culture = japanese
+		religion = shinto
+		size = 167575
+	}
+
+	aristocrats = {
+		culture = japanese
+		religion = shinto
+		size = 1450
+	}
+
+	clergymen = {
+		culture = japanese
+		religion = shinto
+		size = 550
+	}
+
+	artisans = {
+		culture = japanese
+		religion = shinto
+		size = 10000
+	}
+	
+	artisans = {
+		culture = japanese
+		religion = shinto
+		size = 10000
+	}
+	
+	artisans = {
+		culture = japanese
+		religion = shinto
+		size = 7000
+	}
+
+	soldiers = {
+		culture = japanese
+		religion = shinto
+		size = 700
+	}
+
+	farmers = {
+		culture = japanese
+		religion = shinto
+		size = 39100
+	}
+}

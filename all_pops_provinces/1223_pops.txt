@@ -1,0 +1,33 @@
+
+1223 = {
+	aristocrats = {
+		culture = pashtun
+		religion = sunni
+		size = 500
+	}
+
+	clergymen = {
+		culture = pashtun
+		religion = sunni
+		size = 500
+	}
+
+	artisans = {
+		culture = pashtun
+		religion = sunni
+		size = 2000
+	}
+
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 5000
+	}
+
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 37000
+	}
+
+}

@@ -1,0 +1,74 @@
+
+372 = {
+	aristocrats = {
+		culture = danish
+		religion = protestant
+		size = 1550
+	}
+
+	bureaucrats = {
+		culture = danish
+		religion = protestant
+		size = 500
+	}
+
+	officers = {
+		culture = danish
+		religion = protestant
+		size = 500
+	}
+
+	clergymen = {
+		culture = danish
+		religion = protestant
+		size = 750
+	}
+
+	artisans = {
+		culture = danish
+		religion = protestant
+		size = 10000
+	}
+	
+	artisans = {
+		culture = danish
+		religion = protestant
+		size = 10000
+	}
+	
+	artisans = {
+		culture = danish
+		religion = protestant
+		size = 6000
+	}
+
+	soldiers = {
+		culture = danish
+		religion = protestant
+		size = 3000
+	}
+
+	soldiers = {
+		culture = danish
+		religion = protestant
+		size = 1000
+	}
+
+	farmers = {
+		culture = danish
+		religion = protestant
+		size = 64000
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 858
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 1100
+	}
+}

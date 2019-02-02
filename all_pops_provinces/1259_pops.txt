@@ -1,0 +1,86 @@
+
+1259 = {
+	aristocrats = {
+		culture = manipuri
+		religion = hindu
+		size = 1100
+	}
+
+	clergymen = {
+		culture = manipuri
+		religion = hindu
+		size = 1100
+	}
+
+	artisans = {
+		culture = manipuri
+		religion = hindu
+		size = 4750
+	}
+
+	soldiers = {
+		culture = manipuri
+		religion = hindu
+		size = 1100
+	}
+
+	farmers = {
+		culture = manipuri
+		religion = hindu
+		size = 88250
+	}
+
+	clergymen = {
+		culture = assamese
+		religion = sunni
+		size = 375
+	}
+
+	artisans = {
+		culture = assamese
+		religion = sunni
+		size = 2000
+	}
+
+	soldiers = {
+		culture = assamese
+		religion = sunni
+		size = 500
+	}
+
+	farmers = {
+		culture = assamese
+		religion = sunni
+		size = 28125
+	}
+
+	aristocrats = {
+		culture = asian_minor
+		religion = animist
+		size = 250
+	}
+
+	clergymen = {
+		culture = asian_minor
+		religion = animist
+		size = 250
+	}
+
+	soldiers = {
+		culture = asian_minor
+		religion = animist
+		size = 250
+	}
+
+	artisans = {
+		culture = asian_minor
+		religion = animist
+		size = 1250
+	}
+
+	farmers = {
+		culture = asian_minor
+		religion = animist
+		size = 25000
+	}
+}

@@ -1,0 +1,38 @@
+
+2517 = {
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 1
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 4
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 5
+	}
+
+	artisans = {
+		culture = micronesian
+		religion = animist
+		size = 75
+	}
+
+	soldiers = {
+		culture = micronesian
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 1490
+	}
+}

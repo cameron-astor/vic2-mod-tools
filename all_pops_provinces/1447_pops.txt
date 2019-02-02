@@ -1,0 +1,104 @@
+
+1447 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 100
+	}
+	
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 50
+	}
+	
+	aristocrats = {
+		culture = moluccan
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = moluccan
+		religion = animist
+		size = 175
+	}
+
+	artisans = {
+		culture = moluccan
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = moluccan
+		religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = moluccan
+		religion = animist
+		size = 14375
+	}
+
+	slaves = {
+		culture = moluccan
+		religion = animist
+		size = 2000
+	}
+
+	clergymen = {
+		culture = moluccan
+		religion = protestant
+		size = 50
+	}
+
+	artisans = {
+		culture = moluccan
+		religion = protestant
+		size = 400
+	}
+
+	soldiers = {
+		culture = moluccan
+		religion = protestant
+		size = 50
+	}
+
+	farmers = {
+		culture = moluccan
+		religion = protestant
+		size = 1500
+	}
+
+	aristocrats = {
+		culture = moluccan
+		religion = sunni
+		size = 125
+	}
+
+	clergymen = {
+		culture = moluccan
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = moluccan
+		religion = sunni
+		size = 1100
+	}
+
+	soldiers = {
+		culture = moluccan
+		religion = sunni
+		size = 125
+	}
+
+	farmers = {
+		culture = moluccan
+		religion = sunni
+		size = 9650
+	}
+}

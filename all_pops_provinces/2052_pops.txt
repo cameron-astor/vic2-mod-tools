@@ -1,0 +1,69 @@
+
+2052 = {
+	aristocrats = {
+		culture = nguni
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = nguni
+		religion = animist
+		size = 500
+	}
+
+	artisans = {
+		culture = nguni
+		religion = animist
+		size = 200
+	}
+
+	soldiers = {
+		culture = nguni
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = nguni
+		religion = animist
+		size = 3650
+	}
+
+	aristocrats = {
+		culture = shona
+		religion = animist
+		size = 350
+	}
+
+	clergymen = {
+		culture = shona
+		religion = animist
+		size = 375
+	}
+
+	artisans = {
+		culture = shona
+		religion = animist
+		size = 1800
+	}
+
+	soldiers = {
+		culture = shona
+		religion = animist
+		size = 400
+	}
+
+	farmers = {
+		culture = shona
+		religion = animist
+		size = 39375
+	}
+
+	slaves = {
+		culture = shona
+		religion = animist
+		size = 22700
+	}
+
+}

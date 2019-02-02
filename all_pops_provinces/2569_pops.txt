@@ -1,0 +1,81 @@
+
+2569 = {
+	
+	aristocrats = {
+		culture = serb
+		religion = orthodox
+		size = 100
+	}
+	
+	officers = {
+		culture = serb
+		religion = orthodox
+		size = 100
+	}
+	
+	soldiers = {
+		culture = serb
+		religion = orthodox
+		size = 100
+	}
+	
+	clergymen = {
+		culture = serb
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = serb
+		religion = orthodox
+		size = 500
+	}
+	
+	farmers = {
+		culture = serb
+		religion = orthodox
+		size = 4000
+	}
+
+	serfs = {
+		culture = serb
+		religion = orthodox
+		size = 7100
+	}
+
+	aristocrats = {
+		culture = bosniak
+		religion = sunni
+		size = 250
+	}
+	
+	officers = {
+		culture = bosniak
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = bosniak
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = bosniak
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = bosniak
+		religion = sunni
+		size = 125
+	}
+
+	farmers = {
+		culture = bosniak
+		religion = sunni
+		size = 5725
+	}
+}

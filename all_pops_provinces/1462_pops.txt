@@ -1,0 +1,86 @@
+
+1462 = {
+	aristocrats = {
+		culture = filipino
+		religion = sunni
+		size = 600
+	}
+
+	clergymen = {
+		culture = filipino
+		religion = sunni
+		size = 500
+	}
+
+	artisans = {
+		culture = filipino
+		religion = sunni
+		size = 2500
+	}
+
+	soldiers = {
+		culture = filipino
+		religion = sunni
+		size = 500
+	}
+
+	farmers = {
+		culture = filipino
+		religion = sunni
+		size = 44900
+	}
+
+	clergymen = {
+		culture = filipino
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = filipino
+		religion = catholic
+		size = 750
+	}
+
+	farmers = {
+		culture = filipino
+		religion = catholic
+		size = 12200
+	}
+
+	slaves = {
+		culture = filipino
+		religion = catholic
+		size = 4000
+	}
+
+	aristocrats = {
+		culture = asian_minor
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = asian_minor
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = asian_minor
+		religion = animist
+		size = 300
+	}
+
+	soldiers = {
+		culture = asian_minor
+		religion = animist
+		size = 100
+	}
+	
+	slaves = {
+		culture = asian_minor
+		religion = animist
+		size = 8525
+	}
+}

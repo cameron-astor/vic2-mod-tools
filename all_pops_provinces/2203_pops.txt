@@ -1,0 +1,39 @@
+
+2203 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 75
+		militancy = 9
+	}
+
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 50
+		militancy = 9
+	}
+
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 150
+	}
+
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 25
+
+		militancy = 9
+	}
+
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 2700
+		militancy = 5
+	}
+
+}
+

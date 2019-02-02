@@ -1,0 +1,68 @@
+
+2316 = {
+	aristocrats = {
+		culture = south_andean
+		religion = catholic
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = south_andean
+		religion = catholic
+		size = 5
+	}
+
+	officers = {
+		culture = south_andean
+		religion = catholic
+		size = 10
+	}
+
+	clergymen = {
+		culture = south_andean
+		religion = catholic
+		size = 75
+	}
+
+	artisans = {
+		culture = south_andean
+		religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+		culture = south_andean
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = south_andean
+		religion = catholic
+		size = 735
+	}
+
+	clergymen = {
+		culture = guarani
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = guarani
+		religion = animist
+		size = 150
+	}
+
+	soldiers = {
+		culture = guarani
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = guarani
+		religion = animist
+		size = 2775
+	}
+}

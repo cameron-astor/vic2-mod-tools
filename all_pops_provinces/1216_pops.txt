@@ -1,0 +1,44 @@
+
+1216 = {
+	aristocrats = {
+		culture = pashtun
+		religion = sunni
+		size = 1300
+	}
+
+	clergymen = {
+		culture = pashtun
+		religion = sunni
+		size = 675
+	}
+
+	artisans = {
+		culture = pashtun
+		religion = sunni
+		size = 3350
+	}
+
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 3000
+	}
+
+	soldiers = {
+		culture = pashtun
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = pashtun
+		religion = sunni
+		size = 57985
+	}
+
+	slaves = {
+		culture = panjabi
+		religion = sikh
+		size = 3700
+	}
+}

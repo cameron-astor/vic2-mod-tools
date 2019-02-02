@@ -1,0 +1,104 @@
+
+1195 = {
+	aristocrats = {
+		culture = uzbek
+		religion = sunni
+		size = 900
+	}
+
+	clergymen = {
+		culture = uzbek
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = uzbek
+		religion = sunni
+		size = 2300
+	}
+
+	soldiers = {
+		culture = uzbek
+		religion = sunni
+		size = 3000
+	}
+
+	soldiers = {
+		culture = uzbek
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = uzbek
+		religion = sunni
+		size = 38850
+	}
+
+	aristocrats = {
+		culture = kirgiz
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = kirgiz
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = kirgiz
+		religion = sunni
+		size = 125
+	}
+
+	soldiers = {
+		culture = kirgiz
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = kirgiz
+		religion = sunni
+		size = 2775
+	}
+
+	aristocrats = {
+		culture = tajik
+		religion = sunni
+		size = 125
+	}
+
+	clergymen = {
+		culture = tajik
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = tajik
+		religion = sunni
+		size = 325
+	}
+
+	soldiers = {
+		culture = tajik
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = tajik
+		religion = sunni
+		size = 6450
+	}
+
+	slaves = {
+		culture = uzbek
+		religion = sunni
+		size = 2000
+	}
+}

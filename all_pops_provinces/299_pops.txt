@@ -1,0 +1,45 @@
+
+299 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 1500
+	}
+
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 1250
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 5500
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 1500
+	}
+
+	labourers = {
+		culture = british
+		religion = protestant
+		size = 186250
+	}
+
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 1100
+	}
+
+}

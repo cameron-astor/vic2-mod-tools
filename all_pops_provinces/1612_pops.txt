@@ -1,0 +1,87 @@
+
+1612 = {
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 24050
+	}
+
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 9100
+	}
+
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 6000
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 12050
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 114000
+	}
+
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 6550
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 908650
+	}
+	
+	serfs = {
+		culture = beifaren
+		religion = mahayana
+		size = 90000
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 850
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 1100
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 450
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 31250
+	}
+}

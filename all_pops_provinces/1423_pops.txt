@@ -1,0 +1,74 @@
+
+1423 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 100
+	}
+	
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 50
+	}
+	
+	clergymen = {
+		culture = malay
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = malay
+		religion = animist
+		size = 450
+	}
+
+	soldiers = {
+		culture = malay
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = malay
+		religion = animist
+		size = 7400
+	}
+
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 350
+	}
+
+	bureaucrats = {
+		culture = malay
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 375
+	}
+
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 1850
+	}
+
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 400
+	}
+
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 34675
+	}
+}

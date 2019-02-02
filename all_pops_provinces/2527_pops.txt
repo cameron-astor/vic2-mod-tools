@@ -1,0 +1,34 @@
+
+2527 = {
+	aristocrats = {
+		culture = micronesian
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = micronesian
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = micronesian
+		religion = animist
+		size = 175
+	}
+
+	soldiers = {
+		culture = micronesian
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 3125
+	}
+
+}
+

@@ -1,0 +1,80 @@
+
+1515 = {
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 20000
+	}
+	
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 6000
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 10300
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 1500
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 3000
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 2300
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 877900
+	}
+	
+	serfs = {
+		culture = beifaren
+		religion = mahayana
+		size = 60000
+	}
+}

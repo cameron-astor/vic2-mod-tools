@@ -1,0 +1,56 @@
+
+61 = {
+	aristocrats = {
+		culture = cree
+		religion = animist
+		size = 15
+	}
+
+	clergymen = {
+		culture = cree
+		religion = animist
+		size = 20
+	}
+
+	artisans = {
+		culture = cree
+		religion = animist
+		size = 40
+	}
+
+	soldiers = {
+		culture = cree
+		religion = animist
+		size = 10
+	}
+
+	farmers = {
+		culture = cree
+		religion = animist
+		size = 715
+	}
+
+	clergymen = {
+		culture = french_canadian
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = french_canadian
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = french_canadian
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = french_canadian
+		religion = catholic
+		size = 1825
+	}
+}

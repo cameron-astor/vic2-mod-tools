@@ -1,0 +1,87 @@
+
+2585 = {
+
+	aristocrats = {
+		culture = maghrebi
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = maghrebi
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = maghrebi
+		religion = sunni
+		size = 150
+	}
+	
+	soldiers = {
+		culture = maghrebi
+		religion = sunni
+		size = 1100
+	}
+
+	farmers = {
+		culture = maghrebi
+		religion = sunni
+		size = 1650
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 15
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 50
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 10
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 500
+	}
+	
+	aristocrats = {
+		culture = teda
+		religion = sunni
+		size = 15
+	}
+
+	clergymen = {
+		culture = teda
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = teda
+		religion = sunni
+		size = 50
+	}
+	
+	farmers = {
+		culture = teda
+		religion = sunni
+		size = 1310
+	}
+}

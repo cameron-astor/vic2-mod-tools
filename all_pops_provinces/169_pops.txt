@@ -1,0 +1,56 @@
+
+169 = {
+	bureaucrats = {
+		culture = yankee
+		religion = protestant
+		size = 275
+	}
+
+	officers = {
+		culture = yankee
+		religion = protestant
+		size = 150
+	}
+
+	clergymen = {
+		culture = yankee
+		religion = protestant
+		size = 375
+	}
+
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 3200
+	}
+
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 650
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 64225
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 75
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 250
+	}
+
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 4675
+	}
+}

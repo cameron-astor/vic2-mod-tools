@@ -1,0 +1,57 @@
+
+2562 = {
+	farmers = {
+		culture = asian_minor
+		religion = animist
+		size = 17000
+	}
+	
+	slaves = {
+		culture = asian_minor
+		religion = animist
+		size = 20000
+	}
+	
+	soldiers = {
+		culture = asian_minor
+		religion = animist
+		size = 5000
+	}
+	
+	aristocrats = {
+		culture = asian_minor
+		religion = animist
+		size = 1000
+	}
+	
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 150
+	}
+	
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 100
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 750
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1300
+	}
+
+	farmers = {
+		culture = min
+		religion = mahayana
+		size = 12925
+	}
+}
+

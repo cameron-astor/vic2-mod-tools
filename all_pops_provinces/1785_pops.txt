@@ -1,0 +1,170 @@
+
+1785 = {
+	aristocrats = {
+		culture = mande
+		religion = sunni
+		size = 100
+	}
+
+	officers = {
+		culture = mande
+		religion = sunni
+		size = 100
+	}
+	
+	clergymen = {
+		culture = mande
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = mande
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = mande
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = mande
+		religion = sunni
+		size = 12446
+	}
+	
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 100
+	}
+
+	officers = {
+		culture = fulbe
+		religion = sunni
+		size = 100
+	}
+	
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 5021
+	}
+	
+	aristocrats = {
+		culture = wolof
+		religion = sunni
+		size = 100
+	}
+
+	officers = {
+		culture = wolof
+		religion = sunni
+		size = 100
+	}
+	
+	clergymen = {
+		culture = wolof
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = wolof
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = wolof
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = wolof
+		religion = sunni
+		size = 2834
+	}
+
+	aristocrats = {
+		culture = western_nigritic
+		religion = animist
+		size = 100
+	}
+	
+	officers = {
+		culture = western_nigritic
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = western_nigritic
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = western_nigritic
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = western_nigritic
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = western_nigritic
+		religion = animist
+		size = 850
+	}
+	
+	aristocrats = {
+		culture = western_nigritic
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = western_nigritic
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = western_nigritic
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = western_nigritic
+		religion = sunni 	
+		size = 1549
+	}
+}

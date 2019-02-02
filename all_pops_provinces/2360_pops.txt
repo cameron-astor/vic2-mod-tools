@@ -1,0 +1,44 @@
+
+2360 = {
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 75
+	}
+
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 2000
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = guarani
+		religion = animist
+		size = 500
+	}
+
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 36825
+	}
+}

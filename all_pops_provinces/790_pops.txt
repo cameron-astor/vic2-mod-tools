@@ -1,0 +1,68 @@
+
+790 = {
+	aristocrats = {
+		culture = lunda
+		religion = animist
+		size = 250
+	}
+
+	clergymen = {
+		culture = lunda
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = lunda
+		religion = animist
+		size = 650
+	}
+
+	soldiers = {
+		culture = lunda
+		religion = animist
+		size = 200
+	}
+
+	farmers = {
+		culture = lunda
+		religion = animist
+		size = 12750
+	}
+
+	aristocrats = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 100
+	}
+
+	clergymen = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 300
+	}
+
+	soldiers = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 5400
+	}
+
+	slaves = {
+		culture = south_forest_bantu
+		religion = animist
+		size = 2000
+	}
+}

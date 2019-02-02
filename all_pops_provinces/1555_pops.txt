@@ -1,0 +1,57 @@
+
+1555 = {
+
+	clergymen = {
+		culture = manchu
+		religion = mahayana
+		size = 850
+	}
+
+	artisans = {
+		culture = manchu
+		religion = mahayana
+		size = 700
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 1200
+	}
+
+	labourers = {
+		culture = manchu
+		religion = mahayana
+		size = 27550
+	}
+	
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 450
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 900
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1100
+	}
+	
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 60000
+	}
+
+	slaves = {
+		culture = korean
+		religion = mahayana
+		size = 1450
+	}
+}

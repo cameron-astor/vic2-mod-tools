@@ -1,0 +1,116 @@
+
+356 = {
+	clergymen = {
+		culture = latvian
+		religion = protestant
+		size = 175
+	}
+
+	artisans = {
+		culture = latvian
+		religion = protestant
+		size = 650
+	}
+
+	soldiers = {
+		culture = latvian
+		religion = protestant
+		size = 250
+	}
+
+	farmers = {
+		culture = latvian
+		religion = protestant
+		size = 19800
+	}
+
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 700
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 2200
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 400
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1525
+	}
+
+	aristocrats = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 100
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 2050
+	}
+
+	farmers = {
+		culture = lithuanian
+		religion = catholic
+		size = 3850
+	}
+
+	farmers = {
+		culture = polish
+		religion = catholic
+		size = 2025
+	}
+}

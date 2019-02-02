@@ -1,0 +1,16 @@
+
+2508 = {
+	clergymen = {
+		culture = australian
+		religion = protestant
+		size = 10
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 235
+	}
+
+}
+

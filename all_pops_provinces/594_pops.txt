@@ -1,0 +1,44 @@
+
+594 = {
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 150  
+	}
+
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 20  
+	}
+
+	officers = {
+		culture = south_german
+		religion = catholic
+		size = 15  
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 150
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 775
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 1000
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 13140
+	}
+}

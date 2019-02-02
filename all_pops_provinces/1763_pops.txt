@@ -1,0 +1,50 @@
+
+1763 = {
+	aristocrats = {
+		culture = misri
+		religion = sunni
+		size = 275
+	}
+
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 2800
+	}
+
+	soldiers = {
+		culture = misri
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 15575
+	}
+
+	clergymen = {
+		culture = misri
+		religion = coptic
+		size = 50
+	}
+
+	artisans = {
+		culture = misri
+		religion = coptic
+		size = 150
+	}
+
+	farmers = {
+		culture = misri
+		religion = coptic
+		size = 2800
+	}
+}

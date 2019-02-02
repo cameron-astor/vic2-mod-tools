@@ -1,0 +1,68 @@
+
+1853 = {
+	aristocrats = {
+		culture = amhara
+		religion = coptic
+		size = 1400
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = coptic
+		size = 700
+	}
+
+	artisans = {
+		culture = amhara
+		religion = coptic
+		size = 2900
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = coptic
+		size = 5000
+	}
+
+	farmers = {
+		culture = amhara
+		religion = coptic
+		size = 113500
+	}
+
+	slaves = {
+		culture = amhara
+		religion = coptic
+		size = 10000
+	}
+
+	aristocrats = {
+		culture = oromo
+		religion = coptic
+		size = 800
+	}
+
+	clergymen = {
+		culture = oromo
+		religion = coptic
+		size = 440
+	}
+
+	artisans = {
+		culture = oromo
+		religion = coptic
+		size = 4810
+	}
+
+	farmers = {
+		culture = oromo
+		religion = coptic
+		size = 7750
+	}
+
+	slaves = {
+		culture = oromo
+		religion = animist
+		size = 16700
+	}
+}

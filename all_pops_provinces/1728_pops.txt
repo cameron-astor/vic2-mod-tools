@@ -1,0 +1,50 @@
+
+1728 = {
+	aristocrats = {
+		culture = maghrebi
+		religion = sunni
+		size = 875
+	}
+
+	clergymen = {
+		culture = maghrebi
+		religion = sunni
+		size = 400
+	}
+
+	artisans = {
+		culture = maghrebi
+		religion = sunni
+		size = 2250
+	}
+
+	soldiers = {
+		culture = maghrebi
+		religion = sunni
+		size = 1100
+	}
+
+	farmers = {
+		culture = maghrebi
+		religion = sunni
+		size = 40225
+	}
+
+	slaves = {
+		culture = berber
+		religion = sunni
+		size = 12000
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 5
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 245
+	}
+}

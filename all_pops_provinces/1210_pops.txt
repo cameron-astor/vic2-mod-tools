@@ -1,0 +1,88 @@
+
+1210 = {
+	aristocrats = {
+		culture = uzbek
+		religion = sunni
+		size = 125
+	}
+
+	clergymen = {
+		culture = uzbek
+		religion = sunni
+		size = 100
+	}
+	
+	bureaucrats = {
+		culture = uzbek
+		religion = sunni
+		size = 300
+	}
+
+	artisans = {
+		culture = uzbek
+		religion = sunni
+		size = 350
+	}
+	
+	officers = {
+		culture = uzbek
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = uzbek
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = uzbek
+		religion = sunni
+		size = 5512
+	}
+
+	aristocrats = {
+		culture = tajik
+		religion = sunni
+		size = 1650
+	}
+
+	clergymen = {
+		culture = tajik
+		religion = sunni
+		size = 775
+	}
+
+	artisans = {
+		culture = tajik
+		religion = sunni
+		size = 3750
+	}
+	
+	officers = {
+		culture = tajik
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = tajik
+		religion = sunni
+		size = 4000
+	}
+
+	farmers = {
+		culture = tajik
+		religion = sunni
+		size = 62825
+	}
+
+	slaves = {
+		culture = tajik
+		religion = sunni
+		size = 6000
+	}
+
+}
+

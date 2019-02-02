@@ -1,0 +1,182 @@
+
+1545 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 4325
+	}
+
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 4900
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 5000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11000
+	}
+	
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 5050
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 3000
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2025
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 451175
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 3100
+	}
+
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 1625
+	}
+
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1425
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 1550
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 7800
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1575
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 140075
+	}
+
+	aristocrats = {
+		culture = miao
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = miao
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = miao
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = miao
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = miao
+		religion = animist
+		size = 1800
+	}
+
+	aristocrats = {
+		culture = hakka
+		religion = mahayana
+		size = 700
+	}
+
+	clergymen = {
+		culture = hakka
+		religion = mahayana
+		size = 375
+	}
+
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 1750
+	}
+
+	soldiers = {
+		culture = hakka
+		religion = mahayana
+		size = 350
+	}
+
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 31825
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = mahayana
+		size = 200
+	}
+
+	officers = {
+		culture = manchu
+		religion = mahayana
+		size = 175
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = mahayana
+		size = 500
+	}
+}

@@ -1,0 +1,34 @@
+
+77 = {
+	clergymen = {
+		culture = french_canadian
+		religion = catholic
+		size = 4
+	}
+
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 1
+	}
+
+	artisans = {
+		culture = basque
+		religion = catholic
+		size = 45
+	}
+
+	labourers = {
+		culture = breton
+		religion = catholic
+		size = 40
+	}
+	
+	labourers = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 10
+	}
+
+}
+

@@ -1,0 +1,111 @@
+
+1342 = {
+	aristocrats = {
+		culture = kachin
+		religion = animist
+		size = 400
+	}
+
+	clergymen = {
+		culture = kachin
+		religion = animist
+		size = 400
+	}
+
+	artisans = {
+		culture = kachin
+		religion = animist
+		size = 2000
+	}
+
+	soldiers = {
+		culture = kachin
+		religion = animist
+		size = 400
+	}
+
+	farmers = {
+		culture = kachin
+		religion = animist
+		size = 37800
+	}
+
+	aristocrats = {
+		culture = shan
+		religion = theravada
+		size = 250
+	}
+
+	clergymen = {
+		culture = shan
+		religion = theravada
+		size = 250
+	}
+
+	artisans = {
+		culture = shan
+		religion = theravada
+		size = 1200
+	}
+
+	soldiers = {
+		culture = shan
+		religion = theravada
+		size = 250
+	}
+
+	farmers = {
+		culture = shan
+		religion = theravada
+		size = 21050
+	}
+
+	aristocrats = {
+		culture = burmese
+		religion = theravada
+		size = 300
+	}
+
+	clergymen = {
+		culture = burmese
+		religion = theravada
+		size = 300
+	}
+
+	artisans = {
+		culture = burmese
+		religion = theravada
+		size = 1350
+	}
+
+	bureaucrats = {
+		culture = burmese
+		religion = theravada
+		size = 100
+	}
+
+	soldiers = {
+		culture = burmese
+		religion = theravada
+		size = 3000
+	}
+
+	soldiers = {
+		culture = burmese
+		religion = theravada
+		size = 1000
+	}
+
+	farmers = {
+		culture = burmese
+		religion = theravada
+		size = 20950
+	}
+
+	slaves = {
+		culture = asian_minor
+		religion = animist
+		size = 10000
+	}
+
+}

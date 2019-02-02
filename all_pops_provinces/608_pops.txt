@@ -1,0 +1,32 @@
+
+608 = {
+	aristocrats = {
+		culture = swiss
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = swiss
+		religion = protestant
+		size = 125
+	}
+
+	artisans = {
+		culture = swiss
+		religion = protestant
+		size = 3000
+	}
+
+	soldiers = {
+		culture = swiss
+		religion = protestant
+		size = 150
+	}
+
+	farmers = {
+		culture = swiss
+		religion = protestant
+		size = 10625
+	}
+}

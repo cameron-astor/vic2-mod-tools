@@ -1,0 +1,38 @@
+
+666 = {
+	aristocrats = {
+		culture = romanian
+		religion = orthodox
+		size = 900 
+	}
+
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 450 
+	}
+
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 2250
+	}
+
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 1100
+	}
+
+	farmers = {
+		culture = romanian
+		religion = orthodox
+		size = 55950 
+	}
+	
+	slaves = {
+		culture = gypsy
+		religion = orthodox
+		size = 5000
+	}
+}

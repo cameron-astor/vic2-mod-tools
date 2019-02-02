@@ -1,0 +1,70 @@
+
+1953 = {
+	aristocrats = {
+		culture = kanuri
+		religion = sunni
+		size = 3900
+	}
+
+	clergymen = {
+		culture = kanuri
+		religion = sunni
+		size = 2000
+	}
+
+	artisans = {
+		culture = kanuri
+		religion = sunni
+		size = 7900
+	}
+
+	soldiers = {
+		culture = kanuri
+		religion = sunni
+		size = 2000
+	}
+
+	farmers = {
+		culture = kanuri
+		religion = sunni
+		size = 144200
+	}
+
+	slaves = {
+		culture = hausa
+		religion = sunni
+		size = 36000
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 200
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 400
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 7200
+	}
+
+}
+

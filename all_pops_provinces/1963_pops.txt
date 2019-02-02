@@ -1,0 +1,80 @@
+
+1963 = {
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 500
+	}
+
+	bureaucrats = {
+		culture = fulbe
+		religion = sunni
+		size = 25
+	}
+
+	officers = {
+		culture = fulbe
+		religion = sunni
+		size = 75
+	}
+
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 250
+	}
+
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 1050
+	}
+
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 275
+	}
+
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 19825
+	}
+
+	aristocrats = {
+		culture = ubangian
+		religion = animist
+		size = 275
+	}
+
+	clergymen = {
+		culture = ubangian
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = ubangian
+		religion = animist
+		size = 575
+	}
+
+	soldiers = {
+		culture = ubangian
+		religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = ubangian
+		religion = animist
+		size = 12850
+	}
+
+	slaves = {
+		culture = tiv
+		religion = animist
+		size = 4000
+	}
+}

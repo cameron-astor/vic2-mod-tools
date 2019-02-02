@@ -1,0 +1,86 @@
+
+2271 = {
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 650
+	}
+
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 275
+	}
+
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 1350
+	}
+
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 23725
+	}
+
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 200
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2700
+	}
+
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1100
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 10
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 10
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 930
+	}
+}

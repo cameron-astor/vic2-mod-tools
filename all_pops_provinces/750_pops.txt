@@ -1,0 +1,32 @@
+
+750 = {
+	aristocrats = {
+		culture = south_italian
+		religion = catholic
+		size = 1100
+	}
+
+	clergymen = {
+		culture = south_italian
+		religion = catholic
+		size = 500
+	}
+
+	artisans = {
+		culture = south_italian
+		religion = catholic
+		size = 2250
+	}
+
+	soldiers = {
+		culture = south_italian
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = south_italian
+		religion = catholic
+		size = 40150
+	}
+}

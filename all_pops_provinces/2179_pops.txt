@@ -1,0 +1,45 @@
+
+2179 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 900
+	}
+
+	bureaucrats = {
+		culture = mexican
+		religion = catholic
+		size = 125
+	}
+
+	officers = {
+		culture = mexican
+		religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 325
+	}
+
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 1150
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 250
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 23250
+	}
+
+	clergymen = {

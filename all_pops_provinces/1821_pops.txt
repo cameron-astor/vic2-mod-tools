@@ -1,0 +1,159 @@
+
+1821 = {
+	aristocrats = {
+		culture = fur
+		religion = sunni
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = fur
+		religion = sunni
+		size = 50
+	}
+
+	officers = {
+		culture = fur
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = fur
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = fur
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = fur
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = fur
+		religion = sunni
+		size = 550
+	}
+	
+	aristocrats = {
+		culture = baguirmi
+		religion = sunni
+		size = 100
+	}
+
+	officers = {
+		culture = baguirmi
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = baguirmi
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = baguirmi
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = baguirmi
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = baguirmi
+		religion = sunni
+		size = 550
+	}
+
+	aristocrats = {
+		culture = teda
+		religion = sunni
+		size = 300
+	}
+	
+	bureaucrats = {
+		culture = teda
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = teda
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = teda
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = teda
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = teda
+		religion = sunni
+		size = 20183
+	}
+	
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 300
+	}
+	
+	bureaucrats = {
+		culture = bedouin
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 7000
+	}
+
+	slaves = {
+		culture = baguirmi
+		religion = animist
+		size = 300
+	}
+
+}

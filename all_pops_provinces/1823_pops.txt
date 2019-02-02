@@ -1,0 +1,105 @@
+
+1823 = {
+	aristocrats = {
+		culture = fur
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = fur
+		religion = sunni
+		size = 350
+	}
+
+	artisans = {
+		culture = fur
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = fur
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = fur
+		religion = sunni
+		size = 5000
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 300
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 500
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 7269
+	}
+	
+	
+	aristocrats = {
+		culture = baguirmi
+		religion = sunni
+		size = 300
+	}
+
+	clergymen = {
+		culture = baguirmi
+		religion = sunni
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = baguirmi
+		religion = sunni
+		size = 100
+	}
+	
+	artisans = {
+		culture = baguirmi
+		religion = sunni
+		size = 1500
+	}
+
+	soldiers = {
+		culture = baguirmi
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = baguirmi
+		religion = sunni
+		size = 7246
+	}
+
+	slaves = {
+		culture = ubangian
+		religion = animist
+		size = 2000
+	}
+}

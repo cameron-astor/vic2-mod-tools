@@ -1,0 +1,158 @@
+
+809 = {
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 1450
+	}
+
+	bureaucrats = {
+		culture = turkish
+		religion = sunni
+		size = 400
+	}
+
+	officers = {
+		culture = turkish
+		religion = sunni
+		size = 300
+	}
+
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 125
+	}
+
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 2500
+	}
+	
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 500
+	}
+
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 7383
+	}
+	
+	aristocrats = {
+		culture = bulgarian
+		religion = sunni
+		size = 100
+	}
+
+	officers = {
+		culture = bulgarian
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = bulgarian
+		religion = sunni
+		size = 600
+	}
+
+	artisans = {
+		culture = bulgarian
+		religion = sunni
+		size = 500
+	}
+	
+	soldiers = {
+		culture = bulgarian
+		religion = sunni
+		size = 500
+	}
+
+	farmers = {
+		culture = bulgarian
+		religion = sunni
+		size = 5442
+	}
+	
+	aristocrats = {
+		culture = bulgarian
+		religion = orthodox
+		size = 150
+	}
+	
+	officers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 110
+	}
+
+	clergymen = {
+		culture = bulgarian
+		religion = orthodox
+		size = 375
+	}
+
+	artisans = {
+		culture = bulgarian
+		religion = orthodox
+		size = 2400
+	}
+
+	soldiers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 2000
+	}
+	
+	farmers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 48425
+	}
+	
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 110
+	}
+	
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 110
+	}
+	
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 150
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 150
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 200
+	}
+	
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 2000
+	}
+}

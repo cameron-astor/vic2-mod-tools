@@ -1,0 +1,81 @@
+
+1250 = {
+	aristocrats = {
+		culture = bihari
+		religion = hindu
+		size = 5000
+	}
+
+	clergymen = {
+		culture = bihari
+		religion = hindu
+		size = 4250
+	}
+
+	artisans = {
+		culture = bihari
+		religion = hindu
+		size = 10000
+	}
+	
+	artisans = {
+		culture = bihari
+		religion = hindu
+		size = 10000
+	}
+	
+	artisans = {
+		culture = bihari
+		religion = hindu
+		size = 2000
+	}
+
+	soldiers = {
+		culture = bihari
+		religion = hindu
+		size = 3000
+	}
+
+	soldiers = {
+		culture = bihari
+		religion = hindu
+		size = 1500
+	}
+
+	farmers = {
+		culture = bihari
+		religion = hindu
+		size = 385250
+	}
+
+	aristocrats = {
+		culture = bihari
+		religion = sunni
+		size = 500
+	}
+
+	clergymen = {
+		culture = bihari
+		religion = sunni
+		size = 625
+	}
+
+	artisans = {
+		culture = bihari
+		religion = sunni
+		size = 2000
+	}
+
+	soldiers = {
+		culture = bihari
+		religion = sunni
+		size = 500
+	}
+
+	farmers = {
+		culture = bihari
+		religion = sunni
+		size = 50375
+	}
+
+}

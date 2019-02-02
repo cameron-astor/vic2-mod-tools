@@ -1,0 +1,86 @@
+
+878 = {
+	aristocrats = {
+		culture = turkish
+		religion = sunni
+		size = 300
+	}
+
+	clergymen = {
+		culture = turkish
+		religion = sunni
+		size = 125
+	}
+
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 600
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = sunni
+		size = 250
+	}
+
+	farmers = {
+		culture = turkish
+		religion = sunni
+		size = 107225
+	}
+	
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 200
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 120
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 250
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 4700
+	}
+	
+	soldiers = {
+		culture = armenian
+		religion = orthodox
+		size = 200
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = orthodox
+		size = 120
+	}
+
+	artisans = {
+		culture = armenian
+		religion = orthodox
+		size = 350
+	}
+
+	farmers = {
+		culture = armenian
+		religion = orthodox
+		size = 6575
+	}
+
+	slaves = {
+		culture = circassian
+		religion = orthodox
+		size = 1000
+	}
+}

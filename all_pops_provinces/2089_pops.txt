@@ -1,0 +1,98 @@
+
+2089 = {
+	clergymen = {
+		culture = khoisan
+		religion = protestant
+		size = 50
+	}
+	
+	soldiers = {
+		culture = khoisan
+		religion = protestant
+		size = 100
+	}
+
+	artisans = {
+		culture = khoisan
+		religion = protestant
+		size = 250
+	}
+
+	farmers = {
+		culture = khoisan
+		religion = protestant
+		size = 7500
+	}
+
+	clergymen = {
+		culture = khoisan
+		religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = khoisan
+		religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = khoisan
+		religion = animist
+		size = 6700
+	}
+
+	aristocrats = {
+		culture = boer
+		religion = protestant
+		size = 10
+	}
+
+	bureaucrats = {
+		culture = boer
+		religion = protestant
+		size = 40
+	}
+
+	clergymen = {
+		culture = boer
+		religion = protestant
+		size = 95
+	}
+
+	artisans = {
+		culture = boer
+		religion = protestant
+		size = 1000
+	}
+	
+	soldiers = {
+		culture = boer
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = boer
+		religion = protestant
+		size = 3725
+	}
+
+	artisans = {
+		culture = sotho
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = sotho
+		religion = animist
+		size = 9800
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 260
+	}
+}

@@ -1,0 +1,74 @@
+
+720 = {
+	aristocrats = {
+		culture = north_italian
+		religion = catholic
+		size = 4000
+	}
+	
+	capitalists = {
+		culture = north_italian
+		religion = catholic
+		size = 25
+	}
+
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic
+		size = 850
+	}
+
+	officers = {
+		culture = north_italian
+		religion = catholic
+		size = 425
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = catholic
+		size = 2325
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 10000
+	}
+
+	craftsmen = {
+		culture = north_italian
+		religion = catholic
+		size = 3000
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 1000
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = catholic
+		size = 5000
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 199900
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = jewish
+		size = 10
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = jewish
+		size = 490
+	}
+}

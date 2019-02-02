@@ -1,0 +1,26 @@
+
+2381 = {
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 125
+	}
+
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 1800
+	}
+}

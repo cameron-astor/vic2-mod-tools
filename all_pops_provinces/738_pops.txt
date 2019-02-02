@@ -1,0 +1,44 @@
+
+738 = {
+	aristocrats = {
+		culture = north_italian
+		religion = catholic
+		size = 2500
+	}
+
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic
+		size = 175
+	}
+
+	officers = {
+		culture = north_italian
+		religion = catholic
+		size = 125
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = catholic
+		size = 1200
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 7500
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = catholic
+		size = 2000
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 104500
+	}
+}

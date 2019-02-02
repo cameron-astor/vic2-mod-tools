@@ -1,0 +1,92 @@
+
+1408 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 100
+	}
+	
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 100
+	}
+	
+	aristocrats = {
+		culture = malay
+		religion = sunni
+		size = 450
+	}
+
+	clergymen = {
+		culture = malay
+		religion = sunni
+		size = 375
+	}
+
+	artisans = {
+		culture = malay
+		religion = sunni
+		size = 2100
+	}
+
+	soldiers = {
+		culture = malay
+		religion = sunni
+		size = 400
+	}
+
+	farmers = {
+		culture = malay
+		religion = sunni
+		size = 36975
+	}
+
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 750
+	}
+
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 200
+	}
+
+	aristocrats = {
+		culture = asian_minor
+		religion = animist
+		size = 200
+	}
+
+	clergymen = {
+		culture = asian_minor
+		religion = animist
+		size = 125
+	}
+
+	artisans = {
+		culture = asian_minor
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = asian_minor
+		religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = asian_minor
+		religion = animist
+		size = 10425
+	}
+
+	slaves = {
+		culture = asian_minor
+		religion = animist
+		size = 8000
+	}
+}

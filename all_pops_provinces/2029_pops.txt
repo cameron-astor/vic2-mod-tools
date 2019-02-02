@@ -1,0 +1,98 @@
+
+2029 = {
+	aristocrats = {
+		culture = swahili
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = swahili
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 550
+	}
+
+	soldiers = {
+		culture = swahili
+		religion = sunni
+		size = 1100
+	}
+
+	farmers = {
+		culture = swahili
+		religion = sunni
+		size = 9150
+	}
+
+	aristocrats = {
+		culture = mashriqi
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = mashriqi
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 300
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 500
+	}
+
+	aristocrats = {
+		culture = kikuyu
+		religion = animist
+		size = 175
+	}
+
+	clergymen = {
+		culture = kikuyu
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = kikuyu
+		religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = kikuyu
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = kikuyu
+		religion = animist
+		size = 9125
+	}
+
+	slaves = {
+		culture = kikuyu
+		religion = animist
+		size = 3000
+	}
+}

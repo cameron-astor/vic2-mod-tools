@@ -1,0 +1,104 @@
+
+1815 = {
+	aristocrats = {
+		culture = hausa
+		religion = sunni
+		size = 1500
+	}
+	
+	bureaucrats = {
+		culture = hausa
+		religion = sunni
+		size = 600
+	}
+
+	clergymen = {
+		culture = hausa
+		religion = sunni
+		size = 800
+	}
+
+	artisans = {
+		culture = hausa
+		religion = sunni
+		size = 4000
+	}
+
+	soldiers = {
+		culture = hausa
+		religion = sunni
+		size = 1300
+	}
+
+	farmers = {
+		culture = hausa
+		religion = sunni
+		size = 79900
+	}
+
+	aristocrats = {
+		culture = songhai
+		religion = sunni
+		size = 650
+	}
+
+	clergymen = {
+		culture = songhai
+		religion = sunni
+		size = 350
+	}
+
+	artisans = {
+		culture = songhai
+		religion = sunni
+		size = 1800
+	}
+
+	soldiers = {
+		culture = songhai
+		religion = sunni
+		size = 2150
+	}
+
+	farmers = {
+		culture = songhai
+		religion = sunni
+		size = 10850
+	}
+
+	slaves = {
+		culture = songhai
+		religion = animist
+		size = 10000
+	}
+
+	aristocrats = {
+		culture = tuareg
+		religion = sunni
+		size = 150
+	}
+
+	clergymen = {
+		culture = tuareg
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = tuareg
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = tuareg
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = tuareg
+		religion = sunni
+		size = 2150
+	}
+}

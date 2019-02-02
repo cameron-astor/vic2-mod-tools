@@ -1,0 +1,62 @@
+
+1299 = {
+	aristocrats = {
+		culture = marathi
+		religion = hindu
+		size = 3000
+	}
+
+	clergymen = {
+		culture = marathi
+		religion = hindu
+		size = 2500
+	}
+
+	artisans = {
+		culture = marathi
+		religion = hindu
+		size = 10000
+	}
+
+	soldiers = {
+		culture = marathi
+		religion = hindu
+		size = 3000
+	}
+
+	farmers = {
+		culture = marathi
+		religion = hindu
+		size = 255500
+	}
+
+	aristocrats = {
+		culture = kannada
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = kannada
+		religion = sunni
+		size = 175
+	}
+
+	artisans = {
+		culture = kannada
+		religion = sunni
+		size = 5000
+	}
+
+	soldiers = {
+		culture = kannada
+		religion = sunni
+		size = 250
+	}
+
+	farmers = {
+		culture = kannada
+		religion = sunni
+		size = 9375
+	}
+}

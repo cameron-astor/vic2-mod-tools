@@ -1,0 +1,86 @@
+
+260 = {
+	aristocrats = {
+		culture = irish
+		religion = catholic
+		size = 600
+	}
+
+	bureaucrats = {
+		culture = irish
+		religion = catholic
+		size = 2000
+	}
+
+	officers = {
+		culture = irish
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 1500
+	}
+
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 2000
+	}
+
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 1500
+	}
+
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 188350
+	}
+
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 900
+	}
+
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 750
+	}
+
+	officers = {
+		culture = british
+		religion = protestant
+		size = 250
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 500
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 5250
+	}
+}

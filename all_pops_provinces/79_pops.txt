@@ -1,0 +1,33 @@
+
+79 = {
+
+	clergymen = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 3
+	}
+
+	artisans = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 3
+	}
+
+	soldiers = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 3
+	}
+	
+	farmers = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 10
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 1000
+	}
+}

@@ -1,0 +1,98 @@
+
+392 = {
+	aristocrats = {
+		culture = wallonian
+		religion = catholic
+		size = 850
+	}
+
+	officers = {
+		culture = wallonian
+		religion = catholic
+		size = 350
+	}
+
+	bureaucrats = {
+		culture = wallonian
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = wallonian
+		religion = catholic
+		size = 550
+	}
+
+	capitalists = {
+		culture = wallonian
+		religion = catholic
+		size = 150
+	}
+
+	clerks = {
+		culture = wallonian
+		religion = catholic
+		size = 2000
+	}
+
+	craftsmen = {
+		culture = wallonian
+		religion = catholic
+		size = 14000
+	}
+
+	artisans = {
+		culture = wallonian
+		religion = catholic
+		size = 1300
+	}
+
+	soldiers = {
+		culture = wallonian
+		religion = catholic
+		size = 4000
+	}
+
+	labourers = {
+		culture = wallonian
+		religion = catholic
+		size = 41200
+	}
+
+	clergymen = {
+		culture = flemish
+		religion = catholic
+		size = 150
+	}
+
+	artisans = {
+		culture = flemish
+		religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = flemish
+		religion = catholic
+		size = 125
+	}
+
+	labourers = {
+		culture = flemish
+		religion = catholic
+		size = 7825
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 75
+	}
+
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 15925
+	}
+}

@@ -1,0 +1,92 @@
+
+1338 = {
+	aristocrats = {
+		culture = shan
+		religion = theravada
+		size = 900
+	}
+
+	bureaucrats = {
+		culture = shan
+		religion = theravada
+		size = 225
+	}
+
+	officers = {
+		culture = shan
+		religion = theravada
+		size = 175
+	}
+
+	clergymen = {
+		culture = shan
+		religion = theravada
+		size = 850
+	}
+
+	artisans = {
+		culture = shan
+		religion = theravada
+		size = 4250
+	}
+
+	soldiers = {
+		culture = shan
+		religion = theravada
+		size = 850
+	}
+
+	farmers = {
+		culture = shan
+		religion = theravada
+		size = 61750
+	}
+
+	aristocrats = {
+		culture = burmese
+		religion = theravada
+		size = 150
+	}
+
+	bureaucrats = {
+		culture = burmese
+		religion = theravada
+		size = 100
+	}
+
+	officers = {
+		culture = burmese
+		religion = theravada
+		size = 25
+	}
+
+	clergymen = {
+		culture = burmese
+		religion = theravada
+		size = 200
+	}
+
+	artisans = {
+		culture = burmese
+		religion = theravada
+		size = 1100
+	}
+
+	soldiers = {
+		culture = burmese
+		religion = theravada
+		size = 225
+	}
+
+	farmers = {
+		culture = burmese
+		religion = theravada
+		size = 18300
+	}
+
+	slaves = {
+		culture = thai
+		religion = theravada
+		size = 15000
+	}
+}

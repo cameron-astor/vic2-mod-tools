@@ -1,0 +1,75 @@
+
+460 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 1200
+	}
+
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 850
+	}
+
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 3000
+	}
+
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 1250
+	}
+
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 64700
+	}
+
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 10000
+	}
+
+	aristocrats = {
+		culture = basque
+		religion = catholic
+		size = 400
+	}
+
+	clergymen = {
+		culture = basque
+		religion = catholic
+		size = 350
+	}
+
+	artisans = {
+		culture = basque
+		religion = catholic
+		size = 2500
+	}
+
+	soldiers = {
+		culture = basque
+		religion = catholic
+		size = 450
+	}
+
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 31300
+	}
+
+}

@@ -1,0 +1,164 @@
+
+651 = {
+	clergymen = {
+		culture = romanian
+		religion = orthodox
+		size = 500  
+	}
+
+	artisans = {
+		culture = romanian
+		religion = orthodox
+		size = 2500  
+	}
+
+	soldiers = {
+		culture = romanian
+		religion = orthodox
+		size = 550
+	}
+
+	serfs = {
+		culture = romanian
+		religion = orthodox
+		size = 47450  
+	}
+	
+	serfs = {
+		culture = gypsy
+		religion = orthodox
+		size = 3000  
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 1250 
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 175 
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 900 
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 15475 
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = protestant
+		size = 1500
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = protestant
+		size = 225    
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = protestant
+		size = 1300   
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = protestant
+		size = 250
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = protestant
+		size = 21725     
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = jewish
+		size = 50 
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = jewish
+		size = 1100 
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = jewish
+		size = 25
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = jewish
+		size = 825     
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 50  
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 450  
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 75
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 6425
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 50   
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 750  
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 50
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 4150     
+	}
+}

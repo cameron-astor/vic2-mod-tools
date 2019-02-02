@@ -1,0 +1,32 @@
+
+2690 = {
+	clergymen = {
+		culture = ugrian
+		religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = ugrian
+		religion = animist
+		size = 195
+	}
+
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 5
+	}
+
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 5
+	}
+
+	farmers = {
+		culture = russian
+		religion = orthodox
+		size = 90
+	}
+}

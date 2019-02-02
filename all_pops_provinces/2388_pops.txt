@@ -1,0 +1,27 @@
+
+2388 = {
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 15
+	}
+
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 25
+	}
+
+
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 60
+	}
+
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 900
+	}
+}

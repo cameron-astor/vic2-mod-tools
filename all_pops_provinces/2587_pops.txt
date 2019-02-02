@@ -1,0 +1,26 @@
+
+2587 = {
+	clergymen = {
+		culture = russian
+		religion = orthodox
+		size = 5
+	}
+
+	farmers = {
+		culture = sami
+		religion = orthodox
+		size = 240
+	}
+
+	clergymen = {
+		culture = finnish
+		religion = orthodox
+		size = 5
+	}
+
+	farmers = {
+		culture = finnish
+		religion = orthodox
+		size = 300
+	}
+}
