@@ -20,6 +20,7 @@ public class PopGroup {
 	//	size = 5
 	//}
 	//A PopGroup stores all of the relevant data for a single one of these groups.
+	
 	public PopGroup(String inputPopType, String inputCulture, String inputReligion, int size) {
 		
 		this.popType = inputPopType;
@@ -49,13 +50,15 @@ public class PopGroup {
 		return culture;
 	}
 	
-	//Idea: Make every pop subset in the file into Pop Groups, THEN sort through them with the 
-	//user's desired criteria. Put this search function in another class, perhaps PopParser. This 
-	//class should ONLY create the groups with all the information.
-	
-	//Prints a PopGroup to a text file
-	public void printPopGroup(File file, PrintStream output) {
-		
+	//Prints a PopGroup to a text file with a blank line underneath
+	//Must be given a PrintStream to do so with.
+	public void printPopGroup(PrintStream output) {
+		output.println("	" + popType + " = {");
+		output.println("		culture = " + culture);
+		output.println("		religion = " + religion);
+		output.println("		size = " + size);
+		output.println("	}");
+		output.println();
 	}
 	
 }
