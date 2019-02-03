@@ -5,6 +5,10 @@ import java.io.*;
 
 //Uses the PopParser to create individual text files for every province in the relevant pop file.
 //Places these extracted provinces in a new directory located in ___________ <- ???
+
+//TODO
+//File pathing
+
 public class ExtractAllProvinces {
 	
 	public static void main (String[] args) throws FileNotFoundException {
