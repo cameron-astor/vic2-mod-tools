@@ -10,13 +10,13 @@ public class PopParserTests {
 	    	    
 		PopParser parser = new PopParser("./all_pops.txt");
 		
-		//PRINT POPGROUP TEST
+	/*	//PRINT POPGROUP TEST
 		File test = new File("./test.txt");
 		PrintStream output = new PrintStream(test);
 		PopGroup group = new PopGroup("aristocrats", "french", "daoist", 4500);
 		PopGroup group2 = new PopGroup("communizers", "malibu", "hamish patterson thought", 27000);
 		group.printPopGroup(output);
-		group2.printPopGroup(output);
+		group2.printPopGroup(output); */
 		
 	/*	
 		 //SEARCH TEST
