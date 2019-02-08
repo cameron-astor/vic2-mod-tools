@@ -7,6 +7,12 @@ import java.io.*;
 //An class which provides functionality to add and subtract pop groups from a pop file.
 public class PopEditor {
 	
+	//TODO 
+	//fix overwrite 
+	//clear method (remove all pop groups from province)
+	//subtract method
+	//subtractAll method 
+	
 	private String fileName; //Name of the file to be edited
 	private File file; //The file to be edited
 	private boolean overwrite; //If true, the file is overwritten.
@@ -56,13 +62,18 @@ public class PopEditor {
 		this.overwrite = overwrite;
 	}
 	
+	//removes all PopGroups from the province 
+	public void clear() {
+		
+	}
+	
 	//Adds a single pop group to the desired file.
 	//If the province ID is not found in the file, file is unchanged.
 	public void add(PopGroup pops) throws FileNotFoundException {
 		Scanner input = new Scanner(file);
 		PrintStream output;
 		if(overwrite) { //If overwrite is true, will print to the current file.
-			output = new PrintStream(file);
+			output = new PrintStream(new File(fileName));          //OVERWRITE CURRENTLY BROKEN
 		} else { //else creates a new output file with the _edited suffix.
 			output = new PrintStream(new File(fileName.replace(".txt", "") + "_edited.txt"));
 		}
@@ -84,7 +95,5 @@ public class PopEditor {
 	public void addAll(ArrayList<PopGroup> pops) {
 		
 	}
-	
-	
-	
+		
 }

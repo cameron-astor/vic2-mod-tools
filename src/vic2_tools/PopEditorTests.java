@@ -19,6 +19,9 @@ public class PopEditorTests {
 		//which province?
 		editor.setProvince(1);
 		
+		//overwrite?
+		editor.setOverwrite(true);
+		
 		//add
 		editor.add(group);
 	}
