@@ -3,9 +3,6 @@ package vic2_tools;
 import java.util.*;
 import java.io.*;
 
-//TODO 
-//Throw an exception or some other such thing for if the file does not contain
-//the desired province.
 
 //An class which provides functionality to add and subtract pop groups from a pop file.
 public class PopEditor {
@@ -34,6 +31,21 @@ public class PopEditor {
 		this.provinceID = 0;
 	}
 	
+	//Returns the name of the file the editor is attached to.
+	public String getFileName() {
+		return this.fileName;
+	}
+	
+	//Returns the current province ID.
+	public int getProvinceID() {
+		return this.provinceID;
+	}
+	
+	//Returns the status of overwrite.
+	public boolean getOverwriteStatus() {
+		return this.overwrite;
+	}
+	
 	//Sets the province being edited.
 	public void setProvince(int provinceID) {
 		this.provinceID = provinceID;
@@ -45,23 +57,27 @@ public class PopEditor {
 	}
 	
 	//Adds a single pop group to the desired file.
+	//If the province ID is not found in the file, file is unchanged.
 	public void add(PopGroup pops) throws FileNotFoundException {
 		Scanner input = new Scanner(file);
 		PrintStream output;
 		if(overwrite) { //If overwrite is true, will print to the current file.
 			output = new PrintStream(file);
 		} else { //else creates a new output file with the _edited suffix.
-			output = new PrintStream(new File(fileName + "_edited.txt"));
+			output = new PrintStream(new File(fileName.replace(".txt", "") + "_edited.txt"));
 		}
 		String currentLine;
+		boolean containsProvinceID = false;
 		while(input.hasNextLine()) {
-			currentLine = input.nextLine();			
-			if(currentLine.equals(provinceID + " = {")) {
-				
-			}				
+			currentLine = input.nextLine();		
 			output.println(currentLine);
+			if(currentLine.equals(provinceID + " = {")) { //When desired province is reached 
+				pops.printPopGroup(output);
+				containsProvinceID = true;
+			}							
 		}
-		
+		input.close();
+		System.out.println("Contained province ID: " + containsProvinceID);
 	}
 	
 	//Takes in an array list of PopGroups to be added to the desired file.

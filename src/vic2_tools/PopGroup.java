@@ -6,11 +6,11 @@ import java.io.*;
 //Represents a group of pops in a certain pop file as defined by their type, culture,
 //religion, and size.
 public class PopGroup {
-	
-	private int size; 
+	 
 	private String popType;
-	private String religion;
 	private String culture;
+	private String religion;
+	private int size;
 	
 	//Constructs a new PopGroup. A PopGroup represents the smallest unit of population definition
 	//in a pop file. For example:
@@ -20,6 +20,9 @@ public class PopGroup {
 	//	size = 5
 	//}
 	//A PopGroup stores all of the relevant data for a single one of these groups.
+	
+	//TODO
+	//Overhaul constructor -> make it a builder. 
 	
 	public PopGroup(String inputPopType, String inputCulture, String inputReligion, int size) {
 		
