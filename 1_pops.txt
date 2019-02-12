@@ -1,5 +1,11 @@
 
 1 = {
+	bureaucrats = {
+		culture = french
+		religion = sunni
+		size = 4500
+	}
+
 
 	aristocrats = {
 		culture = alaskan
