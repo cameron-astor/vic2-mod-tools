@@ -8,7 +8,12 @@ import java.io.*;
 public class PopEditor {
 	
 	//TODO 
-	//fix overwrite 
+	//Ability to overwrite file (this should be default and the ONLY capability of the final version, producing another file is pointless): 
+    /* PrintStream objects seem incapable of doing this. A different approach must be used.
+     * What must be done? File should be unchanged besides the places to be edited. 
+     *  
+     */
+	
 	//clear method (remove all pop groups from province)
 	//subtract method
 	//subtractAll method 
@@ -68,28 +73,34 @@ public class PopEditor {
 	}
 	
 	//Adds a single pop group to the desired file.
-	//If the province ID is not found in the file, file is unchanged.
+	//If the province ID is not found in the file, file is unchanged. 
 	public void add(PopGroup pops) throws FileNotFoundException {
-		Scanner input = new Scanner(file);
-		PrintStream output;
-		if(overwrite) { //If overwrite is true, will print to the current file.
-	     	output = new PrintStream(new File(fileName));          //OVERWRITE CURRENTLY BROKEN
-		} else { //else creates a new output file with the _edited suffix.
-			output = new PrintStream(new File(fileName.replace(".txt", "") + "_edited.txt"));
-		}
-		String currentLine;
-		boolean containsProvinceID = false;
-		while(input.hasNextLine()) {
-			currentLine = input.nextLine();		
-			output.println(currentLine);
-			if(currentLine.equals(provinceID + " = {")) { //When desired province is reached 
-				pops.printPopGroup(output);
-				containsProvinceID = true;
-			}							
-		}
-		input.close();
-		System.out.println("Contained province ID: " + containsProvinceID); //Diagnostic
+		
 	}
+	
+	//OLD ADD METHOD 
+	
+//	public void add(PopGroup pops) throws FileNotFoundException {
+//		Scanner input = new Scanner(file);
+//		PrintStream output;
+//		if(overwrite) { //If overwrite is true, will print to the current file.
+//	     	output = new PrintStream(new File(fileName));          //OVERWRITE CURRENTLY BROKEN
+//		} else { //else creates a new output file with the _edited suffix.
+//			output = new PrintStream(new File(fileName.replace(".txt", "") + "_edited.txt"));
+//		}
+//		String currentLine;
+//		boolean containsProvinceID = false;
+//		while(input.hasNextLine()) {
+//			currentLine = input.nextLine();		
+//			output.println(currentLine);
+//			if(currentLine.equals(provinceID + " = {")) { //When desired province is reached 
+//				pops.printPopGroup(output);
+//				containsProvinceID = true;
+//			}							
+//		}
+//		input.close();
+//		System.out.println("Contained province ID: " + containsProvinceID); //Diagnostic
+//	}
 	
 	//Takes in an array list of PopGroups to be added to the desired file.
 	public void addAll(ArrayList<PopGroup> pops) {

@@ -68,6 +68,8 @@ public class PopParser {
 	
 	//Returns the number of pops with the passed attributes in the relevant file. 
 	//If one wishes not to specify an attribute, pass null.
+	//TODO
+	//Could this be implemented with a SWITCH statement?
 	public int search(String popType, String culture, String religion) throws FileNotFoundException {
 		int total = 0;
 		ArrayList<PopGroup> groups = this.groupPops();
