@@ -63,8 +63,8 @@ public class PopEditor {
 	}
 	
 	//removes all PopGroups from the province 
-	public void clear() {
-		
+	public void clear() throws FileNotFoundException{
+		Scanner input = new Scanner(file);
 	}
 	
 	//Adds a single pop group to the desired file.
@@ -73,7 +73,7 @@ public class PopEditor {
 		Scanner input = new Scanner(file);
 		PrintStream output;
 		if(overwrite) { //If overwrite is true, will print to the current file.
-			output = new PrintStream(new File(fileName));          //OVERWRITE CURRENTLY BROKEN
+	     	output = new PrintStream(new File(fileName));          //OVERWRITE CURRENTLY BROKEN
 		} else { //else creates a new output file with the _edited suffix.
 			output = new PrintStream(new File(fileName.replace(".txt", "") + "_edited.txt"));
 		}
@@ -88,7 +88,7 @@ public class PopEditor {
 			}							
 		}
 		input.close();
-		System.out.println("Contained province ID: " + containsProvinceID);
+		System.out.println("Contained province ID: " + containsProvinceID); //Diagnostic
 	}
 	
 	//Takes in an array list of PopGroups to be added to the desired file.

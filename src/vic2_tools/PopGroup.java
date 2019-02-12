@@ -63,5 +63,4 @@ public class PopGroup {
 		output.println("	}");
 		output.println();
 	}
-	
 }
