@@ -18,7 +18,7 @@ public class PopParser {
 	private File file; //The file object to be parsed
 	
 	//Constructs a new PopParser object. Takes file name and an array list of pop types as parameters.
-	public PopParser(String newFileName, ArrayList<String> pops) throws FileNotFoundException{
+	public PopParser(String newFileName, ArrayList<String> pops) throws FileNotFoundException {
 		this.fileName = newFileName; 
 		this.file = new File(fileName); //The file to be parsed
 		this.popTypes = pops;
@@ -26,7 +26,7 @@ public class PopParser {
 		
 	//Constructs a new PopParser object. Takes file name as a parameter.
 	//Without specifying an array of pop types, the default HPM types are used. 
-	public PopParser(String newFileName) throws FileNotFoundException{		
+	public PopParser(String newFileName) throws FileNotFoundException {		
 		this(newFileName, null);
 	    String[] defaultTypes = {"aristocrats", "farmers", "bureaucrats", "clergymen", "laborers", "slaves", "soldiers", "clerks",
 	              "craftsmen", "officers", "artisans", "serfs", "capitalists"};
