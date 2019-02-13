@@ -4,10 +4,11 @@ import java.util.*;
 import java.io.*;
 
 //TODO
-//Allow users to select what file they're working with via console.
-//
 //Create a logical and clean system of interaction with the file system.
 //Must be: relative path based, easily handled by other classes which use PopParser objects
+//
+//Create method for collecting all province numbers in a file.
+//Create method for grouping all pops in a PROVINCE (not just whole file) 
 
 //A class for reading and extracting information from a Victoria 2 pop file.
 public class PopParser {
@@ -121,6 +122,13 @@ public class PopParser {
 		return list;
 	}
 	
+	//Returns an ArrayList of PopGroups representing all groups in the province with the 
+	//passed ID.
+	public ArrayList<PopGroup> groupByProvince(int provinceID) {
+		
+		return null;
+	}
+	
 	//Takes in a province ID number (an integer ranging from 1 to 4 digits), and 
 	//outputs only this province's pop data to a new file formatted as XXXX_pops.txt.
 	//Returns the name of the file as a string
@@ -149,6 +157,12 @@ public class PopParser {
 		input.close();
 		output.close();
 		return provinceID + "_pops.txt";
+	}
+	
+	//Returns an array containing the IDs of all provinces in the file.
+	public int[] getProvinceIDs() {
+		
+		return null;
 	}
 	
 }

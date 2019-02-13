@@ -10,12 +10,12 @@ public class PopEditorTests {
 		File file = new File("./Austria.txt");
 		PopEditor editor = new PopEditor(file);  //field checks
 		
-		//ADD test
+//		//ADD test
 //		//group to be added 
 //		PopGroup group = new PopGroup("bureaucrats", "french", "sunni", 4500); 
 //		
 //		//which province?
-//		editor.setProvince(1);
+//		editor.setProvince(613);
 //		
 //		//check fields
 //		System.out.println(editor.getFileName());

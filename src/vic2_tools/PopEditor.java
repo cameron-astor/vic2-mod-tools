@@ -8,16 +8,17 @@ import java.io.*;
 public class PopEditor {
 	
 	//TODO 
-	//clear method (remove all pop groups from province)
-	//
-	//NOTE: add() and clear() are VERY similar. think of how this could be refactored. 
-	//
 	//subtract method
+	//addAll method
 	//subtractAll method 
 	
 	private String fileName; //Name of the file to be edited
 	private File file; //The file to be edited
 	private int provinceID; //The ID of the province to be edited
+	
+	private File temp; //A pointer to a temporary file to be used in editing 
+	private Scanner input; //A pointer to a Scanner to be used in editing
+	private PrintStream output; //A pointer to a PrintStream to be used in editing
 	
 	//Constructs a PopEditor. Takes the name of the file to be edited as a parameter.
 	public PopEditor(String fileName) {
@@ -51,11 +52,7 @@ public class PopEditor {
 	
 	//removes all PopGroups from the province 
 	public void clear() throws FileNotFoundException{
-		Scanner input = new Scanner(file);
-		PrintStream output;
-		File temp = new File("temp.txt");
-		output = new PrintStream(temp); 
-		
+		setup();	
 		//Do the clearing
 		String currentLine;
 		while(input.hasNextLine()) {
@@ -69,20 +66,14 @@ public class PopEditor {
 				output.println(currentLine);
 			}
 		}
-		input.close();
-		output.close();
-		overwrite(temp);
+		overwrite();
 	}
 	
 	//Adds a single pop group to the desired file (overwrites) in the province
 	//specified by the provinceID.
 	//If the province ID is not found in the file, file is unchanged. 
-	public void add(PopGroup pops) throws FileNotFoundException {
-		Scanner input = new Scanner(file);
-		PrintStream output;
-		File temp = new File("temp.txt");
-		output = new PrintStream(temp);  
-		
+	public void add(PopGroup pops) throws FileNotFoundException { 
+		setup();	
 		//Do the adding
 		String currentLine;
 		boolean containsProvinceID = false; //Diagnostic
@@ -94,9 +85,7 @@ public class PopEditor {
 				containsProvinceID = true; //Diagnostic
 			}			
 		}
-		output.close();
-		input.close();
-		overwrite(temp);
+		overwrite();
 		System.out.println("Contained province ID: " + containsProvinceID); //Diagnostic
 	}
 	
@@ -105,8 +94,41 @@ public class PopEditor {
 		
 	}
 	
+	//Subtracts the passed PopGroup from the province.
+	//This means that if the total population size of the relevant 
+	//pops in the file are less than or equal to the number being subtracted,
+	//all groups containing it will be deleted. If the number is more than the
+	//number being subtracted, there will be a single remainder group created 
+	//(with all others being deleted).
+	public void subtract(PopGroup pops) throws FileNotFoundException{
+		setup();
+		String currentLine;
+		while(input.hasNextLine()) {
+			currentLine = input.nextLine();
+			output.println(currentLine);
+			if(currentLine.equals(provinceID + " = {")) {
+				//Hold off on implementing the rest of this until PopParser has a
+				//method to put all of the PopGroups of a province into an ArrayList
+			}
+		}
+		
+	}
+	
+	public void subtractAll(ArrayList<PopGroup> pops) {
+		
+	}
+	
+	//Preps the scanners, printstreams, and files for editing.
+	private void setup() throws FileNotFoundException {
+		this.input = new Scanner(file);
+		temp = new File("temp.txt");
+		output = new PrintStream(temp); 
+	}
+	
 	//Writes temp file to original file, deletes temp file.
-	private void overwrite(File temp) throws FileNotFoundException {
+	private void overwrite() throws FileNotFoundException {
+		input.close(); //Close the Scanners and PrintStreams to allow for file deletion
+		output.close();
 		Scanner tempInput = new Scanner(temp);
 		PrintStream originalOutput = new PrintStream(file);
 		while(tempInput.hasNextLine()) {
