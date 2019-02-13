@@ -8,28 +8,21 @@ import java.io.*;
 public class PopEditor {
 	
 	//TODO 
-	//Ability to overwrite file (this should be default and the ONLY capability of the final version, producing another file is pointless): 
-    /* PrintStream objects seem incapable of doing this. A different approach must be used.
-     * What must be done? File should be unchanged besides the places to be edited. 
-     *  
-     */
-	
 	//clear method (remove all pop groups from province)
+	//
+	//NOTE: add() and clear() are VERY similar. think of how this could be refactored. 
+	//
 	//subtract method
 	//subtractAll method 
 	
 	private String fileName; //Name of the file to be edited
 	private File file; //The file to be edited
-	private boolean overwrite; //If true, the file is overwritten.
-							   //If false, a new, edited file is created alongside the old one.
-							   //Overwrite is FALSE by default.
 	private int provinceID; //The ID of the province to be edited
 	
 	//Constructs a PopEditor. Takes the name of the file to be edited as a parameter.
 	public PopEditor(String fileName) {
 		this.fileName = fileName;
 		this.file = new File(fileName);
-		this.overwrite = false;
 		this.provinceID = 0;
 	}
 	
@@ -38,7 +31,6 @@ public class PopEditor {
 	public PopEditor(File file) {
 		this.file = file;
 		this.fileName = file.getName();
-		this.overwrite = false;
 		this.provinceID = 0;
 	}
 	
@@ -52,39 +44,45 @@ public class PopEditor {
 		return this.provinceID;
 	}
 	
-	//Returns the status of overwrite.
-	public boolean getOverwriteStatus() {
-		return this.overwrite;
-	}
-	
 	//Sets the province being edited.
 	public void setProvince(int provinceID) {
 		this.provinceID = provinceID;
 	}
 	
-	//Sets the overwrite flag.
-	public void setOverwrite(boolean overwrite) {
-		this.overwrite = overwrite;
-	}
-	
 	//removes all PopGroups from the province 
 	public void clear() throws FileNotFoundException{
 		Scanner input = new Scanner(file);
+		PrintStream output;
+		File temp = new File("temp.txt");
+		output = new PrintStream(temp); 
 		
+		//Do the clearing
+		String currentLine;
+		while(input.hasNextLine()) {
+			currentLine = input.nextLine();
+			output.println(currentLine);
+			if(currentLine.equals(provinceID + " = {")) {
+				while(!currentLine.equals("}")) {
+					currentLine = input.nextLine();
+				}
+				output.println();
+				output.println(currentLine);
+			}
+		}
+		input.close();
+		output.close();
+		overwrite(temp);
 	}
 	
-	//Adds a single pop group to the desired file.
+	//Adds a single pop group to the desired file (overwrites) in the province
+	//specified by the provinceID.
 	//If the province ID is not found in the file, file is unchanged. 
 	public void add(PopGroup pops) throws FileNotFoundException {
 		Scanner input = new Scanner(file);
 		PrintStream output;
 		File temp = new File("temp.txt");
+		output = new PrintStream(temp);  
 		
-		if(overwrite) { //If overwrite is true, will print to the current file.
-			output = new PrintStream(temp);          //OVERWRITE CURRENTLY BROKEN
-		} else { //else creates a new output file with the _edited suffix.
-			output = new PrintStream(new File(fileName.replace(".txt", "") + "_edited.txt"));
-		}
 		//Do the adding
 		String currentLine;
 		boolean containsProvinceID = false; //Diagnostic
@@ -98,23 +96,7 @@ public class PopEditor {
 		}
 		output.close();
 		input.close();
-		
-		//Write temp to old file, delete temp. THIS IS HIGHLY INEFFICIENT, A BETTER SOLUTION IS NEEDED.
-		if(overwrite) {
-			Scanner tempInput = new Scanner(temp);
-			PrintStream originalOutput = new PrintStream(file);
-			while(tempInput.hasNextLine()) {
-				originalOutput.println(tempInput.nextLine());
-			}
-			tempInput.close();
-			originalOutput.close();
-			try {
-				boolean b = temp.delete(); //delete temp
-				System.out.println(b); //diagnostic
-			} catch(Exception e) {
-				e.printStackTrace();
-			}
-		}		
+		overwrite(temp);
 		System.out.println("Contained province ID: " + containsProvinceID); //Diagnostic
 	}
 	
@@ -122,5 +104,22 @@ public class PopEditor {
 	public void addAll(ArrayList<PopGroup> pops) {
 		
 	}
-		
+	
+	//Writes temp file to original file, deletes temp file.
+	private void overwrite(File temp) throws FileNotFoundException {
+		Scanner tempInput = new Scanner(temp);
+		PrintStream originalOutput = new PrintStream(file);
+		while(tempInput.hasNextLine()) {
+			originalOutput.println(tempInput.nextLine());
+		}
+		tempInput.close();
+		originalOutput.close();
+		try {
+			temp.delete(); //delete temp
+		} catch(Exception e) {
+			e.printStackTrace();
+		}		
+	}
+	
+	
 }
