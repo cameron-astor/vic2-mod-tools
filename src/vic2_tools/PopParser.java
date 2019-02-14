@@ -124,9 +124,21 @@ public class PopParser {
 	
 	//Returns an ArrayList of PopGroups representing all groups in the province with the 
 	//passed ID.
-	public ArrayList<PopGroup> groupByProvince(int provinceID) {
+	public ArrayList<PopGroup> groupByProvince(int provinceID) throws FileNotFoundException {
+		ArrayList<PopGroup> list = new ArrayList<PopGroup>();
+		Scanner input = new Scanner(file);
+		String currentLine;
+		while(input.hasNextLine()) {
+			currentLine = input.nextLine();
+			if(currentLine.equals(provinceID + " = {")) {
+				while(input.hasNextLine()) {
+					
+				}
+			}
+		}
 		
-		return null;
+		input.close();
+		return list;
 	}
 	
 	//Takes in a province ID number (an integer ranging from 1 to 4 digits), and 
