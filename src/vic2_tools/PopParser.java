@@ -102,20 +102,7 @@ public class PopParser {
 		while(input.hasNextLine()) {
 			currentLine = input.nextLine();
 			if(popTypes.contains(currentLine.replaceAll("[^a-z]", ""))) {
-				String popType = currentLine.replaceAll("[^a-z]", "");
-				while(!currentLine.contains("culture =")) {
-					currentLine = input.nextLine();
-				}
-				String culture = currentLine.replace("\t\tculture = ", "");
-				while(!currentLine.contains("religion =")) {
-					currentLine = input.nextLine();
-				}				
-				String religion = currentLine.replace("\t\treligion = ", "");
-				while(!currentLine.contains("size =")) {
-					currentLine = input.nextLine();
-				}
-				int size = Integer.parseInt(currentLine.replaceAll("[\\D]", ""));
-				list.add(new PopGroup(popType, culture, religion, size));
+				currentLine = group(input, currentLine, list);
 			}
 		}
 		input.close();
@@ -131,8 +118,11 @@ public class PopParser {
 		while(input.hasNextLine()) {
 			currentLine = input.nextLine();
 			if(currentLine.equals(provinceID + " = {")) {
-				while(input.hasNextLine()) {
-					
+				while(!currentLine.equals("}")) {
+					currentLine = input.nextLine();             
+					if(popTypes.contains(currentLine.replaceAll("[^a-z]", ""))) {
+						currentLine = group(input, currentLine, list);
+					}
 				}
 			}
 		}
@@ -172,9 +162,40 @@ public class PopParser {
 	}
 	
 	//Returns an array containing the IDs of all provinces in the file.
-	public int[] getProvinceIDs() {
-		
-		return null;
+	public ArrayList<Integer> getProvinceIDs() throws FileNotFoundException {
+		ArrayList<Integer> list = new ArrayList<Integer>();
+		Scanner input = new Scanner(file);
+		String currentLine;
+		while(input.hasNextLine()) {
+			currentLine = input.nextLine();
+			//If the current line contains the province suffix and does not start with a tab or a space
+			if(currentLine.contains(" = {") && !currentLine.startsWith("\t") && !currentLine.startsWith(" ")) { 
+				System.out.println(currentLine);
+				list.add(Integer.parseInt(currentLine.replaceAll("[\\D]", "")));
+			}
+		}
+		input.close();
+		return list;
 	}
 	
+	//Performs the grouping operation for the groupPops methods.
+	//Takes in a Scanner for the file, the current line the grouping method's Scanner is on,
+	//and the ArrayList to be added to. Returns currentLine so the next level while loop can keep going.
+	private String group(Scanner input, String currentLine, ArrayList<PopGroup> list) {
+		String popType = currentLine.replaceAll("[^a-z]", "");
+		while(!currentLine.contains("culture =")) {
+			currentLine = input.nextLine();
+		}
+		String culture = currentLine.replace("\t\tculture = ", "");
+		while(!currentLine.contains("religion =")) {
+			currentLine = input.nextLine();
+		}				
+		String religion = currentLine.replace("\t\treligion = ", "");
+		while(!currentLine.contains("size =")) {
+			currentLine = input.nextLine();
+		}
+		int size = Integer.parseInt(currentLine.replaceAll("[\\D]", ""));
+		list.add(new PopGroup(popType, culture, religion, size));
+		return currentLine;
+	}	
 }

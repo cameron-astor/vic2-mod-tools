@@ -35,14 +35,24 @@ public class PopParserTests {
 //		} 
 //		System.out.println("Grand total: " + grandTotal); 
 		
-//		//POPGROUP TEST
-//		ArrayList<PopGroup> group = parser.groupPops();
-//		System.out.println(group.get(0).getType());
-//		System.out.println(group.get(0).getCulture());
-//		System.out.println(group.get(0).getReligion());
-//		System.out.println(group.get(0).getSize());
-//		System.out.println("Total popgroups: " + group.size()); 
+		//POPGROUP TEST
+		ArrayList<PopGroup> group = parser.groupPops();
+		System.out.println(group.get(500).getType());
+		System.out.println(group.get(500).getCulture());
+		System.out.println(group.get(500).getReligion());
+		System.out.println(group.get(500).getSize());
+		System.out.println("Total popgroups: " + group.size()); 
 		
+		//GROUP BY PROVINCE TEST
+		ArrayList<PopGroup> group2 = parser.groupByProvince(1);
+		System.out.println(group2.get(0).getType());
+		System.out.println(group2.get(0).getCulture());
+		System.out.println(group2.get(0).getReligion());
+		System.out.println(group2.get(0).getSize());
+		System.out.println("Total popgroups: " + group2.size()); 
+		
+		ArrayList<Integer> IDs = parser.getProvinceIDs();
+		System.out.println(IDs.get(67));
 		
 		//System.out.println(parser.sumAll("theravada"));
 	
