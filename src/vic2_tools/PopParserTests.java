@@ -3,6 +3,9 @@ package vic2_tools;
 import java.util.*;
 import java.io.*;
 
+//TODO
+//Make these tests more cohesive and robust
+
 //A set of tests for the PopParser class
 public class PopParserTests {
 

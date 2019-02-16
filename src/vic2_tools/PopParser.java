@@ -7,8 +7,8 @@ import java.io.*;
 //Create a logical and clean system of interaction with the file system.
 //Must be: relative path based, easily handled by other classes which use PopParser objects
 //
-//Create method for collecting all province numbers in a file.
-//Create method for grouping all pops in a PROVINCE (not just whole file) 
+//Create constructors that take in a File object (not just a String)
+//think of a better system for defining pop types?
 
 //A class for reading and extracting information from a Victoria 2 pop file.
 public class PopParser {
@@ -170,7 +170,6 @@ public class PopParser {
 			currentLine = input.nextLine();
 			//If the current line contains the province suffix and does not start with a tab or a space
 			if(currentLine.contains(" = {") && !currentLine.startsWith("\t") && !currentLine.startsWith(" ")) { 
-				System.out.println(currentLine);
 				list.add(Integer.parseInt(currentLine.replaceAll("[\\D]", "")));
 			}
 		}

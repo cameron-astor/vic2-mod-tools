@@ -5,6 +5,7 @@ import java.io.*;
 
 
 //An class which provides functionality to add and subtract pop groups from a pop file.
+//Operations are in general carried out on a province by province basis.
 public class PopEditor {
 	
 	//TODO 
@@ -15,24 +16,27 @@ public class PopEditor {
 	private String fileName; //Name of the file to be edited
 	private File file; //The file to be edited
 	private int provinceID; //The ID of the province to be edited
+	private PopParser parser;
 	
 	private File temp; //A pointer to a temporary file to be used in editing 
 	private Scanner input; //A pointer to a Scanner to be used in editing
 	private PrintStream output; //A pointer to a PrintStream to be used in editing
 	
 	//Constructs a PopEditor. Takes the name of the file to be edited as a parameter.
-	public PopEditor(String fileName) {
+	public PopEditor(String fileName) throws FileNotFoundException {
 		this.fileName = fileName;
 		this.file = new File(fileName);
 		this.provinceID = 0;
+		this.parser = new PopParser(fileName);
 	}
 	
 	//Constructs a PopEditor. Takes a file object referring to the 
 	//file to be edited as a parameter.
-	public PopEditor(File file) {
+	public PopEditor(File file) throws FileNotFoundException {
 		this.file = file;
 		this.fileName = file.getName();
 		this.provinceID = 0;
+		this.parser = new PopParser(fileName);
 	}
 	
 	//Returns the name of the file the editor is attached to.
@@ -62,7 +66,6 @@ public class PopEditor {
 				while(!currentLine.equals("}")) {
 					currentLine = input.nextLine();
 				}
-				output.println();
 				output.println(currentLine);
 			}
 		}
@@ -71,27 +74,37 @@ public class PopEditor {
 	
 	//Adds a single pop group to the desired file (overwrites) in the province
 	//specified by the provinceID.
-	//If the province ID is not found in the file, file is unchanged. 
-	public void add(PopGroup pops) throws FileNotFoundException { 
-		setup();	
-		//Do the adding
-		String currentLine;
-		boolean containsProvinceID = false; //Diagnostic
-		while(input.hasNextLine()) {
-			currentLine = input.nextLine();		
-			output.println(currentLine);
-			if(currentLine.equals(provinceID + " = {")) { //When desired province is reached 
-				pops.printPopGroup(output);
-				containsProvinceID = true; //Diagnostic
-			}			
-		}
-		overwrite();
-		System.out.println("Contained province ID: " + containsProvinceID); //Diagnostic
+	//If the province ID is not found in the file, file is unchanged.
+	public void add(PopGroup pops) throws FileNotFoundException {
+		setup();
+		//Do the adding.
+		ArrayList<PopGroup> groups = parser.groupByProvince(provinceID);
+		groups.add(pops);
+		writeGroups(groups);
+		overwrite();	
 	}
 	
 	//Takes in an array list of PopGroups to be added to the desired file.
-	public void addAll(ArrayList<PopGroup> pops) {
-		
+	public void addAll(ArrayList<PopGroup> pops) throws FileNotFoundException{
+		setup();
+		ArrayList<PopGroup> groups = parser.groupByProvince(provinceID);
+		groups.addAll(pops); //Merge the two lists.
+		writeGroups(groups);
+		overwrite();
+	}
+	
+	//Performs the writing of PopGroups from an ArrayList.
+	private void writeGroups(ArrayList<PopGroup> groups) {
+		String currentLine;
+		while(input.hasNextLine()) {
+			currentLine = input.nextLine();
+			output.println(currentLine);
+			if(currentLine.equals(provinceID + " = {")) {
+				for(PopGroup g : groups) {
+					g.printPopGroup(output);
+				}
+			}
+		}
 	}
 	
 	//Subtracts the passed PopGroup from the province.
@@ -142,6 +155,5 @@ public class PopEditor {
 			e.printStackTrace();
 		}		
 	}
-	
 	
 }

@@ -53,7 +53,7 @@ public class PopGroup {
 		return culture;
 	}
 	
-	//Prints a PopGroup to a text file with a blank line underneath
+	//Prints a PopGroup to a text file with a blank line underneath.
 	//Must be given a PrintStream to do so with.
 	public void printPopGroup(PrintStream output) {
 		output.println("	" + popType + " = {");
