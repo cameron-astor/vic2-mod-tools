@@ -52,12 +52,6 @@
 }
 #Salzburg (136000/34000 POPS)
 613 = {
-	artisans = {
-		culture = dixie
-		religion = daoist
-		size = 9840
-	}
-
 }
 #Bregenz (132000/33000 POPS)
 614 = {

@@ -12,6 +12,9 @@ public class PopEditor {
 	//subtract method
 	//addAll method
 	//subtractAll method 
+	//
+	//When all methods are working, then try and implement them so that they sort
+	//based on pop type, religion, etc. when printing to the file (so it is easier to read).
 	
 	private String fileName; //Name of the file to be edited
 	private File file; //The file to be edited
@@ -115,15 +118,8 @@ public class PopEditor {
 	//(with all others being deleted).
 	public void subtract(PopGroup pops) throws FileNotFoundException{
 		setup();
-		String currentLine;
-		while(input.hasNextLine()) {
-			currentLine = input.nextLine();
-			output.println(currentLine);
-			if(currentLine.equals(provinceID + " = {")) {
-				//Hold off on implementing the rest of this until PopParser has a
-				//method to put all of the PopGroups of a province into an ArrayList
-			}
-		}
+		ArrayList<PopGroup> group = parser.groupByProvince(provinceID);
+		
 		
 	}
 	

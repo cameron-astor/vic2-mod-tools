@@ -56,8 +56,6 @@ public class PopParserTests {
 		
 		ArrayList<Integer> IDs = parser.getProvinceIDs();
 		System.out.println(IDs.get(67));
-		
-		//System.out.println(parser.sumAll("theravada"));
 	
 //		//POPPARSER TEST
 //		PopParser test = new PopParser(parser.extractProvince(2));

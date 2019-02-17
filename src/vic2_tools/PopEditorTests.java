@@ -15,6 +15,7 @@ public class PopEditorTests {
 	public static void main(String[] args) throws FileNotFoundException{
 
 		PopEditor editor = new PopEditor(FILENAME);
+		PopGroup sameGroup = new PopGroup("artisans", "dixie", "daoist", 9840);
 		
 		//CLEAR test 
 		editor.setProvince(613);
@@ -27,8 +28,24 @@ public class PopEditorTests {
 		System.out.println(editor.getFileName());
 		System.out.println(editor.getProvinceID());
 		
-		testAddRuntime(editor);
+		//testAddRuntime(editor);
 
+		//test addAll
+		PopGroup group2 = new PopGroup("capitalists", "occitan", "animist", 320000);
+		PopGroup group3 = new PopGroup("clerks", "ukrainian", "orthodox", 21);
+//		ArrayList<PopGroup> list = new ArrayList<PopGroup>();
+//		list.add(GROUP);
+//		list.add(group2);
+//		list.add(group3);
+//		editor.addAll(list);
+		
+		//Test popGroup equalsAttributes and toString 
+		System.out.println(GROUP.toString());
+		System.out.println(GROUP.equalsAttributes(GROUP)); //self check
+		System.out.println(GROUP.equalsAttributes(group2)); //should be false
+		System.out.println(GROUP.equalsAttributes(sameGroup)); //should be true
+		
+		
 	}
 	
 	//Tests the runtime of the add() method.
