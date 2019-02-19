@@ -19,7 +19,7 @@ public class PopEditor {
 	private String fileName; //Name of the file to be edited
 	private File file; //The file to be edited
 	private int provinceID; //The ID of the province to be edited
-	private PopParser parser;
+	private PopParser parser; //A PopParser for the file 
 	
 	private File temp; //A pointer to a temporary file to be used in editing 
 	private Scanner input; //A pointer to a Scanner to be used in editing
@@ -116,11 +116,25 @@ public class PopEditor {
 	//all groups containing it will be deleted. If the number is more than the
 	//number being subtracted, there will be a single remainder group created 
 	//(with all others being deleted).
+	
+	//CURRENTLY BROKEN - Must use Iterator to resolve ConcurrentModificationException
 	public void subtract(PopGroup pops) throws FileNotFoundException{
 		setup();
-		ArrayList<PopGroup> group = parser.groupByProvince(provinceID);
-		
-		
+		ArrayList<PopGroup> groups = parser.groupByProvince(provinceID);
+		int originalSize = 0; //Keep track of number of relevant pops to begin with in the province
+		for(PopGroup g : groups) {
+			if(g.equalsAttributes(pops)) { //Remove ALL relevant popGroups, reconstitute later
+				originalSize = originalSize + g.getSize(); //get size of popGroup
+				System.out.println(originalSize); //TEST
+				groups.remove(g); //remove it 
+			}
+		}
+		int newSize = originalSize - pops.getSize(); //Obtain new number of pops by subtraction
+		if(newSize > 0) { //if there is a remainder, create a new popGroup to represent the entire remainder.
+			groups.add(new PopGroup(pops.getType(), pops.getCulture(), pops.getReligion(), newSize));
+		}
+		writeGroups(groups);
+		overwrite();
 	}
 	
 	public void subtractAll(ArrayList<PopGroup> pops) {
