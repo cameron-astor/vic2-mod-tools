@@ -25,7 +25,7 @@ public class PopEditorTests {
 //		editor.clear();
 		
 		//which province?
-		editor.setProvince(613);
+		editor.setProvinceID(613);
 		
 		//check fields
 //		System.out.println(editor.getFileName());

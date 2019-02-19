@@ -8,10 +8,12 @@ import java.io.*;
 
 //A set of tests for the PopParser class
 public class PopParserTests {
+	
+	public static final String FILENAME = "./all_pops.txt"; //The name of the file to be tested.
 
 	public static void main(String[] args) throws FileNotFoundException {
 	    	    
-		PopParser parser = new PopParser("./all_pops.txt");
+		PopParser parser = new PopParser(FILENAME);
 		
 //		//PRINT POPGROUP TEST
 //		File test = new File("./test.txt");

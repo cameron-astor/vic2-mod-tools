@@ -53,7 +53,7 @@ public class PopEditor {
 	}
 	
 	//Sets the province being edited.
-	public void setProvince(int provinceID) {
+	public void setProvinceID(int provinceID) {
 		this.provinceID = provinceID;
 	}
 	
@@ -137,6 +137,8 @@ public class PopEditor {
 		overwrite();
 	}
 	
+	//Takes in an ArrayList of PopGroup objects to be subtracted from the file.
+	//Methodology is the same as in subtract(), but is performed for multiple groups.
 	public void subtractAll(ArrayList<PopGroup> pops) {
 		
 	}
@@ -144,8 +146,8 @@ public class PopEditor {
 	//Preps the scanners, printstreams, and files for editing.
 	private void setup() throws FileNotFoundException {
 		this.input = new Scanner(file);
-		temp = new File("temp.txt");
-		output = new PrintStream(temp); 
+		this.temp = new File("temp.txt");
+		this.output = new PrintStream(temp); 
 	}
 	
 	//Writes temp file to original file, deletes temp file.
@@ -162,7 +164,7 @@ public class PopEditor {
 		try {
 			temp.delete(); //delete temp
 		} catch(Exception e) {
-			e.printStackTrace();
+			e.printStackTrace(); //if deletion throws an exception
 		}		
 	}
 	
