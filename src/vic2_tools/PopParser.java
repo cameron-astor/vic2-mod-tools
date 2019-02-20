@@ -6,6 +6,7 @@ import java.io.*;
 //TODO
 //Create a logical and clean system of interaction with the file system.
 //Must be: relative path based, easily handled by other classes which use PopParser objects
+//WARNING ABOUT FILE PATHING -> Macs use a slightly different file structure, make sure to have this be crossplatform. 
 //
 //Create constructors that take in a File object (not just a String)
 //think of a better system for defining pop types?
@@ -47,33 +48,32 @@ public class PopParser {
 		return this.fileName;
 	}
 	
-	//Returns an integer total of all pops of this type in the file.
-	//Throws FileNotFoundException.
-	//sumAll(popType, religion, culture, etc...) 
-	public int sumAll(String popType) throws FileNotFoundException {
-		Scanner input = new Scanner(file);
-		int total = 0;
-		String currentLine;
-		while(input.hasNextLine()) { //Iterate to the end of the file
-			currentLine = input.nextLine();
-			if(currentLine.contains(popType)) { //Reached appropriate pop group
-				while(!currentLine.contains("size =")) {
-					currentLine = input.nextLine();
-				}
-				total += Integer.parseInt(currentLine.replaceAll("[\\D]", "")); //Replace all non digits with blanks, then interpret as int.
-			}
-		}
-		input.close();
-		return total;
+	//Returns the parser's current ArrayList of pop types.
+	public ArrayList<String> getPopTypes() throws FileNotFoundException {
+		return this.popTypes;
 	}
 	
-	//Returns the number of pops with the passed attributes in the relevant file. 
+	//Returns an integer total of pops with the passed attributes in the PopParser's file. 
 	//If one wishes not to specify an attribute, pass null.
+	public int fileSearch(String popType, String culture, String religion) throws FileNotFoundException {
+		ArrayList<PopGroup> groups = this.groupPops();
+		return search(groups, popType, culture, religion);
+	}
+	
+	//Returns an integer total of pops with the passed attributes in the passed province.
+	//If one wishes not to specify an attribute, pass null.
+	public int provinceSearch(int provinceID, String popType, String culture, String religion) throws FileNotFoundException {
+		ArrayList<PopGroup> groups = this.groupByProvince(provinceID);
+		return search(groups, popType, culture, religion);
+	}
+	
+	//Performs a searching operation on an ArrayList of PopGroups.
+	//Takes in the list, and the attributes of the pops to be searched for.
+	//Returns an integer total.
 	//TODO
 	//Could this be implemented with a SWITCH statement?
-	public int search(String popType, String culture, String religion) throws FileNotFoundException {
+	private int search(ArrayList<PopGroup> groups, String popType, String culture, String religion) {
 		int total = 0;
-		ArrayList<PopGroup> groups = this.groupPops();
 		for(PopGroup g : groups) {
 			if(g.getType().equals(popType) && g.getCulture().equals(culture) && g.getReligion().equals(religion)) {
 				total += g.getSize();
@@ -161,7 +161,7 @@ public class PopParser {
 		return provinceID + "_pops.txt";
 	}
 	
-	//Returns an array containing the IDs of all provinces in the file.
+	//Returns an ArrayList containing the IDs of all provinces in the file.
 	public ArrayList<Integer> getProvinceIDs() throws FileNotFoundException {
 		ArrayList<Integer> list = new ArrayList<Integer>();
 		Scanner input = new Scanner(file);

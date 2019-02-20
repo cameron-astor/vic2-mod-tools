@@ -10,11 +10,11 @@ public class PopEditor {
 	
 	//TODO 
 	//subtract method
-	//addAll method
 	//subtractAll method 
 	//
 	//When all methods are working, then try and implement them so that they sort
 	//based on pop type, religion, etc. when printing to the file (so it is easier to read).
+	//
 	
 	private String fileName; //Name of the file to be edited
 	private File file; //The file to be edited
@@ -123,7 +123,7 @@ public class PopEditor {
 		ArrayList<PopGroup> groups = parser.groupByProvince(provinceID);
 		int originalSize = 0; //Keep track of number of relevant pops to begin with in the province
 		for(PopGroup g : groups) {
-			if(g.equalsAttributes(pops)) { //Remove ALL relevant popGroups, reconstitute later
+			if(g.hasSameAttributes(pops)) { //Remove ALL relevant popGroups, reconstitute later
 				originalSize = originalSize + g.getSize(); //get size of popGroup
 				System.out.println(originalSize); //TEST
 				groups.remove(g); //remove it 

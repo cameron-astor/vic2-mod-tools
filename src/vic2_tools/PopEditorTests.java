@@ -40,12 +40,6 @@ public class PopEditorTests {
 //		list.add(group3);
 //		editor.addAll(list);
 		
-//		//Test popGroup equalsAttributes and toString 
-//		System.out.println(GROUP.toString());
-//		System.out.println(GROUP.equalsAttributes(GROUP)); //self check
-//		System.out.println(GROUP.equalsAttributes(group2)); //should be false
-//		System.out.println(GROUP.equalsAttributes(sameGroup)); //should be true
-		
 		//Subtract test
 //		editor.subtract(austrian);
 		

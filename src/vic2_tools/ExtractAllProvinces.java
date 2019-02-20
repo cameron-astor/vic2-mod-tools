@@ -3,12 +3,11 @@ package vic2_tools;
 import java.util.*;
 import java.io.*;
 
-//Uses the PopParser to create individual text files for every province in the relevant pop file.
-//Places these extracted provinces in a new directory located in classpath folder.
-
 //TODO
 //File pathing
 
+//Uses the PopParser to create individual text files for every province in the relevant pop file.
+//Places these extracted provinces in a new directory located in classpath folder.
 public class ExtractAllProvinces {
 	
 	public static void main (String[] args) throws FileNotFoundException {
