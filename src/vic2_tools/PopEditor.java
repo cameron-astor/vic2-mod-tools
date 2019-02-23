@@ -62,11 +62,11 @@ public class PopEditor {
 		setup();	
 		//Do the clearing
 		String currentLine;
-		while(input.hasNextLine()) {
+		while (input.hasNextLine()) {
 			currentLine = input.nextLine();
 			output.println(currentLine);
-			if(currentLine.equals(provinceID + " = {")) {
-				while(!currentLine.equals("}")) {
+			if (currentLine.equals(provinceID + " = {")) {
+			 	while (!currentLine.equals("}")) {
 					currentLine = input.nextLine();
 				}
 				output.println(currentLine);
@@ -99,13 +99,17 @@ public class PopEditor {
 	//Performs the writing of PopGroups from an ArrayList.
 	private void writeGroups(ArrayList<PopGroup> groups) {
 		String currentLine;
-		while(input.hasNextLine()) {
+		while (input.hasNextLine()) {
 			currentLine = input.nextLine();
 			output.println(currentLine);
-			if(currentLine.equals(provinceID + " = {")) {
-				for(PopGroup g : groups) {
+			if (currentLine.equals(provinceID + " = {")) {
+				for (PopGroup g : groups) {
 					g.printPopGroup(output);
 				}
+				while (!currentLine.equals("}")) { //Experimental. For subtract, avoid printing the rest of the province
+					currentLine = input.nextLine();  //after the all elements in the ArrayList have been printed.
+				}
+				output.println(currentLine);
 			}
 		}
 	}
@@ -116,23 +120,27 @@ public class PopEditor {
 	//all groups containing it will be deleted. If the number is more than the
 	//number being subtracted, there will be a single remainder group created 
 	//(with all others being deleted).
-	
-	//CURRENTLY BROKEN - Must use Iterator to resolve ConcurrentModificationException
 	public void subtract(PopGroup pops) throws FileNotFoundException{
 		setup();
 		ArrayList<PopGroup> groups = parser.groupByProvince(provinceID);
+		Iterator<PopGroup> itr = groups.iterator(); //Create an iterator for the list
 		int originalSize = 0; //Keep track of number of relevant pops to begin with in the province
-		for(PopGroup g : groups) {
-			if(g.hasSameAttributes(pops)) { //Remove ALL relevant popGroups, reconstitute later
-				originalSize = originalSize + g.getSize(); //get size of popGroup
+		PopGroup current; //Current PopGroup in iterator
+		while (itr.hasNext()) {
+			current = itr.next();
+			if (current.hasSameAttributes(pops)) {
+				originalSize += current.getSize();
+				itr.remove();
+				System.out.println(current.toString()); //TEST
 				System.out.println(originalSize); //TEST
-				groups.remove(g); //remove it 
 			}
 		}
 		int newSize = originalSize - pops.getSize(); //Obtain new number of pops by subtraction
-		if(newSize > 0) { //if there is a remainder, create a new popGroup to represent the entire remainder.
+		System.out.println(newSize); //TEST
+		if (newSize > 0) { //if there is a remainder, create a new popGroup to represent the entire remainder.
 			groups.add(new PopGroup(pops.getType(), pops.getCulture(), pops.getReligion(), newSize));
 		}
+		System.out.println(groups.size()); //TEST
 		writeGroups(groups);
 		overwrite();
 	}
@@ -156,14 +164,14 @@ public class PopEditor {
 		output.close();
 		Scanner tempInput = new Scanner(temp);
 		PrintStream originalOutput = new PrintStream(file);
-		while(tempInput.hasNextLine()) {
+		while (tempInput.hasNextLine()) {
 			originalOutput.println(tempInput.nextLine());
 		}
 		tempInput.close();
 		originalOutput.close();
 		try {
 			temp.delete(); //delete temp
-		} catch(Exception e) {
+		} catch (Exception e) {
 			e.printStackTrace(); //if deletion throws an exception
 		}		
 	}

@@ -8,6 +8,7 @@ import java.io.*;
 //
 //Desired sorting method: Highest level -> culture, second level -> religion, third level -> type 
 //
+
 //Represents a group of pops in a certain pop file as defined by their type, culture,
 //religion, and size.
 public class PopGroup {
@@ -62,7 +63,7 @@ public class PopGroup {
 	//(type, culture, and religion)
 	//Returns a boolean.
 	public boolean hasSameAttributes(PopGroup g) {
-		return(this.popType == g.popType && this.culture == g.culture && this.religion == g.religion);
+		return (this.popType.equals(g.popType) && this.culture.equals(g.culture) && this.religion.equals(g.religion));
 	}
 	
 	//Prints a PopGroup to a text file with a blank line underneath.

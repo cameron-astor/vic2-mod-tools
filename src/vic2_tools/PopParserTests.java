@@ -3,9 +3,6 @@ package vic2_tools;
 import java.util.*;
 import java.io.*;
 
-//TODO
-//Make these tests more cohesive and robust
-
 //A set of tests for the PopParser and PopGroup classes
 public class PopParserTests {
 	
@@ -75,47 +72,37 @@ public class PopParserTests {
 		System.out.println();
 		
 		/**PopGroup tests**/
+		System.out.println("--PopGroup tests--");
 		
-//		//PRINT POPGROUP TEST
-//		File test = new File("./test.txt");
-//		PrintStream output = new PrintStream(test);
-//		PopGroup group = new PopGroup("aristocrats", "french", "daoist", 4500);
-//		PopGroup group2 = new PopGroup("communizers", "malibu", "hamish patterson thought", 27000);
-//		group.printPopGroup(output);
-//		group2.printPopGroup(output); 
+		//POPGROUP TEST
+		ArrayList<PopGroup> group = parser.groupPops();
+		System.out.println(group.get(500).getType());
+		System.out.println(group.get(500).getCulture());
+		System.out.println(group.get(500).getReligion());
+		System.out.println(group.get(500).getSize());
+		System.out.println("Total popgroups: " + group.size()); 
 		
-//		//Test popGroup equalsAttributes and toString 
-//		System.out.println(GROUP.toString());
-//		System.out.println(GROUP.equalsAttributes(GROUP)); //self check
-//		System.out.println(GROUP.equalsAttributes(group2)); //should be false
-//		System.out.println(GROUP.equalsAttributes(sameGroup)); //should be true
+		//Test popGroup equalsAttributes and toString
+		System.out.println();
+		PopGroup a = new PopGroup("aristocrats", "russian", "orthodox", 345);
+		PopGroup b = new PopGroup("aristocrats", "russian", "orthodox", 345);
+		PopGroup c = new PopGroup("artisans", "russian", "orthodox", 345);
+		System.out.println(a.toString());
+		System.out.println(a.hasSameAttributes(a)); //self check
+		System.out.println(a.hasSameAttributes(c)); //should be false
+		System.out.println(a.hasSameAttributes(b)); //should be true
 		
-//		//POPGROUP TEST
-//		ArrayList<PopGroup> group = parser.groupPops();
-//		System.out.println(group.get(500).getType());
-//		System.out.println(group.get(500).getCulture());
-//		System.out.println(group.get(500).getReligion());
-//		System.out.println(group.get(500).getSize());
-//		System.out.println("Total popgroups: " + group.size()); 
-//		
-//		//GROUP BY PROVINCE TEST
-//		ArrayList<PopGroup> group2 = parser.groupByProvince(1);
-//		System.out.println(group2.get(0).getType());
-//		System.out.println(group2.get(0).getCulture());
-//		System.out.println(group2.get(0).getReligion());
-//		System.out.println(group2.get(0).getSize());
-//		System.out.println("Total popgroups: " + group2.size()); 
-//		
-//		ArrayList<Integer> IDs = parser.getProvinceIDs();
-//		System.out.println(IDs.get(67));
+		//GROUP BY PROVINCE TEST
+		System.out.println();
+		ArrayList<PopGroup> group2 = parser.groupByProvince(1);
+		System.out.println(group2.get(0).getType());
+		System.out.println(group2.get(0).getCulture());
+		System.out.println(group2.get(0).getReligion());
+		System.out.println(group2.get(0).getSize());
+		System.out.println("Total popgroups: " + group2.size()); 
+		
+		ArrayList<Integer> IDs = parser.getProvinceIDs();
+		System.out.println(IDs.get(67));
 	
-//		//POPPARSER TEST
-//		PopParser test = new PopParser(parser.extractProvince(2));
-//		int total2 = 0;                                 
-//		for(int i = 0; i < pop_types.length; i++) {
-//			total2 = test.sumAll(pop_types[i]);
-//			System.out.println("Total " + pop_types[i] + ": " + total2);
-//		}		
-		
 	}
 }

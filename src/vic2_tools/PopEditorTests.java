@@ -3,8 +3,6 @@ package vic2_tools;
 import java.util.*;
 import java.io.*;
 
-//TODO
-//Learn how to write more robust and cohesive tests and make this one better.
 
 //A set of tests for the PopEditor class
 public class PopEditorTests {
@@ -19,6 +17,7 @@ public class PopEditorTests {
 		PopGroup group2 = new PopGroup("capitalists", "occitan", "animist", 320000);
 		PopGroup group3 = new PopGroup("clerks", "ukrainian", "orthodox", 21);
 		PopGroup austrian = new PopGroup("aristocrats", "south_german", "catholic", 450);
+		PopGroup group4 = new PopGroup("capitalists", "occitan", "animist", 160000);
 		
 //		//CLEAR test 
 //		editor.setProvince(613);
@@ -40,22 +39,15 @@ public class PopEditorTests {
 //		list.add(group3);
 //		editor.addAll(list);
 		
-		//Subtract test
-//		editor.subtract(austrian);
-		
-		//COMPLETE TEST 
-		
-	}
-	
-	//Tests the runtime of an editor method
-	private static void testRuntime(PopEditor editor) throws FileNotFoundException {
-		//Tests the runtime 
 		long startTime = System.currentTimeMillis(); //Test runtime
-		//add
-		editor.add(GROUP); //method goes here
+		//Subtract test
+		editor.add(group2);
+		editor.subtract(group4);
 		
 		long endTime = System.currentTimeMillis(); //Test runtime
 		System.out.println("Runtime: " + (endTime - startTime) + " milliseconds");
+		//COMPLETE TEST 
+		
 	}
 
 }
