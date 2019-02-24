@@ -122,7 +122,15 @@ public class PopEditor {
 	//(with all others being deleted).
 	public void subtract(PopGroup pops) throws FileNotFoundException{
 		setup();
-		ArrayList<PopGroup> groups = parser.groupByProvince(provinceID);
+		ArrayList<PopGroup> groups = parser.groupByProvince(provinceID); //Get original groups
+		groups = listSubtract(groups, pops); //Perform subtraction
+		writeGroups(groups);
+		overwrite();
+	}
+	
+	//Subtracts the given PopGroup from the given ArrayList of PopGroups.
+	//Returns the list with the subtraction completed.
+	private ArrayList<PopGroup> listSubtract(ArrayList<PopGroup> groups, PopGroup pops) {
 		Iterator<PopGroup> itr = groups.iterator(); //Create an iterator for the list
 		int originalSize = 0; //Keep track of number of relevant pops to begin with in the province
 		PopGroup current; //Current PopGroup in iterator
@@ -141,14 +149,19 @@ public class PopEditor {
 			groups.add(new PopGroup(pops.getType(), pops.getCulture(), pops.getReligion(), newSize));
 		}
 		System.out.println(groups.size()); //TEST
-		writeGroups(groups);
-		overwrite();
+		return groups;
 	}
 	
 	//Takes in an ArrayList of PopGroup objects to be subtracted from the file.
 	//Methodology is the same as in subtract(), but is performed for multiple groups.
-	public void subtractAll(ArrayList<PopGroup> pops) {
-		
+	public void subtractAll(ArrayList<PopGroup> pops) throws FileNotFoundException {
+		setup();
+		ArrayList<PopGroup> groups = parser.groupByProvince(provinceID); //Get original groups
+		for (PopGroup g : pops) {
+			groups = listSubtract(groups, g);
+		}
+		writeGroups(groups);
+		overwrite();
 	}
 	
 	//Preps the scanners, printstreams, and files for editing.
