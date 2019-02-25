@@ -9,6 +9,9 @@ import java.io.*;
 public class PopEditor {
 	
 	//TODO 
+	//
+	//clearType -> clear all of a certain religion, culture, type, or combination of the two.
+	//
 	//When all methods are working, then try and implement them so that they sort
 	//based on pop type, religion, etc. when printing to the file (so it is easier to read).
 	//
