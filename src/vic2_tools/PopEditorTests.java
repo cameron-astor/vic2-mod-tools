@@ -14,10 +14,10 @@ public class PopEditorTests {
 
 		PopEditor editor = new PopEditor(FILENAME);
 		
-		PopGroup sameGroup = new PopGroup("artisans", "dixie", "daoist", 9840);
-		PopGroup group2 = new PopGroup("capitalists", "occitan", "animist", 320000);
-		PopGroup group3 = new PopGroup("clerks", "ukrainian", "orthodox", 21);
-		PopGroup austrian = new PopGroup("aristocrats", "south_german", "catholic", 420);
+//		PopGroup sameGroup = new PopGroup("artisans", "dixie", "daoist", 9840);
+//		PopGroup group2 = new PopGroup("capitalists", "occitan", "animist", 320000);
+//		PopGroup group3 = new PopGroup("clerks", "ukrainian", "orthodox", 21);
+//		PopGroup austrian = new PopGroup("aristocrats", "south_german", "catholic", 420);
 		PopGroup group4 = new PopGroup("farmers", "native_american_minor", "animist", 950);
 		PopGroup group5 = new PopGroup("soldiers", "alaskan", "orthodox", 19);
 		
