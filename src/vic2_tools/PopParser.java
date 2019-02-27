@@ -6,9 +6,7 @@ import java.io.*;
 //TODO
 //Create a logical and clean system of interaction with the file system.
 //Must be: relative path based, easily handled by other classes which use PopParser objects
-//WARNING ABOUT FILE PATHING -> Macs use a slightly different file structure, make sure to have this be crossplatform. 
 //
-//Create constructors that take in a File object (not just a String)
 //think of a better system for defining pop types?
 
 //A class for reading and extracting information from a Victoria 2 pop file.
@@ -70,8 +68,6 @@ public class PopParser {
 	//Performs a searching operation on an ArrayList of PopGroups.
 	//Takes in the list, and the attributes of the pops to be searched for.
 	//Returns an integer total.
-	//TODO
-	//Could this be implemented with a SWITCH statement?
 	private int search(ArrayList<PopGroup> groups, String popType, String culture, String religion) {
 		int total = 0;
 		for(PopGroup g : groups) {

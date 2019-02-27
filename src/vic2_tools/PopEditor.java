@@ -139,16 +139,12 @@ public class PopEditor {
 			if (current.hasSameAttributes(pops)) {
 				originalSize += current.getSize();
 				itr.remove();
-				System.out.println(current.toString()); //TEST
-				System.out.println(originalSize); //TEST
 			}
 		}
 		int newSize = originalSize - pops.getSize(); //Obtain new number of pops by subtraction
-		System.out.println(newSize); //TEST
 		if (newSize > 0) { //if there is a remainder, create a new popGroup to represent the entire remainder.
 			groups.add(new PopGroup(pops.getType(), pops.getCulture(), pops.getReligion(), newSize));
 		}
-		System.out.println(groups.size()); //TEST
 		return groups;
 	}
 	
