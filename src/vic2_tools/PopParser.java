@@ -8,6 +8,8 @@ import java.io.*;
 //Must be: relative path based, easily handled by other classes which use PopParser objects
 //
 //think of a better system for defining pop types?
+//
+//Constructor should throw an exception if the file is not found.
 
 //A class for reading and extracting information from a Victoria 2 pop file.
 public class PopParser {
