@@ -3,6 +3,13 @@ package vic2_tools;
 import java.io.*;
 import java.util.*;
 
+//TODO
+//Press P to change province
+//Press E to quit
+//FEEDBACK: print current province, current pop group, ...
+//
+//Turn the readGroupString function into a reusable function elsewhere
+
 //A program for editing Victoria II population files.
 public class PopDefiner {
 
@@ -36,6 +43,9 @@ public class PopDefiner {
 		}
 		//Create editor
 		PopEditor editor = new PopEditor(parser.getFile());
+		editor.setProvinceID(provinceID); //Set the province of the editor to the province in the file
+		
+		PopGroup group = defineGroup(in);
 	}
 
 	//Prints the introduction
@@ -93,5 +103,37 @@ public class PopDefiner {
 		
 		parser = new PopParser(provinceID + "_pops.txt");
 		return parser;
+	}
+	
+	//Asks the user to define a pop group to add or subtract.
+	public static PopGroup defineGroup(Scanner in) {
+		System.out.println();
+		System.out.println("Define a population group in the following format:");
+		System.out.println("aristocrats, french, catholic, 2500");
+		System.out.println();
+		
+		String input = null; 
+		PopGroup group = null;
+		boolean valid = false;
+		while (!valid) {
+			input = in.next(); //Read in the user's input
+			try {
+				group = readGroupString(input);
+				valid = true;
+			} catch (Exception e){
+				System.out.println("Bad format, try again: ");
+				e.printStackTrace();
+			}			
+		}
+		return group;
+	}
+	
+	//Takes in a string formatted like a PopGroup toString result
+	//and returns a new PopGroup object with its attributes.
+	public static PopGroup readGroupString(String s) {
+		String[] attributes = s.split(", ");
+		System.out.println(Arrays.toString(attributes));//test
+		PopGroup group = new PopGroup(attributes[0], attributes[1], attributes[2], Integer.parseInt(attributes[3]));
+		return group;
 	}
 }

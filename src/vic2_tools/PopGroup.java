@@ -8,6 +8,7 @@ import java.io.*;
 //
 //Desired sorting method: Highest level -> culture, second level -> religion, third level -> type 
 //
+//Throw exceptions for bad input
 
 //Represents a group of pops in a certain pop file as defined by their type, culture,
 //religion, and size.
@@ -26,9 +27,6 @@ public class PopGroup {
 	//	size = 5
 	//}
 	//A PopGroup stores all of the relevant data for a single one of these groups.
-	
-	//TODO
-	//Overhaul constructor -> make it a builder. 
 	
 	public PopGroup(String inputPopType, String inputCulture, String inputReligion, int size) {
 		
