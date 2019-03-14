@@ -79,6 +79,6 @@ public class PopGroup {
 	//Returns a string with the popGroup's information:
 	//type, culture, religion, size
 	public String toString() {
-		return popType + ", " + culture + ", " + religion + ", " + size;
+		return popType + "," + culture + "," + religion + "," + size;
 	}
 }

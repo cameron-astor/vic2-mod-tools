@@ -44,7 +44,7 @@ public class PopDefiner {
 		//Create editor
 		PopEditor editor = new PopEditor(parser.getFile());
 		editor.setProvinceID(provinceID); //Set the province of the editor to the province in the file
-		
+		//User defines a PopGroup
 		PopGroup group = defineGroup(in);
 	}
 
@@ -109,7 +109,7 @@ public class PopDefiner {
 	public static PopGroup defineGroup(Scanner in) {
 		System.out.println();
 		System.out.println("Define a population group in the following format:");
-		System.out.println("aristocrats, french, catholic, 2500");
+		System.out.println("aristocrats,french,catholic,2500");
 		System.out.println();
 		
 		String input = null; 
@@ -121,8 +121,7 @@ public class PopDefiner {
 				group = readGroupString(input);
 				valid = true;
 			} catch (Exception e){
-				System.out.println("Bad format, try again: ");
-				e.printStackTrace();
+				System.out.println("Bad format, try again: ");;
 			}			
 		}
 		return group;
@@ -131,8 +130,7 @@ public class PopDefiner {
 	//Takes in a string formatted like a PopGroup toString result
 	//and returns a new PopGroup object with its attributes.
 	public static PopGroup readGroupString(String s) {
-		String[] attributes = s.split(", ");
-		System.out.println(Arrays.toString(attributes));//test
+		String[] attributes = s.split(",");
 		PopGroup group = new PopGroup(attributes[0], attributes[1], attributes[2], Integer.parseInt(attributes[3]));
 		return group;
 	}
