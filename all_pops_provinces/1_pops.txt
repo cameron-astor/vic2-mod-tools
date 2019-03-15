@@ -1,6 +1,5 @@
 
 1 = {
-
 	aristocrats = {
 		culture = alaskan
 		religion = protestant
@@ -18,7 +17,7 @@
 		religion = protestant
 		size = 18
 	}
-	
+
 	officers = {
 		culture = alaskan
 		religion = protestant
@@ -30,13 +29,13 @@
 		religion = protestant
 		size = 20
 	}
-	
+
 	farmers = {
 		culture = alaskan
 		religion = protestant
 		size = 100
 	}
-	
+
 	aristocrats = {
 		culture = alaskan
 		religion = orthodox
@@ -54,7 +53,7 @@
 		religion = orthodox
 		size = 18
 	}
-	
+
 	officers = {
 		culture = alaskan
 		religion = orthodox
@@ -66,7 +65,7 @@
 		religion = orthodox
 		size = 20
 	}
-	
+
 	farmers = {
 		culture = alaskan
 		religion = orthodox
@@ -78,7 +77,7 @@
 		religion = animist
 		size = 50
 	}
-	
+
 	aristocrats = {
 		culture = inuit
 		religion = animist
@@ -90,4 +89,11 @@
 		religion = animist
 		size = 1950
 	}
+
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 500
+	}
+
 }

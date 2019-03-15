@@ -4,8 +4,6 @@ import java.io.*;
 import java.util.*;
 
 //TODO
-//Press P to change province
-//Press E to quit
 //FEEDBACK: print current province, current pop group, ...
 //
 //Turn the readGroupString function into a reusable function elsewhere
@@ -15,6 +13,9 @@ public class PopDefiner {
 
 	public static int provinceID; //The current province being worked with
 	public static String dirPath = "./all_pops_provinces/"; //Directory of pop files to work with
+	public static PopGroup group; //The current PopGroup being worked with
+	public static PopParser parser; //The current file's PopParser
+	public static PopEditor editor; //The current file's PopEditor
 	
 	public static final boolean ENTER_DIR = false; //Specify directory in the program or not
 	
@@ -31,21 +32,36 @@ public class PopDefiner {
 		File dir = new File(dirPath);
 		
 		//Create PopParser and PopEditor objects to be used.
-		PopParser parser = null;
-		boolean valid = false;
-		while (!valid) {
-			try {
-				parser = createParser(in, dir);     //Note: you shouldn't have to do this work here. Go edit PopParser and have its constructor throw an exception.
-				valid = true; 
-			} catch (Exception e) {
-				System.out.println("File not found, try another ID: ");
-			}
-		}
+		assignParser(in, dir);
 		//Create editor
-		PopEditor editor = new PopEditor(parser.getFile());
+	    editor = new PopEditor(parser.getFileName());
 		editor.setProvinceID(provinceID); //Set the province of the editor to the province in the file
 		//User defines a PopGroup
-		PopGroup group = defineGroup(in);
+		group = defineGroup(in);
+		
+		//Begin program proper
+		boolean quit = false;
+		while (!quit) {
+			menu();
+			String input = in.next();
+			if (input.equalsIgnoreCase("e")) { //quit
+				quit = true;
+			} else if (input.equalsIgnoreCase("p")) { //change province
+			    assignParser(in, dir);
+				editor = new PopEditor(parser.getFileName());
+				editor.setProvinceID(provinceID); //Set the province of the editor to the province in the file
+			} else if (input.equalsIgnoreCase("d")) { 
+				group = defineGroup(in); //Define another PopGroup
+			} else if (input.equalsIgnoreCase("a")) {
+				editor.add(group); //Add 
+				System.out.println("Added " + group.toString() + " to province " + provinceID);
+			} else if (input.equalsIgnoreCase("s")) {
+				editor.subtract(group); //Subtract
+				System.out.println("Subtracted " + group.toString() + " from province " + provinceID);
+			} else {
+				System.out.println("Invalid command.");
+			}
+		}
 	}
 
 	//Prints the introduction
@@ -101,7 +117,7 @@ public class PopDefiner {
 			throw new IllegalArgumentException(); //File is not present
 		}
 		
-		parser = new PopParser(provinceID + "_pops.txt");
+		parser = new PopParser(dirPath + provinceID + "_pops.txt");
 		return parser;
 	}
 	
@@ -120,8 +136,8 @@ public class PopDefiner {
 			try {
 				group = readGroupString(input);
 				valid = true;
-			} catch (Exception e){
-				System.out.println("Bad format, try again: ");;
+			} catch (Exception e) {
+				System.out.println("Bad format, try again: ");
 			}			
 		}
 		return group;
@@ -133,5 +149,28 @@ public class PopDefiner {
 		String[] attributes = s.split(",");
 		PopGroup group = new PopGroup(attributes[0], attributes[1], attributes[2], Integer.parseInt(attributes[3]));
 		return group;
+	}
+	
+	//Prints the main menu
+	public static void menu() {
+		System.out.println("-----------------------");
+		System.out.println("Current province: " + provinceID);
+		System.out.println("Current pop group: " + group.toString());
+		System.out.println();
+		System.out.println("Type E to quit, type P to change province, type D to define another pop group.");
+		System.out.println("Type A to add, type S to subtract.");
+	}
+	
+	//Checks for valid file while reassigning the global PopParser
+	public static void assignParser(Scanner in, File dir) {
+		boolean valid = false;
+		while (!valid) {
+			try {
+				parser = createParser(in, dir);     //Note: you shouldn't have to do this work here. Go edit PopParser and have its constructor throw an exception.
+				valid = true; 
+			} catch (Exception e) {
+				System.out.println("File not found, try another ID: ");
+			}
+		}
 	}
 }
