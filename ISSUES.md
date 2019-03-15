@@ -6,7 +6,8 @@
 - Work with province files, not all_pops.txt (for efficiency)
 
 **Features to be added**
-- Clear by culture, type, etc.
-- Replace culture, religion
+- Clear by culture, type, etc. (PopEditor)
+- Replace culture, religion (PopEditor)
+- Link province owner to editing session (PopDefiner)
 
 **Bugs**

@@ -6,7 +6,7 @@ import java.util.*;
 //TODO
 //FEEDBACK: print current province, current pop group, ...
 //
-//Press C to clear, Press Q to see a list of pop groups in the province currently
+//Cancel current activity
 //
 //Turn the readGroupString function into a reusable function elsewhere
 
