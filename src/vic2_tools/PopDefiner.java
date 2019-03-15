@@ -6,6 +6,8 @@ import java.util.*;
 //TODO
 //FEEDBACK: print current province, current pop group, ...
 //
+//Press C to clear, Press Q to see a list of pop groups in the province currently
+//
 //Turn the readGroupString function into a reusable function elsewhere
 
 //A program for editing Victoria II population files.
@@ -58,6 +60,15 @@ public class PopDefiner {
 			} else if (input.equalsIgnoreCase("s")) {
 				editor.subtract(group); //Subtract
 				System.out.println("Subtracted " + group.toString() + " from province " + provinceID);
+			} else if (input.equalsIgnoreCase("c")) {
+				editor.clear();
+				System.out.println("Cleared province " + provinceID);
+			} else if (input.equalsIgnoreCase("l")) {
+				System.out.println("Current province contents:");
+				ArrayList<PopGroup> groups = parser.groupByProvince(provinceID);
+				for (PopGroup g : groups) {
+					System.out.println(g.toString());
+				}
 			} else {
 				System.out.println("Invalid command.");
 			}
@@ -157,8 +168,12 @@ public class PopDefiner {
 		System.out.println("Current province: " + provinceID);
 		System.out.println("Current pop group: " + group.toString());
 		System.out.println();
-		System.out.println("Type E to quit, type P to change province, type D to define another pop group.");
-		System.out.println("Type A to add, type S to subtract.");
+		System.out.println("--Commands--");
+		System.out.println("E - Quit                    A - Add");
+		System.out.println("P - Change province         S - Subtract");
+		System.out.println("D - Define new pop group    L - List pop groups currently in province");
+		System.out.println("C - Clear province              ");
+		System.out.println();
 	}
 	
 	//Checks for valid file while reassigning the global PopParser
